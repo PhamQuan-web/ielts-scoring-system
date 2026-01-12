@@ -1,15 +1,14 @@
 {
   "total_processed": 7894,
-  "total_valid": 5921,
-  "total_invalid": 1973,
+  "total_valid": 6430,
+  "total_invalid": 1464,
   "invalid_breakdown": {
-    "examiner_feedback": 716,
-    "instructions": 96,
-    "greeting": 25,
-    "meta_communication": 519,
-    "mixed_speech": 617,
-    "incomplete": 0
+    "examiner_feedback": 708,
+    "instructions": 319,
+    "greeting": 98,
+    "meta_communication": 242,
+    "incomplete": 97
   },
-  "processing_time": "0:00:01.032180",
-  "completed_at": "2026-01-12T03:44:11.890989"
+  "processing_time": "0:02:38.484522",
+  "completed_at": "2026-01-12T12:04:22.080435"
 }

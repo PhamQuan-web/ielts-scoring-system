@@ -1,0 +1,15 @@
+{
+  "total_processed": 7894,
+  "total_valid": 5935,
+  "total_invalid": 1959,
+  "invalid_breakdown": {
+    "examiner_feedback": 363,
+    "instructions": 1083,
+    "greeting": 197,
+    "meta_communication": 289,
+    "mixed_speech": 27,
+    "incomplete": 0
+  },
+  "processing_time": "0:00:01.414911",
+  "completed_at": "2026-01-12T03:49:30.229552"
+}

@@ -1,15 +1,11 @@
 {
   "total_processed": 7894,
-  "total_valid": 5921,
-  "total_invalid": 1973,
+  "total_valid": 7212,
+  "total_invalid": 682,
   "invalid_breakdown": {
-    "examiner_feedback": 716,
-    "instructions": 96,
-    "greeting": 25,
-    "meta_communication": 519,
-    "mixed_speech": 617,
-    "incomplete": 0
+    "meta_communication": 309,
+    "mixed_speech": 373
   },
-  "processing_time": "0:00:01.032180",
-  "completed_at": "2026-01-12T03:44:11.890989"
+  "processing_time": "0:00:00.587873",
+  "completed_at": "2026-01-12T04:29:11.086777"
 }

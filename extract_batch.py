@@ -6,8 +6,8 @@ try:
 
     samples_list = data.get('samples', [])
 
-    start_idx = 200
-    end_idx = 220 # Exclusive, 200-219
+    start_idx = 260
+    end_idx = 280 # Exclusive, 260-279
 
     batch = samples_list[start_idx:end_idx]
 

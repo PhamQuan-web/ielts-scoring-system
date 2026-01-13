@@ -1,0 +1,204 @@
+Total samples available: 7894
+Extracting batch: 220 to 239
+[
+  {
+    "sample_id": "e5GWrUr_e4c_q16",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Do you have any questions for me?",
+    "transcript": "No, thank you so much. Thank you so much. Oh, I hope this was helpful. it is my pleasure. I hope it was, helpful and, I.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "No, thank you so much. Thank you so much. Oh, I hope this was helpful. It's my pleasure. I hope it was, uh, helpful and, uh, I."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q01",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Would you please tell me your full name?",
+    "transcript": "Good afternoon, Mernu Shafi. My name is Perla Lisbeth Huerta Reyes.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Good afternoon, Mernu Shafi. My name is Perla Lisbeth Huerta Reyes."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q02",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And can I see your identification, please?",
+    "transcript": "Yes, here you are. Thank you. Thank you very much. you are welcome. We can now get us started with the first part of the exam. In the first part, I will ask you some personal questions. First.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes, here you are. Thank you. Thank you very much. You're welcome. We can now get us started with the first part of the exam. In the first part, I will ask you some personal questions. First."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q03",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Do you like a house or an apartment?",
+    "transcript": "I like a house rather than an apartment because the house is bigger than an apartment. I have more space than an apartment. And in my whole life I have so many bad experiences with apartments.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I like a house rather than an apartment because the house is bigger than an apartment. I have more space than an apartment. And in my whole life I have so many bad experiences with apartments."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q04",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And what do you usually do in your house?",
+    "transcript": "I usually work, work and do my school homework. I play guitar and when I have time, when I have time, I like to write some book.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I usually work, work and do my school homework. I play guitar and when I have time, when I have time, I like to write some book."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q05",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And how long have you lived there?",
+    "transcript": "I lived there almost one year. I came to Guadalajara, which is a city here in Mexico, the last year.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I lived there almost one year. I came to Guadalajara, which is a city here in Mexico, the last year."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q06",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Do you prefer to study in the morning or in the evening?",
+    "transcript": "In the morning. In the morning. If I am in school, I prefer to study in the morning. I feel like the day is getting longer. But if I am studying at home, I have more privacy. Nobody is going to wake up before 8 a.m. in my house.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "In the morning. In the morning. If I'm in school, I prefer to study in the morning. I feel like the day is getting longer. But if I am studying at home, I have more privacy. Nobody is going to wake up before 8 a.m. in my house."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q07",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And what do you do to improve your efficiency?",
+    "transcript": "I like to watch some videos and learn about it or read and practice. I think that the practice is everything.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I like to watch some videos and learn about it or read and practice. I think that the practice is everything."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q08",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And why do some people find it difficult to focus in the morning?",
+    "transcript": "Maybe because they are still sleepy. It depends on the hour and the type of activity.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Maybe because they're still sleepy. It depends on the hour and the type of activity."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q09",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Do you do any physical exercise?",
+    "transcript": "No, in this moment of my life I do not. The last time that I did it was in June of this year.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "No, in this moment of my life I don't. The last time that I did it was in June of this year."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q10",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And do young people in your country like to do exercise?",
+    "transcript": "No, they do not. it is two reasons. The first is that the young people in my country is too lazy. And the second is because the mental health still, it is still a taboo.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "No, they don't. It's two reasons. The first is that the young people in my country is too lazy. And the second is because the mental health still, it's still a taboo."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q11",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And do you think people are keen on doing physical activity in other places?",
+    "transcript": "No, but no because they do not. I think it is maybe because they are too busy to cannot think about themselves. The people in this moment, it is like I have to take the children to school, then I have to go to job. So they do not have time to think about their mental health. Thank you.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "No, but no because they don't. I think it's maybe because they are too busy to can't think about themselves. The people in this moment, it's like I have to take the children to school, then I have to go to job. So they don't have time to think about their mental health. Thank you,."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q12",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Do you understand?",
+    "transcript": "Yeah, I say that. Now I am giving you the.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yeah, I say that. Now I'm giving you the."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q13",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Do you want to add more information?",
+    "transcript": "Okay. I want to live there with two sons, like you said, because I always dream with a big, big family. And I, I think that, a big family is more and more lovely than a family smaller.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, okay. I want to live there with two sons, like you said, because I always dream with a big, big family. And I, I think that, um, a big family is more and more lovely than a family smaller."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q14",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Do people in your country like to visit others' homes?",
+    "transcript": "Yes, they really like. Literally, you come in your home watching movies, taking a shower, cooking, or doing something. And suddenly, if someone is knocking your door at 3 p.m., it does not matter the hour.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yes, they really like. Literally, you come in your home watching movies, taking a shower, cooking, or doing something. And suddenly, if someone is knocking your door at 3 p.m., it doesn't matter the hour."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q15",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And, in your country, what do people do when they visit others?",
+    "transcript": "They carry something to give. the most of the times, they carry fruit. They carry ice cream. Or something to drink.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "They carry something to give. Um, the most of the times, they carry fruit. They carry ice cream. Or something to drink."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q16",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "And why do you think people choose these items as gifts?",
+    "transcript": "I think it depends on the type of visit. it is like if I am going with a friend, if I am going to visit a friend, I prefer to carry with me ice cream to can eat with her. But if I am going with my boss, I prefer to give her some bread, for example.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I think it depends on the type of visit. It's like if I'm going with a friend, if I'm going to visit a friend, I prefer to carry with me ice cream to can eat with her. But if I'm going with my boss, I prefer to give her some bread, for example."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q17",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "So do you think that, gifts are necessary when visiting others?",
+    "transcript": "I will not say necessary, but I think it is an education sign. -.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I won't say necessary, but I think it's an education sign. Mm-hmm."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q18",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Now, what kind of place do people in your country like to live in?",
+    "transcript": "It depends on the age of the people. For example, the older people prefer to live, you know, far away of the downtown. Meanwhile, the younger people prefer to live close of downtown.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "It depends on the age of the people. For example, the older people prefer to live, you know, far away of the downtown. Meanwhile, the younger people prefer to live close of downtown."
+  },
+  {
+    "sample_id": "IwF2k0g1gkE_q19",
+    "video_id": "IwF2k0g1gkE",
+    "band": 5.0,
+    "question": "Why do you think the taste of people is so different?",
+    "transcript": "Because the younger people need to have clothes. Their jobs, their schools, some hospitals, some shop centers. And the older people really does not need it.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Because the younger people need to have clothes. Their jobs, their schools, some hospitals, some shop centers. And the older people really doesn't need it."
+  }
+]

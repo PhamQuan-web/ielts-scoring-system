@@ -1,0 +1,204 @@
+Total samples available: 7894
+Extracting batch: 160 to 179
+[
+  {
+    "sample_id": "uqR8cCfMBec_q04",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "What kind of foods do you usually eat?",
+    "transcript": "In Vietname dishes, they have a lots of comp ingredient in the foods.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "In Vietname dishes, they have a lots of comp ingredient in the foods."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q05",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "However, I think that cooking become the survival skill in this modern day.",
+    "transcript": "And moreover, I think that I can be I cannot become a mastering in the cooking skill.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "And moreover, I think that I can be I cannot become a mastering in the cooking skill."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q06",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "Are there any foods you disliked as a child but now you enjoy?",
+    "transcript": "H I think that it is the chicken breast because in my childhood when my my my family's are poor and we do not have enough money to buy a expensive food, we need to eat chicken bread to provide us a lot of vitamin and protein for us to grow up. However, in now I I I when I taste a chicken fresh, it remember a lots of memories in the past and also I think that it build the muscle very effective. Brilliant. that is the most important thing. Finally.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "H I think that it is the chicken breast because in my childhood uh when my my my family's are poor and we don't have enough money to buy a expensive food, we need to eat uh chicken bread to provide us a lot of vitamin and protein for us to grow up. However, in now I I I when I taste a chicken fresh, it remember a lots of memories in the past and also I think that it build the muscle very effective. Brilliant. That's the most important thing. Finally,."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q07",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "Tell me what is your typical day like?",
+    "transcript": "H I think that a typical day of my in the 6 a.m. I get up and go to and go to study in the university. My major is the medicine. So I need to study very hard working because the the the wisdom and the knowledge are so comp complicated that make me a lot of thing to synthesics and to the key concept. Please, please remember me when you are a famous doctor. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "H I think that a typical day of my in the um 6 a.m. I get up and go to and go to study in the university. My major is the medicine. So I need to study very hard working because the um the um the uh wisdom and the knowledge are so comp complicated that make me a lot of thing to synthesics and to the key concept. Please, please remember me when you're a famous doctor. Okay."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q08",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "And finally for part one, tell me is your routine different on weekends?",
+    "transcript": "I I think that it have exactly exactly the day same to the each other because for example I always have the I hitting the gym at about 3:00 p.m. and always get home at 5:00 p.m. And I think that is in the good habit for me to improve my physical state status and also improve my mental health. Thank you very much. Well done. Okay, Mr. Dhang, we will now move on to part two, please. in part two, I will give you a question. You have one minute to prepare and then speak for 2 minutes. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I I think that it have exactly exactly the day same to the each other because for example I always have the I hitting the gym at about 3:00 p.m. and always get home at 5:00 p.m. And I think that is in the good habit for me to improve my physical state status and also improve my mental health. Thank you very much. Well done. Okay, Mr. Dhang, we will now move on to part two, please. Uh, in part two, I will give you a question. You have one minute to prepare and then speak for 2 minutes. Okay."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q09",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "So, when you are ready, could you please describe a time when you helped someone?",
+    "transcript": "In my lifetime I have a lots of occasion to supporting my people around me to have achieved this successfully. How about if I had to pick one it would be the time as supporting my friend to achieve $10,000 scholarship to his study abroad. Firstly I will introduce his background. He my childhood friend a child who has had a intelligent person and a work colleague and work colleague however he had some weakness that is a way struggle with analyzing and synthetic medicine. So I offer him my supporting that in the in the time the 6 to 8 to 900 p.m. I wait I give him some my supporting that I never provide him the answer directly but I give him some key art included for him to study to improve his mindset and brainstorm to have the real the real knowledge for him to apply to the practical I will remember to my grandparent story it is called the the bugger and the fish. This is more related to the well-known item that if you give a man a fish, you feed him for a day.",
+    "part": 2,
+    "source": "valid_original",
+    "transcript_original": "In my lifetime I have a lots of occasion to supporting my people around me to have achieved this successfully. How about if I had to pick one it would be the time as supporting my friend to achieve $10,000 scholarship to his study abroad. Firstly I will introduce his background. He my childhood friend a child who has had a intelligent person and a work colleague and work colleague however he had some weakness that's a way struggle with analyzing and synthetic medicine. So I offer him my supporting that in the um in the time the 6 to 8 to 900 p.m. I wait I give him some my supporting that I never provide him the answer directly but I give him some key art included for him to study to improve his mindset and brainstorm to have the real the real knowledge for him to apply to the practical I will remember to my grandparent story it's called the the bugger and the fish. This is more related to the well-known item that if you give a man a fish, you feed him for a day."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q10",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "However, if you give him to fish, teach him a fish, you you give you feed him for a lifetime.",
+    "transcript": "And a result I think that I remember vividly that he he achieved the he achieved the scholarship and graduated the final exam with the fly color inclusion. I think that I have a take a lesson for myself that I always need to have enough energy and time. I will supporting people with the with with the best thing. Thank you very much. Well done. Good job.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "And a result I think that I remember vividly that uh he um he achieved the he achieved the scholarship and uh graduated the final exam with the fly color inclusion. I think that I have a take a lesson for myself that I always need to have enough energy and time. I will supporting people with the um with um uh with the best thing. Thank you very much. Well done. Good job."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q11",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "Tell me what are some ways that people can help other members of the community?",
+    "transcript": "In the past, in the past people can provide them a food, a rings are the cash for people to improve their lifestyle. However, however, when the technology develop rapidly, people can donate donate to the some internet platform such as a Facebook or Tik Tok for them to supporting them for people who live or reside in the rural area. Interesting.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "In the past, in the past people can provide them a food, a rings are the cash for people to improve their lifestyle. However, however, um when the technology develop rapidly, people can donate donate to the some internet platform such as a Facebook or Tik Tok for them to supporting them for people who live or reside in the rural area. Interesting."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q12",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "Should schools encourage students to do volunteer work?",
+    "transcript": "Absolutely. Yes. because that I think that when schools stimulate student to do a volunteer work they they student will grow up the sympathy and also the kindness which is play a important role for them to to grow up in the long line. However, when student do too much volunteer work, they feel that exalted and and the meaning of the volunteer work are not the same. Thank you.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Absolutely. Yes. because that I think that when schools stimulate student to do a volunteer work uh they they student will grow up the sympathy and also the kindness which is play a important role for them to to grow up in the long line. However, when student do too much uh volunteer work, they feel that uh exalted and uh uh and the meaning of the volunteer work are not the same. Thank you."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q13",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "Why do some people choose to help strangers?",
+    "transcript": "In my opinion, I think that firstly people people who went away when they was a child, they are they were educated that they need to have a kind and have a sympathy to the each other to support to each other. And secondly that I think that people will help to each other because they need to connect to the people because we are the human being who need to connect to people and prevent the isolations. Thank you. Wonderful.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "In my opinion, I think that firstly people people who went away when they was a child, they are they were educated that they need to have a kind and have a sympathy to the each other to um support to each other. And secondly that I think that people will help to each other because they need to uh connect to the people because we are the human being who need to connect to people and prevent the isolations. Thank you. Wonderful."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q14",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "Finally, how can governments encourage citizens to support one another?",
+    "transcript": "Some people think that they need to invest to the charity. However, I think that government should educate people es especially the student who belong to the primary and secondary or high school to to educate to has a knowledge to support to each other because we are the human being who need to have a sympathy the kind for us to live in the social societies society. 30. Fantastic. Well done. Thank you. Hi. That brings the test to the end. Congratulations. Fantastic.",
+    "part": 3,
+    "source": "valid_original",
+    "transcript_original": "Some people think that uh they need to invest to the charity. However, I think that government should uh um educate people es especially the student who um belong to the primary and secondary or high school to to educate to has a knowledge to support to each other because we are the human being who need to have a sympathy the kind for us to live in the social societies society. 30. Fantastic. Well done. Thank you. Hi. That brings the test to the end. Congratulations. Fantastic."
+  },
+  {
+    "sample_id": "uqR8cCfMBec_q15",
+    "video_id": "uqR8cCfMBec",
+    "band": 6.0,
+    "question": "How did you find the test?",
+    "transcript": "Tell me. I do not know. I think that I the fluency are not not good enough because I do not I sometime I have I had a struggle with a stop. To be honest, your fluency actually I would say was pretty good. Yeah. I mean you have the one thing you have is lots of ideas. So a lot of students struggle to think of the ideas to answer but you have wonderful ideas. I think that is easy because you are a doctor. Yeah. you are very smart. There was some times where do not be afraid in your in the exam just to pause for a minute. You know when they ask you a question you do not need to answer straight away. You can just take a minute to think or you can say, \"Oh, please give me a moment to think about that.\" And then a little pause. that is absolutely fine. Yeah. For me, overall, I was really impressed.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Tell me. Um I don't know. I think that I um the fluency are not not good enough because um I don't I sometime I have um I had a struggle with a stop. To be honest, your fluency actually I would say was pretty good. Yeah. I mean you have the one thing you have is lots of ideas. So a lot of students struggle to think of the ideas to answer but you have wonderful ideas. I think that's easy because you are a doctor. Yeah. You're very smart. There was some times where don't be afraid in your in the exam just to pause for a minute. You know when they ask you a question you don't need to answer straight away. You can just take a minute to think or you can say, \"Oh, please give me a moment to think about that.\" And then a little pause. That's absolutely fine. Yeah. For me, overall, I was really impressed."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q01",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "Are you ready?",
+    "transcript": "Yes. From here starts the speaking test. This is the speaking.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yes. From here starts the speaking test. This is the speaking."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q02",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "Priya, can I see your identification please?",
+    "transcript": "Yeah, sure. Here you go. Perfect, thank you so much.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yeah, sure. Here you go. Perfect, thank you so much."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q03",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "What do you study?",
+    "transcript": "I am a graduate in civil engineering. I finished, studying about seven years ago. And I have been working as, I have been working.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I'm a graduate in civil engineering. I finished, uh, studying about seven years ago. And I've been working as, um, I've been working, um."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q04",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "Do you like that subject?",
+    "transcript": "Oh sure, it is absolutely glamorous. I feel it has, given me novel vision to life.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, oh sure, uh, it's absolutely glamorous. I feel it has, uh, uh, given me novel vision to life."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q05",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "And, what would you change about your subject?",
+    "transcript": "Actually, I do not intend myself, I do not intend to justify myself to have studied, the best major to help my life. I have been, I have studied, diverse subjects in civil engineering, which some of them were not crucial to be an engineer. If I had the chance to change something.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, actually, I don't intend myself, I don't intend to justify myself to have studied, um, the best major to help my life. Uh, I've been, I've studied, uh, diverse subjects in civil engineering, which some of them were not crucial to be an engineer. If I had the chance to change something, um."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q06",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "What is your favorite type of music?",
+    "transcript": "Absolutely. Iranian traditional music is my, it is, far much in authority for me since my grandfather was a myth singer in it.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, absolutely. Iranian traditional music is my, um, it's, uh, Um, far much in authority for me since my grandfather was a myth singer in it."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q07",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "Can you sing?",
+    "transcript": "Unfortunately not. nevertheless, I profoundly enthusiastic about how to learn, about, learning how to sing.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Unfortunately not. Uh, nevertheless, I profoundly enthusiastic about how to learn, uh, about, um, learning how to sing."
+  },
+  {
+    "sample_id": "zOx29piwDCU_q08",
+    "video_id": "zOx29piwDCU",
+    "band": 5.5,
+    "question": "If you could learn a musical instrument, what would it be?",
+    "transcript": "If I were able to learn a musical instrument, it would absolutely be the traditional one. Presumably to and back. it is a kind of musical instrument made by camel skin and unique wood.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "If I were able to learn a musical instrument, it would absolutely be the traditional one. Presumably to and back. It's a kind of musical instrument made by camel skin and unique wood."
+  }
+]

@@ -1,0 +1,204 @@
+Total samples available: 7894
+Extracting batch: 200 to 219
+[
+  {
+    "sample_id": "-j0seGQjqdY_q09",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "In what way?",
+    "transcript": "Just because I feel like when you are going alone and then you are already like exploring a new place. And then if you are going with family and with friends that you feel more safe, more confident, plus it gets cheaper because you can, everybody can chip in and like food, accommodations because, traveling is really expensive when it comes to like hotels and like tickets for like doing things. And sometimes they have packages. When you travel with more people, rather than traveling alone, you can like do maybe like a little package and then everybody can chip in and like it is for to me, at least in my experience, it gets a little cheaper when you do it with more people. Now.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Uh, just because I feel like when you're going alone and then you're already like exploring a new place. And then if you're going with family and with friends that you feel more safe, more confident, plus it gets cheaper because you can, everybody can chip in and like food, um, accommodations because, um, traveling is really expensive when it comes to like hotels and like tickets for like doing things. And sometimes they have packages. When you travel with more people, rather than traveling alone, you can like do maybe like a little package and then everybody can chip in and like it's for to me, at least in my experience, it gets a little cheaper when you do it with more people. Now."
+  },
+  {
+    "sample_id": "-j0seGQjqdY_q10",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "Do you understand?",
+    "transcript": "Yes. I want you to describe a time when you had to make a difficult decision.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes. I want you to describe a time when you had to make a difficult decision."
+  },
+  {
+    "sample_id": "-j0seGQjqdY_q11",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "Why is it sometimes hard for people to make decisions?",
+    "transcript": "I would say because sometimes those decisions that are going, that you are going to make are life changing. especially like in my experience, I was deciding my major, which it is everything like my income, my, My, my future, the things that I wanted to do if, like, I think that is why people sometimes struggle with making decisions because they are life changing.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I would say because sometimes those decisions that are going, that you're gonna make are life changing. Um, especially like in my experience, I was deciding my major, which it's everything like my income, my, My, my future, the things that I wanted to do if, like, I think that's why people sometimes struggle with making decisions because they're life changing."
+  },
+  {
+    "sample_id": "-j0seGQjqdY_q12",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "Okay, and do you think people today have more decisions to make than in the past?",
+    "transcript": "I think it depends and it depends on the people's life, but I will say that maybe yes, because especially with social media and the impact that it has in our mental health and in our daily lives, I will say yes, people sometimes maybe wonder more and because they wonder more, they have to take, they have to make more decisions.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I think it depends and it depends on the people's life, but I will say that maybe yes, because especially with social media and the impact that it has in our mental health and in our daily lives, I will say yes, people sometimes maybe wonder more and because they wonder more, they have to take, they have to make more decisions."
+  },
+  {
+    "sample_id": "-j0seGQjqdY_q13",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "And how important is it to get advice from others when making a big decision?",
+    "transcript": "I think it is important because you get to listen to other people experiences, especially like in my case, I decided to talk to nurses and talk to doctors and see their perspective. And a lot of doctors were actually telling me, well, I think this is what you can do. You can do and then you can always become something similar to a doctor without having the debt that I have at the time. So I think it is really important to listen to other people opinions.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I think it's important because you get to listen to other people experiences, especially like in my case, I decided to talk to nurses and talk to doctors and see their perspective. And a lot of doctors were actually telling me, well, I think this is what you can do. You can do and then you can always become something similar to a doctor without having the debt that I have at the time. So I think it's really important to listen to other people opinions."
+  },
+  {
+    "sample_id": "-j0seGQjqdY_q16",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "Do you have any questions?",
+    "transcript": "No, thank you very much. I really appreciate that you give me this feedback because I know this will help me. This is exactly what I need.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "No, thank you very much. I really appreciate that you give me this feedback because I know this will help me. This is exactly what I need."
+  },
+  {
+    "sample_id": "-j0seGQjqdY_q17",
+    "video_id": "-j0seGQjqdY",
+    "band": 9.0,
+    "question": "What I need.",
+    "transcript": "Although my job is hard, I enjoy doing it. If you have already practiced, you should make sure, okay, this is the last time I am going to talk about how to do it now. For our generation. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Although my job is hard, I enjoy doing it. If you have already practiced, you should make sure, okay, this is the last time I'm going to talk about how to do it now. For our generation. Okay."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q01",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "May I see your identification?",
+    "transcript": "Sure. Thank you very much. Fabulous. So, in the first part of the exam, I will ask you some personal questions. First, I would like to talk to you about studying.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Sure. Thank you very much. Fabulous. So, in the first part of the exam, I will ask you some personal questions. First, I'd like to talk to you about studying."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q02",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "What did you or do you study?",
+    "transcript": "Well actually I am studying architecture since two years ago and I am trying to continue my educational events and then I am going to study maybe another, another, to get another university degree maybe in directing. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Well actually I'm studying architecture since um, uh, two years ago and uh, I'm trying to uh, continue my educational uh, events and then uh, I'm going to study maybe another, another, uh, to get another uh, university degree maybe um, uh, in directing. Okay."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q03",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "And why do or did you choose this subject?",
+    "transcript": "Well actually I, I am really into, art and, cultural things so, so I was trying to, choose a field that is, connected with them. So I chose, architecture. Good.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Uh, well actually I, er, I'm really into, er, art and, er, cultural things so, er, er, so I was trying to, er, choose a field that is, er, connected with them. So I chose, er, architecture. Good."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q04",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Okay, now what are or were the main aspects of your subject?",
+    "transcript": "It is very complicated because you have to adapt the human needs and then your. and their needs, and you have to care about environment. So it is very sophisticated to connect them together. And I think it is very necessary for human beings. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, um, it's very complicated because you have to adapt the human needs and then your. and their needs, and you have to care about environment. So it's very sophisticated to connect them together. And I think it's very necessary for human beings. Okay,."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q05",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Do you enjoy your birthdays?",
+    "transcript": "Absolutely. I think everyone likes to have their birthdays. Actually when you meet your friends, Especially when they surprise you and, it is very enjoyable, I think. Right.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Absolutely. I think everyone likes to have their birthdays. Actually when you meet your friends, Especially when they surprise you and, um, it's very enjoyable, I think. Right."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q06",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "And what did you do on your last birthday?",
+    "transcript": "Well, because we are facing a, global epidemic so, I did not get birthday and, we just celebrate, with my husband and, it was quiet, calm. And, nothing special happened.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, well, uh, because we are facing a, uh, uh, global epidemic so, uh, I didn't get birthday and, uh, we just celebrate, um, uh, with my husband and, um, it was quiet, um, calm. And, um, nothing special happened."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q07",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "So, do most people celebrate their birthdays with a party in your country?",
+    "transcript": "As I said, because of Corona, they do not celebrate birthdays anymore. but, before that, regular people, celebrate their, their birthdays in their homes or maybe invite their friends to an outdoor coffee shop. Maybe, or that is it I think. So let us now talk about your childhood.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, as I said, because of Corona, they don't celebrate birthdays anymore. Uh, but, um, before that, uh, regular people, uh, celebrate their, uh, their birthdays in their homes or maybe invite their friends to an outdoor coffee shop. Maybe, or um, that's it I think. So let's now talk about your childhood."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q08",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Did you enjoy your childhood?",
+    "transcript": "Yes of course because I was kind of really naughty and I really enjoyed playing with others and it is It was a very, good moment that, to, play, play games in, in backyard or, I remember I sometimes, played theater, in front of my friends. It was so much fun and enjoyable moments. Okay, good. So.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, yes of course because I was kind of um, um, really naughty and I really enjoyed playing with others and um, um, um, it's It was a very, uh, good moment that, um, uh, to, um, um, play, play games in, in backyard or, um, I remember I sometimes, uh, played theater, uh, in front of my friends. It was so much fun and enjoyable moments. Okay, good. So."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q09",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Do you think it is good to talk loudly on a bus?",
+    "transcript": "Well, I think, in my country, it is considered too, polite behavior. And, I really hate people when they, talk in public places, Like buses or maybe in cinemas. And it is very annoying for me when they rehash their talking and it makes me so uncomfortable. And if I had to, if I want to warn them, I would do that. And it is very annoying behavior, I guess.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, well, I think, uh, in my country, it's considered too, um, um, polite behavior. And, um, I really hate people when they, um, uh, talk in public places, Like buses or maybe in cinemas. And it's very annoying for me when they rehash their talking and it makes me so uncomfortable. And if I had to, if I want to warn them, I would do that. And it's very annoying behavior, I guess."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q10",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "So in your opinion, would it be a good idea to have laws that prevent speaking loudly in public?",
+    "transcript": "I don think about that before but I guess it would be better to maybe consider a law that to fine people because of their bad behavior I do not think it is very practical at the moment, but it would be better to, maybe punish them or, be paying fine for them. Right.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um I don think about that before but I guess it would be better to maybe consider a law that um to fine people because of their bad behavior Um, I don't think it's very practical at the moment, but it would be better to, um, maybe punish them or, um, be paying fine for them. Right."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q11",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Do you think that there are any drawbacks for using cell phones in public places?",
+    "transcript": "I think, it is annoying sometimes but we cannot, we cannot deny that. Everyone uses, telephones and, they receive phone calls, every time and, sometimes they have to answer them because, it is, it is sometimes, the cause is for, special occasions or, maybe it is, warning or, it is, about, important events. So they have to answer their phones and, you cannot, you cannot, deny that. Right.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, um, I think, er, it's annoying sometimes but we can't, er, we can't deny that. Everyone uses, er, telephones and, er, they receive phone calls, er, every time and, er, sometimes they have to answer them because, It's, um, it's sometimes, um, the cause is for, uh, special occasions or, uh, maybe it's, uh, warning or, um, it's, uh, about, um, important events. So they have to answer their phones and, uh, you can't, uh, you can't, um, deny that. Right."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q12",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "And, how has the use of mobile phones changed in your country in the last few decades?",
+    "transcript": "I think people used to, used to, use of mobile phones, just for, emergency calls, but nowadays I think they are changing it as their, as their life style. it is a part of their lifestyle because, we have internet, we have social networks, and people spend their time in virtual words. So it is very important to them, and I think it is very necessary to give, to observe news or maybe some new events that it is important for us. And about health care these days, especially when we are facing corona, it is very important to, be, to be, some place to give your, news and, etc. Thanks. Thank you very much.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I think people used to, um, used to, um, use of mobile phones, er, just for, er, emergency calls, but nowadays I think they're changing it as their, as their life style. It's a part of their lifestyle because, uh, we have internet, we have social networks, and people spend their time in virtual words. So it's very important to them, and I think it's very necessary to give, to observe news or maybe some new events that it's important for us. And about health care these days, especially when we are facing corona, um, it's very important to, uh, be, um, to be, uh, some place to give your, um, news and, um, etc. Thanks. Thank you very much."
+  },
+  {
+    "sample_id": "e5GWrUr_e4c_q15",
+    "video_id": "e5GWrUr_e4c",
+    "band": 7.0,
+    "question": "Were you thinking about the, the, were you thinking about it?",
+    "transcript": "Like, oh, goodness me, I have to keep on talking. Because it is not good to think about your timing. Just think about your story. Think about your story. If you run out of things to say, then it might be a good idea to go off topic. Lie if you have to. IELTS speaking is not based on facts or lies. You can just make something up just to, you know, keep it going. Because you did answer the question. You did go through the bullet points. So you answered the question. it is okay to go off topic. So if you are talking about an important phone call, you can say, oh, I would like to talk about my friend too, who likes to talk on the phone all the time. So that is, you are going off slightly off topic. it is somehow related. You can do stuff like that. Just to make sure you keep the flow of speech and you speak for up to two.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Like, oh, goodness me, I have to keep on talking. Because it's not good to think about your timing. Just think about your story. Think about your story. If you run out of things to say, then it might be a good idea to go off topic. Lie if you have to. IELTS speaking is not based on facts or lies. You can just make something up just to, you know, keep it going. Because you did answer the question. You did go through the bullet points. So you answered the question. It's okay to go off topic. So if you're talking about an important phone call, you can say, oh, I'd like to talk about my friend too, who likes to talk on the phone all the time. So that's, you're going off slightly off topic. It's somehow related. You can do stuff like that. Just to make sure you keep the flow of speech and you speak for up to two."
+  }
+]

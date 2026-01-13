@@ -1,0 +1,802 @@
+[
+  {
+    "sample_id": "_kUA_U3GowE_q07",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "Where do you usually watch TV programs or shows?",
+    "transcript": "I am really keen on, sport TV shows, and I really, you know, want to spend my time about that, on that, of course.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, I am really keen on, uh, sport TV shows, and I really, you know, want to spend my time about that, on that, of course."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q08",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "And what is your favorite TV program or show?",
+    "transcript": "It is actually called, Nabad. And I really love that because, because of actually it is a host that, his name is Adel Therod Sipu. And I really liked this man.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, um, it is actually called, uh, Nabad. And I really love that because, uh, because of actually it's a host that, uh, his name is Adel Therod Sipu. And I really liked this man."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q09",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "And do you think you will watch more TV or fewer TV programs or shows in the future?",
+    "transcript": "In the future, I think I will watch it more, you know, because right now I am really trying for my life and I really spend my time on studying and a lot of things. So I think in the future, maybe I am not busy as I am right now. I would actually. All.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "In the future, I think I will watch it more, you know, because right now I'm really trying for my life and I really spend my time on studying and a lot of things. So I think in the future, maybe I am not busy as I am right now. I would actually. All."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q10",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "Are you happy to be the age you are now?",
+    "transcript": "I think yes, I am happy, but you know, I am stressed because I am getting older and I think it is so scary for me. And, you know, I think, maybe I will lose, my opportunities.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, I think yes, I am happy, but you know, uh, I'm stressed because I'm getting older and I think it is so scary for me. And, you know, I think, uh, maybe I will lose, uh, my opportunities."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q11",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "And when you were a child, did you think a lot about your future?",
+    "transcript": "Yes, I did. You know, I used to think a lot about my future because all the time I was so worried about my future and I had a lot of goals and plans and I wanted to achieve them.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, yes, I did. You know, I used to think a lot about my future because all the time I was so worried about my future and I had a lot of goals and plans and I wanted to achieve them."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q12",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "Do you think you have changed as you have got older?",
+    "transcript": "I think yes. I actually, I changed a lot. especially I was a kind of introverted person and right now I am so extroverted and I think it could be a big change for me. Thank you.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Uh, I think yes. Uh, I actually, I changed a lot. Uh, especially I was a kind of introverted person and right now I am so extroverted and I think it could be a big change for me. Thank you."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q13",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "Do you understand?",
+    "transcript": "Yeah. Well, the topic would be describe a time when you started using a new technological advice, e.g. a new computer or phone. that is your.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yeah. Well, the topic would be describe a time when you started using a new technological advice, e.g. a new computer or phone. That's your."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q14",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "And, in a, actually one, in a short time, I actually had known that how can I use them?",
+    "transcript": "And so, I can remember that when I really wanted these devices, all the time I was saying that I wish I would actually, in a place that my friends, for example, are in that. And, you know, it was so, it was so dreary for me. I really wanted to do that. To have them, of course.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "And so, uh, I can remember that when I really wanted these devices, uh, all the time I was saying that I wish I would actually, uh, in a place that my friends, for example, uh, are in that. And, uh, you know, uh, it was so, uh, it was so dreary for me. I really wanted to do that. To have them, of course."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q16",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "What is the best age for children to start computer lessons?",
+    "transcript": "I think, you know, when the children can understand what they can do for their life actually and, what is wrong and what is, you know, the best decision they can actually, keep learning and, you know, start to studying and just this.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, I think, um, you know, when the children can understand what they can do for their life actually and, uh, what is wrong and what is, you know, uh, the best decision they can actually, uh, keep learning and, you know, start to studying and just this."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q17",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "And do you think that schools should use more technology to help children learn?",
+    "transcript": "Definitely yes, because, you know, as far as I think, technology can be so effective in the actually learning process and, I think it could be so, you know, it could boost actually the, process of learning.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Definitely yes, uh, because, you know, as far as I think, uh, technology can be so effective in the actually learning process and, uh, I think it could be so, you know, it could boost actually the, uh, process of learning."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q18",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "And do you agree or disagree that computers will replace teachers one day?",
+    "transcript": "I agree, actually, because, you know, nowadays we can, see, for example, some, bots like AI that they can do a lot of things that, you know, it is, more than a kind of, you know, it is more than individual, powers, of course. And I think it could be, so challenging, but I think, yeah.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Uh, I agree, actually, because, you know, uh, nowadays we can, uh, see, for example, some, uh, bots like AI that they can do a lot of things that, you know, it is, uh, more than a kind of, you know, it is more than individual, uh, powers, of course. And I think it could be, uh, so challenging, but I think, yeah."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q19",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "How much has technology improved the way we communicate with each other?",
+    "transcript": "A lot. Of course, you know, it is different. as, my point of, actually as, I think, it, made people to have more connections. And with actually other people and make new friendships and of course do a lot of things that we can do it without them But I think that you know some close actually close knit families for example destroyed by this technology And you know for example like some applications that you can have video calls or something like that I think it could be it couldn be accurate Do you agree that there are still many major technological innovations to be made? yes, definitely. because, actually, you know, day by day, we can see the world actually, getting better. And, you know, so I think because of that, we can see a lot of, you know, new technologies and new approaches in the future. And yeah.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, a lot. Of course, you know, it is different. Uh, as, uh, my point of, uh, actually as, uh, I think, uh, it, uh, made people to have more connections. And with uh actually other people and make new friendships and of course uh do a lot of things that we can do it without them But I think that you know some close uh actually close knit uh families for example destroyed by this uh technology And you know for example like uh some applications that you can have video calls or something like that I think it could be it couldn be accurate Do you agree that there are still many major technological innovations to be made? Uh, yes, definitely. Uh, because, uh, actually, you know, day by day, we can see the world actually, uh, getting better. And, you know, so I think because of that, we can see a lot of, uh, you know, new technologies and new approaches in the future. And yeah."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q20",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "Could you suggest some reasons why some people are deciding to reduce their use of technology?",
+    "transcript": "You know, it depends on, each individual perspective, point of, actually point of view on, wanted to say that. I think the people that, decide to actually want to decide to, reduce using technology, you know, maybe, the thought is about, we do not have any, close relationship nowadays. And, you know, it makes people, it will make people so lazy. And so because of that, maybe they do not want to do that. Thank you so much.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, you know, it depends on, uh, each individual perspective, uh, point of, uh, actually point of view on, uh, wanted to say that. Uh, I think the people that, uh, decide to actually want to decide to, uh, reduce using technology, uh, you know, maybe, uh, the thought is about, uh, we don't have any, uh, close relationship nowadays. And, you know, it makes people, it will make people so lazy. And so because of that, maybe they don't want to do that. Thank you so much."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q23",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "When you were really sure what the answer would be, definitely yes, absolutely yes.",
+    "transcript": "All those phrases are really amazing and they really caught my attention with regards to, grammar. You had some little issues. You have to avoid them. Let me begin by your bright side. You used, this phrase as far as, which is okay. That shows that you are able to use some complex structures, but your, usage of complex structures were not, fully. Okay, because sometimes you make some mistakes.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "All those phrases are really amazing and they really caught my attention with regards to, uh, grammar. You had some little issues. You have to avoid them. Let me begin by your bright side. You used, uh, this phrase as far as, which is okay. That shows that you are able to use some complex structures, but your, uh, usage of complex structures were not, uh, fully. Okay, because sometimes you make some mistakes."
+  },
+  {
+    "sample_id": "_kUA_U3GowE_q26",
+    "video_id": "_kUA_U3GowE",
+    "band": 7.0,
+    "question": "When you were speaking about something important, you had that word stress and you had that sentence stress, which is very, good.",
+    "transcript": "You did a very great job in pronunciation. So instead of, except for those couple of mistakes, very subtle mistakes, you did a great job.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "You did a very great job in pronunciation. So instead of, um, uh, except for those couple of mistakes, very subtle mistakes, you did a great job."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q01",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "And can I see your identification, please?",
+    "transcript": "Sure, here you are. Thank you. Thank you. you are welcome. In the first part of the exam, I will ask you some personal questions. First, I would like to ask about your family.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Sure, here you are. Thank you. Thank you. You're welcome. In the first part of the exam, I will ask you some personal questions. First, I'd like to ask about your family."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q02",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "Do you have a big or a small family?",
+    "transcript": "I have got a big family in my immediate family. we have got eight members including me, my parents, and my five siblings, two sisters, and three brothers.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I've got a big family in my immediate family. We've got eight members including me, my parents, and my five siblings, two sisters, and three brothers."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q03",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "And how much time do you spend with your family?",
+    "transcript": "I spend roughly four or five hours of the weekends with my family to talk about the activities we do when together we sometimes hang out in a restaurant. Sometimes I ask them to come over in order to chit chat or have some fun.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, I spend roughly four or five hours of the weekends with my family to talk about the activities we do when together we sometimes hang out in a restaurant. Sometimes I ask them to come over in order to chit chat or have some fun."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q04",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "And how has your family influenced you?",
+    "transcript": "Honestly, family has played a very significant role in my life. As I believe family ties have shaped my character and behavior. On top of that, being among my family members has contributed to a better understanding of the words and myself. Now.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Honestly, family has played a very significant role in my life. As I believe family ties have shaped my character and behavior. On top of that, being among my family members has contributed to a better understanding of the words and myself. Now,."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q05",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "Do you usually use a pen or a pencil?",
+    "transcript": "I prefer pens over pencils because they are easier to use and my writing would be indelible. Plus, when I, when I need to jot my lessons down on a notebook, I find writing with a pen more convenient and faster.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, I prefer pens over pencils because they are easier to use and my writing would be indelible. Plus, when I, when I need to jot my lessons down on a notebook, um, I find writing with a pen more convenient and faster."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q06",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "Do you think using pencils or pens give an impressive writing layout?",
+    "transcript": "Not really. I think what makes writing impress the reader is just the arrangement of the words and sentences. Therefore, pens or pencils are just a medium for bringing a thought into existence.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, not really. I think what makes writing impress the reader is just the arrangement of the words and sentences. Therefore, pens or pencils are just a medium for bringing a thought into existence."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q07",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "And how would you feel if someone gave you a pen as a gift?",
+    "transcript": "I would feel over the moon if someone buys me a pen, since it is a unique choice as a gift. If my memory helps, some years ago, my husband gave me a set of very beautiful pens with a charming box as my birthday gift that always reminds me of the memorable moments of those years.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Hmm, I would feel over the moon if someone buys me a pen, since it is a unique choice as a gift. If my memory helps, some years ago, my husband gave me a set of very beautiful pens with a charming box as my birthday gift that always reminds me of the memorable moments of those years."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q08",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "When you were a child, did you enjoy learning about history?",
+    "transcript": "Actually not The history classes were incredibly boring for me I think it because I couldn see the point in learning obscure figures monuments or ancient sites But now my attitude totally changed I love history Have you ever been to a museum to learn about history? yes, of course. it was two years ago when I paid a visit to a contemporary art museum. As I am a big fan of history, I enjoy visiting historical places and museums.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Actually not The history classes were incredibly boring for me I think it because I couldn see the point in learning obscure figures monuments or ancient sites But now my attitude totally changed I love history Have you ever been to a museum to learn about history? Um, yes, of course. Uh, it was two years ago when I paid a visit to a contemporary art museum. As I am a big fan of history, um, I enjoy visiting historical places and museums."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q09",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "When was the last time you read a book about history?",
+    "transcript": "A book about the history, approximately two months ago, I studied some articles about the Native American tribes that helped me to gain, a lot of new information about the history of those territories. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "A book about the history, approximately two months ago, uh, I studied some articles about the Native American tribes that helped me to gain, uh, a lot of new information about the history of those territories. Okay,."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q10",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "Do you understand?",
+    "transcript": "Yes. Okay, here is paper. Thank you. And.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes. Okay, here is paper. Thank you. And."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q11",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "Do you think people are less committed to goals now than in the past?",
+    "transcript": "Well, let me think about it. I do not believe so. There are still many people who have a passion for a specific aim and put all their time and energy into it so that they can make a good progress. This is because they enjoy committing themselves to staying focused on their goals and winning the respect of other people. So, my answer to this question is no.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Well, let me think about it. I don't believe so. There are still many people who have a passion for a specific aim and put all their time and energy into it so that they can make a good progress. This is because they enjoy committing themselves to staying focused on their goals and winning the respect of other people. So, my answer to this question is no."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q12",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "Okay, and what is the importance of commitment to work?",
+    "transcript": "That is a very good question. For any company or organization, the employee's commitment to work is of a great consequence. Because it a two street for both the employee and the company as they can all make a profit out of the business Moreover if a person is committed to his or her work they will feel more satisfied whatever job they are doing and I think this will result to a better function at work Other than that, there would be a higher chance for them to have crowning professional achievements or a better career path.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "That's a very good question. For any company or organization, the employee's commitment to work is of a great consequence. Because it a two street for both the employee and the company as they can all make a profit out of the business Moreover if a person is committed to his or her work they will feel more satisfied whatever job they are doing and I think this will result to a better function at work Other than that, there would be a higher chance for them to have crowning professional achievements or a better career path."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q13",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "And has global and social networking enabled people to be more committed or vice versa?",
+    "transcript": "I suppose that they have made people show more commitment to the job they have. As global connectivity brings the world closer together and high quality internet access enables people to present the best services to the world. in addition, social network competition has caused many companies to provide a better customer service in order to gain market share or for their business to take off.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I suppose that they have made people show more commitment to the job they have. As global connectivity brings the world closer together and high quality internet access enables people to present the best services to the world. Uh, in addition, social network competition has caused many companies to provide a better customer service in order to gain market share or for their business to take off."
+  },
+  {
+    "sample_id": "o5Q4ANWbHkw_q14",
+    "video_id": "o5Q4ANWbHkw",
+    "band": 8.0,
+    "question": "And how can we teach young children to be committed to their goals and never give up?",
+    "transcript": "That is a very controversial topic. But I think the first step would be to teach children to set goals and start working towards it. We can teach children by helping them think of a fun goal they could achieve in a short time. For example, they could finish a book they started or complete a craft project. Because little goals are the best way to get children moving forward, big goals. After that, the next step would be to develop the very important life skills called, commitment. You know, commitment is one of those character traits that grows little by little as we encourage our kids to step out and try new challenges. So, we can start it by some simple tasks. For example, getting them involved in daily household chores, or having them take care of pets, or working together on a big home project, and, teaching them a sport or an instrument, or some other activities like that. Thank you so much.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, that's a very controversial topic. But I think the first step would be to teach children to set goals and start working towards it. We can teach children by helping them think of a fun goal they could achieve in a short time. For example, they could finish a book they started or complete a craft project. Because little goals are the best way to get children moving forward, big goals. After that, the next step would be to develop the very important life skills called, uh, commitment. You know, commitment is one of those character traits that grows little by little as we encourage our kids to step out and try new challenges. So, um, we can start it by some simple tasks. For example, uh, getting them involved in daily household chores, or having them take care of pets, or working together on a big home project, and, uh, teaching them a sport or an instrument, or some other activities like that. Thank you so much."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q01",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Can I see your identification please?",
+    "transcript": "Of course. Thank you very much. Thank you. Here you go. So, we can now get started with the first part of the exam. In the first part, I will ask you some personal questions. First I would like to ask about your neighborhood.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Of course. Thank you very much. Thank you. Here you go. So, we can now get started with the first part of the exam. In the first part, I will ask you some personal questions. First I'd like to ask about your neighborhood."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q02",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Do you like the area that you live in?",
+    "transcript": "Yes, of course. I love a lot my area. Why? Because I was there about 15 years. So, I love my area. I know all the streets, malls, parks, coffees, and.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes, of course. I love a lot my area. Why? Because I was there about 15 years. So, I love my area. I know all the streets, malls, parks, coffees, and."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q03",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "And what can be improved in the area where you live?",
+    "transcript": "I think no, because I am satisfied my area. I am so happy if they do not change my area is very.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I think no, because I'm satisfied my area. I'm so happy if they don't change my area is very."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q04",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Do you often get up early in the morning?",
+    "transcript": "Yes, of course. Because my work, I have to get up early. Yes.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes, of course. Because my work, I have to get up early. Yes."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q05",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "What is your morning routine?",
+    "transcript": "I get up at 6, then take a shower, sing, brush my teeth, sing, I eat very fast, sing, And, about at 7.30 I go to work.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "I get up at 6, then take a shower, sing, brush my teeth, sing, I eat very fast, sing, And, uh, about at 7.30 I go to work."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q06",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "What kinds of people usually get up early?",
+    "transcript": "I think the students and the people that they should go to work, I think.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I think the students and the people that they should go to work, I think."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q07",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Did you enjoy watching sport?",
+    "transcript": "Yes, of course. Yes, of course. I enjoy a lot, especially soccer. Yes.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes, of course. Yes, of course. I enjoy a lot, especially soccer. Yes."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q09",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Do you understand?",
+    "transcript": "Okay, yes. Thank you. So now I give you a piece of paper for you to.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Okay, yes. Thank you. So now I give you a piece of paper for you to."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q10",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Can I say the name of brand?",
+    "transcript": "Rebac. I love Rebac. So I am looking for that in mall. I found one store that they have, this brand. So I am going, I am thinking and I think, at the weekend I can go to buy this, sneaker.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Rebac. I love Rebac. So I'm looking for that in mall. I found one store that they have, er, this brand. So I'm going, I'm thinking and I think, er, at the weekend I can go to buy this, er, sneaker."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q11",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Do you want to add more information?",
+    "transcript": "No, but, this brand I think for me is very good, is very nice, and is fit of my, for my foot. Okay, thank you very much. Now you can just give me the paper and the pen back so that.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, no, but, um, this brand I think for me is very good, is very nice, and is fit of my, for my foot. Okay, thank you very much. Now you can just give me the paper and the pen back so that."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q12",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "What type of clothes do you like?",
+    "transcript": "Depends. For example, when I am at work, formal clothes, suit and pants, but when, for example, when I am going to, with my friend, casual, clothes I like.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Depends. For example, er, when I'm at work, er, formal clothes, suit and pants, er, but when, for example, when I'm going to, with my friend, casual, er, clothes I like."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q13",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "And why do you choose casual clothes when you want to hang out with your friends?",
+    "transcript": "What Why do you choose casual Casual because I very very It comfortable for me And I think it better to go to for example to park to coffee It better Okay Because I comfortable Great And how do people choose what style of clothing to buy I do not know the people but I think after the five or six years old we have one, idea to buy everything including clothes. So it depends of your, of our life I think.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "What Why do you choose casual Casual because I very very er It comfortable for me And er I think it better to go to for example to park to coffee It better Okay Because I comfortable Great And how do people choose what style of clothing to buy Um, I don't know the people but I think after the five or six years old we have one, er, idea to buy everything including clothes. So it depends of your, of our life I think."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q14",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Okay, and why do you think some people buy brand name clothes?",
+    "transcript": "I think for the quality and the style, I think. I, I, I buy brand for quality. I know some brand, that they, they have, products with high quality. So I prefer buy everything high quality, price, and then the style.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, I think for the quality and the style, I think. I, I, I buy brand for quality. I know some brand, uh, that they, uh, they have, uh, products with high quality. So I prefer buy everything high quality, price, and then the style."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q15",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "What do you think of uniforms?",
+    "transcript": "Uniform is very good for, for example, for the schools, for the offices, for the factories, Because, uniforms bring, responsibility, I think.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uniform is very good for, um, for example, for the schools, for the offices, for the factories, Because, er, uniforms bring, er, er, responsibility, I think."
+  },
+  {
+    "sample_id": "UTxvqD8n6Mc_q16",
+    "video_id": "UTxvqD8n6Mc",
+    "band": 3.5,
+    "question": "Can you explain more?",
+    "transcript": "Yes, I think the uniform, make more discipline, I think. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes, er, I think the uniform, er, make more discipline, I think. Okay."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q01",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Ready to go?",
+    "transcript": "Yeah. From here starts the speaking test. This is the speaking.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yeah. From here starts the speaking test. This is the speaking."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q02",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Would you please tell me your full name?",
+    "transcript": "Yeah. First of all, it is a great honor to be here. my full name is Adelie Canansal, but everyone call me Adele.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yeah. First of all, it's a great honor to be here. Uh, my full name is Adelie Canansal, but everyone call me Adele."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q03",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Can I show?",
+    "transcript": "Thank you so much. All right, let us get it on. Part one. In the first part of the exam, I will ask you some personal questions. First, I would like to ask you about your home.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Thank you so much. All right, let's get it on. Part one. In the first part of the exam, I will ask you some personal questions. First, I'd like to ask you about your home."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q04",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Where is it?",
+    "transcript": "So, generally I came from Mashhad and, I have not been here for long. So I just came here for, one year. and, recently I am living on a, a small, size, apartment. it is a very cozy apartment. All right.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "So, um, generally I came from Mashhad and, um, I haven't been here for long. So I just came here for, uh, one year. Uh, and, um, um, recently I am living on a, uh, a small, uh, size, um, apartment. Um, um, it's a very cozy apartment. All right."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q05",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "What changes would you like to bring in it?",
+    "transcript": "So, I am a kind of artist and designing a home and designing anything. it is my thing and I, I really enjoy it. So, being, well decorated, and to decorate the house, in a way that, I enjoy and I always dreamed it is the way I like.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "So, um, um, I'm a kind of artist and designing a home and designing anything. It's my thing and I, I really enjoy it. So, um, um, being, uh, well decorated, uh, and to decorate the house, um, in a way that, um, I enjoy and I always dreamed it's the way I like."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q06",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Do you plan to live in the same house in the future?",
+    "transcript": "Of course not. it is not my, dream house. I am planning to, move in a better house to, I will be able to, my house, be my own house, actually to buy it. But these days I do not have, I have financial problems and, I cannot afford it. So one day, a dream house that I, I am the capable. be capable to design the way that I like. And.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Of course not. It's not my, uh, dream house. I'm planning to, uh, move in a better house to, uh, I'll be able to, uh, my house, be my own house, actually to buy it. But these days I don't have, um, I have financial problems and, uh, I can't afford it. So one day, um, a dream house that I, I am the capable. Um, be capable to design the way that I like. And."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q07",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Are street markets commonly seen around in your country?",
+    "transcript": "Actually, yeah, to ask you a question, I can say that, street markets are well known in my country, actually, to rent a shop in, I do not know, apartment or, shopping malls. it is a kind of, costly, thing to do. So, rent a street shop, it is more cost effective and it is more familiar with others. So, and actually indeed, it has a very friendly atmosphere and, it just attracts people and consumers.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um. Um, actually, yeah, to ask you a question, I can say that, uh, street markets are well known in my country, actually, uh, to rent a shop in, I don't know, apartment or, uh, shopping malls. It's a kind of, um, uh, costly, uh, thing to do. So, um, rent a street shop, it's more cost effective and it's more familiar with others. So, and actually indeed, uh, it has a very friendly atmosphere and, uh, it just attracts people and consumers."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q08",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Do people in your country freely go to open air markets?",
+    "transcript": "Open, I do not think that, having open market in Iran is a common thing to do, to have. So, but, and I do not have that. We are, I do not know, we are the, we have enough culture to, have the best behavioral attitude to, I do not know, going to opening market and.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, open, um, I don't think that, um, having open market in Iran is a common thing to do, to have. So, uh, but, uh, and I don't have that. We are, I don't know, um, we are the, we have enough culture to, um, have the best behavioral attitude to, um, I don't know, going to opening market and, um."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q10",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Do you still review and go over those memories?",
+    "transcript": "Sure. you know, living with the memories is one of my thing to do. Actually, it was like living a dream. because, seeing such a beauty, it was, so relaxing and, calming experience to feel.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, sure. Uh, you know, uh, living with the memories is one of my thing to do. Actually, um, it was like living a dream. Um, because, um, seeing such a beauty, uh, it was, um, so relaxing and, um, calming experience to feel."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q11",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Of course, why not?",
+    "transcript": "I do not, I mean, who does not want to experience, I do not know, a happiness that, that they experienced. I mean, the calm and the, I do not know. Sorry, I lost my train of thought. All right. And your two-minute time is over now.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, I don't, I mean, um, who doesn't want to experience, um, um, I don't know, a happiness that, um, Um, that they experienced. I mean, um, the calm and the, um, I don't know. Sorry, I lost my train of thought. All right. And your two-minute time is over now."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q12",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Would you please hand me back?",
+    "transcript": "Yeah, sure. The pen, the paper, and the.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yeah, sure. The pen, the paper, and the."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q13",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Are the number of farmlands across the globe declining and why?",
+    "transcript": "Unfortunately I, I, I should say that these days, the number of, fromland is obviously increasing, by the air pollution or so many, problems that are happening to our nature. So, yeah, unfortunately they are increasing. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, unfortunately I, I, I should say that these days, uh, the number of, uh, fromland is obviously increasing, uh, by the air pollution or so many, uh, problems that are happening to our nature. So, uh, yeah, unfortunately they are increasing. Okay."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q14",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Unfortunately increasing?",
+    "transcript": "I think they are decreasing. they are decreasing. Okay.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "I think they are decreasing. They're decreasing. Okay."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q15",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Do people usually visit farms as part of their leisure activity in your country?",
+    "transcript": "Yes, they do. in my point of view, and going to farmlands, I do not know, North South Carolina, anything that contain so many beauties and natures and trees and gardens, it can be a soothing experience to experience. And, we can, I do not know, have a lot of good memory and, make a, I do not know, enjoyable atmosphere that we want to release our negative energy. And what are the advantages of having large farmlands in a region one of the advantages of having large farmlands in a region one of the most advantages that I consider to of having a farm a large farmland is that you can live by the nature You can live by the beauty. You can, I do not know, see the animals and, and the nature of, the nature actually. So, and you can just avoid the air pollution and anything that disturbs your life in a, city that is, civilized, that has civilization. All right.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, yes, they do. Um, in my point of view, and going to farmlands, I don't know, North South Carolina, anything that contain so many beauties and natures and trees and gardens, it can be a soothing experience to experience. And, uh, we can, I don't know, um, have a lot of good memory and, uh, make a, I don't know, um, enjoyable atmosphere that we want to release our negative energy. And what are the advantages of having large farmlands in a region Uh um one of the advantages of having large farmlands in a region Uh um one of the most advantages that I consider to um of having a farm a large uh farmland is that you can live by the nature You can live by the beauty. You can, I don't know, see the animals and, uh, and the nature of, um, the nature actually. So, um, and you can just avoid the air pollution and anything that disturbs your life in a, um, um, city that is, um, civilized, that has civilization. All right."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q16",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "So do you think that farmers and agricultural workers should be given more subsidies by the government?",
+    "transcript": "I think they do actually. They deserve more than they have. but, suddenly we can see that, so, so many, I do not know, workers that are working at their farmland or any area of country, and they do not gain what they really deserve. And, I do not think that it, one day we can see a day that it would be better, but, they deserve more than what they have.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, I think they do actually. They deserve more than they have. Um, but, um, uh, suddenly we can see that, um, so, uh, so many, I don't know, workers that are working at their farmland or any area of country, and they don't gain what they really deserve. And, um, I don't think that it, one day we can see a day that it would be better, but, um, they deserve more than what they have."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q17",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "And how can we improve the skill of farmers in a region?",
+    "transcript": "So the skill of being a farmer is a kind of skill that it has passed from generation to generation. But, these days we have so many universities and so many, I do not know, area and, that you can be well educated and you can, be educated by, I do not know, some professions and some teachers that they can obviously show you the way of controlling forms without, harm. Thank you so much. that is it for this speaking test. Please give me two minutes to review your performance and we will get back to you. Speaking course. This course is made up of five offline speaking videos in which you will learn all the necessary tips and techniques to take the IELTS speaking test with a high score.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, so the skill of being a farmer is a kind of skill that it has passed from generation to generation. But, um, these days we have so many universities and so many, I don't know, area and, uh, um, um, that you can be well educated and you can, uh, be educated by, I don't know, some professions and some teachers that they can obviously show you the way of controlling forms without, um, harm. Thank you so much. That's it for this speaking test. Please give me two minutes to review your performance and we'll get back to you. Speaking course. This course is made up of five offline speaking videos in which you will learn all the necessary tips and techniques to take the IELTS speaking test with a high score."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q19",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "So simply the garden has trees, okay?",
+    "transcript": "Include here is not appropriate. So try to pay attention to, the appropriate usage of words. Some words are okay. They, they convey the meaning, they convey the message, but they are not natural. Using them in specific and certain contexts. And then, you, you use this, the experiences and the skills are passed from one generation to the other. it is great. You, you are great in using it. and then there is this issue. You said one of the most advantages. One of the best, perhaps, advantages of something. He said one of the most advantages. have the capacity, have the capability. Terrifying. All these words and idioms are really amazing. Stick to that.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Include here is not appropriate. So try to pay attention to, uh, the appropriate usage of words. Some words are okay. They, they convey the meaning, they convey the message, but they're not natural. Using them in specific and certain contexts. And then, uh, you, you use this, um, uh, the experiences and the skills are passed from one generation to the other. It's great. You, you are great in using it. Um, and then there's this issue. You said one of the most advantages. One of the best, perhaps, advantages of something. He said one of the most advantages. Uh, have the capacity, have the capability. Terrifying. All these words and idioms are really amazing. Stick to that. Uh,."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q20",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "However, you did not have many significant grammatical issues.",
+    "transcript": "You were able to construct complex structures easily, simple complex structures. you said, as we see global warming is getting blah, blah, blah, as we see. So all those different connectors and connectives, of course, help you build more complex structures and easily without any error. So that is really important. but you had a couple of, issues here. Like, is that, people have funds. Yeah. Instead of having fun, have funds.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "You were able to construct complex structures easily, simple complex structures. Uh, you said, as we see global warming is getting blah, blah, blah, as we see. So all those different connectors and connectives, of course, um, help you build more complex structures and easily without any error. So that's really important. Uh, but you had a couple of, um, issues here. Like, um, is that, um, people have funds. Yeah. Instead of having fun, have funds."
+  },
+  {
+    "sample_id": "0aVsRuDojYI_q23",
+    "video_id": "0aVsRuDojYI",
+    "band": 6.0,
+    "question": "Any comments?",
+    "transcript": "No, I just, so I am an introverted person and I wanted to control my stress, but I was being controlled by stress. So. And there is a solution to controlling it. I know. I am working on it. I am trying to working on it. One of them is to, look to the mirror, see yourself in front of a mirror, and talk to yourself, and imagine that you are the examiner and the candidate at the same time. Record your voice, speak, record your voice, then be the judge. Try to, detect the issues and the shortcomings. You be the judge, then record again, try to remove those mistakes and those issues. Gradually, you will be a better and more fluent speaker.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "No, I just, um, so I'm an introverted person and I wanted to control my stress, but I was being controlled by stress. So. And there is a solution to controlling it. I know. I'm working on it. I'm trying to working on it. One of them is to, uh, look to the mirror, see yourself in front of a mirror, and talk to yourself, and imagine that you are the examiner and the candidate at the same time. Record your voice, speak, record your voice, then be the judge. Try to, um, detect the issues and the shortcomings. You be the judge, then record again, try to remove those mistakes and those issues. Gradually, you will be a better and more fluent speaker."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q01",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "Alright, are you ready?",
+    "transcript": "Yes. So let us get it on. From here starts the speaking test. This is the speaking.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yes. So let's get it on. From here starts the speaking test. This is the speaking."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q02",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And can I have your identification please?",
+    "transcript": "Yes, here you are. Thank you. Perfect, thanks. Thank you. Alright.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Yes, here you are. Thank you. Perfect, thanks. Thank you. Alright, uh,."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q03",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "How much time do you spend with your family?",
+    "transcript": "Honestly speaking, if I had, more time, I, would, spend, time with my family more, because now I have, a full job and I, have to work, eight or nine hours a day.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Hmm. Honestly speaking, if I had, uh, more time, I, um, would, uh, spend, uh, time with my family more, uh, because now I have, uh, a full job and I, uh, have to work, uh, eight or nine hours a day."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q04",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And what do you like to do together as a family?",
+    "transcript": "If you ask me, I would like to watching TV, watching movie, or listening to music, or have a party with my family.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "If you ask me, I would like to watching TV, watching movie, or listening to music, or have a party with my family."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q05",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "Do you get along well with your family?",
+    "transcript": "Honestly, I prefer to, go, sighting or, go, to cinema or, call a lot with my fam. Now.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, honestly, um, I prefer to, uh, go, uh, sighting or, um, go, uh, to cinema or, um, call a lot with my fam. Now,."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q06",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "Do you like perfumes?",
+    "transcript": "Honestly yes, because I am a woman and I prefer to wear perfume a lot.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, honestly yes, because I am a woman and I prefer to wear perfume a lot."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q07",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And, would you ever consider giving perfume as a gift to someone?",
+    "transcript": "If you ask me, I do not like, buy perfume for my best family, my best friends or my family. I would like to, buy, something, for example, clothes or books or something like that.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "If you ask me, I don't like, uh, buy perfume for my best family, my best friends or my family. Uh, I would like to, uh, buy, um, something, uh, for example, clothes or books or something like that."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q08",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "Do you practice rubbish recycling at home?",
+    "transcript": "Yes, because, I am keen on recycling a lot because my, our environment, is dangerous today.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yes, because, um, I'm keen on recycling a lot because my, uh, our environment, uh, is dangerous today."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q09",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And are people in your country aware of the importance of rubbish recycling?",
+    "transcript": "Yes, some people prefer to cycling, but others do not know about cycling a lot because they do not read about this.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Yes, some people prefer to cycling, but others don't know about cycling a lot because they don't read about this."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q10",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And how can it benefit the environment if we segregate waste and effectively recycle it?",
+    "transcript": "If you ask me, we, can, have, a better environment and, health environment and we, can, we do not have any pollution in my, in our environment. Perfect.",
+    "part": 1,
+    "source": "cleaned",
+    "transcript_original": "Um, if you ask me, uh, we, uh, can, uh, have, uh, a better environment and, uh, health environment and we, uh, can, um, we don't have any pollution in my, in our environment. Perfect."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q11",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "What are the most popular ways of keeping healthy in your country?",
+    "transcript": "In my country people have economic issue and we have, we, we are, they are nervous. And we, should, read a book or, see a movie that can get energy, to, for them, to them. And we can speak to each other to friends or to family to recharge their battery And do you think most people worry more about their health as they get older Yes because the surveys illustrate that the surveys illustrate that people that are old have a lot of issues for example health issues And, we are, concerned, we are concerned about that and we, and they, people, should, keep health a lot.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "In my country people have economic issue and we have, er, we, we are, they are nervous. And we, er, should, er, read a book or, er, see a movie that can get energy, er, to, er, for them, er, to them. And um we can speak to each other to friends or to family uh to recharge their battery And uh do you think most people worry more about their health as they get older Yes because um the surveys illustrate that the surveys illustrate that um people that are old um have a lot of issues for example uh health issues And, er, we are, er, concerned, er, we are concerned about that and we, and they, er, er, people, er, should, er, keep health a lot."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q12",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And, why do you think some people continue bad habits when they know that they are damaging their health?",
+    "transcript": "Because they do not, read about, about this issue, about their issue and they do not read a lot articles and, or they do not listen to news about that, so they affect it.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, because they don't, uh, read about, uh, about this issue, about their issue and they don't read a lot articles and, uh, or they don't listen to news about that, uh, so they affect it."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q13",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And how can children be encouraged to adopt healthy eating habits?",
+    "transcript": "When children, are in, kindergarten, they, should, read lessons about that. And, they should know about that.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, when children, uh, are in, um, kindergarten, uh, they, uh, should, uh, read lessons about that. And, uh, they should know about that."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q14",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And, do you think people have become more healthy, conscious in recent years?",
+    "transcript": "In my country, I think, no, they do not have any discussions. But in other countries, yes, there are a lot of situations.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "In my country, I think, no, they don't have any discussions. But in other countries, yes, there are a lot of situations."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q15",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And could governments do more to promote healthier lifestyle options?",
+    "transcript": "It is a hard question. You know, I live in Iran and I do not have any life. And, or I do not like about this situation, but yes, in other countries there are any situation.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Um, it's a hard question. You know, I live in Iran and I don't have any life. And, or I don't like about this situation, but yes, in other countries there are any situation."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q16",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "And, what about the country where you live?",
+    "transcript": "In my country, people, have a lot of issues and they do not have any time about that, about this problem, I think. Okay, thank you very much.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "Uh, in my country, uh, people, uh, have a lot of issues and they don't have any time about that, about this problem, I think. Okay, thank you very much."
+  },
+  {
+    "sample_id": "WPogTXS3keg_q20",
+    "video_id": "WPogTXS3keg",
+    "band": 5.0,
+    "question": "You know what I am talking about?",
+    "transcript": "And, you, you said if you ask me, that is, of course, that is, A booster and that is perfect. But you used it a couple of times elsewhere. You could have used it naturally and you could have used some other, like synonyms and other combinations instead of if you ask me. but generally you did, well, with regards to vocabulary. when it comes to grammar, you did not, I really did not pick up many mistakes when it comes to grammar and accuracy. you had only, this, read and read, which is frequently a mistake, which is frequently made by some of the candidates. when you are talking about the past, it is read. I read a book in the past. But when you read a book, it is present tense. and, you also said that, in order to learn perfect, in order to learn perfectly, you should have used the, the adverb form. Of the word perfect here. And you could also, use some complex structures like conditional sentences, or some subordinate clauses.",
+    "part": 1,
+    "source": "valid_original",
+    "transcript_original": "And, um, you, you said if you ask me, that's, uh, of course, that's, uh, A booster and that's perfect. But you used it a couple of times elsewhere. You could have used it naturally and you could have used some other, uh, like synonyms and other combinations instead of if you ask me. Uh, but generally you did, uh, well, uh, with regards to vocabulary. Uh, when it comes to grammar, uh, you did not, I really did not pick up many mistakes when it comes to grammar and accuracy. Uh, you had only, uh, Uh, uh, this, uh, read and read, which is frequently a mistake, which is frequently made by some of the candidates. Uh, when you're talking about the past, it's read. I read a book in the past. But when you read a book, it's present tense. Um, and, uh, you also said that, um, in order to learn perfect, in order to learn perfectly, you should have used the, the adverb form. Of the word perfect here. And you could also, uh, use some complex structures like conditional sentences, um, or some subordinate clauses."
+  }
+]

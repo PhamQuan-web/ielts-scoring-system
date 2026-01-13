@@ -646,7 +646,7 @@ scored_samples = [
         "part": 1,
         "question": "Clothes?",
         "transcript": "I am going to wear what kind of clothes do you usually wear well it depends on what I am doing really if I go to work I would wear something casual like shirts or jeans if you hang out with my friends putting on a dress would not be a bad choice right and if I stay at home I just wear something comfortable like t-shirts or shorts where do you usually buy your clothes I used to go to trendy shops when I was a student but now since I have to work and I have little time for shopping I just go to a shopping center or department store and just get everything from there have you ever bought clothes online is of course as I mentioned before I am all swept with work right now so browsing online to shop is very convenient and I can have all my clothes shipped directly to my house what is your favourite item of clothing well that is tough question I think it also depends on the weather if the weather is kind of hot it would be perfect if you put on a sundress which flutter printed pattern on it and if the weather gets a bit chilly I would definitely go for a long one coat which is stylet yet functional do people from your country think fashion is important well I think they are getting more and more fashion conscious than ever I think this is because now they are more self-centered and they want to identify themselves distinctively from other people so they kind of choose to express themselves through the way they dress the more trendy and fashionable the clothes are the more confident they will become I suppose.",
-        "word_count": 286,
+      "word_count": 286,
         "analysis_metadata": {
             "grammar_error_patterns": ["word_choice"],
             "grammar_error_frequency": "occasional",
@@ -705,7 +705,7 @@ scored_samples = [
         "part": 1,
         "question": "High school?",
         "transcript": "Let us start off by talking about high school who was your favorite teacher in high school I think my favorite teacher in high school was Miss Malika she was my second grade teacher and I think she eventually like at the later stages she became my eighth grade teacher as well so I was very familiar with her and she remembered me so we had good memories together what was your favorite subject in high school my favorite subject would be I think was English because I liked reading stories and novels and it just kept me engaged wherein like with the other subjects you had to it was more technical by enjoyed the reading bit and I still do enjoy reading so i' say English do you ever miss being in high school I do actually because I started working very early I did not get to experience the University or college so the memories that I have or the friends I have is from high school and I do think about times where we could just go back and have a reunion and like have that moment again.",
-        "word_count": 182,
+      "word_count": 182,
         "analysis_metadata": {
             "grammar_error_patterns": [],
             "grammar_error_frequency": "error_free",

@@ -1,0 +1,58 @@
+{
+  "batch_id": 323,
+  "count": 4,
+  "samples": [
+    {
+      "sample_id": "ZR5xV8_jmzs_s11",
+      "video_id": "ZR5xV8_jmzs",
+      "band": 7.0,
+      "question": "When was the last occasion when you danced a lot?",
+      "transcript": "&gt;&gt; As I mentioned earlier, the last month my cousin's wedding, I danced with my whole family and yeah, that was a very memorable moment for me. &gt;&gt; Okay, good. Okay.",
+      "source": "supplementary",
+      "transcript_original": "&gt;&gt; As I mentioned earlier, the last month my cousin's wedding, uh I danced with my whole family and yeah, that was a very memorable moment for me. &gt;&gt; Okay, good. Okay.",
+      "transcript_cleaned": "&gt;&gt; As I mentioned earlier, the last month my cousin's wedding, I danced with my whole family and yeah, that was a very memorable moment for me. &gt;&gt;",
+      "verification_status": "VALID",
+      "verification_note": "Verified by Jules (Hybrid NLP)",
+      "part": 1
+    },
+    {
+      "sample_id": "ZR5xV8_jmzs_s13",
+      "video_id": "ZR5xV8_jmzs",
+      "band": 7.0,
+      "question": "What are the things young people like to buy?",
+      "transcript": "Young people mostly like to buy trendy clothes and trendy things because of the social media.",
+      "source": "supplementary",
+      "transcript_original": "Young people mostly like to buy trendy clothes and trendy things because of the social media.",
+      "transcript_cleaned": "Young people mostly like to buy trendy clothes and trendy things because of the social media.",
+      "verification_status": "VALID",
+      "verification_note": "Verified by Jules (Hybrid NLP)",
+      "part": 1
+    },
+    {
+      "sample_id": "ZR5xV8_jmzs_s14",
+      "video_id": "ZR5xV8_jmzs",
+      "band": 7.0,
+      "question": "They just want to buy something trendy that are that catch people attentions like not all of them but I think most of the people &gt;&gt; So you consider that young people only love to buy clothing?",
+      "transcript": "No ma'am not clothing. They like to buy trendy things like watch, shoes, every accessories that that like to that that that on trend that &gt;&gt; Okay. So you mean to say that be this is any technological gadget or any home accessory or anything whatever they require but that is in trend. &gt;&gt; Oh okay.",
+      "source": "supplementary",
+      "transcript_original": "No ma'am not clothing. They like to buy trendy things like watch, shoes, every accessories that that like to that that that on trend that &gt;&gt; Okay. So you mean to say that be this is any technological gadget or any home accessory or anything whatever they require but that is in trend. &gt;&gt; Oh okay.",
+      "transcript_cleaned": "No ma'am not clothing. They like to buy trendy things like watch, shoes, every accessories that that like to that that that on trend that &gt;&gt; Okay. So you mean to say that be this is any technological gadget or any home accessory or anything whatever they require but that is in trend. &gt;&gt; Oh",
+      "verification_status": "VALID",
+      "verification_note": "Verified by Jules (Hybrid NLP)",
+      "part": 1
+    },
+    {
+      "sample_id": "ZR5xV8_jmzs_s15",
+      "video_id": "ZR5xV8_jmzs",
+      "band": 7.0,
+      "question": "&gt;&gt; How do your friends influence your shopping choices?",
+      "transcript": "I am not that shoahholic person like I do not know I do not want to do shopping every month. I just buy things that brings me comfort. that is why no one is influenced me by shopping because shopping. &gt;&gt; Okay.",
+      "source": "supplementary",
+      "transcript_original": "I'm not that shoahholic person like I don't know I don't want to do shopping every month. I just buy things that brings me comfort. That's why no one is influenced me by shopping because shopping. &gt;&gt; Okay.",
+      "transcript_cleaned": "I am not that shoahholic person like I do not know I do not want to do shopping every month. I just buy things that brings me comfort. that is why no one is influenced me by shopping because shopping. &gt;&gt;",
+      "verification_status": "VALID",
+      "verification_note": "Verified by Jules (Hybrid NLP)",
+      "part": 1
+    }
+  ]
+}

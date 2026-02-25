@@ -1,8 +1,8 @@
 {
-    "id": "cambridge_18_test_2",
+    "id": "cambridge_18_reading_test_2",
     "title": "Cambridge 18 - Reading Test 2",
-    "description": "Full B2+ vocabulary for Stonehenge, Living with Artificial Intelligence, and An Ideal City.",
-    "wordCount": 35,
+    "description": "Full B2+ academic vocabulary from Reading Test 2 (Stonehenge, AI, Ideal City).",
+    "wordCount": 45,
     "category": "Reading",
     "color": "from-blue-600 to-indigo-800",
     "isPro": true,
@@ -10,10 +10,10 @@
         {
             "word": "prodigious",
             "phonetic": "/prəˈdɪdʒ.əs/",
-            "meaning": "Remarkably or impressively great in extent, size, or degree.",
             "partOfSpeech": "Adjective",
+            "meaning": "Remarkably or impressively great in extent, size, or degree.",
             "translation": "Phi thường, to lớn, đồ sộ",
-            "concept": "Implies something awe-inspiringly large or impressive.",
+            "concept": "Implies something awe-inspiringly large or impressive, often used for talents or achievements.",
             "register": "Formal/Literary",
             "grammar_note": "Often modifies nouns like 'feat', 'memory', 'talent'.",
             "synonyms": ["enormous", "colossal", "immense"],
@@ -29,8 +29,8 @@
         {
             "word": "feat",
             "phonetic": "/fiːt/",
-            "meaning": "An achievement that requires great courage, skill, or strength.",
             "partOfSpeech": "Noun",
+            "meaning": "An achievement that requires great courage, skill, or strength.",
             "translation": "Kỳ tích, chiến công",
             "concept": "Emphasizes the difficulty and skill involved in the accomplishment.",
             "register": "General/Formal",
@@ -48,10 +48,10 @@
         {
             "word": "durability",
             "phonetic": "/ˌdʒʊə.rəˈbɪl.ə.ti/",
-            "meaning": "The ability to withstand wear, pressure, or damage.",
             "partOfSpeech": "Noun",
+            "meaning": "The ability to withstand wear, pressure, or damage.",
             "translation": "Độ bền, tính bền",
-            "concept": "Focuses on lasting a long time under stress.",
+            "concept": "Focuses on the capacity to last a long time under stress or use.",
             "register": "General/Technical",
             "grammar_note": "Uncountable noun.",
             "synonyms": ["resilience", "robustness", "sturdiness"],
@@ -67,10 +67,10 @@
         {
             "word": "monumental",
             "phonetic": "/ˌmɒn.juˈmen.təl/",
-            "meaning": "Great in importance, extent, or size.",
             "partOfSpeech": "Adjective",
+            "meaning": "Great in importance, extent, or size.",
             "translation": "Vĩ đại, hoành tráng",
-            "concept": "Can refer to physical size or metaphorical significance.",
+            "concept": "Can refer to physical size (like a monument) or metaphorical significance (like an error or achievement).",
             "register": "Formal",
             "grammar_note": "Often used to describe tasks, errors, or achievements.",
             "synonyms": ["huge", "massive", "gigantic"],
@@ -86,8 +86,8 @@
         {
             "word": "biochemical",
             "phonetic": "/ˌbaɪ.əʊˈkem.ɪ.kəl/",
-            "meaning": "Relating to the chemical processes and substances which occur within living organisms.",
             "partOfSpeech": "Adjective",
+            "meaning": "Relating to the chemical processes and substances which occur within living organisms.",
             "translation": "Thuộc về hóa sinh",
             "concept": "Specific scientific term linking biology and chemistry.",
             "register": "Scientific/Academic",
@@ -105,8 +105,8 @@
         {
             "word": "constraint",
             "phonetic": "/kənˈstreɪnt/",
-            "meaning": "A limitation or restriction.",
             "partOfSpeech": "Noun",
+            "meaning": "A limitation or restriction.",
             "translation": "Sự hạn chế, ràng buộc",
             "concept": "Implies a force that limits freedom or possibilities.",
             "register": "Formal/Academic",
@@ -124,8 +124,8 @@
         {
             "word": "coexistence",
             "phonetic": "/ˌkəʊ.ɪɡˈzɪs.təns/",
-            "meaning": "The state or fact of living or existing at the same time or in the same place.",
             "partOfSpeech": "Noun",
+            "meaning": "The state or fact of living or existing at the same time or in the same place.",
             "translation": "Sự chung sống, cùng tồn tại",
             "concept": "Emphasizes living together peacefully despite differences.",
             "register": "Formal",
@@ -143,8 +143,8 @@
         {
             "word": "cognitive",
             "phonetic": "/ˈkɒɡ.nə.tɪv/",
-            "meaning": "Concerned with the act or process of knowing, perceiving, etc.",
             "partOfSpeech": "Adjective",
+            "meaning": "Concerned with the act or process of knowing, perceiving, etc.",
             "translation": "Thuộc về nhận thức",
             "concept": "Relates to mental processes like thinking, learning, remembering.",
             "register": "Academic/Scientific",
@@ -162,8 +162,8 @@
         {
             "word": "inference",
             "phonetic": "/ˈɪn.fər.əns/",
-            "meaning": "A conclusion reached on the basis of evidence and reasoning.",
             "partOfSpeech": "Noun",
+            "meaning": "A conclusion reached on the basis of evidence and reasoning.",
             "translation": "Sự suy luận",
             "concept": "A logical step from evidence to conclusion.",
             "register": "Academic",
@@ -181,8 +181,8 @@
         {
             "word": "integration",
             "phonetic": "/ˌɪn.tɪˈɡreɪ.ʃən/",
-            "meaning": "The action or process of integrating.",
             "partOfSpeech": "Noun",
+            "meaning": "The action or process of integrating.",
             "translation": "Sự hội nhập, tích hợp",
             "concept": "Combining parts into a whole.",
             "register": "Formal/Academic",
@@ -200,8 +200,8 @@
         {
             "word": "urbanisation",
             "phonetic": "/ˌɜː.bən.aɪˈzeɪ.ʃən/",
-            "meaning": "The process of making an area more urban.",
             "partOfSpeech": "Noun",
+            "meaning": "The process of making an area more urban.",
             "translation": "Đô thị hóa",
             "concept": "Refers to the shift of population from rural to urban areas.",
             "register": "Academic",
@@ -219,8 +219,8 @@
         {
             "word": "infrastructure",
             "phonetic": "/ˈɪn.frəˌstrʌk.tʃər/",
-            "meaning": "The basic physical and organizational structures and facilities (e.g. buildings, roads, power supplies) needed for the operation of a society or enterprise.",
             "partOfSpeech": "Noun",
+            "meaning": "The basic physical and organizational structures and facilities (e.g. buildings, roads, power supplies) needed for the operation of a society or enterprise.",
             "translation": "Cơ sở hạ tầng",
             "concept": "Foundational systems of a society.",
             "register": "Formal/Academic",
@@ -238,8 +238,8 @@
         {
             "word": "sanitation",
             "phonetic": "/ˌsæn.ɪˈteɪ.ʃən/",
-            "meaning": "Conditions relating to public health, especially the provision of clean drinking water and adequate sewage disposal.",
             "partOfSpeech": "Noun",
+            "meaning": "Conditions relating to public health, especially the provision of clean drinking water and adequate sewage disposal.",
             "translation": "Vệ sinh (hệ thống)",
             "concept": "Focuses on public health systems, distinct from personal hygiene.",
             "register": "Formal",
@@ -257,8 +257,8 @@
         {
             "word": "layout",
             "phonetic": "/ˈleɪ.aʊt/",
-            "meaning": "The way in which the parts of something are arranged or laid out.",
             "partOfSpeech": "Noun",
+            "meaning": "The way in which the parts of something are arranged or laid out.",
             "translation": "Bố cục, cách bố trí",
             "concept": "Arrangement of physical space.",
             "register": "General/Technical",
@@ -276,8 +276,8 @@
         {
             "word": "regulate",
             "phonetic": "/ˈreɡ.jə.leɪt/",
-            "meaning": "Control or maintain the rate or speed of (a machine or process) so that it operates properly.",
             "partOfSpeech": "Verb",
+            "meaning": "Control or maintain the rate or speed of (a machine or process) so that it operates properly.",
             "translation": "Điều chỉnh, quy định, kiểm soát",
             "concept": "Implies controlling by rule or mechanism.",
             "register": "Formal",
@@ -295,8 +295,8 @@
         {
             "word": "imitate",
             "phonetic": "/ˈɪm.ɪ.teɪt/",
-            "meaning": "Take or follow as a model.",
             "partOfSpeech": "Verb",
+            "meaning": "Take or follow as a model.",
             "translation": "Bắt chước, mô phỏng",
             "concept": "Copying behavior or appearance.",
             "register": "General/Academic",
@@ -314,8 +314,8 @@
         {
             "word": "speculation",
             "phonetic": "/ˌspek.jəˈleɪ.ʃən/",
-            "meaning": "The forming of a theory or conjecture without firm evidence.",
             "partOfSpeech": "Noun",
+            "meaning": "The forming of a theory or conjecture without firm evidence.",
             "translation": "Sự suy đoán",
             "concept": "Guesswork based on limited evidence.",
             "register": "Formal/Academic",
@@ -333,8 +333,8 @@
         {
             "word": "align",
             "phonetic": "/əˈlaɪn/",
-            "meaning": "Place or arrange (things) in a straight line.",
             "partOfSpeech": "Verb",
+            "meaning": "Place or arrange (things) in a straight line.",
             "translation": "Căn chỉnh, sắp xếp thẳng hàng",
             "concept": "Positioning things correctly relative to each other.",
             "register": "General/Technical",
@@ -352,8 +352,8 @@
         {
             "word": "ritual",
             "phonetic": "/ˈrɪtʃ.u.əl/",
-            "meaning": "A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
             "partOfSpeech": "Noun",
+            "meaning": "A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
             "translation": "Nghi lễ",
             "concept": "Structured ceremonial act.",
             "register": "Formal",
@@ -371,8 +371,8 @@
         {
             "word": "transportation",
             "phonetic": "/ˌtræn.spɔːˈteɪ.ʃən/",
-            "meaning": "The action of transporting someone or something or the process of being transported.",
             "partOfSpeech": "Noun",
+            "meaning": "The action of transporting someone or something or the process of being transported.",
             "translation": "Giao thông vận tải, sự vận chuyển",
             "concept": "Movement of goods or people.",
             "register": "General/Formal",
@@ -390,8 +390,8 @@
         {
             "word": "astronomical",
             "phonetic": "/ˌæs.trəˈnɒm.ɪ.kəl/",
-            "meaning": "Relating to astronomy; (of an amount) extremely large.",
             "partOfSpeech": "Adjective",
+            "meaning": "Relating to astronomy; (of an amount) extremely large.",
             "translation": "Thuộc về thiên văn; khổng lồ (số lượng)",
             "concept": "Can refer to space science or huge numbers.",
             "register": "Academic/General",
@@ -409,8 +409,8 @@
         {
             "word": "excavation",
             "phonetic": "/ˌek.skəˈveɪ.ʃən/",
-            "meaning": "The action of excavating something, especially an archaeological site.",
             "partOfSpeech": "Noun",
+            "meaning": "The action of excavating something, especially an archaeological site.",
             "translation": "Sự khai quật",
             "concept": "Digging up for discovery.",
             "register": "Academic",
@@ -428,8 +428,8 @@
         {
             "word": "preserve",
             "phonetic": "/prɪˈzɜːv/",
-            "meaning": "Maintain (something) in its original or existing state.",
             "partOfSpeech": "Verb",
+            "meaning": "Maintain (something) in its original or existing state.",
             "translation": "Bảo tồn, giữ gìn",
             "concept": "Keeping something safe from decay or change.",
             "register": "General/Formal",
@@ -447,8 +447,8 @@
         {
             "word": "algorithm",
             "phonetic": "/ˈæl.ɡə.rɪ.ðəm/",
-            "meaning": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
             "partOfSpeech": "Noun",
+            "meaning": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
             "translation": "Thuật toán",
             "concept": "Core component of computer logic.",
             "register": "Technical/Academic",
@@ -466,8 +466,8 @@
         {
             "word": "implication",
             "phonetic": "/ˌɪm.plɪˈkeɪ.ʃən/",
-            "meaning": "The conclusion that can be drawn from something, although it is not explicitly stated.",
             "partOfSpeech": "Noun",
+            "meaning": "The conclusion that can be drawn from something, although it is not explicitly stated.",
             "translation": "Hàm ý, hệ quả",
             "concept": "Possible future effects or hidden meanings.",
             "register": "Academic/Formal",
@@ -485,8 +485,8 @@
         {
             "word": "ethics",
             "phonetic": "/ˈeθ.ɪks/",
-            "meaning": "Moral principles that govern a person's behavior or the conducting of an activity.",
             "partOfSpeech": "Noun",
+            "meaning": "Moral principles that govern a person's behavior or the conducting of an activity.",
             "translation": "Đạo đức học, nguyên tắc đạo đức",
             "concept": "Rules of right and wrong.",
             "register": "Academic/Formal",
@@ -504,8 +504,8 @@
         {
             "word": "congestion",
             "phonetic": "/kənˈdʒes.tʃən/",
-            "meaning": "The state of being congested (blocked or crowded).",
             "partOfSpeech": "Noun",
+            "meaning": "The state of being congested (blocked or crowded).",
             "translation": "Sự tắc nghẽn (giao thông)",
             "concept": "Overcrowding of vehicles or people.",
             "register": "General/Formal",
@@ -523,8 +523,8 @@
         {
             "word": "pedestrian",
             "phonetic": "/pəˈdes.tri.ən/",
-            "meaning": "A person walking along a road or in a developed area.",
             "partOfSpeech": "Noun",
+            "meaning": "A person walking along a road or in a developed area.",
             "translation": "Người đi bộ",
             "concept": "Person on foot.",
             "register": "General/Formal",
@@ -542,8 +542,8 @@
         {
             "word": "hygiene",
             "phonetic": "/ˈhaɪ.dʒiːn/",
-            "meaning": "Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.",
             "partOfSpeech": "Noun",
+            "meaning": "Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.",
             "translation": "Vệ sinh",
             "concept": "Cleanliness practices.",
             "register": "General",
@@ -561,8 +561,8 @@
         {
             "word": "utopian",
             "phonetic": "/juːˈtəʊ.pi.ən/",
-            "meaning": "Modeled on or aiming for a state in which everything is perfect; idealistic.",
             "partOfSpeech": "Adjective",
+            "meaning": "Modeled on or aiming for a state in which everything is perfect; idealistic.",
             "translation": "Không tưởng, lý tưởng hóa",
             "concept": "Refers to a perfect but often unreachable world.",
             "register": "Formal/Academic",
@@ -580,8 +580,8 @@
         {
             "word": "innovative",
             "phonetic": "/ˈɪn.ə.və.tɪv/",
-            "meaning": "Featuring new methods; advanced and original.",
             "partOfSpeech": "Adjective",
+            "meaning": "Featuring new methods; advanced and original.",
             "translation": "Đổi mới, sáng tạo",
             "concept": "Introducing new ideas.",
             "register": "General/Formal",
@@ -599,8 +599,8 @@
         {
             "word": "prominent",
             "phonetic": "/ˈprɒm.ɪ.nənt/",
-            "meaning": "Important; famous.",
             "partOfSpeech": "Adjective",
+            "meaning": "Important; famous.",
             "translation": "Nổi bật, xuất chúng",
             "concept": "Standing out or being well-known.",
             "register": "General/Formal",
@@ -618,8 +618,8 @@
         {
             "word": "futuristic",
             "phonetic": "/ˌfjuː.tʃəˈrɪs.tɪk/",
-            "meaning": "Having or involving very modern technology or design.",
             "partOfSpeech": "Adjective",
+            "meaning": "Having or involving very modern technology or design.",
             "translation": "Thuộc về tương lai, cực kỳ hiện đại",
             "concept": "Looking like it belongs in the future.",
             "register": "General",
@@ -637,8 +637,8 @@
         {
             "word": "simulate",
             "phonetic": "/ˈsɪm.jə.leɪt/",
-            "meaning": "Imitate the appearance or character of.",
             "partOfSpeech": "Verb",
+            "meaning": "Imitate the appearance or character of.",
             "translation": "Mô phỏng",
             "concept": "Creating a model or fake version for testing.",
             "register": "Technical/Academic",
@@ -656,8 +656,8 @@
         {
             "word": "perception",
             "phonetic": "/pəˈsep.ʃən/",
-            "meaning": "The ability to see, hear, or become aware of something through the senses.",
             "partOfSpeech": "Noun",
+            "meaning": "The ability to see, hear, or become aware of something through the senses.",
             "translation": "Sự nhận thức, tri giác",
             "concept": "How something is understood or interpreted.",
             "register": "Academic",
@@ -668,6 +668,196 @@
                 {
                     "sentence": "Public perception of AI is shifting as the technology becomes more common.",
                     "translation": "Nhận thức của công chúng về AI đang thay đổi khi công nghệ này trở nên phổ biến hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "concentric",
+            "phonetic": "/kənˈsen.trɪk/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Of or denoting circles, arcs, or other shapes that share the same center, the larger often completely surrounding the smaller.",
+            "translation": "Đồng tâm",
+            "concept": "Circles inside circles.",
+            "register": "Technical/Academic",
+            "grammar_note": "Describes 'circles', 'rings'.",
+            "synonyms": [],
+            "collocations": ["concentric circles", "concentric rings"],
+            "contexts": [
+                {
+                    "sentence": "The city was designed in a series of concentric circles.",
+                    "translation": "Thành phố được thiết kế theo một loạt các vòng tròn đồng tâm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prehistoric",
+            "phonetic": "/ˌpriː.hɪˈstɒr.ɪk/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Relating to or denoting the period before written records.",
+            "translation": "Tiền sử",
+            "concept": "Before history was written down.",
+            "register": "Academic",
+            "grammar_note": "Modifies 'times', 'animals', 'monument'.",
+            "synonyms": ["ancient", "primeval", "primitive"],
+            "collocations": ["prehistoric times", "prehistoric monument"],
+            "contexts": [
+                {
+                    "sentence": "Stonehenge is one of the most famous prehistoric monuments in the world.",
+                    "translation": "Stonehenge là một trong những di tích tiền sử nổi tiếng nhất thế giới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archaeologist",
+            "phonetic": "/ˌɑː.kiˈɒl.ə.dʒɪst/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person who studies human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.",
+            "translation": "Nhà khảo cổ học",
+            "concept": "Person who digs up history.",
+            "register": "Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": [],
+            "collocations": ["team of archaeologists", "leading archaeologist"],
+            "contexts": [
+                {
+                    "sentence": "Archaeologists have discovered new evidence about the site.",
+                    "translation": "Các nhà khảo cổ học đã phát hiện ra bằng chứng mới về địa điểm này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "megalith",
+            "phonetic": "/ˈmeɡ.ə.lɪθ/",
+            "partOfSpeech": "Noun",
+            "meaning": "A large stone that forms a prehistoric monument or part of one.",
+            "translation": "Đá cự thạch",
+            "concept": "Huge ancient stone.",
+            "register": "Academic/Technical",
+            "grammar_note": "Countable noun.",
+            "synonyms": [],
+            "collocations": ["ancient megalith", "megalithic structure"],
+            "contexts": [
+                {
+                    "sentence": "The site is famous for its massive megaliths.",
+                    "translation": "Địa điểm này nổi tiếng với những tảng đá cự thạch khổng lồ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "automation",
+            "phonetic": "/ˌɔː.təˈmeɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The use or introduction of automatic equipment in a manufacturing or other process or facility.",
+            "translation": "Sự tự động hóa",
+            "concept": "Machines doing work.",
+            "register": "General/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["mechanization", "computerization"],
+            "collocations": ["process automation", "industrial automation"],
+            "contexts": [
+                {
+                    "sentence": "Automation is changing the nature of work in many industries.",
+                    "translation": "Tự động hóa đang thay đổi bản chất công việc trong nhiều ngành công nghiệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "optimize",
+            "phonetic": "/ˈɒp.tɪ.maɪz/",
+            "partOfSpeech": "Verb",
+            "meaning": "Make the best or most effective use of (a situation, opportunity, or resource).",
+            "translation": "Tối ưu hóa",
+            "concept": "Making perfect.",
+            "register": "Formal/Technical",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["maximize", "enhance", "improve"],
+            "collocations": ["optimize performance", "optimize efficiency"],
+            "contexts": [
+                {
+                    "sentence": "Companies use AI to optimize their supply chains.",
+                    "translation": "Các công ty sử dụng AI để tối ưu hóa chuỗi cung ứng của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dense",
+            "phonetic": "/dens/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Closely compacted in substance.",
+            "translation": "Dày đặc, đông đúc",
+            "concept": "Packed tight.",
+            "register": "General",
+            "grammar_note": "Modifies 'forest', 'population', 'fog'.",
+            "synonyms": ["thick", "heavy", "crowded"],
+            "collocations": ["dense forest", "dense population"],
+            "contexts": [
+                {
+                    "sentence": "The city has a very dense population.",
+                    "translation": "Thành phố có dân số rất đông đúc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sewage",
+            "phonetic": "/ˈsuː.ɪdʒ/",
+            "partOfSpeech": "Noun",
+            "meaning": "Waste water and excrement conveyed in sewers.",
+            "translation": "Nước thải, chất thải",
+            "concept": "Dirty water.",
+            "register": "General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["waste", "effluent"],
+            "collocations": ["sewage system", "sewage treatment"],
+            "contexts": [
+                {
+                    "sentence": "The city needs to upgrade its sewage system.",
+                    "translation": "Thành phố cần nâng cấp hệ thống nước thải của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "residential",
+            "phonetic": "/ˌrez.ɪˈden.ʃəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Designed for people to live in.",
+            "translation": "Thuộc về khu dân cư",
+            "concept": "Where people live.",
+            "register": "General",
+            "grammar_note": "Modifies 'area', 'building'.",
+            "synonyms": [],
+            "collocations": ["residential area", "residential building"],
+            "contexts": [
+                {
+                    "sentence": "The new development will be primarily residential.",
+                    "translation": "Khu phát triển mới sẽ chủ yếu là khu dân cư."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commercial",
+            "phonetic": "/kəˈmɜː.ʃəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Concerned with or engaged in commerce.",
+            "translation": "Thương mại",
+            "concept": "Business-related.",
+            "register": "General",
+            "grammar_note": "Modifies 'use', 'property', 'success'.",
+            "synonyms": ["business", "trade"],
+            "collocations": ["commercial use", "commercial property"],
+            "contexts": [
+                {
+                    "sentence": "The area is zoned for commercial use.",
+                    "translation": "Khu vực này được quy hoạch cho mục đích thương mại."
                 }
             ],
             "level": "seed"

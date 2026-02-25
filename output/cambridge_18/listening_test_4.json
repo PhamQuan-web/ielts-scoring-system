@@ -10,13 +10,13 @@
         {
             "word": "architectural",
             "phonetic": "/ˌɑː.kɪˈtek.tʃər.əl/",
-            "meaning": "Relating to the art or practice of designing and constructing buildings.",
             "partOfSpeech": "Adjective",
+            "meaning": "Relating to the art or practice of designing and constructing buildings.",
             "translation": "Thuộc về kiến trúc",
-            "concept": "Relating to building design.",
+            "concept": "Having to do with buildings.",
             "register": "Academic/Technical",
             "grammar_note": "Modifies 'style', 'design', 'features'.",
-            "synonyms": ["structural", "constructional"],
+            "synonyms": ["structural", "constructional", "building"],
             "collocations": ["architectural style", "architectural design", "architectural feature"],
             "contexts": [
                 {
@@ -29,13 +29,13 @@
         {
             "word": "interior",
             "phonetic": "/ɪnˈtɪə.ri.ər/",
-            "meaning": "The inner part of something; the inside.",
             "partOfSpeech": "Noun",
+            "meaning": "The inner part of something; the inside.",
             "translation": "Nội thất, bên trong",
-            "concept": "Inside space.",
+            "concept": "The inside of a building.",
             "register": "General",
             "grammar_note": "Countable/Uncountable. Can be an adjective.",
-            "synonyms": ["inside", "inner part"],
+            "synonyms": ["inside", "inner part", "core"],
             "collocations": ["interior design", "interior decoration", "spacious interior"],
             "contexts": [
                 {
@@ -48,13 +48,13 @@
         {
             "word": "renovation",
             "phonetic": "/ˌren.əˈveɪ.ʃən/",
-            "meaning": "The action of renovating a building or structure.",
             "partOfSpeech": "Noun",
+            "meaning": "The action of renovating a building or structure.",
             "translation": "Sự cải tạo, nâng cấp",
-            "concept": "Making new again.",
+            "concept": "Restoring something to a good state.",
             "register": "General/Formal",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["refurbishment", "restoration", "remodeling"],
+            "synonyms": ["refurbishment", "restoration", "remodeling", "modernization"],
             "collocations": ["undergo renovation", "major renovation", "renovation project"],
             "contexts": [
                 {
@@ -67,13 +67,13 @@
         {
             "word": "exhibition",
             "phonetic": "/ˌek.sɪˈbɪʃ.ən/",
-            "meaning": "A public display of works of art or items of interest.",
             "partOfSpeech": "Noun",
+            "meaning": "A public display of works of art or items of interest.",
             "translation": "Cuộc triển lãm",
-            "concept": "Showing things to the public.",
+            "concept": "A public showing.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["display", "show", "presentation"],
+            "synonyms": ["display", "show", "presentation", "exposition"],
             "collocations": ["art exhibition", "permanent exhibition", "temporary exhibition"],
             "contexts": [
                 {
@@ -86,13 +86,13 @@
         {
             "word": "reception",
             "phonetic": "/rɪˈsep.ʃən/",
-            "meaning": "The area in a hotel, office, or other establishment where guests and visitors are greeted and dealt with.",
             "partOfSpeech": "Noun",
+            "meaning": "The area in a hotel, office, or other establishment where guests and visitors are greeted and dealt with.",
             "translation": "Quầy lễ tân, sự đón tiếp",
-            "concept": "Welcome area.",
+            "concept": "The place where you are welcomed.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["front desk", "lobby"],
+            "synonyms": ["front desk", "lobby", "welcome area"],
             "collocations": ["reception area", "wedding reception", "warm reception"],
             "contexts": [
                 {
@@ -105,13 +105,13 @@
         {
             "word": "corridor",
             "phonetic": "/ˈkɒr.ɪ.dɔːr/",
-            "meaning": "A long passage in a building from which doors lead into rooms.",
             "partOfSpeech": "Noun",
+            "meaning": "A long passage in a building from which doors lead into rooms.",
             "translation": "Hành lang",
-            "concept": "Passageway.",
+            "concept": "A hallway.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["hallway", "passage"],
+            "synonyms": ["hallway", "passage", "aisle"],
             "collocations": ["long corridor", "end of the corridor"],
             "contexts": [
                 {
@@ -124,13 +124,13 @@
         {
             "word": "basement",
             "phonetic": "/ˈbeɪs.mənt/",
-            "meaning": "The floor of a building which is partly or entirely below ground level.",
             "partOfSpeech": "Noun",
+            "meaning": "The floor of a building which is partly or entirely below ground level.",
             "translation": "Tầng hầm",
-            "concept": "Underground level.",
+            "concept": "The underground part of a building.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["cellar", "vault"],
+            "synonyms": ["cellar", "vault", "crypt"],
             "collocations": ["basement apartment", "finished basement"],
             "contexts": [
                 {
@@ -143,13 +143,13 @@
         {
             "word": "demonstration",
             "phonetic": "/ˌdem.ənˈstreɪ.ʃən/",
-            "meaning": "A practical exhibition and explanation of how something works or is performed.",
             "partOfSpeech": "Noun",
+            "meaning": "A practical exhibition and explanation of how something works or is performed.",
             "translation": "Sự minh họa, biểu diễn",
-            "concept": "Showing how.",
+            "concept": "Showing how to do something.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["display", "presentation", "demo"],
+            "synonyms": ["display", "presentation", "demo", "exhibition"],
             "collocations": ["cooking demonstration", "practical demonstration", "give a demonstration"],
             "contexts": [
                 {
@@ -162,13 +162,13 @@
         {
             "word": "adapt",
             "phonetic": "/əˈdæpt/",
-            "meaning": "Make (something) suitable for a new use or purpose; modify.",
             "partOfSpeech": "Verb",
+            "meaning": "Make (something) suitable for a new use or purpose; modify.",
             "translation": "Thích nghi, cải biên",
-            "concept": "Changing to fit.",
+            "concept": "To change something to fit a new purpose.",
             "register": "General",
             "grammar_note": "Transitive/Intransitive verb.",
-            "synonyms": ["modify", "adjust", "alter"],
+            "synonyms": ["modify", "adjust", "alter", "accommodate"],
             "collocations": ["adapt to", "be adapted for", "adapt a book"],
             "contexts": [
                 {
@@ -181,13 +181,13 @@
         {
             "word": "adaptation",
             "phonetic": "/ˌæd.æpˈteɪ.ʃən/",
-            "meaning": "A film, television drama, or stage play that has been adapted from a written work.",
             "partOfSpeech": "Noun",
+            "meaning": "A film, television drama, or stage play that has been adapted from a written work.",
             "translation": "Tác phẩm chuyển thể",
-            "concept": "Changed form of a story.",
+            "concept": "A version of a story in a different medium.",
             "register": "Academic/General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["version", "reworking"],
+            "synonyms": ["version", "reworking", "interpretation"],
             "collocations": ["film adaptation", "faithful adaptation", "screen adaptation"],
             "contexts": [
                 {
@@ -200,13 +200,13 @@
         {
             "word": "controversial",
             "phonetic": "/ˌkɒn.trəˈvɜː.ʃəl/",
-            "meaning": "Giving rise or likely to give rise to public disagreement.",
             "partOfSpeech": "Adjective",
+            "meaning": "Giving rise or likely to give rise to public disagreement.",
             "translation": "Gây tranh cãi",
-            "concept": "Causing arguments.",
+            "concept": "Causing a lot of argument.",
             "register": "General",
             "grammar_note": "Modifies 'issue', 'topic', 'decision'.",
-            "synonyms": ["contentious", "disputed", "divisive"],
+            "synonyms": ["contentious", "disputed", "divisive", "debatable"],
             "collocations": ["highly controversial", "controversial topic", "controversial figure"],
             "contexts": [
                 {
@@ -219,13 +219,13 @@
         {
             "word": "criticism",
             "phonetic": "/ˈkrɪt.ɪ.sɪ.zəm/",
-            "meaning": "The analysis and judgment of the merits and faults of a literary or artistic work.",
             "partOfSpeech": "Noun",
+            "meaning": "The analysis and judgment of the merits and faults of a literary or artistic work.",
             "translation": "Sự phê bình, chỉ trích",
-            "concept": "Evaluating pros and cons.",
+            "concept": "Analysis of good and bad points.",
             "register": "Academic/General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["critique", "evaluation", "review"],
+            "synonyms": ["critique", "evaluation", "review", "commentary"],
             "collocations": ["literary criticism", "constructive criticism", "accept criticism"],
             "contexts": [
                 {
@@ -238,13 +238,13 @@
         {
             "word": "portray",
             "phonetic": "/pɔːˈtreɪ/",
-            "meaning": "Depict (someone or something) in a work of art or literature.",
             "partOfSpeech": "Verb",
+            "meaning": "Depict (someone or something) in a work of art or literature.",
             "translation": "Khắc họa, miêu tả (nhân vật)",
-            "concept": "Showing a character.",
+            "concept": "To show or describe someone in a certain way.",
             "register": "Academic/Arts",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["depict", "represent", "characterize"],
+            "synonyms": ["depict", "represent", "characterize", "illustrate"],
             "collocations": ["portray a character", "accurately portray"],
             "contexts": [
                 {
@@ -257,13 +257,13 @@
         {
             "word": "character",
             "phonetic": "/ˈkær.ək.tər/",
-            "meaning": "A person in a novel, play, or movie.",
             "partOfSpeech": "Noun",
+            "meaning": "A person in a novel, play, or movie.",
             "translation": "Nhân vật",
-            "concept": "Person in a story.",
+            "concept": "A fictional person.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["role", "persona"],
+            "synonyms": ["role", "persona", "figure"],
             "collocations": ["main character", "minor character", "fictional character"],
             "contexts": [
                 {
@@ -276,13 +276,13 @@
         {
             "word": "setting",
             "phonetic": "/ˈset.ɪŋ/",
-            "meaning": "The place or type of surroundings where something is positioned or where an event takes place.",
             "partOfSpeech": "Noun",
+            "meaning": "The place or type of surroundings where something is positioned or where an event takes place.",
             "translation": "Bối cảnh, khung cảnh",
-            "concept": "Where/When a story happens.",
+            "concept": "Where and when a story happens.",
             "register": "General/Arts",
             "grammar_note": "Countable noun.",
-            "synonyms": ["background", "backdrop", "environment"],
+            "synonyms": ["background", "backdrop", "environment", "locale"],
             "collocations": ["rural setting", "historical setting", "beautiful setting"],
             "contexts": [
                 {
@@ -295,13 +295,13 @@
         {
             "word": "plot",
             "phonetic": "/plɒt/",
-            "meaning": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
             "partOfSpeech": "Noun",
+            "meaning": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
             "translation": "Cốt truyện",
-            "concept": "Storyline.",
+            "concept": "The sequence of events in a story.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["storyline", "narrative"],
+            "synonyms": ["storyline", "narrative", "scenario"],
             "collocations": ["complex plot", "plot twist", "follow the plot"],
             "contexts": [
                 {
@@ -314,13 +314,13 @@
         {
             "word": "genre",
             "phonetic": "/ˈʒɒn.rə/",
-            "meaning": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
             "partOfSpeech": "Noun",
+            "meaning": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
             "translation": "Thể loại (nghệ thuật)",
-            "concept": "Type of art.",
+            "concept": "A type or style of art.",
             "register": "Academic/Arts",
             "grammar_note": "Countable noun.",
-            "synonyms": ["category", "class", "style"],
+            "synonyms": ["category", "class", "style", "kind"],
             "collocations": ["literary genre", "film genre", "genre fiction"],
             "contexts": [
                 {
@@ -333,13 +333,13 @@
         {
             "word": "interpret",
             "phonetic": "/ɪnˈtɜː.prɪt/",
-            "meaning": "Perform (a dramatic role or piece of music) in a particular way that conveys one's understanding of the creator's ideas.",
             "partOfSpeech": "Verb",
+            "meaning": "Perform (a dramatic role or piece of music) in a particular way that conveys one's understanding of the creator's ideas.",
             "translation": "Diễn giải, thể hiện",
-            "concept": "Understanding/Showing meaning.",
+            "concept": "To perform something in your own way.",
             "register": "Academic/Arts",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["perform", "render", "act"],
+            "synonyms": ["perform", "render", "act", "execute"],
             "collocations": ["interpret a role", "interpret a song"],
             "contexts": [
                 {
@@ -352,13 +352,13 @@
         {
             "word": "complex",
             "phonetic": "/ˈkɒm.pleks/",
-            "meaning": "Consisting of many different and connected parts.",
             "partOfSpeech": "Adjective",
+            "meaning": "Consisting of many different and connected parts.",
             "translation": "Phức tạp",
-            "concept": "Hard to understand.",
+            "concept": "Not simple; having many parts.",
             "register": "General",
             "grammar_note": "Describes systems, ideas, plots.",
-            "synonyms": ["complicated", "intricate", "involved"],
+            "synonyms": ["complicated", "intricate", "involved", "elaborate"],
             "collocations": ["complex issue", "complex system", "complex plot"],
             "contexts": [
                 {
@@ -371,13 +371,13 @@
         {
             "word": "expand",
             "phonetic": "/ɪkˈspænd/",
-            "meaning": "Become or make larger or more extensive.",
             "partOfSpeech": "Verb",
+            "meaning": "Become or make larger or more extensive.",
             "translation": "Mở rộng, phát triển",
-            "concept": "Getting bigger.",
+            "concept": "To make something bigger.",
             "register": "General",
             "grammar_note": "Transitive/Intransitive verb.",
-            "synonyms": ["enlarge", "extend", "grow"],
+            "synonyms": ["enlarge", "extend", "grow", "broaden"],
             "collocations": ["expand the range", "expand knowledge", "rapidly expand"],
             "contexts": [
                 {
@@ -390,13 +390,13 @@
         {
             "word": "redevelop",
             "phonetic": "/ˌriː.dɪˈvel.əp/",
-            "meaning": "Develop (something) again or differently.",
             "partOfSpeech": "Verb",
+            "meaning": "Develop (something) again or differently.",
             "translation": "Quy hoạch lại, xây dựng lại",
-            "concept": "Improving an area.",
+            "concept": "To improve an area by building new things.",
             "register": "Formal/Technical",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["renovate", "revamp", "modernize"],
+            "synonyms": ["renovate", "revamp", "modernize", "rebuild"],
             "collocations": ["redevelop an area", "redevelop a site"],
             "contexts": [
                 {
@@ -409,13 +409,13 @@
         {
             "word": "fragile",
             "phonetic": "/ˈfrædʒ.aɪl/",
-            "meaning": "Easily broken or damaged.",
             "partOfSpeech": "Adjective",
+            "meaning": "Easily broken or damaged.",
             "translation": "Mong manh, dễ vỡ",
-            "concept": "Delicate.",
+            "concept": "Easily broken.",
             "register": "General",
             "grammar_note": "Describes objects, health, ecosystems.",
-            "synonyms": ["delicate", "frail", "brittle"],
+            "synonyms": ["delicate", "frail", "brittle", "vulnerable"],
             "collocations": ["fragile ecosystem", "fragile item", "handle with care"],
             "contexts": [
                 {
@@ -428,8 +428,8 @@
         {
             "word": "interactive",
             "phonetic": "/ˌɪn.təˈræk.tɪv/",
-            "meaning": "Allowing a two-way flow of information between a computer and a computer-user; responding to a user's input.",
             "partOfSpeech": "Adjective",
+            "meaning": "Allowing a two-way flow of information between a computer and a computer-user; responding to a user's input.",
             "translation": "Tương tác",
             "concept": "Involving user participation.",
             "register": "General",
@@ -447,10 +447,10 @@
         {
             "word": "temporary",
             "phonetic": "/ˈtem.pər.ər.i/",
-            "meaning": "Lasting for only a limited period of time; not permanent.",
             "partOfSpeech": "Adjective",
+            "meaning": "Lasting for only a limited period of time; not permanent.",
             "translation": "Tạm thời",
-            "concept": "Short-term.",
+            "concept": "Not lasting forever.",
             "register": "General",
             "grammar_note": "Opposite of 'permanent'.",
             "synonyms": ["provisional", "short-term", "interim"],
@@ -466,10 +466,10 @@
         {
             "word": "collection",
             "phonetic": "/kəˈlek.ʃən/",
-            "meaning": "A group of things or people.",
             "partOfSpeech": "Noun",
+            "meaning": "A group of things or people.",
             "translation": "Bộ sưu tập",
-            "concept": "Group of items.",
+            "concept": "A group of objects collected together.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["assemblage", "assortment", "accumulation"],
@@ -485,10 +485,10 @@
         {
             "word": "admission",
             "phonetic": "/ədˈmɪʃ.ən/",
-            "meaning": "The process or fact of entering or being allowed to enter a place, organization, or institution.",
             "partOfSpeech": "Noun",
+            "meaning": "The process or fact of entering or being allowed to enter a place, organization, or institution.",
             "translation": "Sự vào cửa, phí vào cửa",
-            "concept": "Right to enter.",
+            "concept": "The cost or right to enter.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
             "synonyms": ["entry", "access", "entrance"],
@@ -504,10 +504,10 @@
         {
             "word": "donation",
             "phonetic": "/dəʊˈneɪ.ʃən/",
-            "meaning": "Something that is given to a charity, especially a sum of money.",
             "partOfSpeech": "Noun",
+            "meaning": "Something that is given to a charity, especially a sum of money.",
             "translation": "Sự quyên góp, tiền ủng hộ",
-            "concept": "Giving money.",
+            "concept": "Money given to help.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
             "synonyms": ["contribution", "gift", "offering"],
@@ -523,10 +523,10 @@
         {
             "word": "audio guide",
             "phonetic": "/ˈɔː.di.əʊ ɡaɪd/",
-            "meaning": "A handheld device that plays recorded commentary on the exhibits in a museum or gallery.",
             "partOfSpeech": "Noun",
+            "meaning": "A handheld device that plays recorded commentary on the exhibits in a museum or gallery.",
             "translation": "Hướng dẫn âm thanh",
-            "concept": "Recorded tour.",
+            "concept": "A device that tells you about exhibits.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": [],
@@ -542,13 +542,13 @@
         {
             "word": "souvenir",
             "phonetic": "/ˌsuː.vənˈɪər/",
-            "meaning": "A thing that is kept as a reminder of a person, place, or event.",
             "partOfSpeech": "Noun",
+            "meaning": "A thing that is kept as a reminder of a person, place, or event.",
             "translation": "Đồ lưu niệm",
-            "concept": "Memory item.",
+            "concept": "Something to help you remember a place.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["memento", "keepsake", "reminder"],
+            "synonyms": ["memento", "keepsake", "reminder", "token"],
             "collocations": ["buy a souvenir", "souvenir shop"],
             "contexts": [
                 {
@@ -561,10 +561,10 @@
         {
             "word": "cafeteria",
             "phonetic": "/ˌkæf.əˈtɪə.ri.ə/",
-            "meaning": "A restaurant or dining room in a school or a business in which customers serve themselves or are served from a counter.",
             "partOfSpeech": "Noun",
+            "meaning": "A restaurant or dining room in a school or a business in which customers serve themselves or are served from a counter.",
             "translation": "Quán ăn tự phục vụ",
-            "concept": "Self-service food place.",
+            "concept": "A place to eat where you serve yourself.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["canteen", "diner"],
@@ -580,10 +580,10 @@
         {
             "word": "cloakroom",
             "phonetic": "/ˈkləʊk.ruːm/",
-            "meaning": "A room in a public building where outdoor clothes or luggage may be left.",
             "partOfSpeech": "Noun",
+            "meaning": "A room in a public building where outdoor clothes or luggage may be left.",
             "translation": "Phòng giữ đồ",
-            "concept": "Place for bags/coats.",
+            "concept": "A place to leave coats and bags.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["checkroom"],
@@ -599,10 +599,10 @@
         {
             "word": "accessible",
             "phonetic": "/əkˈses.ə.bəl/",
-            "meaning": "(of a place) able to be reached or entered.",
             "partOfSpeech": "Adjective",
+            "meaning": "(of a place) able to be reached or entered.",
             "translation": "Có thể tiếp cận, lối vào cho người khuyết tật",
-            "concept": "Easy to reach/enter.",
+            "concept": "Easy to get into.",
             "register": "General",
             "grammar_note": "Followed by 'to'.",
             "synonyms": ["reachable", "approachable", "available"],
@@ -618,10 +618,10 @@
         {
             "word": "stairs",
             "phonetic": "/steəz/",
-            "meaning": "A set of steps leading from one floor of a building to another.",
             "partOfSpeech": "Noun",
+            "meaning": "A set of steps leading from one floor of a building to another.",
             "translation": "Cầu thang bộ",
-            "concept": "Steps for walking up/down.",
+            "concept": "Steps for walking up or down.",
             "register": "General",
             "grammar_note": "Plural noun.",
             "synonyms": ["staircase", "steps"],
@@ -637,12 +637,12 @@
         {
             "word": "lift",
             "phonetic": "/lɪft/",
-            "meaning": "A platform or compartment housed in a shaft for raising and lowering people or things to different floors or levels.",
             "partOfSpeech": "Noun",
+            "meaning": "A platform or compartment housed in a shaft for raising and lowering people or things to different floors or levels.",
             "translation": "Thang máy",
-            "concept": "Elevator.",
+            "concept": "Machine to move people up and down. 'Elevator' is the US term.",
             "register": "General (UK)",
-            "grammar_note": "Countable noun. 'Elevator' in US English.",
+            "grammar_note": "Countable noun.",
             "synonyms": ["elevator"],
             "collocations": ["take the lift", "lift out of order"],
             "contexts": [
@@ -656,10 +656,10 @@
         {
             "word": "workshop",
             "phonetic": "/ˈwɜːk.ʃɒp/",
-            "meaning": "A meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.",
             "partOfSpeech": "Noun",
+            "meaning": "A meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.",
             "translation": "Buổi hội thảo, lớp học thực hành",
-            "concept": "Interactive learning.",
+            "concept": "A class where you do things.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["seminar", "class", "session"],

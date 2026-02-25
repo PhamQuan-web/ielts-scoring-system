@@ -1,8 +1,8 @@
 {
-    "id": "cambridge_18_test_4",
+    "id": "cambridge_18_reading_test_4",
     "title": "Cambridge 18 - Reading Test 4",
-    "description": "Full B2+ vocabulary for Green Roofs, Alfred Wegener, and Psychology (Growth Mindset).",
-    "wordCount": 35,
+    "description": "Full B2+ academic vocabulary from Reading Test 4 (Green Roofs, Alfred Wegener, Psychology/Growth Mindset).",
+    "wordCount": 45,
     "category": "Reading",
     "color": "from-orange-500 to-red-700",
     "isPro": true,
@@ -10,13 +10,13 @@
         {
             "word": "impediment",
             "phonetic": "/ɪmˈped.ɪ.mənt/",
-            "meaning": "A hindrance or obstruction in doing something.",
             "partOfSpeech": "Noun",
+            "meaning": "A hindrance or obstruction in doing something.",
             "translation": "Chướng ngại vật, sự cản trở",
-            "concept": "Something that slows down progress.",
+            "concept": "Something that makes progress difficult or impossible.",
             "register": "Formal",
-            "grammar_note": "Countable noun.",
-            "synonyms": ["hindrance", "obstruction", "obstacle"],
+            "grammar_note": "Countable noun. Often followed by 'to'.",
+            "synonyms": ["hindrance", "obstruction", "obstacle", "barrier"],
             "collocations": ["major impediment", "speech impediment", "impediment to progress"],
             "contexts": [
                 {
@@ -29,13 +29,13 @@
         {
             "word": "dissonance",
             "phonetic": "/ˈdɪs.ən.əns/",
-            "meaning": "Lack of harmony among musical notes; tension or clash resulting from the combination of two disharmonious or unsuitable elements.",
             "partOfSpeech": "Noun",
+            "meaning": "Lack of harmony; tension or clash resulting from the combination of two disharmonious or unsuitable elements.",
             "translation": "Sự bất hòa, mâu thuẫn (âm thanh hoặc ý kiến)",
-            "concept": "Conflict or lack of agreement.",
+            "concept": "Often used in 'cognitive dissonance' to describe mental discomfort from conflicting beliefs.",
             "register": "Formal/Academic",
             "grammar_note": "Uncountable/Countable.",
-            "synonyms": ["discord", "conflict", "disagreement"],
+            "synonyms": ["discord", "conflict", "disagreement", "incongruity"],
             "collocations": ["cognitive dissonance", "create dissonance", "resolve dissonance"],
             "contexts": [
                 {
@@ -48,13 +48,13 @@
         {
             "word": "innate",
             "phonetic": "/ɪˈneɪt/",
-            "meaning": "Inborn; natural.",
             "partOfSpeech": "Adjective",
+            "meaning": "Inborn; natural.",
             "translation": "Bẩm sinh",
-            "concept": "Born with it, not learned.",
+            "concept": "Existing from birth, not learned.",
             "register": "Academic",
             "grammar_note": "Modifies 'ability', 'quality', 'knowledge'.",
-            "synonyms": ["inborn", "natural", "inherent"],
+            "synonyms": ["inborn", "natural", "inherent", "congenital"],
             "collocations": ["innate ability", "innate talent", "innate immune system"],
             "contexts": [
                 {
@@ -67,13 +67,13 @@
         {
             "word": "supplant",
             "phonetic": "/səˈplɑːnt/",
-            "meaning": "Supersede and replace.",
             "partOfSpeech": "Verb",
+            "meaning": "Supersede and replace.",
             "translation": "Thay thế (cái cũ bằng cái mới tốt hơn)",
-            "concept": "Taking the place of something else.",
+            "concept": "Implies taking the place of something that was there before, often by force or superiority.",
             "register": "Formal",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["replace", "supersede", "displace"],
+            "synonyms": ["replace", "supersede", "displace", "oust"],
             "collocations": ["supplant a rival", "be supplanted by", "completely supplant"],
             "contexts": [
                 {
@@ -86,13 +86,13 @@
         {
             "word": "inherent",
             "phonetic": "/ɪnˈher.ənt/",
-            "meaning": "Existing in something as a permanent, essential, or characteristic attribute.",
             "partOfSpeech": "Adjective",
+            "meaning": "Existing in something as a permanent, essential, or characteristic attribute.",
             "translation": "Vốn có, cố hữu",
-            "concept": "Part of the essential nature.",
+            "concept": "An inseparable part of the nature of something.",
             "register": "Formal",
             "grammar_note": "Followed by 'in'.",
-            "synonyms": ["intrinsic", "innate", "built-in"],
+            "synonyms": ["intrinsic", "innate", "built-in", "immanent"],
             "collocations": ["inherent risk", "inherent value", "inherent problem"],
             "contexts": [
                 {
@@ -105,13 +105,13 @@
         {
             "word": "intervention",
             "phonetic": "/ˌɪn.təˈven.ʃən/",
-            "meaning": "The action or process of intervening.",
             "partOfSpeech": "Noun",
+            "meaning": "The action or process of intervening.",
             "translation": "Sự can thiệp",
-            "concept": "Stepping in to help or change.",
+            "concept": "Stepping in to help, prevent, or modify a situation.",
             "register": "Formal/Academic",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["involvement", "intercession"],
+            "synonyms": ["involvement", "intercession", "interference"],
             "collocations": ["government intervention", "early intervention", "medical intervention"],
             "contexts": [
                 {
@@ -124,13 +124,13 @@
         {
             "word": "quantify",
             "phonetic": "/ˈkwɒn.tɪ.faɪ/",
-            "meaning": "Express or measure the quantity of.",
             "partOfSpeech": "Verb",
+            "meaning": "Express or measure the quantity of.",
             "translation": "Định lượng, đo lường bằng số",
-            "concept": "Turning something into numbers.",
+            "concept": "To express something in numbers.",
             "register": "Academic/Scientific",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["measure", "calculate", "compute"],
+            "synonyms": ["measure", "calculate", "compute", "evaluate"],
             "collocations": ["difficult to quantify", "quantify the impact", "quantify results"],
             "contexts": [
                 {
@@ -143,13 +143,13 @@
         {
             "word": "instill",
             "phonetic": "/ɪnˈstɪl/",
-            "meaning": "Gradually but firmly establish (an idea or attitude) in a person's mind.",
             "partOfSpeech": "Verb",
+            "meaning": "Gradually but firmly establish (an idea or attitude) in a person's mind.",
             "translation": "Thấm nhuần, làm cho nhiễm",
-            "concept": "Teaching something slowly over time.",
+            "concept": "Teaching or introducing an idea slowly over time.",
             "register": "Formal",
             "grammar_note": "Transitive verb. Followed by 'in' or 'into'.",
-            "synonyms": ["inculcate", "implant", "infuse"],
+            "synonyms": ["inculcate", "implant", "infuse", "indoctrinate"],
             "collocations": ["instill confidence", "instill discipline", "instill values"],
             "contexts": [
                 {
@@ -162,8 +162,8 @@
         {
             "word": "continental",
             "phonetic": "/ˌkɒn.tɪˈnen.təl/",
-            "meaning": "Forming or belonging to a continent.",
             "partOfSpeech": "Adjective",
+            "meaning": "Forming or belonging to a continent.",
             "translation": "Thuộc lục địa",
             "concept": "Relating to large landmasses.",
             "register": "General/Scientific",
@@ -181,13 +181,13 @@
         {
             "word": "hypothesis",
             "phonetic": "/haɪˈpɒθ.ə.sɪs/",
-            "meaning": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
             "partOfSpeech": "Noun",
+            "meaning": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
             "translation": "Giả thuyết",
-            "concept": "An idea to be tested.",
+            "concept": "A tentative explanation to be tested.",
             "register": "Scientific/Academic",
             "grammar_note": "Countable noun. Plural: hypotheses.",
-            "synonyms": ["theory", "proposition", "premise"],
+            "synonyms": ["theory", "proposition", "premise", "conjecture"],
             "collocations": ["test a hypothesis", "formulate a hypothesis", "working hypothesis"],
             "contexts": [
                 {
@@ -200,13 +200,13 @@
         {
             "word": "skepticism",
             "phonetic": "/ˈskep.tɪ.sɪ.zəm/",
-            "meaning": "A skeptical attitude; doubt as to the truth of something.",
             "partOfSpeech": "Noun",
+            "meaning": "A skeptical attitude; doubt as to the truth of something.",
             "translation": "Thái độ hoài nghi",
-            "concept": "Not believing immediately.",
+            "concept": "Doubt or disbelief, often requiring proof.",
             "register": "Formal",
             "grammar_note": "Uncountable noun.",
-            "synonyms": ["doubt", "disbelief", "cynicism"],
+            "synonyms": ["doubt", "disbelief", "cynicism", "distrust"],
             "collocations": ["deep skepticism", "view with skepticism", "growing skepticism"],
             "contexts": [
                 {
@@ -219,13 +219,13 @@
         {
             "word": "plausible",
             "phonetic": "/ˈplɔː.zə.bəl/",
-            "meaning": "(of an argument or statement) seeming reasonable or probable.",
             "partOfSpeech": "Adjective",
+            "meaning": "(of an argument or statement) seeming reasonable or probable.",
             "translation": "Hợp lý, đáng tin cậy",
-            "concept": "Believable.",
+            "concept": "Believable and possibly true.",
             "register": "General/Formal",
             "grammar_note": "Modifies 'explanation', 'excuse', 'theory'.",
-            "synonyms": ["credible", "reasonable", "believable"],
+            "synonyms": ["credible", "reasonable", "believable", "conceivable"],
             "collocations": ["plausible explanation", "sound plausible", "entirely plausible"],
             "contexts": [
                 {
@@ -238,10 +238,10 @@
         {
             "word": "drainage",
             "phonetic": "/ˈdreɪ.nɪdʒ/",
-            "meaning": "The action or process of draining something.",
             "partOfSpeech": "Noun",
+            "meaning": "The action or process of draining something.",
             "translation": "Hệ thống thoát nước",
-            "concept": "Removing excess water.",
+            "concept": "System or process of removing water.",
             "register": "General/Technical",
             "grammar_note": "Uncountable noun.",
             "synonyms": [],
@@ -257,13 +257,13 @@
         {
             "word": "insulation",
             "phonetic": "/ˌɪn.sjəˈleɪ.ʃən/",
-            "meaning": "The action of insulating something or someone; material used to insulate something.",
             "partOfSpeech": "Noun",
+            "meaning": "The action of insulating something or someone; material used to insulate something.",
             "translation": "Sự cách nhiệt (hoặc cách âm)",
-            "concept": "Protection from heat/cold/sound.",
+            "concept": "Material or process used to prevent heat/sound transfer.",
             "register": "General/Technical",
             "grammar_note": "Uncountable noun.",
-            "synonyms": ["protection", "padding"],
+            "synonyms": ["protection", "padding", "lagging"],
             "collocations": ["thermal insulation", "sound insulation", "provide insulation"],
             "contexts": [
                 {
@@ -276,10 +276,10 @@
         {
             "word": "biodiversity",
             "phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
-            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
             "partOfSpeech": "Noun",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
             "translation": "Đa dạng sinh học",
-            "concept": "Richness of life.",
+            "concept": "The richness of different life forms in an area.",
             "register": "Scientific/Academic",
             "grammar_note": "Uncountable noun.",
             "synonyms": [],
@@ -293,15 +293,34 @@
             "level": "seed"
         },
         {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Make less severe, serious, or painful.",
+            "translation": "Giảm nhẹ, làm dịu bớt",
+            "concept": "Reducing the harmful effects of something.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["alleviate", "reduce", "diminish", "lessen"],
+            "collocations": ["mitigate risk", "mitigate the impact", "mitigate climate change"],
+            "contexts": [
+                {
+                    "sentence": "Green roofs help mitigate the urban heat island effect.",
+                    "translation": "Mái nhà xanh giúp giảm nhẹ hiệu ứng đảo nhiệt đô thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
             "word": "absorb",
             "phonetic": "/əbˈzɔːb/",
-            "meaning": "Take in or soak up (energy or a liquid or other substance) by chemical or physical action.",
             "partOfSpeech": "Verb",
+            "meaning": "Take in or soak up (energy or a liquid or other substance) by chemical or physical action.",
             "translation": "Hấp thụ, thấm",
-            "concept": "Taking something in.",
+            "concept": "Taking something in completely.",
             "register": "General/Scientific",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["soak up", "take in"],
+            "synonyms": ["soak up", "take in", "imbibe"],
             "collocations": ["absorb water", "absorb shock", "absorb information"],
             "contexts": [
                 {
@@ -314,13 +333,13 @@
         {
             "word": "controversy",
             "phonetic": "/ˈkɒn.trə.vɜː.si/",
-            "meaning": "Disagreement, typically when prolonged, public, and heated.",
             "partOfSpeech": "Noun",
+            "meaning": "Disagreement, typically when prolonged, public, and heated.",
             "translation": "Sự tranh cãi, cuộc tranh luận",
-            "concept": "Public disagreement.",
+            "concept": "A prolonged public disagreement.",
             "register": "General/Formal",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["dispute", "argument", "debate"],
+            "synonyms": ["dispute", "argument", "debate", "contention"],
             "collocations": ["cause controversy", "subject of controversy", "political controversy"],
             "contexts": [
                 {
@@ -333,13 +352,13 @@
         {
             "word": "validation",
             "phonetic": "/ˌvæl.ɪˈdeɪ.ʃən/",
-            "meaning": "The action of checking or proving the validity or accuracy of something.",
             "partOfSpeech": "Noun",
+            "meaning": "The action of checking or proving the validity or accuracy of something.",
             "translation": "Sự thẩm định, xác nhận, phê chuẩn",
-            "concept": "Confirming something is true/correct.",
+            "concept": "The process of proving something is correct or valid.",
             "register": "Formal",
             "grammar_note": "Uncountable noun.",
-            "synonyms": ["confirmation", "verification", "proof"],
+            "synonyms": ["confirmation", "verification", "proof", "substantiation"],
             "collocations": ["seek validation", "external validation", "scientific validation"],
             "contexts": [
                 {
@@ -352,13 +371,13 @@
         {
             "word": "resilient",
             "phonetic": "/rɪˈzɪl.i.ənt/",
-            "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
             "partOfSpeech": "Adjective",
+            "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
             "translation": "Kiên cường, có khả năng hồi phục nhanh",
-            "concept": "Bouncing back from trouble.",
+            "concept": "Able to bounce back from adversity.",
             "register": "General",
             "grammar_note": "Describes people, economies, materials.",
-            "synonyms": ["strong", "tough", "hardy"],
+            "synonyms": ["strong", "tough", "hardy", "robust"],
             "collocations": ["resilient economy", "highly resilient", "remain resilient"],
             "contexts": [
                 {
@@ -371,13 +390,13 @@
         {
             "word": "mainstream",
             "phonetic": "/ˈmeɪn.striːm/",
-            "meaning": "The ideas, attitudes, or activities that are regarded as normal or conventional; the dominant trend in opinion, fashion, or the arts.",
             "partOfSpeech": "Adjective",
+            "meaning": "The ideas, attitudes, or activities that are regarded as normal or conventional; the dominant trend in opinion, fashion, or the arts.",
             "translation": "Chính thống, chủ đạo",
-            "concept": "Accepted by most people.",
+            "concept": "Representing the majority or dominant trend.",
             "register": "General",
             "grammar_note": "Can be a noun or adjective.",
-            "synonyms": ["conventional", "orthodox", "prevailing"],
+            "synonyms": ["conventional", "orthodox", "prevailing", "established"],
             "collocations": ["mainstream media", "mainstream culture", "go mainstream"],
             "contexts": [
                 {
@@ -390,10 +409,10 @@
         {
             "word": "geological",
             "phonetic": "/ˌdʒiː.əˈlɒdʒ.ɪ.kəl/",
-            "meaning": "Relating to the study of the earth's physical structure and substance.",
             "partOfSpeech": "Adjective",
+            "meaning": "Relating to the study of the earth's physical structure and substance.",
             "translation": "Thuộc về địa chất",
-            "concept": "Relating to rocks and earth structure.",
+            "concept": "Related to geology.",
             "register": "Scientific/Academic",
             "grammar_note": "Modifies 'survey', 'time', 'features'.",
             "synonyms": [],
@@ -409,13 +428,13 @@
         {
             "word": "mechanism",
             "phonetic": "/ˈmek.ə.nɪ.zəm/",
-            "meaning": "A natural or established process by which something takes place or is brought about.",
             "partOfSpeech": "Noun",
+            "meaning": "A natural or established process by which something takes place or is brought about.",
             "translation": "Cơ chế",
-            "concept": "How a process works.",
+            "concept": "The way something works or happens.",
             "register": "General/Scientific",
             "grammar_note": "Countable noun.",
-            "synonyms": ["process", "procedure", "method"],
+            "synonyms": ["process", "procedure", "method", "system"],
             "collocations": ["defense mechanism", "mechanism of action"],
             "contexts": [
                 {
@@ -428,13 +447,13 @@
         {
             "word": "concur",
             "phonetic": "/kənˈkɜːr/",
-            "meaning": "Be of the same opinion; agree.",
             "partOfSpeech": "Verb",
+            "meaning": "Be of the same opinion; agree.",
             "translation": "Đồng ý, tán thành",
-            "concept": "Formal agreement.",
+            "concept": "To agree formally.",
             "register": "Formal",
             "grammar_note": "Intransitive verb. Followed by 'with'.",
-            "synonyms": ["agree", "coincide"],
+            "synonyms": ["agree", "coincide", "assent"],
             "collocations": ["concur with", "fully concur"],
             "contexts": [
                 {
@@ -447,13 +466,13 @@
         {
             "word": "specimen",
             "phonetic": "/ˈspes.ə.mɪn/",
-            "meaning": "An individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display.",
             "partOfSpeech": "Noun",
+            "meaning": "An individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display.",
             "translation": "Mẫu vật",
-            "concept": "Example for study.",
+            "concept": "A sample used for study.",
             "register": "Scientific",
             "grammar_note": "Countable noun.",
-            "synonyms": ["sample", "example"],
+            "synonyms": ["sample", "example", "exhibit"],
             "collocations": ["collect specimens", "museum specimen"],
             "contexts": [
                 {
@@ -466,13 +485,13 @@
         {
             "word": "colleague",
             "phonetic": "/ˈkɒl.iːɡ/",
-            "meaning": "A person with whom one works, especially in a profession or business.",
             "partOfSpeech": "Noun",
+            "meaning": "A person with whom one works, especially in a profession or business.",
             "translation": "Đồng nghiệp",
-            "concept": "Co-worker.",
+            "concept": "Person you work with.",
             "register": "General/Formal",
             "grammar_note": "Countable noun.",
-            "synonyms": ["coworker", "associate"],
+            "synonyms": ["coworker", "associate", "partner"],
             "collocations": ["senior colleague", "trusted colleague"],
             "contexts": [
                 {
@@ -485,10 +504,10 @@
         {
             "word": "fixed mindset",
             "phonetic": "/fɪkst ˈmaɪnd.set/",
-            "meaning": "The belief that one's basic qualities, like intelligence or talent, are simply fixed traits.",
             "partOfSpeech": "Noun",
+            "meaning": "The belief that one's basic qualities, like intelligence or talent, are simply fixed traits.",
             "translation": "Tư duy cố định",
-            "concept": "Psychological term: belief that ability can't change.",
+            "concept": "Belief that ability cannot change.",
             "register": "Academic/Psychology",
             "grammar_note": "Countable noun.",
             "synonyms": [],
@@ -504,10 +523,10 @@
         {
             "word": "growth mindset",
             "phonetic": "/ɡrəʊθ ˈmaɪnd.set/",
-            "meaning": "The belief that one's abilities can be developed through dedication and hard work.",
             "partOfSpeech": "Noun",
+            "meaning": "The belief that one's abilities can be developed through dedication and hard work.",
             "translation": "Tư duy cầu tiến (tư duy phát triển)",
-            "concept": "Psychological term: belief that ability can grow.",
+            "concept": "Belief that ability can grow.",
             "register": "Academic/Psychology",
             "grammar_note": "Countable noun.",
             "synonyms": [],
@@ -523,13 +542,13 @@
         {
             "word": "persistence",
             "phonetic": "/pəˈsɪs.təns/",
-            "meaning": "Firm or obstinate continuance in a course of action in spite of difficulty or opposition.",
             "partOfSpeech": "Noun",
+            "meaning": "Firm or obstinate continuance in a course of action in spite of difficulty or opposition.",
             "translation": "Sự kiên trì, bền bỉ",
-            "concept": "Not giving up.",
+            "concept": "Continuing despite difficulty.",
             "register": "General",
             "grammar_note": "Uncountable noun.",
-            "synonyms": ["perseverance", "determination", "tenacity"],
+            "synonyms": ["perseverance", "determination", "tenacity", "endurance"],
             "collocations": ["show persistence", "dogged persistence"],
             "contexts": [
                 {
@@ -542,13 +561,13 @@
         {
             "word": "praise",
             "phonetic": "/preɪz/",
-            "meaning": "Express warm approval or admiration of.",
             "partOfSpeech": "Verb",
+            "meaning": "Express warm approval or admiration of.",
             "translation": "Khen ngợi, ca ngợi",
-            "concept": "Giving positive feedback.",
+            "concept": "Expressing approval.",
             "register": "General",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["commend", "applaud", "compliment"],
+            "synonyms": ["commend", "applaud", "compliment", "extol"],
             "collocations": ["praise for", "highly praised"],
             "contexts": [
                 {
@@ -561,13 +580,13 @@
         {
             "word": "setback",
             "phonetic": "/ˈset.bæk/",
-            "meaning": "A reversal or check in progress.",
             "partOfSpeech": "Noun",
+            "meaning": "A reversal or check in progress.",
             "translation": "Sự thoái trào, thất bại tạm thời",
-            "concept": "A problem that delays progress.",
+            "concept": "An event that delays progress.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["problem", "difficulty", "hitch"],
+            "synonyms": ["problem", "difficulty", "hitch", "blow"],
             "collocations": ["major setback", "temporary setback", "suffer a setback"],
             "contexts": [
                 {
@@ -580,13 +599,13 @@
         {
             "word": "embrace",
             "phonetic": "/ɪmˈbreɪs/",
-            "meaning": "Accept or support (a belief, theory, or change) willingly and enthusiastically.",
             "partOfSpeech": "Verb",
+            "meaning": "Accept or support (a belief, theory, or change) willingly and enthusiastically.",
             "translation": "Đón nhận, chấp nhận",
-            "concept": "Welcoming something new.",
+            "concept": "Accepting something with enthusiasm.",
             "register": "Formal/General",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["welcome", "accept", "adopt"],
+            "synonyms": ["welcome", "accept", "adopt", "espouse"],
             "collocations": ["embrace change", "embrace an idea"],
             "contexts": [
                 {
@@ -599,13 +618,13 @@
         {
             "word": "constructive",
             "phonetic": "/kənˈstrʌk.tɪv/",
-            "meaning": "Serving a useful purpose; tending to build up.",
             "partOfSpeech": "Adjective",
+            "meaning": "Serving a useful purpose; tending to build up.",
             "translation": "Mang tính xây dựng",
-            "concept": "Helpful, positive.",
+            "concept": "Helpful and positive, especially of criticism.",
             "register": "General",
-            "grammar_note": "Modifies 'criticism', 'feedback'.",
-            "synonyms": ["helpful", "positive", "productive"],
+            "grammar_note": "Modifies 'criticism', 'feedback', 'dialogue'.",
+            "synonyms": ["helpful", "positive", "productive", "beneficial"],
             "collocations": ["constructive criticism", "constructive feedback"],
             "contexts": [
                 {
@@ -618,13 +637,13 @@
         {
             "word": "motivation",
             "phonetic": "/ˌməʊ.tɪˈveɪ.ʃən/",
-            "meaning": "The reason or reasons one has for acting or behaving in a particular way.",
             "partOfSpeech": "Noun",
+            "meaning": "The reason or reasons one has for acting or behaving in a particular way.",
             "translation": "Động lực",
-            "concept": "Internal drive.",
+            "concept": "Internal drive to do something.",
             "register": "General",
             "grammar_note": "Uncountable/Countable.",
-            "synonyms": ["drive", "incentive", "inspiration"],
+            "synonyms": ["drive", "incentive", "inspiration", "stimulus"],
             "collocations": ["lack of motivation", "high motivation", "intrinsic motivation"],
             "contexts": [
                 {
@@ -637,13 +656,13 @@
         {
             "word": "effort",
             "phonetic": "/ˈef.ət/",
-            "meaning": "A vigorous or determined attempt.",
             "partOfSpeech": "Noun",
+            "meaning": "A vigorous or determined attempt.",
             "translation": "Nỗ lực",
-            "concept": "Hard work.",
+            "concept": "Hard work towards a goal.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["attempt", "endeavor", "exertion"],
+            "synonyms": ["attempt", "endeavor", "exertion", "striving"],
             "collocations": ["make an effort", "concerted effort", "wasted effort"],
             "contexts": [
                 {
@@ -656,13 +675,13 @@
         {
             "word": "underestimate",
             "phonetic": "/ˌʌn.dəˈres.tɪ.meɪt/",
-            "meaning": "Estimate something to be smaller or less important than it actually is.",
             "partOfSpeech": "Verb",
+            "meaning": "Estimate something to be smaller or less important than it actually is.",
             "translation": "Đánh giá thấp",
-            "concept": "Value too low.",
+            "concept": "To think less of someone or something than they deserve.",
             "register": "General",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["undervalue", "underrate"],
+            "synonyms": ["undervalue", "underrate", "minimize"],
             "collocations": ["grossly underestimate", "underestimate the importance"],
             "contexts": [
                 {

@@ -10,13 +10,13 @@
         {
             "word": "competition",
             "phonetic": "/ˌkɒm.pəˈtɪʃ.ən/",
-            "meaning": "An event or contest in which people take part in order to establish superiority or supremacy in a particular area.",
             "partOfSpeech": "Noun",
+            "meaning": "An event or contest in which people take part in order to establish superiority or supremacy in a particular area.",
             "translation": "Cuộc thi, sự cạnh tranh",
-            "concept": "Contest to win.",
+            "concept": "An event where people try to be the best.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["contest", "tournament", "match"],
+            "synonyms": ["contest", "tournament", "match", "championship"],
             "collocations": ["enter a competition", "win a competition", "fierce competition"],
             "contexts": [
                 {
@@ -29,13 +29,13 @@
         {
             "word": "theme",
             "phonetic": "/θiːm/",
-            "meaning": "The subject of a talk, piece of writing, exhibition, etc.; a topic.",
             "partOfSpeech": "Noun",
+            "meaning": "The subject of a talk, piece of writing, exhibition, etc.; a topic.",
             "translation": "Chủ đề, đề tài",
-            "concept": "Central idea.",
+            "concept": "The main idea or subject.",
             "register": "General/Academic",
             "grammar_note": "Countable noun.",
-            "synonyms": ["topic", "subject", "motif"],
+            "synonyms": ["topic", "subject", "motif", "idea"],
             "collocations": ["main theme", "central theme", "recurring theme"],
             "contexts": [
                 {
@@ -48,13 +48,13 @@
         {
             "word": "composition",
             "phonetic": "/ˌkɒm.pəˈzɪʃ.ən/",
-            "meaning": "The artistic arrangement of the parts of a picture.",
             "partOfSpeech": "Noun",
+            "meaning": "The artistic arrangement of the parts of a picture.",
             "translation": "Bố cục (nghệ thuật)",
-            "concept": "Arrangement of elements.",
+            "concept": "How elements are arranged in art.",
             "register": "Artistic/Technical",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["arrangement", "layout", "configuration"],
+            "synonyms": ["arrangement", "layout", "configuration", "design"],
             "collocations": ["balanced composition", "musical composition", "color composition"],
             "contexts": [
                 {
@@ -67,13 +67,13 @@
         {
             "word": "interpret",
             "phonetic": "/ɪnˈtɜː.prɪt/",
-            "meaning": "Understand (an action, mood, or way of behaving) as having a particular meaning or significance.",
             "partOfSpeech": "Verb",
+            "meaning": "Understand (an action, mood, or way of behaving) as having a particular meaning or significance.",
             "translation": "Diễn giải, giải thích, hiểu",
-            "concept": "Understanding meaning.",
+            "concept": "To explain the meaning of something.",
             "register": "General/Academic",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["understand", "construe", "take"],
+            "synonyms": ["understand", "construe", "take", "explain"],
             "collocations": ["interpret the rules", "interpret data", "open to interpretation"],
             "contexts": [
                 {
@@ -86,13 +86,13 @@
         {
             "word": "entitle",
             "phonetic": "/ɪnˈtaɪ.təl/",
-            "meaning": "Give (someone) a legal right or a just claim to receive or do something; give a title to.",
             "partOfSpeech": "Verb",
+            "meaning": "Give (someone) a legal right or a just claim to receive or do something; give a title to.",
             "translation": "Đặt tiêu đề; Cho quyền",
-            "concept": "Naming or empowering.",
+            "concept": "Giving a name or a right.",
             "register": "Formal",
             "grammar_note": "Passive: 'be entitled to'.",
-            "synonyms": ["title", "name", "authorize"],
+            "synonyms": ["title", "name", "authorize", "empower"],
             "collocations": ["entitled to", "be entitled"],
             "contexts": [
                 {
@@ -105,13 +105,13 @@
         {
             "word": "socialize",
             "phonetic": "/ˈsəʊ.ʃəl.aɪz/",
-            "meaning": "Mix socially with others.",
             "partOfSpeech": "Verb",
+            "meaning": "Mix socially with others.",
             "translation": "Giao lưu, hòa nhập xã hội",
-            "concept": "Meeting people.",
+            "concept": "Spending time with other people.",
             "register": "General",
             "grammar_note": "Intransitive verb.",
-            "synonyms": ["mingle", "fraternize", "mix"],
+            "synonyms": ["mingle", "fraternize", "mix", "associate"],
             "collocations": ["socialize with friends", "opportunity to socialize"],
             "contexts": [
                 {
@@ -124,10 +124,10 @@
         {
             "word": "domestic",
             "phonetic": "/dəˈmes.tɪk/",
-            "meaning": "Relating to the running of a home or to family relations.",
             "partOfSpeech": "Adjective",
+            "meaning": "Relating to the running of a home or to family relations.",
             "translation": "Thuộc về gia đình, nội trợ",
-            "concept": "Home-related.",
+            "concept": "Relating to the home.",
             "register": "General",
             "grammar_note": "Modifies 'life', 'chores', 'violence'.",
             "synonyms": ["household", "family", "home"],
@@ -143,13 +143,13 @@
         {
             "word": "instruction",
             "phonetic": "/ɪnˈstrʌk.ʃən/",
-            "meaning": "Detailed information telling how something should be done, operated, or assembled.",
             "partOfSpeech": "Noun",
+            "meaning": "Detailed information telling how something should be done, operated, or assembled.",
             "translation": "Sự hướng dẫn, chỉ dẫn",
-            "concept": "How-to guide.",
+            "concept": "Directions on how to do something.",
             "register": "General",
             "grammar_note": "Countable (usually plural).",
-            "synonyms": ["direction", "guidance", "order"],
+            "synonyms": ["direction", "guidance", "order", "command"],
             "collocations": ["follow instructions", "clear instructions", "step-by-step instructions"],
             "contexts": [
                 {
@@ -162,13 +162,13 @@
         {
             "word": "feedback",
             "phonetic": "/ˈfiːd.bæk/",
-            "meaning": "Information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement.",
             "partOfSpeech": "Noun",
+            "meaning": "Information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement.",
             "translation": "Phản hồi, ý kiến đóng góp",
-            "concept": "Commentary for improvement.",
+            "concept": "Information about how good or useful something is.",
             "register": "General/Business",
             "grammar_note": "Uncountable noun.",
-            "synonyms": ["comment", "criticism", "evaluation"],
+            "synonyms": ["comment", "criticism", "evaluation", "response"],
             "collocations": ["constructive feedback", "positive feedback", "give feedback"],
             "contexts": [
                 {
@@ -181,13 +181,13 @@
         {
             "word": "capture",
             "phonetic": "/ˈkæp.tʃər/",
-            "meaning": "Record or express accurately in words or pictures.",
             "partOfSpeech": "Verb",
+            "meaning": "Record or express accurately in words or pictures.",
             "translation": "Bắt trọn, ghi lại (khoảnh khắc/hình ảnh)",
-            "concept": "To record artfully.",
+            "concept": "To record something accurately.",
             "register": "General/Artistic",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["record", "immortalize", "catch"],
+            "synonyms": ["record", "immortalize", "catch", "preserve"],
             "collocations": ["capture the moment", "capture the imagination", "capture the essence"],
             "contexts": [
                 {
@@ -200,10 +200,10 @@
         {
             "word": "timing",
             "phonetic": "/ˈtaɪ.mɪŋ/",
-            "meaning": "The choice, judgment, or control of when something should be done.",
             "partOfSpeech": "Noun",
+            "meaning": "The choice, judgment, or control of when something should be done.",
             "translation": "Việc chọn đúng thời điểm",
-            "concept": "Doing something at the right moment.",
+            "concept": "Doing something at exactly the right time.",
             "register": "General",
             "grammar_note": "Uncountable noun.",
             "synonyms": ["scheduling", "synchronization"],
@@ -219,10 +219,10 @@
         {
             "word": "technical",
             "phonetic": "/ˈtek.nɪ.kəl/",
-            "meaning": "Relating to a particular subject, art, or craft, or its techniques.",
             "partOfSpeech": "Adjective",
+            "meaning": "Relating to a particular subject, art, or craft, or its techniques.",
             "translation": "Thuộc về kỹ thuật, chuyên môn",
-            "concept": "Relating to how something works.",
+            "concept": "Relating to the practical use of machines or methods.",
             "register": "General",
             "grammar_note": "Modifies 'skill', 'problem', 'support'.",
             "synonyms": ["mechanical", "scientific", "specialized"],
@@ -238,13 +238,13 @@
         {
             "word": "membership",
             "phonetic": "/ˈmem.bə.ʃɪp/",
-            "meaning": "The fact of being a member of a group.",
             "partOfSpeech": "Noun",
+            "meaning": "The fact of being a member of a group.",
             "translation": "Tư cách thành viên",
-            "concept": "Belonging to a group.",
+            "concept": "The state of belonging to an organization.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["belonging", "enrollment"],
+            "synonyms": ["belonging", "enrollment", "subscription"],
             "collocations": ["membership fee", "apply for membership", "lifetime membership"],
             "contexts": [
                 {
@@ -257,13 +257,13 @@
         {
             "word": "category",
             "phonetic": "/ˈkæt.ə.ɡri/",
-            "meaning": "A class or division of people or things regarded as having particular shared characteristics.",
             "partOfSpeech": "Noun",
+            "meaning": "A class or division of people or things regarded as having particular shared characteristics.",
             "translation": "Hạng mục, thể loại",
-            "concept": "Grouping.",
+            "concept": "A group of things that are similar.",
             "register": "General/Academic",
             "grammar_note": "Countable noun.",
-            "synonyms": ["class", "group", "type"],
+            "synonyms": ["class", "group", "type", "classification"],
             "collocations": ["fall into a category", "broad category", "distinct category"],
             "contexts": [
                 {
@@ -276,13 +276,13 @@
         {
             "word": "stunning",
             "phonetic": "/ˈstʌn.ɪŋ/",
-            "meaning": "Extremely impressive or attractive.",
             "partOfSpeech": "Adjective",
+            "meaning": "Extremely impressive or attractive.",
             "translation": "Tuyệt đẹp, gây ấn tượng mạnh",
-            "concept": "Very beautiful.",
+            "concept": "Very beautiful or surprising.",
             "register": "General",
             "grammar_note": "Describes views, photos, looks.",
-            "synonyms": ["breathtaking", "spectacular", "striking"],
+            "synonyms": ["breathtaking", "spectacular", "striking", "impressive"],
             "collocations": ["stunning view", "stunning performance", "absolutely stunning"],
             "contexts": [
                 {
@@ -295,13 +295,13 @@
         {
             "word": "participate",
             "phonetic": "/pɑːˈtɪs.ɪ.peɪt/",
-            "meaning": "Take part in an action or endeavour.",
             "partOfSpeech": "Verb",
+            "meaning": "Take part in an action or endeavour.",
             "translation": "Tham gia",
-            "concept": "Joining in.",
+            "concept": "To take part in something.",
             "register": "General/Formal",
             "grammar_note": "Intransitive verb. Followed by 'in'.",
-            "synonyms": ["take part", "join in", "engage"],
+            "synonyms": ["take part", "join in", "engage", "involve"],
             "collocations": ["participate in", "actively participate"],
             "contexts": [
                 {
@@ -314,13 +314,13 @@
         {
             "word": "deadline",
             "phonetic": "/ˈded.laɪn/",
-            "meaning": "The latest time or date by which something should be completed.",
             "partOfSpeech": "Noun",
+            "meaning": "The latest time or date by which something should be completed.",
             "translation": "Hạn chót",
-            "concept": "Time limit.",
+            "concept": "Time limit for finishing something.",
             "register": "General/Business",
             "grammar_note": "Countable noun.",
-            "synonyms": ["time limit", "cutoff"],
+            "synonyms": ["time limit", "cutoff", "due date"],
             "collocations": ["meet a deadline", "miss a deadline", "tight deadline"],
             "contexts": [
                 {
@@ -333,13 +333,13 @@
         {
             "word": "original",
             "phonetic": "/əˈrɪdʒ.ən.əl/",
-            "meaning": "Created directly and personally by a particular artist; not a copy or imitation.",
             "partOfSpeech": "Adjective",
+            "meaning": "Created directly and personally by a particular artist; not a copy or imitation.",
             "translation": "Gốc, nguyên bản, độc đáo",
-            "concept": "Not a copy; creative.",
+            "concept": "New and interesting.",
             "register": "General",
             "grammar_note": "Modifies 'work', 'idea'.",
-            "synonyms": ["authentic", "genuine", "unique"],
+            "synonyms": ["authentic", "genuine", "unique", "novel"],
             "collocations": ["original work", "highly original", "original idea"],
             "contexts": [
                 {
@@ -352,13 +352,13 @@
         {
             "word": "display",
             "phonetic": "/dɪˈspleɪ/",
-            "meaning": "A collection of objects arranged for public viewing.",
             "partOfSpeech": "Noun",
+            "meaning": "A collection of objects arranged for public viewing.",
             "translation": "Sự trưng bày, triển lãm",
-            "concept": "Showing things publicly.",
+            "concept": "Showing things for people to look at.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["exhibition", "show", "array"],
+            "synonyms": ["exhibition", "show", "array", "presentation"],
             "collocations": ["on display", "public display", "window display"],
             "contexts": [
                 {
@@ -371,10 +371,10 @@
         {
             "word": "judge",
             "phonetic": "/dʒʌdʒ/",
-            "meaning": "A public official appointed to decide cases in a court of law; a person who decides the results of a competition.",
             "partOfSpeech": "Noun",
+            "meaning": "A person who decides the results of a competition.",
             "translation": "Giám khảo",
-            "concept": "Person deciding a winner.",
+            "concept": "Person who chooses the winner.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["adjudicator", "arbiter", "assessor"],
@@ -390,13 +390,13 @@
         {
             "word": "entry",
             "phonetic": "/ˈen.tri/",
-            "meaning": "An item or person entered in a competition.",
             "partOfSpeech": "Noun",
+            "meaning": "An item or person entered in a competition.",
             "translation": "Bài dự thi, mục nhập",
-            "concept": "Submission to a contest.",
+            "concept": "Something submitted to a contest.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["submission", "candidate"],
+            "synonyms": ["submission", "candidate", "competitor"],
             "collocations": ["submit an entry", "winning entry"],
             "contexts": [
                 {
@@ -409,13 +409,13 @@
         {
             "word": "amateur",
             "phonetic": "/ˈæm.ə.tər/",
-            "meaning": "A person who engages in a pursuit, especially a sport, on an unpaid basis.",
             "partOfSpeech": "Noun",
+            "meaning": "A person who engages in a pursuit, especially a sport, on an unpaid basis.",
             "translation": "Người nghiệp dư",
-            "concept": "Not professional.",
+            "concept": "Someone who does something for fun, not money.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["non-professional", "layman"],
+            "synonyms": ["non-professional", "layman", "hobbyist"],
             "collocations": ["amateur photographer", "rank amateur"],
             "contexts": [
                 {
@@ -428,13 +428,13 @@
         {
             "word": "technicality",
             "phonetic": "/ˌtek.nɪˈkæl.ə.ti/",
-            "meaning": "A point of law or a small detail of a set of rules.",
             "partOfSpeech": "Noun",
+            "meaning": "A point of law or a small detail of a set of rules.",
             "translation": "Chi tiết kỹ thuật, vấn đề chuyên môn",
-            "concept": "Small details.",
+            "concept": "A small detail that is important.",
             "register": "Formal",
             "grammar_note": "Countable noun.",
-            "synonyms": ["detail", "nuance"],
+            "synonyms": ["detail", "nuance", "fine point"],
             "collocations": ["mere technicality", "legal technicality"],
             "contexts": [
                 {
@@ -447,13 +447,13 @@
         {
             "word": "guideline",
             "phonetic": "/ˈɡaɪd.laɪn/",
-            "meaning": "A general rule, principle, or piece of advice.",
             "partOfSpeech": "Noun",
+            "meaning": "A general rule, principle, or piece of advice.",
             "translation": "Nguyên tắc chỉ đạo, hướng dẫn",
             "concept": "Advice on how to do something.",
             "register": "Formal",
             "grammar_note": "Countable noun.",
-            "synonyms": ["recommendation", "instruction", "rule"],
+            "synonyms": ["recommendation", "instruction", "rule", "direction"],
             "collocations": ["follow guidelines", "safety guidelines", "strict guidelines"],
             "contexts": [
                 {
@@ -466,13 +466,13 @@
         {
             "word": "publicity",
             "phonetic": "/pʌbˈlɪs.ə.ti/",
-            "meaning": "Notice or attention given to someone or something by the media.",
             "partOfSpeech": "Noun",
+            "meaning": "Notice or attention given to someone or something by the media.",
             "translation": "Sự công khai, quảng bá",
-            "concept": "Public attention.",
+            "concept": "Attention from the public.",
             "register": "General/Business",
             "grammar_note": "Uncountable noun.",
-            "synonyms": ["attention", "promotion", "hype"],
+            "synonyms": ["attention", "promotion", "hype", "exposure"],
             "collocations": ["bad publicity", "generate publicity", "seek publicity"],
             "contexts": [
                 {
@@ -485,13 +485,13 @@
         {
             "word": "exhibition",
             "phonetic": "/ˌek.sɪˈbɪʃ.ən/",
-            "meaning": "A public display of works of art or items of interest.",
             "partOfSpeech": "Noun",
+            "meaning": "A public display of works of art or items of interest.",
             "translation": "Cuộc triển lãm",
-            "concept": "Public show.",
+            "concept": "A public show of art.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["display", "show", "exposition"],
+            "synonyms": ["display", "show", "exposition", "fair"],
             "collocations": ["art exhibition", "hold an exhibition", "visit an exhibition"],
             "contexts": [
                 {
@@ -504,10 +504,10 @@
         {
             "word": "frame",
             "phonetic": "/freɪm/",
-            "meaning": "A rigid structure that surrounds or encloses something such as a door or window.",
             "partOfSpeech": "Noun",
+            "meaning": "A rigid structure that surrounds or encloses something.",
             "translation": "Khung (ảnh, cửa)",
-            "concept": "Border.",
+            "concept": "A border around a picture.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["border", "casing", "mount"],
@@ -523,13 +523,13 @@
         {
             "word": "mount",
             "phonetic": "/maʊnt/",
-            "meaning": "Place (an object) in a setting or framework.",
             "partOfSpeech": "Verb",
+            "meaning": "Place (an object) in a setting or framework.",
             "translation": "Gắn vào, đóng khung",
-            "concept": "Fixing something in place.",
+            "concept": "To attach something to a support.",
             "register": "General",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["install", "fix", "frame"],
+            "synonyms": ["install", "fix", "frame", "display"],
             "collocations": ["mount a picture", "wall-mounted"],
             "contexts": [
                 {
@@ -542,13 +542,13 @@
         {
             "word": "preference",
             "phonetic": "/ˈpref.ər.əns/",
-            "meaning": "A greater liking for one alternative over another or others.",
             "partOfSpeech": "Noun",
+            "meaning": "A greater liking for one alternative over another or others.",
             "translation": "Sự ưu tiên, sở thích",
-            "concept": "Liking one thing more.",
+            "concept": "Liking one thing more than another.",
             "register": "General",
             "grammar_note": "Countable/Uncountable.",
-            "synonyms": ["liking", "partiality", "choice"],
+            "synonyms": ["liking", "partiality", "choice", "favor"],
             "collocations": ["personal preference", "give preference to"],
             "contexts": [
                 {
@@ -561,13 +561,13 @@
         {
             "word": "landscape",
             "phonetic": "/ˈlænd.skeɪp/",
-            "meaning": "All the visible features of an area of countryside or land.",
             "partOfSpeech": "Noun",
+            "meaning": "All the visible features of an area of countryside or land.",
             "translation": "Phong cảnh",
-            "concept": "View of land.",
+            "concept": "A picture of the countryside.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["scenery", "terrain", "view"],
+            "synonyms": ["scenery", "terrain", "view", "vista"],
             "collocations": ["landscape photography", "beautiful landscape", "urban landscape"],
             "contexts": [
                 {
@@ -580,10 +580,10 @@
         {
             "word": "portrait",
             "phonetic": "/ˈpɔː.trət/",
-            "meaning": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders.",
             "partOfSpeech": "Noun",
+            "meaning": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders.",
             "translation": "Chân dung",
-            "concept": "Picture of a person.",
+            "concept": "A picture of a person.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["likeness", "image", "picture"],
@@ -599,10 +599,10 @@
         {
             "word": "angle",
             "phonetic": "/ˈæŋ.ɡəl/",
-            "meaning": "The position from which something is viewed.",
             "partOfSpeech": "Noun",
+            "meaning": "The position from which something is viewed.",
             "translation": "Góc độ",
-            "concept": "Perspective.",
+            "concept": "The direction from which you look at something.",
             "register": "General",
             "grammar_note": "Countable noun.",
             "synonyms": ["perspective", "viewpoint", "slant"],
@@ -618,10 +618,10 @@
         {
             "word": "focus",
             "phonetic": "/ˈfəʊ.kəs/",
-            "meaning": "The state or quality of having or producing clear visual definition.",
             "partOfSpeech": "Noun",
+            "meaning": "The state or quality of having or producing clear visual definition.",
             "translation": "Tiêu điểm, sự sắc nét",
-            "concept": "Clarity.",
+            "concept": "Clear vision.",
             "register": "General",
             "grammar_note": "Uncountable noun.",
             "synonyms": ["sharpness", "clarity"],
@@ -637,13 +637,13 @@
         {
             "word": "submit",
             "phonetic": "/səbˈmɪt/",
-            "meaning": "Present (a proposal, application, or other document) to a person or body for consideration or judgment.",
             "partOfSpeech": "Verb",
+            "meaning": "Present (a proposal, application, or other document) to a person or body for consideration or judgment.",
             "translation": "Nộp, gửi đi",
-            "concept": "Handing in for review.",
+            "concept": "To send a document.",
             "register": "Formal",
             "grammar_note": "Transitive verb.",
-            "synonyms": ["present", "tender", "hand in"],
+            "synonyms": ["present", "tender", "hand in", "file"],
             "collocations": ["submit an entry", "submit a report"],
             "contexts": [
                 {
@@ -656,13 +656,13 @@
         {
             "word": "category",
             "phonetic": "/ˈkæt.ə.ɡri/",
-            "meaning": "A class or division of people or things regarded as having particular shared characteristics.",
             "partOfSpeech": "Noun",
+            "meaning": "A class or division of people or things regarded as having particular shared characteristics.",
             "translation": "Hạng mục",
-            "concept": "Class/Group.",
+            "concept": "A division of things.",
             "register": "General",
             "grammar_note": "Countable noun.",
-            "synonyms": ["class", "group", "classification"],
+            "synonyms": ["class", "group", "classification", "type"],
             "collocations": ["age category", "prize category"],
             "contexts": [
                 {

@@ -1,0 +1,676 @@
+{
+    "id": "cambridge_18_listening_test_2",
+    "title": "Cambridge 18 - Listening Test 2",
+    "description": "Full B2+ spoken vocabulary for Job Applications, Cooking/Food, and Facilities.",
+    "wordCount": 35,
+    "category": "Listening",
+    "color": "from-teal-500 to-cyan-700",
+    "isPro": true,
+    "words": [
+        {
+            "word": "vacancy",
+            "phonetic": "/ˈveɪ.kən.si/",
+            "meaning": "An unoccupied position or job.",
+            "partOfSpeech": "Noun",
+            "translation": "Vị trí trống (công việc), chỗ trống",
+            "concept": "A job opening.",
+            "register": "Formal/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["opening", "position", "post"],
+            "collocations": ["job vacancy", "fill a vacancy", "advertise a vacancy"],
+            "contexts": [
+                {
+                    "sentence": "The HR department is actively recruiting to fill several vacancies in the sales team.",
+                    "translation": "Bộ phận nhân sự đang tích cực tuyển dụng để lấp đầy một số vị trí trống trong đội ngũ bán hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reference",
+            "phonetic": "/ˈref.ər.əns/",
+            "meaning": "A letter from a previous employer testifying to someone's ability or reliability, used when applying for a new job.",
+            "partOfSpeech": "Noun",
+            "translation": "Thư giới thiệu, người giới thiệu",
+            "concept": "Proof of character/ability.",
+            "register": "Formal/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["testimonial", "recommendation", "endorsement"],
+            "collocations": ["provide a reference", "check references", "character reference"],
+            "contexts": [
+                {
+                    "sentence": "The company requires at least two references from former employers before making a hiring decision.",
+                    "translation": "Công ty yêu cầu ít nhất hai thư giới thiệu từ các nhà tuyển dụng trước đây trước khi đưa ra quyết định tuyển dụng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reputation",
+            "phonetic": "/ˌrep.jəˈteɪ.ʃən/",
+            "meaning": "The beliefs or opinions that are generally held about someone or something.",
+            "partOfSpeech": "Noun",
+            "translation": "Danh tiếng, uy tín",
+            "concept": "Public opinion of quality.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable. Followed by 'for'.",
+            "synonyms": ["name", "standing", "stature"],
+            "collocations": ["good reputation", "earn a reputation", "reputation for excellence"],
+            "contexts": [
+                {
+                    "sentence": "The restaurant has established a reputation for serving high-quality seafood.",
+                    "translation": "Nhà hàng đã tạo dựng được danh tiếng về việc phục vụ hải sản chất lượng cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "shift",
+            "phonetic": "/ʃɪft/",
+            "meaning": "One of two or more recurring periods in which different groups of workers do the same jobs in relay.",
+            "partOfSpeech": "Noun",
+            "translation": "Ca làm việc",
+            "concept": "Work period.",
+            "register": "General/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["stint", "turn"],
+            "collocations": ["night shift", "shift work", "cover a shift"],
+            "contexts": [
+                {
+                    "sentence": "She prefers working the night shift because it is quieter.",
+                    "translation": "Cô ấy thích làm ca đêm hơn vì nó yên tĩnh hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dynamic",
+            "phonetic": "/daɪˈnæm.ɪk/",
+            "meaning": "(of a process or system) characterized by constant change, activity, or progress.",
+            "partOfSpeech": "Adjective",
+            "translation": "Năng động, luôn biến đổi",
+            "concept": "Energetic and changing.",
+            "register": "General/Business",
+            "grammar_note": "Describes environments or people.",
+            "synonyms": ["energetic", "spirited", "active"],
+            "collocations": ["dynamic environment", "dynamic team", "dynamic personality"],
+            "contexts": [
+                {
+                    "sentence": "We are looking for a dynamic individual to join our marketing team.",
+                    "translation": "Chúng tôi đang tìm kiếm một cá nhân năng động để gia nhập đội ngũ tiếp thị của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "demanding",
+            "phonetic": "/dɪˈmɑːn.dɪŋ/",
+            "meaning": "(of a task) requiring much skill or effort.",
+            "partOfSpeech": "Adjective",
+            "translation": "Đòi hỏi khắt khe, yêu cầu cao",
+            "concept": "Hard to satisfy or do.",
+            "register": "General",
+            "grammar_note": "Describes jobs, tasks, or people.",
+            "synonyms": ["challenging", "exacting", "arduous"],
+            "collocations": ["physically demanding", "demanding job", "demanding schedule"],
+            "contexts": [
+                {
+                    "sentence": "The training course is very demanding, but highly rewarding.",
+                    "translation": "Khóa đào tạo rất khắt khe, nhưng rất đáng giá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "straightforward",
+            "phonetic": "/ˌstreɪtˈfɔː.wəd/",
+            "meaning": "Uncomplicated and easy to do or understand.",
+            "partOfSpeech": "Adjective",
+            "translation": "Đơn giản, dễ hiểu, thẳng thắn",
+            "concept": "Simple and direct.",
+            "register": "General",
+            "grammar_note": "Describes tasks or people.",
+            "synonyms": ["simple", "easy", "uncomplicated"],
+            "collocations": ["fairly straightforward", "straightforward process", "straightforward answer"],
+            "contexts": [
+                {
+                    "sentence": "The instructions were straightforward and easy to follow.",
+                    "translation": "Các hướng dẫn rất đơn giản và dễ làm theo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "supervisor",
+            "phonetic": "/ˈsuː.pə.vaɪ.zər/",
+            "meaning": "A person who supervises a person or an activity.",
+            "partOfSpeech": "Noun",
+            "translation": "Người giám sát, quản lý",
+            "concept": "Person in charge.",
+            "register": "Formal/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["manager", "overseer", "controller"],
+            "collocations": ["immediate supervisor", "shift supervisor"],
+            "contexts": [
+                {
+                    "sentence": "You should report any safety concerns to your supervisor immediately.",
+                    "translation": "Bạn nên báo cáo mọi lo ngại về an toàn cho người giám sát của mình ngay lập tức."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "certificate",
+            "phonetic": "/səˈtɪf.ɪ.kət/",
+            "meaning": "An official document attesting a certain fact, in particular.",
+            "partOfSpeech": "Noun",
+            "translation": "Chứng chỉ, giấy chứng nhận",
+            "concept": "Official proof.",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["credential", "document", "diploma"],
+            "collocations": ["birth certificate", "medical certificate", "certificate of achievement"],
+            "contexts": [
+                {
+                    "sentence": "You will receive a certificate upon completion of the course.",
+                    "translation": "Bạn sẽ nhận được chứng chỉ sau khi hoàn thành khóa học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "procedure",
+            "phonetic": "/prəˈsiː.dʒər/",
+            "meaning": "An established or official way of doing something.",
+            "partOfSpeech": "Noun",
+            "translation": "Thủ tục, quy trình",
+            "concept": "Correct way to do something.",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["process", "method", "system"],
+            "collocations": ["follow procedure", "standard procedure", "safety procedure"],
+            "contexts": [
+                {
+                    "sentence": "It is important to follow the correct procedure when handling hazardous chemicals.",
+                    "translation": "Việc tuân thủ đúng quy trình khi xử lý các hóa chất độc hại là rất quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "portion",
+            "phonetic": "/ˈpɔː.ʃən/",
+            "meaning": "A part of a whole; an amount, section, or piece of something.",
+            "partOfSpeech": "Noun",
+            "translation": "Khẩu phần, phần chia",
+            "concept": "Amount for one person.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["serving", "share", "part"],
+            "collocations": ["generous portion", "portion size", "small portion"],
+            "contexts": [
+                {
+                    "sentence": "The restaurant serves generous portions at reasonable prices.",
+                    "translation": "Nhà hàng phục vụ các khẩu phần ăn hào phóng với giá cả hợp lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "responsible",
+            "phonetic": "/rɪˈspɒn.sə.bəl/",
+            "meaning": "Having an obligation to do something, or having control over or care for someone, as part of one's job or role.",
+            "partOfSpeech": "Adjective",
+            "translation": "Chịu trách nhiệm",
+            "concept": "In charge of.",
+            "register": "General",
+            "grammar_note": "Followed by 'for'.",
+            "synonyms": ["in charge of", "accountable for"],
+            "collocations": ["responsible for", "feel responsible", "socially responsible"],
+            "contexts": [
+                {
+                    "sentence": "The project manager is responsible for ensuring the deadline is met.",
+                    "translation": "Người quản lý dự án chịu trách nhiệm đảm bảo đúng thời hạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "delivery",
+            "phonetic": "/dɪˈlɪv.ər.i/",
+            "meaning": "The action of delivering letters, packages, or ordered goods.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự giao hàng",
+            "concept": "Bringing goods to someone.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["transport", "distribution"],
+            "collocations": ["free delivery", "delivery service", "take delivery"],
+            "contexts": [
+                {
+                    "sentence": "We offer free delivery on all orders over $50.",
+                    "translation": "Chúng tôi cung cấp dịch vụ giao hàng miễn phí cho tất cả các đơn hàng trên 50 đô la."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stock",
+            "phonetic": "/stɒk/",
+            "meaning": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution.",
+            "partOfSpeech": "Noun",
+            "translation": "Hàng tồn kho, kho dự trữ",
+            "concept": "Available goods.",
+            "register": "Business",
+            "grammar_note": "Uncountable/Countable.",
+            "synonyms": ["merchandise", "goods", "inventory"],
+            "collocations": ["in stock", "out of stock", "stock up"],
+            "contexts": [
+                {
+                    "sentence": "We need to check the stock levels before ordering more supplies.",
+                    "translation": "Chúng ta cần kiểm tra mức tồn kho trước khi đặt thêm hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "qualification",
+            "phonetic": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+            "meaning": "A pass of an examination or an official completion of a course.",
+            "partOfSpeech": "Noun",
+            "translation": "Bằng cấp, chứng chỉ",
+            "concept": "Official proof of ability.",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["credential", "certification"],
+            "collocations": ["academic qualification", "professional qualification"],
+            "contexts": [
+                {
+                    "sentence": "She has all the necessary qualifications for the job.",
+                    "translation": "Cô ấy có tất cả các bằng cấp cần thiết cho công việc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "specification",
+            "phonetic": "/ˌspes.ɪ.fɪˈkeɪ.ʃən/",
+            "meaning": "A detailed description of the design and materials used to make something.",
+            "partOfSpeech": "Noun",
+            "translation": "Thông số kỹ thuật, bản mô tả chi tiết",
+            "concept": "Detailed requirements.",
+            "register": "Formal/Technical",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["requirement", "detail", "spec"],
+            "collocations": ["meet specifications", "technical specification", "exact specification"],
+            "contexts": [
+                {
+                    "sentence": "The product was built to the customer's exact specifications.",
+                    "translation": "Sản phẩm được chế tạo theo đúng thông số kỹ thuật của khách hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sort out",
+            "phonetic": "/sɔːt aʊt/",
+            "meaning": "Resolve a problem or difficulty.",
+            "partOfSpeech": "Verb",
+            "translation": "Giải quyết, sắp xếp",
+            "concept": "Fixing a mess or problem.",
+            "register": "General/Casual",
+            "grammar_note": "Transitive phrasal verb.",
+            "synonyms": ["resolve", "fix", "organize"],
+            "collocations": ["sort out a problem", "sort out the mess", "get it sorted out"],
+            "contexts": [
+                {
+                    "sentence": "I need to sort out my visa application before I can travel.",
+                    "translation": "Tôi cần giải quyết đơn xin thị thực của mình trước khi có thể đi du lịch."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "get the hang of",
+            "phonetic": "/ɡet ðə hæŋ əv/",
+            "meaning": "Learn how to operate or do (something).",
+            "partOfSpeech": "Verb",
+            "translation": "Nắm bắt được cách làm, quen với",
+            "concept": "Learning a skill through practice.",
+            "register": "Informal/Spoken",
+            "grammar_note": "Idiom.",
+            "synonyms": ["master", "grasp", "learn"],
+            "collocations": ["quickly get the hang of", "start to get the hang of"],
+            "contexts": [
+                {
+                    "sentence": "It took a while, but I finally got the hang of the new software.",
+                    "translation": "Mất một lúc, nhưng cuối cùng tôi cũng nắm bắt được cách sử dụng phần mềm mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "branch",
+            "phonetic": "/brɑːntʃ/",
+            "meaning": "A division or office of a large business or organization, operating locally or having a particular function.",
+            "partOfSpeech": "Noun",
+            "translation": "Chi nhánh",
+            "concept": "Local office.",
+            "register": "General/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["division", "office", "section"],
+            "collocations": ["local branch", "open a branch", "branch manager"],
+            "contexts": [
+                {
+                    "sentence": "The bank is opening a new branch in the town center.",
+                    "translation": "Ngân hàng đang mở một chi nhánh mới ở trung tâm thị trấn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unattractive",
+            "phonetic": "/ˌʌn.əˈtræk.tɪv/",
+            "meaning": "Not appealing or inviting.",
+            "partOfSpeech": "Adjective",
+            "translation": "Không hấp dẫn, kém thu hút",
+            "concept": "Negative quality.",
+            "register": "General",
+            "grammar_note": "Describes things or ideas.",
+            "synonyms": ["unappealing", "plain", "dull"],
+            "collocations": ["unattractive option", "visually unattractive"],
+            "contexts": [
+                {
+                    "sentence": "The low salary makes the job unattractive to qualified candidates.",
+                    "translation": "Mức lương thấp làm cho công việc trở nên kém hấp dẫn đối với các ứng viên có trình độ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "equipment",
+            "phonetic": "/ɪˈkwɪp.mənt/",
+            "meaning": "The necessary items for a particular purpose.",
+            "partOfSpeech": "Noun",
+            "translation": "Thiết bị, dụng cụ",
+            "concept": "Tools needed for a job.",
+            "register": "General",
+            "grammar_note": "Uncountable noun (never 'equipments').",
+            "synonyms": ["gear", "apparatus", "tools"],
+            "collocations": ["specialized equipment", "safety equipment", "office equipment"],
+            "contexts": [
+                {
+                    "sentence": "The laboratory is equipped with state-of-the-art equipment.",
+                    "translation": "Phòng thí nghiệm được trang bị các thiết bị hiện đại nhất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "senior",
+            "phonetic": "/ˈsiː.ni.ər/",
+            "meaning": "High or higher in rank or status.",
+            "partOfSpeech": "Adjective",
+            "translation": "Cấp cao, thâm niên",
+            "concept": "Higher rank.",
+            "register": "Formal/Business",
+            "grammar_note": "Modifies 'manager', 'role', 'staff'.",
+            "synonyms": ["higher-ranking", "superior"],
+            "collocations": ["senior management", "senior role", "senior citizen"],
+            "contexts": [
+                {
+                    "sentence": "She was promoted to a senior management position after five years.",
+                    "translation": "Cô ấy đã được thăng chức lên vị trí quản lý cấp cao sau năm năm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "familiar",
+            "phonetic": "/fəˈmɪl.i.ər/",
+            "meaning": "Well known from long or close association.",
+            "partOfSpeech": "Adjective",
+            "translation": "Quen thuộc",
+            "concept": "Known well.",
+            "register": "General",
+            "grammar_note": "Followed by 'with' (person knows something) or 'to' (something is known).",
+            "synonyms": ["well-known", "recognizable"],
+            "collocations": ["familiar with", "look familiar", "familiar face"],
+            "contexts": [
+                {
+                    "sentence": "Are you familiar with the new safety regulations?",
+                    "translation": "Bạn có quen thuộc với các quy định an toàn mới không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "involve",
+            "phonetic": "/ɪnˈvɒlv/",
+            "meaning": "Have or include (something) as a necessary part or result.",
+            "partOfSpeech": "Verb",
+            "translation": "Bao gồm, liên quan đến",
+            "concept": "Containing as a part.",
+            "register": "General",
+            "grammar_note": "Transitive verb. Followed by gerund (-ing).",
+            "synonyms": ["entail", "include", "require"],
+            "collocations": ["involve doing something", "get involved"],
+            "contexts": [
+                {
+                    "sentence": "The job involves traveling to different client sites every week.",
+                    "translation": "Công việc bao gồm việc di chuyển đến các địa điểm khách hàng khác nhau mỗi tuần."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fairly",
+            "phonetic": "/ˈfeə.li/",
+            "meaning": "To a moderately high degree.",
+            "partOfSpeech": "Adverb",
+            "translation": "Khá là, tương đối",
+            "concept": "Moderate degree.",
+            "register": "General",
+            "grammar_note": "Modifies adjectives/adverbs.",
+            "synonyms": ["reasonably", "quite", "moderately"],
+            "collocations": ["fairly good", "fairly common", "fairly easy"],
+            "contexts": [
+                {
+                    "sentence": "The test was fairly difficult, but I think I passed.",
+                    "translation": "Bài kiểm tra khá khó, nhưng tôi nghĩ mình đã đậu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fit in",
+            "phonetic": "/fɪt ɪn/",
+            "meaning": "Be socially compatible with other members of a group.",
+            "partOfSpeech": "Verb",
+            "translation": "Hòa nhập, phù hợp",
+            "concept": "Belonging to a group.",
+            "register": "General",
+            "grammar_note": "Phrasal verb.",
+            "synonyms": ["belong", "conform", "blend in"],
+            "collocations": ["fit in well", "fit in with the team"],
+            "contexts": [
+                {
+                    "sentence": "It took him a while to fit in with his new colleagues.",
+                    "translation": "Anh ấy mất một lúc để hòa nhập với các đồng nghiệp mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "get on with",
+            "phonetic": "/ɡet ɒn wɪð/",
+            "meaning": "Have a harmonious or friendly relationship.",
+            "partOfSpeech": "Verb",
+            "translation": "Hòa thuận với, có quan hệ tốt với",
+            "concept": "Good relationship.",
+            "register": "General/Spoken",
+            "grammar_note": "Phrasal verb.",
+            "synonyms": ["get along with"],
+            "collocations": ["get on well with", "easy to get on with"],
+            "contexts": [
+                {
+                    "sentence": "It is important to get on with your coworkers.",
+                    "translation": "Việc hòa thuận với đồng nghiệp là rất quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "set up",
+            "phonetic": "/set ʌp/",
+            "meaning": "Establish a business, institution, or other organization.",
+            "partOfSpeech": "Verb",
+            "translation": "Thành lập, thiết lập",
+            "concept": "Starting something.",
+            "register": "General",
+            "grammar_note": "Phrasal verb.",
+            "synonyms": ["establish", "start", "found"],
+            "collocations": ["set up a business", "set up a meeting"],
+            "contexts": [
+                {
+                    "sentence": "He plans to set up his own consultancy firm next year.",
+                    "translation": "Anh ấy dự định thành lập công ty tư vấn riêng vào năm tới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "maintain",
+            "phonetic": "/meɪnˈteɪn/",
+            "meaning": "Cause or enable (a condition or state of affairs) to continue.",
+            "partOfSpeech": "Verb",
+            "translation": "Duy trì, giữ vững",
+            "concept": "Keeping something going.",
+            "register": "General/Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["preserve", "keep", "sustain"],
+            "collocations": ["maintain standards", "maintain contact", "maintain a balance"],
+            "contexts": [
+                {
+                    "sentence": "It is difficult to maintain a healthy work-life balance.",
+                    "translation": "Rất khó để duy trì sự cân bằng giữa công việc và cuộc sống lành mạnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "advantage",
+            "phonetic": "/ədˈvɑːn.tɪdʒ/",
+            "meaning": "A condition or circumstance that puts one in a favorable or superior position.",
+            "partOfSpeech": "Noun",
+            "translation": "Lợi thế, ưu điểm",
+            "concept": "Positive aspect.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["benefit", "upside", "asset"],
+            "collocations": ["take advantage of", "competitive advantage", "distinct advantage"],
+            "contexts": [
+                {
+                    "sentence": "Being bilingual is a distinct advantage in the international job market.",
+                    "translation": "Biết hai ngôn ngữ là một lợi thế rõ rệt trong thị trường việc làm quốc tế."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "specifically",
+            "phonetic": "/spəˈsɪf.ɪ.kəl.i/",
+            "meaning": "In a way that is exact and clear; precisely.",
+            "partOfSpeech": "Adverb",
+            "translation": "Cụ thể, đặc biệt",
+            "concept": "Precise detail.",
+            "register": "General/Formal",
+            "grammar_note": "Modifies verbs or whole sentences.",
+            "synonyms": ["particularly", "expressly", "precisely"],
+            "collocations": ["specifically designed", "specifically for"],
+            "contexts": [
+                {
+                    "sentence": "This course is specifically designed for beginners.",
+                    "translation": "Khóa học này được thiết kế đặc biệt cho người mới bắt đầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "worth",
+            "phonetic": "/wɜːθ/",
+            "meaning": "Sufficiently good, important, or interesting to be treated or regarded in the way specified.",
+            "partOfSpeech": "Adjective",
+            "translation": "Đáng giá, xứng đáng",
+            "concept": "Having value.",
+            "register": "General",
+            "grammar_note": "Followed by noun or gerund.",
+            "synonyms": ["deserving of", "meriting"],
+            "collocations": ["worth it", "worth doing", "well worth"],
+            "contexts": [
+                {
+                    "sentence": "It is worth checking the details before you sign the contract.",
+                    "translation": "Rất đáng để kiểm tra các chi tiết trước khi bạn ký hợp đồng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sound",
+            "phonetic": "/saʊnd/",
+            "meaning": "Convey a specified impression when heard.",
+            "partOfSpeech": "Verb",
+            "translation": "Nghe có vẻ",
+            "concept": "Impression given.",
+            "register": "General",
+            "grammar_note": "Linking verb. Followed by adjective.",
+            "synonyms": ["appear", "seem"],
+            "collocations": ["sound interesting", "sound good", "sound like"],
+            "contexts": [
+                {
+                    "sentence": "That sounds like a great opportunity for you.",
+                    "translation": "Đó nghe có vẻ là một cơ hội tuyệt vời cho bạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "send off",
+            "phonetic": "/send ɒf/",
+            "meaning": "Despatch something by post.",
+            "partOfSpeech": "Verb",
+            "translation": "Gửi đi (thư, hàng)",
+            "concept": "Posting something.",
+            "register": "General",
+            "grammar_note": "Phrasal verb.",
+            "synonyms": ["mail", "dispatch", "post"],
+            "collocations": ["send off an application", "send off for"],
+            "contexts": [
+                {
+                    "sentence": "I need to send off my university application by Friday.",
+                    "translation": "Tôi cần gửi đơn xin vào đại học của mình trước thứ Sáu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "look for",
+            "phonetic": "/lʊk fɔːr/",
+            "meaning": "Attempt to find someone or something.",
+            "partOfSpeech": "Verb",
+            "translation": "Tìm kiếm",
+            "concept": "Searching.",
+            "register": "General",
+            "grammar_note": "Phrasal verb.",
+            "synonyms": ["search for", "seek"],
+            "collocations": ["look for a job", "look for opportunities"],
+            "contexts": [
+                {
+                    "sentence": "They are looking for someone with experience in digital marketing.",
+                    "translation": "Họ đang tìm kiếm một người có kinh nghiệm trong tiếp thị kỹ thuật số."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

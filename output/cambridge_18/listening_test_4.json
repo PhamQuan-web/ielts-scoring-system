@@ -1,0 +1,676 @@
+{
+    "id": "cambridge_18_listening_test_4",
+    "title": "Cambridge 18 - Listening Test 4",
+    "description": "Full B2+ spoken vocabulary for Architecture/Design, Museums/Exhibitions, and Film Studies.",
+    "wordCount": 35,
+    "category": "Listening",
+    "color": "from-orange-500 to-red-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "architectural",
+            "phonetic": "/ˌɑː.kɪˈtek.tʃər.əl/",
+            "meaning": "Relating to the art or practice of designing and constructing buildings.",
+            "partOfSpeech": "Adjective",
+            "translation": "Thuộc về kiến trúc",
+            "concept": "Relating to building design.",
+            "register": "Academic/Technical",
+            "grammar_note": "Modifies 'style', 'design', 'features'.",
+            "synonyms": ["structural", "constructional"],
+            "collocations": ["architectural style", "architectural design", "architectural feature"],
+            "contexts": [
+                {
+                    "sentence": "The building has several interesting architectural features, including a glass roof.",
+                    "translation": "Tòa nhà có một số đặc điểm kiến trúc thú vị, bao gồm cả mái kính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interior",
+            "phonetic": "/ɪnˈtɪə.ri.ər/",
+            "meaning": "The inner part of something; the inside.",
+            "partOfSpeech": "Noun",
+            "translation": "Nội thất, bên trong",
+            "concept": "Inside space.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable. Can be an adjective.",
+            "synonyms": ["inside", "inner part"],
+            "collocations": ["interior design", "interior decoration", "spacious interior"],
+            "contexts": [
+                {
+                    "sentence": "The interior of the museum has been completely renovated.",
+                    "translation": "Nội thất của bảo tàng đã được cải tạo hoàn toàn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "renovation",
+            "phonetic": "/ˌren.əˈveɪ.ʃən/",
+            "meaning": "The action of renovating a building or structure.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự cải tạo, nâng cấp",
+            "concept": "Making new again.",
+            "register": "General/Formal",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["refurbishment", "restoration", "remodeling"],
+            "collocations": ["undergo renovation", "major renovation", "renovation project"],
+            "contexts": [
+                {
+                    "sentence": "The library is closed for renovation until next month.",
+                    "translation": "Thư viện đóng cửa để cải tạo cho đến tháng tới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exhibition",
+            "phonetic": "/ˌek.sɪˈbɪʃ.ən/",
+            "meaning": "A public display of works of art or items of interest.",
+            "partOfSpeech": "Noun",
+            "translation": "Cuộc triển lãm",
+            "concept": "Showing things to the public.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["display", "show", "presentation"],
+            "collocations": ["art exhibition", "permanent exhibition", "temporary exhibition"],
+            "contexts": [
+                {
+                    "sentence": "The museum is hosting a special exhibition on ancient Egypt.",
+                    "translation": "Bảo tàng đang tổ chức một cuộc triển lãm đặc biệt về Ai Cập cổ đại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reception",
+            "phonetic": "/rɪˈsep.ʃən/",
+            "meaning": "The area in a hotel, office, or other establishment where guests and visitors are greeted and dealt with.",
+            "partOfSpeech": "Noun",
+            "translation": "Quầy lễ tân, sự đón tiếp",
+            "concept": "Welcome area.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["front desk", "lobby"],
+            "collocations": ["reception area", "wedding reception", "warm reception"],
+            "contexts": [
+                {
+                    "sentence": "Please sign in at the reception desk when you arrive.",
+                    "translation": "Vui lòng đăng ký tại quầy lễ tân khi bạn đến."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "corridor",
+            "phonetic": "/ˈkɒr.ɪ.dɔːr/",
+            "meaning": "A long passage in a building from which doors lead into rooms.",
+            "partOfSpeech": "Noun",
+            "translation": "Hành lang",
+            "concept": "Passageway.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["hallway", "passage"],
+            "collocations": ["long corridor", "end of the corridor"],
+            "contexts": [
+                {
+                    "sentence": "Her office is at the end of the corridor on the left.",
+                    "translation": "Văn phòng của cô ấy ở cuối hành lang bên trái."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "basement",
+            "phonetic": "/ˈbeɪs.mənt/",
+            "meaning": "The floor of a building which is partly or entirely below ground level.",
+            "partOfSpeech": "Noun",
+            "translation": "Tầng hầm",
+            "concept": "Underground level.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["cellar", "vault"],
+            "collocations": ["basement apartment", "finished basement"],
+            "contexts": [
+                {
+                    "sentence": "The archives are stored in the basement of the library.",
+                    "translation": "Các tài liệu lưu trữ được cất giữ trong tầng hầm của thư viện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "demonstration",
+            "phonetic": "/ˌdem.ənˈstreɪ.ʃən/",
+            "meaning": "A practical exhibition and explanation of how something works or is performed.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự minh họa, biểu diễn",
+            "concept": "Showing how.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["display", "presentation", "demo"],
+            "collocations": ["cooking demonstration", "practical demonstration", "give a demonstration"],
+            "contexts": [
+                {
+                    "sentence": "There will be a cooking demonstration in the main hall at 2 PM.",
+                    "translation": "Sẽ có một buổi biểu diễn nấu ăn tại sảnh chính vào lúc 2 giờ chiều."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adapt",
+            "phonetic": "/əˈdæpt/",
+            "meaning": "Make (something) suitable for a new use or purpose; modify.",
+            "partOfSpeech": "Verb",
+            "translation": "Thích nghi, cải biên",
+            "concept": "Changing to fit.",
+            "register": "General",
+            "grammar_note": "Transitive/Intransitive verb.",
+            "synonyms": ["modify", "adjust", "alter"],
+            "collocations": ["adapt to", "be adapted for", "adapt a book"],
+            "contexts": [
+                {
+                    "sentence": "The old factory has been adapted for use as an art gallery.",
+                    "translation": "Nhà máy cũ đã được cải biên để sử dụng làm phòng trưng bày nghệ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adaptation",
+            "phonetic": "/ˌæd.æpˈteɪ.ʃən/",
+            "meaning": "A film, television drama, or stage play that has been adapted from a written work.",
+            "partOfSpeech": "Noun",
+            "translation": "Tác phẩm chuyển thể",
+            "concept": "Changed form of a story.",
+            "register": "Academic/General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["version", "reworking"],
+            "collocations": ["film adaptation", "faithful adaptation", "screen adaptation"],
+            "contexts": [
+                {
+                    "sentence": "The film is an adaptation of a famous novel by Dickens.",
+                    "translation": "Bộ phim là một tác phẩm chuyển thể từ một cuốn tiểu thuyết nổi tiếng của Dickens."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "controversial",
+            "phonetic": "/ˌkɒn.trəˈvɜː.ʃəl/",
+            "meaning": "Giving rise or likely to give rise to public disagreement.",
+            "partOfSpeech": "Adjective",
+            "translation": "Gây tranh cãi",
+            "concept": "Causing arguments.",
+            "register": "General",
+            "grammar_note": "Modifies 'issue', 'topic', 'decision'.",
+            "synonyms": ["contentious", "disputed", "divisive"],
+            "collocations": ["highly controversial", "controversial topic", "controversial figure"],
+            "contexts": [
+                {
+                    "sentence": "The director's latest film is highly controversial due to its violent content.",
+                    "translation": "Bộ phim mới nhất của đạo diễn rất gây tranh cãi do nội dung bạo lực."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "criticism",
+            "phonetic": "/ˈkrɪt.ɪ.sɪ.zəm/",
+            "meaning": "The analysis and judgment of the merits and faults of a literary or artistic work.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự phê bình, chỉ trích",
+            "concept": "Evaluating pros and cons.",
+            "register": "Academic/General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["critique", "evaluation", "review"],
+            "collocations": ["literary criticism", "constructive criticism", "accept criticism"],
+            "contexts": [
+                {
+                    "sentence": "The film received mixed criticism from reviewers.",
+                    "translation": "Bộ phim nhận được những lời phê bình trái chiều từ các nhà đánh giá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "portray",
+            "phonetic": "/pɔːˈtreɪ/",
+            "meaning": "Depict (someone or something) in a work of art or literature.",
+            "partOfSpeech": "Verb",
+            "translation": "Khắc họa, miêu tả (nhân vật)",
+            "concept": "Showing a character.",
+            "register": "Academic/Arts",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["depict", "represent", "characterize"],
+            "collocations": ["portray a character", "accurately portray"],
+            "contexts": [
+                {
+                    "sentence": "The actor portrayed the villain with great intensity.",
+                    "translation": "Nam diễn viên đã khắc họa nhân vật phản diện với cường độ cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "character",
+            "phonetic": "/ˈkær.ək.tər/",
+            "meaning": "A person in a novel, play, or movie.",
+            "partOfSpeech": "Noun",
+            "translation": "Nhân vật",
+            "concept": "Person in a story.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["role", "persona"],
+            "collocations": ["main character", "minor character", "fictional character"],
+            "contexts": [
+                {
+                    "sentence": "The main character undergoes a significant transformation during the story.",
+                    "translation": "Nhân vật chính trải qua một sự thay đổi đáng kể trong suốt câu chuyện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "setting",
+            "phonetic": "/ˈset.ɪŋ/",
+            "meaning": "The place or type of surroundings where something is positioned or where an event takes place.",
+            "partOfSpeech": "Noun",
+            "translation": "Bối cảnh, khung cảnh",
+            "concept": "Where/When a story happens.",
+            "register": "General/Arts",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["background", "backdrop", "environment"],
+            "collocations": ["rural setting", "historical setting", "beautiful setting"],
+            "contexts": [
+                {
+                    "sentence": "The film's setting is 19th-century London.",
+                    "translation": "Bối cảnh của bộ phim là London thế kỷ 19."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "plot",
+            "phonetic": "/plɒt/",
+            "meaning": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
+            "partOfSpeech": "Noun",
+            "translation": "Cốt truyện",
+            "concept": "Storyline.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["storyline", "narrative"],
+            "collocations": ["complex plot", "plot twist", "follow the plot"],
+            "contexts": [
+                {
+                    "sentence": "The plot is full of unexpected twists and turns.",
+                    "translation": "Cốt truyện đầy những ngã rẽ bất ngờ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "genre",
+            "phonetic": "/ˈʒɒn.rə/",
+            "meaning": "A category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
+            "partOfSpeech": "Noun",
+            "translation": "Thể loại (nghệ thuật)",
+            "concept": "Type of art.",
+            "register": "Academic/Arts",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["category", "class", "style"],
+            "collocations": ["literary genre", "film genre", "genre fiction"],
+            "contexts": [
+                {
+                    "sentence": "Science fiction is a popular genre among young adults.",
+                    "translation": "Khoa học viễn tưởng là một thể loại phổ biến trong giới trẻ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interpret",
+            "phonetic": "/ɪnˈtɜː.prɪt/",
+            "meaning": "Perform (a dramatic role or piece of music) in a particular way that conveys one's understanding of the creator's ideas.",
+            "partOfSpeech": "Verb",
+            "translation": "Diễn giải, thể hiện",
+            "concept": "Understanding/Showing meaning.",
+            "register": "Academic/Arts",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["perform", "render", "act"],
+            "collocations": ["interpret a role", "interpret a song"],
+            "contexts": [
+                {
+                    "sentence": "Different actors interpret the role of Hamlet in very different ways.",
+                    "translation": "Các diễn viên khác nhau diễn giải vai Hamlet theo những cách rất khác nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "complex",
+            "phonetic": "/ˈkɒm.pleks/",
+            "meaning": "Consisting of many different and connected parts.",
+            "partOfSpeech": "Adjective",
+            "translation": "Phức tạp",
+            "concept": "Hard to understand.",
+            "register": "General",
+            "grammar_note": "Describes systems, ideas, plots.",
+            "synonyms": ["complicated", "intricate", "involved"],
+            "collocations": ["complex issue", "complex system", "complex plot"],
+            "contexts": [
+                {
+                    "sentence": "The film deals with complex social issues.",
+                    "translation": "Bộ phim đề cập đến các vấn đề xã hội phức tạp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expand",
+            "phonetic": "/ɪkˈspænd/",
+            "meaning": "Become or make larger or more extensive.",
+            "partOfSpeech": "Verb",
+            "translation": "Mở rộng, phát triển",
+            "concept": "Getting bigger.",
+            "register": "General",
+            "grammar_note": "Transitive/Intransitive verb.",
+            "synonyms": ["enlarge", "extend", "grow"],
+            "collocations": ["expand the range", "expand knowledge", "rapidly expand"],
+            "contexts": [
+                {
+                    "sentence": "The museum plans to expand its collection of modern art.",
+                    "translation": "Bảo tàng có kế hoạch mở rộng bộ sưu tập nghệ thuật hiện đại của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "redevelop",
+            "phonetic": "/ˌriː.dɪˈvel.əp/",
+            "meaning": "Develop (something) again or differently.",
+            "partOfSpeech": "Verb",
+            "translation": "Quy hoạch lại, xây dựng lại",
+            "concept": "Improving an area.",
+            "register": "Formal/Technical",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["renovate", "revamp", "modernize"],
+            "collocations": ["redevelop an area", "redevelop a site"],
+            "contexts": [
+                {
+                    "sentence": "The city council decided to redevelop the old industrial district.",
+                    "translation": "Hội đồng thành phố đã quyết định quy hoạch lại khu công nghiệp cũ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fragile",
+            "phonetic": "/ˈfrædʒ.aɪl/",
+            "meaning": "Easily broken or damaged.",
+            "partOfSpeech": "Adjective",
+            "translation": "Mong manh, dễ vỡ",
+            "concept": "Delicate.",
+            "register": "General",
+            "grammar_note": "Describes objects, health, ecosystems.",
+            "synonyms": ["delicate", "frail", "brittle"],
+            "collocations": ["fragile ecosystem", "fragile item", "handle with care"],
+            "contexts": [
+                {
+                    "sentence": "Some of the artifacts on display are extremely fragile.",
+                    "translation": "Một số hiện vật được trưng bày cực kỳ dễ vỡ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interactive",
+            "phonetic": "/ˌɪn.təˈræk.tɪv/",
+            "meaning": "Allowing a two-way flow of information between a computer and a computer-user; responding to a user's input.",
+            "partOfSpeech": "Adjective",
+            "translation": "Tương tác",
+            "concept": "Involving user participation.",
+            "register": "General",
+            "grammar_note": "Modifies 'display', 'game', 'learning'.",
+            "synonyms": ["participatory"],
+            "collocations": ["interactive display", "interactive learning", "interactive map"],
+            "contexts": [
+                {
+                    "sentence": "The museum features interactive displays that engage children.",
+                    "translation": "Bảo tàng có các màn hình tương tác thu hút trẻ em."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "temporary",
+            "phonetic": "/ˈtem.pər.ər.i/",
+            "meaning": "Lasting for only a limited period of time; not permanent.",
+            "partOfSpeech": "Adjective",
+            "translation": "Tạm thời",
+            "concept": "Short-term.",
+            "register": "General",
+            "grammar_note": "Opposite of 'permanent'.",
+            "synonyms": ["provisional", "short-term", "interim"],
+            "collocations": ["temporary exhibition", "temporary solution", "temporary staff"],
+            "contexts": [
+                {
+                    "sentence": "This is a temporary exhibition that runs until the end of the month.",
+                    "translation": "Đây là một cuộc triển lãm tạm thời kéo dài đến cuối tháng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "collection",
+            "phonetic": "/kəˈlek.ʃən/",
+            "meaning": "A group of things or people.",
+            "partOfSpeech": "Noun",
+            "translation": "Bộ sưu tập",
+            "concept": "Group of items.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["assemblage", "assortment", "accumulation"],
+            "collocations": ["private collection", "permanent collection", "extensive collection"],
+            "contexts": [
+                {
+                    "sentence": "The gallery houses an extensive collection of 19th-century paintings.",
+                    "translation": "Phòng trưng bày lưu giữ một bộ sưu tập phong phú các bức tranh thế kỷ 19."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "admission",
+            "phonetic": "/ədˈmɪʃ.ən/",
+            "meaning": "The process or fact of entering or being allowed to enter a place, organization, or institution.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự vào cửa, phí vào cửa",
+            "concept": "Right to enter.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["entry", "access", "entrance"],
+            "collocations": ["admission fee", "free admission", "admission charge"],
+            "contexts": [
+                {
+                    "sentence": "Admission to the museum is free for students.",
+                    "translation": "Vé vào cửa bảo tàng miễn phí cho sinh viên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "donation",
+            "phonetic": "/dəʊˈneɪ.ʃən/",
+            "meaning": "Something that is given to a charity, especially a sum of money.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự quyên góp, tiền ủng hộ",
+            "concept": "Giving money.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["contribution", "gift", "offering"],
+            "collocations": ["make a donation", "generous donation", "charitable donation"],
+            "contexts": [
+                {
+                    "sentence": "The museum relies on donations from the public to stay open.",
+                    "translation": "Bảo tàng dựa vào sự quyên góp từ công chúng để duy trì hoạt động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "audio guide",
+            "phonetic": "/ˈɔː.di.əʊ ɡaɪd/",
+            "meaning": "A handheld device that plays recorded commentary on the exhibits in a museum or gallery.",
+            "partOfSpeech": "Noun",
+            "translation": "Hướng dẫn âm thanh",
+            "concept": "Recorded tour.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": [],
+            "collocations": ["use an audio guide", "available on audio guide"],
+            "contexts": [
+                {
+                    "sentence": "An audio guide is available in several languages.",
+                    "translation": "Hướng dẫn âm thanh có sẵn bằng nhiều ngôn ngữ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "souvenir",
+            "phonetic": "/ˌsuː.vənˈɪər/",
+            "meaning": "A thing that is kept as a reminder of a person, place, or event.",
+            "partOfSpeech": "Noun",
+            "translation": "Đồ lưu niệm",
+            "concept": "Memory item.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["memento", "keepsake", "reminder"],
+            "collocations": ["buy a souvenir", "souvenir shop"],
+            "contexts": [
+                {
+                    "sentence": "We bought a small souvenir to remember our trip.",
+                    "translation": "Chúng tôi đã mua một món đồ lưu niệm nhỏ để nhớ về chuyến đi của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cafeteria",
+            "phonetic": "/ˌkæf.əˈtɪə.ri.ə/",
+            "meaning": "A restaurant or dining room in a school or a business in which customers serve themselves or are served from a counter.",
+            "partOfSpeech": "Noun",
+            "translation": "Quán ăn tự phục vụ",
+            "concept": "Self-service food place.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["canteen", "diner"],
+            "collocations": ["school cafeteria", "eat in the cafeteria"],
+            "contexts": [
+                {
+                    "sentence": "We had lunch in the museum cafeteria.",
+                    "translation": "Chúng tôi đã ăn trưa tại quán ăn tự phục vụ của bảo tàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cloakroom",
+            "phonetic": "/ˈkləʊk.ruːm/",
+            "meaning": "A room in a public building where outdoor clothes or luggage may be left.",
+            "partOfSpeech": "Noun",
+            "translation": "Phòng giữ đồ",
+            "concept": "Place for bags/coats.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["checkroom"],
+            "collocations": ["leave bags in the cloakroom", "cloakroom ticket"],
+            "contexts": [
+                {
+                    "sentence": "Large bags must be left in the cloakroom.",
+                    "translation": "Túi lớn phải được để trong phòng giữ đồ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "accessible",
+            "phonetic": "/əkˈses.ə.bəl/",
+            "meaning": "(of a place) able to be reached or entered.",
+            "partOfSpeech": "Adjective",
+            "translation": "Có thể tiếp cận, lối vào cho người khuyết tật",
+            "concept": "Easy to reach/enter.",
+            "register": "General",
+            "grammar_note": "Followed by 'to'.",
+            "synonyms": ["reachable", "approachable", "available"],
+            "collocations": ["easily accessible", "wheelchair accessible"],
+            "contexts": [
+                {
+                    "sentence": "The museum is fully accessible to wheelchair users.",
+                    "translation": "Bảo tàng hoàn toàn có thể tiếp cận được đối với người sử dụng xe lăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stairs",
+            "phonetic": "/steəz/",
+            "meaning": "A set of steps leading from one floor of a building to another.",
+            "partOfSpeech": "Noun",
+            "translation": "Cầu thang bộ",
+            "concept": "Steps for walking up/down.",
+            "register": "General",
+            "grammar_note": "Plural noun.",
+            "synonyms": ["staircase", "steps"],
+            "collocations": ["flight of stairs", "climb the stairs"],
+            "contexts": [
+                {
+                    "sentence": "The elevator is broken, so we'll have to take the stairs.",
+                    "translation": "Thang máy bị hỏng, vì vậy chúng tôi sẽ phải đi cầu thang bộ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lift",
+            "phonetic": "/lɪft/",
+            "meaning": "A platform or compartment housed in a shaft for raising and lowering people or things to different floors or levels.",
+            "partOfSpeech": "Noun",
+            "translation": "Thang máy",
+            "concept": "Elevator.",
+            "register": "General (UK)",
+            "grammar_note": "Countable noun. 'Elevator' in US English.",
+            "synonyms": ["elevator"],
+            "collocations": ["take the lift", "lift out of order"],
+            "contexts": [
+                {
+                    "sentence": "The lift goes to all floors.",
+                    "translation": "Thang máy đi đến tất cả các tầng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "workshop",
+            "phonetic": "/ˈwɜːk.ʃɒp/",
+            "meaning": "A meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.",
+            "partOfSpeech": "Noun",
+            "translation": "Buổi hội thảo, lớp học thực hành",
+            "concept": "Interactive learning.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["seminar", "class", "session"],
+            "collocations": ["attend a workshop", "run a workshop", "hands-on workshop"],
+            "contexts": [
+                {
+                    "sentence": "The gallery runs workshops for aspiring artists.",
+                    "translation": "Phòng trưng bày tổ chức các buổi hội thảo cho các nghệ sĩ đầy tham vọng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

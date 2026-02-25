@@ -1,0 +1,676 @@
+{
+    "id": "cambridge_18_test_3",
+    "title": "Cambridge 18 - Reading Test 3",
+    "description": "Full B2+ vocabulary for Materials, The Steam Car, and The Case for Mixed-Ability Classes.",
+    "wordCount": 35,
+    "category": "Reading",
+    "color": "from-purple-500 to-violet-700",
+    "isPro": true,
+    "words": [
+        {
+            "word": "pedagogical",
+            "phonetic": "/ˌped.əˈɡɒdʒ.ɪ.kəl/",
+            "meaning": "Relating to teaching or education.",
+            "partOfSpeech": "Adjective",
+            "translation": "Thuộc về sư phạm, phương pháp giảng dạy",
+            "concept": "Formal term for 'educational' or 'teaching-related'.",
+            "register": "Academic",
+            "grammar_note": "Modifies 'approach', 'skills', 'methods'.",
+            "synonyms": ["educational", "academic", "instructional"],
+            "collocations": ["pedagogical approach", "pedagogical skills", "pedagogical theory"],
+            "contexts": [
+                {
+                    "sentence": "The school's pedagogical approach encourages students to learn through discovery rather than rote memorization.",
+                    "translation": "Phương pháp sư phạm của trường khuyến khích học sinh học thông qua khám phá thay vì học vẹt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "/ˈpær.ə.daɪm/",
+            "meaning": "A typical example or pattern of something; a model.",
+            "partOfSpeech": "Noun",
+            "translation": "Mô hình, mẫu hình lý thuyết",
+            "concept": "A standard or accepted way of doing things.",
+            "register": "Academic",
+            "grammar_note": "Countable noun. Often used in 'paradigm shift'.",
+            "synonyms": ["model", "pattern", "example"],
+            "collocations": ["paradigm shift", "new paradigm", "dominant paradigm"],
+            "contexts": [
+                {
+                    "sentence": "The introduction of computers caused a paradigm shift in the modern workplace.",
+                    "translation": "Sự ra đời của máy tính đã gây ra một sự thay đổi mô hình trong nơi làm việc hiện đại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mediocrity",
+            "phonetic": "/ˌmiː.diˈɒk.rə.ti/",
+            "meaning": "The quality or state of being mediocre.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự tầm thường, chất lượng trung bình",
+            "concept": "Implies average quality, often with a negative connotation.",
+            "register": "Formal",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["ordinariness", "averageness"],
+            "collocations": ["accept mediocrity", "rise above mediocrity", "suffer from mediocrity"],
+            "contexts": [
+                {
+                    "sentence": "Critics argue that mixed-ability classes can lead to mediocrity if high-achievers are not sufficiently challenged.",
+                    "translation": "Các nhà phê bình cho rằng các lớp học đa trình độ có thể dẫn đến sự tầm thường nếu những học sinh giỏi không được thử thách đầy đủ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scaffolding",
+            "phonetic": "/ˈskæf.əl.dɪŋ/",
+            "meaning": "A temporary structure for support; (education) a method of teaching.",
+            "partOfSpeech": "Noun",
+            "translation": "Giàn giáo (nghĩa đen); sự hỗ trợ từng bước (giáo dục)",
+            "concept": "In education, means providing support to help a student learn.",
+            "register": "Technical/Academic",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["support", "framework"],
+            "collocations": ["instructional scaffolding", "provide scaffolding", "erect scaffolding"],
+            "contexts": [
+                {
+                    "sentence": "Teachers use scaffolding techniques to help students gradually master complex mathematical concepts.",
+                    "translation": "Giáo viên sử dụng các kỹ thuật hỗ trợ để giúp học sinh dần dần nắm vững các khái niệm toán học phức tạp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aptitude",
+            "phonetic": "/ˈæp.tɪ.tjuːd/",
+            "meaning": "A natural ability to do something.",
+            "partOfSpeech": "Noun",
+            "translation": "Năng khiếu, khả năng tự nhiên",
+            "concept": "Innate potential to learn a skill.",
+            "register": "Formal",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["talent", "gift", "knack"],
+            "collocations": ["aptitude test", "natural aptitude", "aptitude for"],
+            "contexts": [
+                {
+                    "sentence": "She showed an early aptitude for music, learning to play the piano at age four.",
+                    "translation": "Cô ấy đã thể hiện năng khiếu âm nhạc từ sớm, học chơi đàn piano từ năm bốn tuổi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stream",
+            "phonetic": "/striːm/",
+            "meaning": "A group of students of the same ability.",
+            "partOfSpeech": "Verb",
+            "translation": "Phân luồng (học sinh)",
+            "concept": "Separating students based on academic ability.",
+            "register": "Academic/Educational",
+            "grammar_note": "Transitive verb (e.g., 'to stream students').",
+            "synonyms": ["group", "classify", "categorize"],
+            "collocations": ["stream students", "mixed-ability stream"],
+            "contexts": [
+                {
+                    "sentence": "Some educators argue that streaming students by ability can damage their self-esteem.",
+                    "translation": "Một số nhà giáo dục cho rằng việc phân luồng học sinh theo năng lực có thể làm tổn thương lòng tự trọng của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "comprehensive",
+            "phonetic": "/ˌkɒm.prɪˈhen.sɪv/",
+            "meaning": "Complete; including all or nearly all elements or aspects of something.",
+            "partOfSpeech": "Adjective",
+            "translation": "Toàn diện, bao quát",
+            "concept": "Covering everything needed.",
+            "register": "General/Formal",
+            "grammar_note": "Modifies 'review', 'guide', 'study'.",
+            "synonyms": ["complete", "thorough", "extensive"],
+            "collocations": ["comprehensive review", "comprehensive insurance", "comprehensive guide"],
+            "contexts": [
+                {
+                    "sentence": "The report provides a comprehensive analysis of the current economic situation.",
+                    "translation": "Báo cáo cung cấp một phân tích toàn diện về tình hình kinh tế hiện tại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "collaborate",
+            "phonetic": "/kəˈlæb.ə.reɪt/",
+            "meaning": "Work jointly on an activity, especially to produce or create something.",
+            "partOfSpeech": "Verb",
+            "translation": "Hợp tác, cộng tác",
+            "concept": "Working together towards a common goal.",
+            "register": "General/Formal",
+            "grammar_note": "Intransitive verb. Followed by 'with' or 'on'.",
+            "synonyms": ["cooperate", "team up", "work together"],
+            "collocations": ["collaborate with", "collaborate on", "collaborate closely"],
+            "contexts": [
+                {
+                    "sentence": "Students are encouraged to collaborate on group projects to develop teamwork skills.",
+                    "translation": "Học sinh được khuyến khích hợp tác trong các dự án nhóm để phát triển kỹ năng làm việc nhóm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "curriculum",
+            "phonetic": "/kəˈrɪk.jə.ləm/",
+            "meaning": "The subjects comprising a course of study in a school or college.",
+            "partOfSpeech": "Noun",
+            "translation": "Chương trình giảng dạy",
+            "concept": "The planned content of instruction.",
+            "register": "Academic",
+            "grammar_note": "Countable noun. Plural: curricula or curriculums.",
+            "synonyms": ["syllabus", "course of study"],
+            "collocations": ["school curriculum", "national curriculum", "core curriculum"],
+            "contexts": [
+                {
+                    "sentence": "The school curriculum includes a wide range of subjects including arts and sciences.",
+                    "translation": "Chương trình giảng dạy của trường bao gồm nhiều môn học bao gồm nghệ thuật và khoa học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "differentiation",
+            "phonetic": "/ˌdɪf.ə.ren.ʃiˈeɪ.ʃən/",
+            "meaning": "The action or process of differentiating.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự phân biệt, khác biệt hóa",
+            "concept": "In education, adapting teaching for different abilities.",
+            "register": "Academic/Formal",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["distinction", "discrimination"],
+            "collocations": ["product differentiation", "cell differentiation", "differentiation strategy"],
+            "contexts": [
+                {
+                    "sentence": "Differentiation in the classroom ensures that all students' individual learning needs are met.",
+                    "translation": "Sự khác biệt hóa trong lớp học đảm bảo rằng nhu cầu học tập cá nhân của tất cả học sinh đều được đáp ứng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "propulsion",
+            "phonetic": "/prəˈpʌl.ʃən/",
+            "meaning": "The action of driving or pushing forward.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự đẩy đi, lực đẩy",
+            "concept": "Force causing movement.",
+            "register": "Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["thrust", "drive", "impetus"],
+            "collocations": ["jet propulsion", "propulsion system", "nuclear propulsion"],
+            "contexts": [
+                {
+                    "sentence": "The steam car used a novel form of propulsion that was cleaner than gasoline engines.",
+                    "translation": "Xe hơi chạy bằng hơi nước sử dụng một hình thức động lực mới sạch hơn động cơ xăng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mechanism",
+            "phonetic": "/ˈmek.ə.nɪ.zəm/",
+            "meaning": "A system of parts working together in a machine; a piece of machinery.",
+            "partOfSpeech": "Noun",
+            "translation": "Cơ chế, máy móc",
+            "concept": "How something works.",
+            "register": "General/Technical",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["device", "apparatus", "system"],
+            "collocations": ["defense mechanism", "locking mechanism", "control mechanism"],
+            "contexts": [
+                {
+                    "sentence": "The mechanism for steering the vehicle was complex but effective.",
+                    "translation": "Cơ chế điều khiển phương tiện rất phức tạp nhưng hiệu quả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "combustion",
+            "phonetic": "/kəmˈbʌs.tʃən/",
+            "meaning": "The process of burning something.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự đốt cháy",
+            "concept": "Chemical process of burning.",
+            "register": "Scientific/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["burning", "ignition"],
+            "collocations": ["combustion engine", "spontaneous combustion", "internal combustion"],
+            "contexts": [
+                {
+                    "sentence": "Internal combustion engines became the standard for automobiles in the 20th century.",
+                    "translation": "Động cơ đốt trong đã trở thành tiêu chuẩn cho ô tô trong thế kỷ 20."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "viable",
+            "phonetic": "/ˈvaɪ.ə.bəl/",
+            "meaning": "Capable of working successfully; feasible.",
+            "partOfSpeech": "Adjective",
+            "translation": "Khả thi, có thể tồn tại",
+            "concept": "Possible to do or succeed.",
+            "register": "Formal",
+            "grammar_note": "Modifies 'option', 'alternative', 'plan'.",
+            "synonyms": ["feasible", "workable", "practicable"],
+            "collocations": ["viable option", "financially viable", "commercially viable"],
+            "contexts": [
+                {
+                    "sentence": "Steam power was once considered a viable alternative to petrol for personal transport.",
+                    "translation": "Năng lượng hơi nước từng được coi là một sự thay thế khả thi cho xăng dầu trong giao thông cá nhân."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dominance",
+            "phonetic": "/ˈdɒm.ɪ.nəns/",
+            "meaning": "Power and influence over others.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự thống trị, ưu thế",
+            "concept": "Being in charge or most important.",
+            "register": "Formal",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["supremacy", "superiority", "control"],
+            "collocations": ["market dominance", "political dominance", "establish dominance"],
+            "contexts": [
+                {
+                    "sentence": "The dominance of the petrol engine led to the decline of steam cars.",
+                    "translation": "Sự thống trị của động cơ xăng đã dẫn đến sự suy tàn của xe hơi nước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovative",
+            "phonetic": "/ˈɪn.ə.və.tɪv/",
+            "meaning": "Featuring new methods; advanced and original.",
+            "partOfSpeech": "Adjective",
+            "translation": "Đổi mới, sáng tạo",
+            "concept": "Using new ideas.",
+            "register": "General/Formal",
+            "grammar_note": "Describes ideas, products.",
+            "synonyms": ["novel", "inventive", "groundbreaking"],
+            "collocations": ["innovative solution", "innovative design", "innovative approach"],
+            "contexts": [
+                {
+                    "sentence": "The company is known for its innovative approach to engineering design.",
+                    "translation": "Công ty được biết đến với cách tiếp cận sáng tạo trong thiết kế kỹ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "efficient",
+            "phonetic": "/ɪˈfɪʃ.ənt/",
+            "meaning": "Achieving maximum productivity with minimum wasted effort or expense.",
+            "partOfSpeech": "Adjective",
+            "translation": "Hiệu quả (về năng suất)",
+            "concept": "Doing things well without waste.",
+            "register": "General",
+            "grammar_note": "Modifies 'method', 'way', 'system'.",
+            "synonyms": ["effective", "productive"],
+            "collocations": ["energy efficient", "highly efficient", "efficient use"],
+            "contexts": [
+                {
+                    "sentence": "Steam engines were significantly less efficient than their petrol counterparts.",
+                    "translation": "Động cơ hơi nước kém hiệu quả hơn đáng kể so với các đối tác chạy bằng xăng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "concrete",
+            "phonetic": "/ˈkɒŋ.kriːt/",
+            "meaning": "A heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water.",
+            "partOfSpeech": "Noun",
+            "translation": "Bê tông",
+            "concept": "Construction material.",
+            "register": "General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": [],
+            "collocations": ["reinforced concrete", "concrete block", "concrete evidence"],
+            "contexts": [
+                {
+                    "sentence": "Reinforced concrete is a widely used construction material in modern architecture.",
+                    "translation": "Bê tông cốt thép là vật liệu xây dựng được sử dụng rộng rãi trong kiến trúc hiện đại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "/sɪnˈθet.ɪk/",
+            "meaning": "Made by chemical synthesis, especially to imitate a natural product.",
+            "partOfSpeech": "Adjective",
+            "translation": "Tổng hợp, nhân tạo",
+            "concept": "Man-made, not natural.",
+            "register": "General/Scientific",
+            "grammar_note": "Modifies 'material', 'fiber', 'substance'.",
+            "synonyms": ["artificial", "man-made"],
+            "collocations": ["synthetic fiber", "synthetic rubber", "synthetic material"],
+            "contexts": [
+                {
+                    "sentence": "Synthetic materials like plastic have revolutionized the manufacturing industry.",
+                    "translation": "Các vật liệu tổng hợp như nhựa đã cách mạng hóa ngành công nghiệp sản xuất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "composition",
+            "phonetic": "/ˌkɒm.pəˈzɪʃ.ən/",
+            "meaning": "The nature of something's ingredients or constituents; the way in which a whole or mixture is made up.",
+            "partOfSpeech": "Noun",
+            "translation": "Thành phần cấu tạo, kết cấu",
+            "concept": "What something is made of.",
+            "register": "Formal/Scientific",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["constitution", "makeup", "structure"],
+            "collocations": ["chemical composition", "musical composition", "composition of"],
+            "contexts": [
+                {
+                    "sentence": "Scientists analyzed the chemical composition of the new alloy.",
+                    "translation": "Các nhà khoa học đã phân tích thành phần hóa học của hợp kim mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "durable",
+            "phonetic": "/ˈdʒʊə.rə.bəl/",
+            "meaning": "Able to withstand wear, pressure, or damage.",
+            "partOfSpeech": "Adjective",
+            "translation": "Bền, lâu bền",
+            "concept": "Lasting a long time.",
+            "register": "General",
+            "grammar_note": "Modifies 'goods', 'material'.",
+            "synonyms": ["hard-wearing", "long-lasting", "tough"],
+            "collocations": ["durable goods", "highly durable"],
+            "contexts": [
+                {
+                    "sentence": "The new synthetic fabric is highly durable and resistant to tearing.",
+                    "translation": "Vải tổng hợp mới này rất bền và chống rách."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "versatile",
+            "phonetic": "/ˈvɜː.sə.taɪl/",
+            "meaning": "Able to adapt or be adapted to many different functions or activities.",
+            "partOfSpeech": "Adjective",
+            "translation": "Đa năng, linh hoạt",
+            "concept": "Good at many things.",
+            "register": "General",
+            "grammar_note": "Modifies people or objects.",
+            "synonyms": ["adaptable", "flexible", "all-round"],
+            "collocations": ["versatile material", "versatile actor", "versatile tool"],
+            "contexts": [
+                {
+                    "sentence": "Plastic is a versatile material that can be used for packaging, construction, and electronics.",
+                    "translation": "Nhựa là một vật liệu đa năng có thể được sử dụng cho bao bì, xây dựng và điện tử."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "insulate",
+            "phonetic": "/ˈɪn.sjə.leɪt/",
+            "meaning": "Protect (something) by interposing material that prevents the loss of heat or the intrusion of sound.",
+            "partOfSpeech": "Verb",
+            "translation": "Cách nhiệt, cách âm, cách điện",
+            "concept": "Protecting from energy transfer.",
+            "register": "Technical/General",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["protect", "shield", "cover"],
+            "collocations": ["insulate against", "poorly insulated", "electrically insulated"],
+            "contexts": [
+                {
+                    "sentence": "Modern homes are insulated to reduce energy consumption for heating and cooling.",
+                    "translation": "Những ngôi nhà hiện đại được cách nhiệt để giảm tiêu thụ năng lượng cho việc sưởi ấm và làm mát."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "property",
+            "phonetic": "/ˈprɒp.ə.ti/",
+            "meaning": "An attribute, quality, or characteristic of something.",
+            "partOfSpeech": "Noun",
+            "translation": "Thuộc tính, tính chất",
+            "concept": "Scientific characteristic.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Countable noun (usually plural in this sense).",
+            "synonyms": ["quality", "characteristic", "attribute"],
+            "collocations": ["physical property", "chemical property", "healing property"],
+            "contexts": [
+                {
+                    "sentence": "Engineers study the physical properties of materials to determine their suitability for construction.",
+                    "translation": "Các kỹ sư nghiên cứu các tính chất vật lý của vật liệu để xác định sự phù hợp của chúng cho xây dựng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "extraction",
+            "phonetic": "/ɪkˈstræk.ʃən/",
+            "meaning": "The action of taking out something, especially using effort or force.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự khai thác, chiết xuất",
+            "concept": "Removing something valuable from a source.",
+            "register": "Formal/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["removal", "withdrawal"],
+            "collocations": ["mineral extraction", "extraction process", "tooth extraction"],
+            "contexts": [
+                {
+                    "sentence": "The extraction of raw materials has a significant impact on the environment.",
+                    "translation": "Việc khai thác nguyên liệu thô có tác động đáng kể đến môi trường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "refinement",
+            "phonetic": "/rɪˈfaɪn.mənt/",
+            "meaning": "The process of removing impurities or unwanted elements from a substance.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự tinh chế, lọc",
+            "concept": "Making something pure.",
+            "register": "Formal/Technical",
+            "grammar_note": "Uncountable/Countable.",
+            "synonyms": ["purification", "processing"],
+            "collocations": ["oil refinement", "sugar refinement", "process of refinement"],
+            "contexts": [
+                {
+                    "sentence": "The refinement of crude oil produces gasoline, diesel, and other fuels.",
+                    "translation": "Việc tinh chế dầu thô tạo ra xăng, dầu diesel và các loại nhiên liệu khác."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "component",
+            "phonetic": "/kəmˈpəʊ.nənt/",
+            "meaning": "A part or element of a larger whole.",
+            "partOfSpeech": "Noun",
+            "translation": "Thành phần, bộ phận",
+            "concept": "Piece of a system.",
+            "register": "General/Technical",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["part", "piece", "element"],
+            "collocations": ["key component", "essential component", "electronic component"],
+            "contexts": [
+                {
+                    "sentence": "The engine is a key component of any vehicle.",
+                    "translation": "Động cơ là một bộ phận then chốt của bất kỳ phương tiện nào."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "assembly",
+            "phonetic": "/əˈsem.bli/",
+            "meaning": "The action of fitting together the component parts of a machine or other object.",
+            "partOfSpeech": "Noun",
+            "translation": "Sự lắp ráp",
+            "concept": "Putting parts together.",
+            "register": "General/Industrial",
+            "grammar_note": "Uncountable/Countable.",
+            "synonyms": ["construction", "fabrication"],
+            "collocations": ["assembly line", "final assembly", "assembly plant"],
+            "contexts": [
+                {
+                    "sentence": "The assembly line revolutionized the manufacturing of automobiles.",
+                    "translation": "Dây chuyền lắp ráp đã cách mạng hóa việc sản xuất ô tô."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mass production",
+            "phonetic": "/ˌmæs prəˈdʌk.ʃən/",
+            "meaning": "The production of large quantities of a standardized article by an automated mechanical process.",
+            "partOfSpeech": "Noun",
+            "translation": "Sản xuất hàng loạt",
+            "concept": "Making many things quickly.",
+            "register": "Industrial/Business",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": [],
+            "collocations": ["mass production techniques", "era of mass production"],
+            "contexts": [
+                {
+                    "sentence": "Mass production made cars affordable for the average person.",
+                    "translation": "Sản xuất hàng loạt đã làm cho ô tô có giá cả phải chăng đối với người bình thường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "standardize",
+            "phonetic": "/ˈstæn.də.daɪz/",
+            "meaning": "Cause (something) to conform to a standard.",
+            "partOfSpeech": "Verb",
+            "translation": "Tiêu chuẩn hóa",
+            "concept": "Making things the same.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["normalize", "uniform"],
+            "collocations": ["standardize procedures", "standardized testing"],
+            "contexts": [
+                {
+                    "sentence": "It is important to standardize procedures to ensure consistent quality.",
+                    "translation": "Điều quan trọng là phải tiêu chuẩn hóa các quy trình để đảm bảo chất lượng nhất quán."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "obsolete",
+            "phonetic": "/ˌɒb.səˈliːt/",
+            "meaning": "No longer produced or used; out of date.",
+            "partOfSpeech": "Adjective",
+            "translation": "Lỗi thời, không còn dùng nữa",
+            "concept": "Replaced by something newer.",
+            "register": "General",
+            "grammar_note": "Describes technology, words, laws.",
+            "synonyms": ["outdated", "outmoded", "defunct"],
+            "collocations": ["become obsolete", "render obsolete"],
+            "contexts": [
+                {
+                    "sentence": "Steam cars became obsolete with the invention of the electric starter for petrol engines.",
+                    "translation": "Xe hơi nước đã trở nên lỗi thời với sự phát minh ra bộ đề điện cho động cơ xăng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "/ɪˈfɪʃ.ən.si/",
+            "meaning": "The state or quality of being efficient.",
+            "partOfSpeech": "Noun",
+            "translation": "Hiệu suất, năng suất",
+            "concept": "Ratio of output to input.",
+            "register": "General/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["effectiveness", "productivity"],
+            "collocations": ["improve efficiency", "energy efficiency", "operational efficiency"],
+            "contexts": [
+                {
+                    "sentence": "Improving fuel efficiency is a major goal for car manufacturers.",
+                    "translation": "Cải thiện hiệu suất nhiên liệu là một mục tiêu chính của các nhà sản xuất ô tô."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revolutionize",
+            "phonetic": "/ˌrev.əˈluː.ʃən.aɪz/",
+            "meaning": "Change (something) radically or fundamentally.",
+            "partOfSpeech": "Verb",
+            "translation": "Cách mạng hóa",
+            "concept": "Complete change.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["transform", "overhaul"],
+            "collocations": ["revolutionize the industry", "revolutionize the way"],
+            "contexts": [
+                {
+                    "sentence": "The internet has revolutionized the way we communicate.",
+                    "translation": "Internet đã cách mạng hóa cách chúng ta giao tiếp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "breakthrough",
+            "phonetic": "/ˈbreɪk.θruː/",
+            "meaning": "A sudden, dramatic, and important discovery or development.",
+            "partOfSpeech": "Noun",
+            "translation": "Bước đột phá",
+            "concept": "Major step forward.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["advance", "discovery", "leap"],
+            "collocations": ["major breakthrough", "scientific breakthrough", "medical breakthrough"],
+            "contexts": [
+                {
+                    "sentence": "Scientists have made a major breakthrough in the treatment of the disease.",
+                    "translation": "Các nhà khoa học đã đạt được một bước đột phá lớn trong việc điều trị căn bệnh này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prototype",
+            "phonetic": "/ˈprəʊ.tə.taɪp/",
+            "meaning": "A first, typical or preliminary model of something.",
+            "partOfSpeech": "Noun",
+            "translation": "Nguyên mẫu",
+            "concept": "Early version for testing.",
+            "register": "Technical",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["model", "mock-up"],
+            "collocations": ["build a prototype", "test a prototype"],
+            "contexts": [
+                {
+                    "sentence": "The engineers built a prototype of the new car to test its safety features.",
+                    "translation": "Các kỹ sư đã chế tạo một nguyên mẫu của chiếc xe mới để kiểm tra các tính năng an toàn của nó."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

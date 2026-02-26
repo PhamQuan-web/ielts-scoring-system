@@ -1,0 +1,1404 @@
+{
+    "id": "cambridge_19_reading_test_1",
+    "title": "Cam 19 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Reading Test 1, tập trung vào các từ vựng then chốt giúp đọc hiểu sâu.",
+    "wordCount": 49,
+    "category": "Reading",
+    "color": "from-emerald-500 to-teal-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "customization",
+            "phonetic": "/ˌkʌstəmaɪˈzeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of modifying something to suit a particular individual or task.",
+            "translation": "Sự tùy biến / Sự điều chỉnh theo nhu cầu riêng",
+            "concept": "Khác với 'modification' (sửa đổi chung chung) hay 'change' (thay đổi), 'customization' nhấn mạnh vào việc sửa đổi để **phục vụ mục đích riêng** hoặc **sở thích cá nhân** của một đối tượng cụ thể. Thường dùng trong bối cảnh sản phẩm, dịch vụ cao cấp.",
+            "register": "Academic / Business / Formal",
+            "grammar_note": "Thường đi sau danh từ ghép (e.g., product customization) hoặc giới từ 'of'.",
+            "synonyms": [
+                "personalization",
+                "tailoring",
+                "adaptation"
+            ],
+            "collocations": [
+                "allow for customization",
+                "mass customization",
+                "level of customization"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The software allows for extensive customization, enabling users to tailor the interface to their specific workflow needs.",
+                    "translation": "Phần mềm cho phép tùy biến sâu rộng, giúp người dùng điều chỉnh giao diện theo nhu cầu quy trình làm việc cụ thể của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "modification",
+            "phonetic": "/ˌmɒdɪfɪˈkeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of making small changes to something to improve it.",
+            "translation": "Sự sửa đổi / Sự cải biến",
+            "concept": "Ám chỉ việc thay đổi nhỏ, thường là để cải thiện hoặc thích nghi, chứ không thay đổi hoàn toàn bản chất như 'transformation'.",
+            "register": "Academic / Formal",
+            "grammar_note": "Thường đi với giới từ 'to'.",
+            "synonyms": [
+                "alteration",
+                "adjustment",
+                "amendment"
+            ],
+            "collocations": [
+                "genetic modification",
+                "make modifications",
+                "minor modification"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The design required several modifications to meet the new safety standards.",
+                    "translation": "Thiết kế yêu cầu một số sửa đổi để đáp ứng các tiêu chuẩn an toàn mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "/sɪnˈθetɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Made by chemical synthesis, especially to imitate a natural product.",
+            "translation": "Tổng hợp / Nhân tạo",
+            "concept": "Đối lập với 'natural'. Thường dùng cho vật liệu (vải, cao su) hoặc hóa chất. Trong một số ngữ cảnh bóng bẩy, nó có thể ám chỉ sự giả tạo.",
+            "register": "Academic / Scientific",
+            "grammar_note": "Thường đứng trước danh từ (synthetic fiber, synthetic material).",
+            "synonyms": [
+                "artificial",
+                "man-made",
+                "manufactured"
+            ],
+            "collocations": [
+                "synthetic material",
+                "synthetic fiber",
+                "synthetic rubber"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Synthetic materials like nylon have largely replaced natural gut in modern tennis strings due to their durability.",
+                    "translation": "Các vật liệu tổng hợp như nylon đã thay thế phần lớn ruột tự nhiên trong dây vợt tennis hiện đại nhờ độ bền của chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "underestimate",
+            "phonetic": "/ˌʌndərˈestɪmeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "To estimate something to be smaller or less important than it actually is.",
+            "translation": "Đánh giá thấp",
+            "concept": "Một lỗi tư duy phổ biến. Dùng khi ai đó coi thường khả năng, chi phí hoặc rủi ro thực tế.",
+            "register": "General / Academic",
+            "grammar_note": "Có thể dùng như danh từ (an underestimate).",
+            "synonyms": [
+                "undervalue",
+                "underrate",
+                "minimize"
+            ],
+            "collocations": [
+                "grossly underestimate",
+                "underestimate the importance",
+                "never underestimate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One should never underestimate the impact of seemingly minor technological tweaks on athletic performance.",
+                    "translation": "Không bao giờ nên đánh giá thấp tác động của những tinh chỉnh công nghệ dường như nhỏ nhặt đối với thành tích thể thao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consequently",
+            "phonetic": "/ˈkɒnsɪkwəntli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "B2",
+            "meaning": "As a result.",
+            "translation": "Hệ quả là / Do đó",
+            "concept": "Từ nối quan trọng trong văn viết học thuật để chỉ mối quan hệ nguyên nhân - kết quả. Trang trọng hơn 'so'.",
+            "register": "Formal / Academic",
+            "grammar_note": "Thường đứng đầu câu hoặc sau dấu chấm phẩy.",
+            "synonyms": [
+                "therefore",
+                "thus",
+                "hence",
+                "as a result"
+            ],
+            "collocations": [
+                "consequently leading to",
+                "and consequently"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The new strings provided more spin; consequently, players could hit the ball harder without it going out.",
+                    "translation": "Dây mới tạo ra nhiều xoáy hơn; hệ quả là, người chơi có thể đánh bóng mạnh hơn mà bóng không bị ra ngoài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "specification",
+            "phonetic": "/ˌspesɪfɪˈkeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A detailed description of the design and materials used to make something.",
+            "translation": "Thông số kỹ thuật / Quy cách",
+            "concept": "Thường dùng ở số nhiều 'specifications' (specs). Là bản mô tả chi tiết, chính xác về yêu cầu kỹ thuật.",
+            "register": "Technical / Formal",
+            "grammar_note": "Thường dùng: meet specifications, technical specifications.",
+            "synonyms": [
+                "requirement",
+                "guideline",
+                "standard"
+            ],
+            "collocations": [
+                "meet specifications",
+                "exact specifications",
+                "technical specifications"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The racket was customized to the exact specifications requested by the professional player.",
+                    "translation": "Cây vợt đã được tùy chỉnh theo đúng các thông số kỹ thuật chính xác mà vận động viên chuyên nghiệp yêu cầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hybrid",
+            "phonetic": "/ˈhaɪbrɪd/",
+            "partOfSpeech": "Adjective / Noun",
+            "cefrLevel": "C1",
+            "meaning": "Of mixed character; composed of mixed parts.",
+            "translation": "Lai / Hỗn hợp",
+            "concept": "Kết hợp hai hoặc nhiều yếu tố khác nhau để tận dụng ưu điểm của cả hai. Dùng nhiều trong sinh học, xe cộ, và công nghệ.",
+            "register": "Technical / Academic",
+            "grammar_note": "Hybrid car, hybrid approach, hybrid system.",
+            "synonyms": [
+                "mixture",
+                "blend",
+                "composite",
+                "combination"
+            ],
+            "collocations": [
+                "hybrid model",
+                "hybrid approach",
+                "hybrid vehicle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A hybrid approach, combining traditional methods with modern technology, often yields the best results.",
+                    "translation": "Một phương pháp lai, kết hợp các phương pháp truyền thống với công nghệ hiện đại, thường mang lại kết quả tốt nhất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "anticipate",
+            "phonetic": "/ænˈtɪsɪpeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To regard as probable; expect or predict.",
+            "translation": "Dự đoán / Lường trước",
+            "concept": "Khác với 'expect' (chờ đợi), 'anticipate' hàm ý sự chuẩn bị sẵn sàng cho điều sắp xảy ra. Thường dùng trong kinh doanh và lập kế hoạch.",
+            "register": "Formal / Academic",
+            "grammar_note": "Anticipate + V-ing / noun clause.",
+            "synonyms": [
+                "expect",
+                "predict",
+                "foresee",
+                "await"
+            ],
+            "collocations": [
+                "anticipate problems",
+                "widely anticipated",
+                "hard to anticipate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The organizers did not anticipate such a large turnout and were overwhelmed by the crowd.",
+                    "translation": "Các nhà tổ chức đã không lường trước được số lượng người tham dự lớn như vậy và đã bị quá tải bởi đám đông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "contradict",
+            "phonetic": "/ˌkɒntrəˈdɪkt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To be in conflict with.",
+            "translation": "Mâu thuẫn / Trái ngược",
+            "concept": "Khi hai tuyên bố, hành động hoặc bằng chứng không khớp nhau, cái này phủ định cái kia.",
+            "register": "Academic / Formal",
+            "grammar_note": "Contradict someone/something.",
+            "synonyms": [
+                "conflict with",
+                "deny",
+                "refute",
+                "counter"
+            ],
+            "collocations": [
+                "directly contradict",
+                "contradict the findings",
+                "contradict oneself"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The new findings directly contradict the previously held theories about the origin of the species.",
+                    "translation": "Những phát hiện mới mâu thuẫn trực tiếp với các lý thuyết trước đây về nguồn gốc của loài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revolutionize",
+            "phonetic": "/ˌrevəˈluːʃənaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To change something radically or fundamentally.",
+            "translation": "Cách mạng hóa / Thay đổi hoàn toàn",
+            "concept": "Mạnh hơn 'change' hay 'improve' rất nhiều. Nó ám chỉ một sự thay đổi **toàn diện**, **triệt để** và mang tính **bước ngoặt** lịch sử hoặc công nghệ.",
+            "register": "Academic / Formal",
+            "grammar_note": "Thường dùng ở dạng chủ động với tân ngữ trực tiếp (revolutionize something).",
+            "synonyms": [
+                "transform",
+                "overhaul",
+                "metamorphose"
+            ],
+            "collocations": [
+                "revolutionize the industry",
+                "completely revolutionize",
+                "revolutionize the way we live"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The advent of synthetic materials promised to revolutionize the manufacturing of tennis rackets, offering durability previously unattainable with wood.",
+                    "translation": "Sự ra đời của vật liệu tổng hợp hứa hẹn sẽ cách mạng hóa việc sản xuất vợt tennis, mang lại độ bền mà trước đây không thể đạt được với gỗ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "attribute",
+            "phonetic": "/əˈtrɪbjuːt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To regard something as being caused by someone or something.",
+            "translation": "Quy cho / Cho là do",
+            "concept": "Dùng để giải thích nguyên nhân-kết quả một cách trang trọng. 'Attribute X to Y' nghĩa là X xảy ra là do Y. Cần phân biệt với danh từ 'attribute' (thuộc tính/đặc điểm).",
+            "register": "Academic",
+            "grammar_note": "Cấu trúc cố định: attribute [something] to [someone/something]. Thường dùng ở thể bị động: be attributed to.",
+            "synonyms": [
+                "ascribe",
+                "assign",
+                "credit"
+            ],
+            "collocations": [
+                "widely attributed to",
+                "attribute success to",
+                "attribute the decline to"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The sudden increase in serving speed was largely attributed to the introduction of stiffer, more aerodynamic racket frames.",
+                    "translation": "Sự gia tăng đột ngột trong tốc độ giao bóng phần lớn được quy cho việc giới thiệu các khung vợt cứng hơn và khí động học hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reign",
+            "phonetic": "/reɪn/",
+            "partOfSpeech": "Noun / Verb",
+            "cefrLevel": "C1",
+            "meaning": "The period during which a sovereign rules; to hold royal office.",
+            "translation": "Triều đại / Thời gian cai trị",
+            "concept": "Dùng cho vua chúa, nhưng cũng có thể dùng nghĩa bóng (thời kỳ thống trị của một nhà vô địch thể thao, một công nghệ, v.v.).",
+            "register": "Formal / Literary",
+            "grammar_note": "During someone's reign. Reign over.",
+            "synonyms": [
+                "rule",
+                "sovereignty",
+                "dominion"
+            ],
+            "collocations": [
+                "during the reign of",
+                "long reign",
+                "reign supreme"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The reign of the wooden racket came to an abrupt end with the introduction of metal and composite alternatives.",
+                    "translation": "Thời kỳ thống trị của vợt gỗ đã kết thúc đột ngột với sự ra đời của các lựa chọn thay thế bằng kim loại và vật liệu composite."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pursuer",
+            "phonetic": "/pəˈsjuːər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person or thing that pursues another.",
+            "translation": "Kẻ truy đuổi",
+            "concept": "Người hoặc vật đang đuổi theo để bắt hoặc đạt được mục tiêu. Từ gốc là 'pursue'.",
+            "register": "Literary / Formal",
+            "grammar_note": "Outrun one's pursuers.",
+            "synonyms": [
+                "chaser",
+                "hunter",
+                "stalker"
+            ],
+            "collocations": [
+                "escape pursuers",
+                "elude pursuers"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The ship managed to slip into the fog, effectively losing its pursuers.",
+                    "translation": "Con tàu đã xoay sở để lẩn vào sương mù, cắt đuôi những kẻ truy đuổi một cách hiệu quả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "misfit",
+            "phonetic": "/ˈmɪsfɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A person whose behavior or attitude sets them apart from others in an uncomfortably conspicuous way.",
+            "translation": "Kẻ lạc loài / Người không hòa nhập",
+            "concept": "Chỉ người không phù hợp với môi trường hoặc xã hội xung quanh. Thường mang sắc thái tiêu cực hoặc cô độc.",
+            "register": "General / Literary",
+            "grammar_note": "Social misfit.",
+            "synonyms": [
+                "nonconformist",
+                "outsider",
+                "eccentric"
+            ],
+            "collocations": [
+                "social misfit",
+                "a band of misfits"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Often portrayed as social misfits, pirates actually operated within complex and democratic social structures.",
+                    "translation": "Thường được miêu tả như những kẻ lạc loài ngoài xã hội, cướp biển thực ra hoạt động trong các cấu trúc xã hội phức tạp và dân chủ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "predate",
+            "phonetic": "/ˌpriːˈdeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To exist or occur at a date earlier than something else.",
+            "translation": "Có trước / Xảy ra trước",
+            "concept": "Dùng để so sánh thời gian. X predate Y nghĩa là X có từ trước Y.",
+            "register": "Academic / Formal",
+            "grammar_note": "Predate something by [time period].",
+            "synonyms": [
+                "antecede",
+                "precede",
+                "come before"
+            ],
+            "collocations": [
+                "predate history",
+                "predate the existence of"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Evidence suggests that forms of maritime piracy predate recorded history.",
+                    "translation": "Bằng chứng cho thấy các hình thức cướp biển hàng hải đã có từ trước khi lịch sử được ghi chép."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fertile",
+            "phonetic": "/ˈfɜːtaɪl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(Of soil or land) producing or capable of producing abundant vegetation or crops.",
+            "translation": "Màu mỡ / Phì nhiêu",
+            "concept": "Nghĩa đen là đất tốt cho cây trồng. Nghĩa bóng là 'fertile ground' (môi trường thuận lợi) cho ý tưởng, xung đột, hay sự phát triển.",
+            "register": "General / Academic",
+            "grammar_note": "Fertile soil, fertile ground for...",
+            "synonyms": [
+                "productive",
+                "fruitful",
+                "rich",
+                "fecund"
+            ],
+            "collocations": [
+                "fertile soil",
+                "fertile ground",
+                "fertile imagination"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The region's fertile soil made it a prime target for agricultural expansion and subsequent trade.",
+                    "translation": "Đất đai màu mỡ của khu vực đã khiến nó trở thành mục tiêu chính cho việc mở rộng nông nghiệp và thương mại sau đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rugged",
+            "phonetic": "/ˈrʌɡɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(Of ground or terrain) having a broken, rocky, and uneven surface.",
+            "translation": "Gồ ghề / Hiểm trở",
+            "concept": "Chỉ địa hình khó đi, hoang sơ. Cũng dùng để chỉ vẻ đẹp nam tính, phong trần (rugged looks).",
+            "register": "General / Literary",
+            "grammar_note": "Rugged terrain, rugged coastline.",
+            "synonyms": [
+                "rough",
+                "rocky",
+                "uneven",
+                "harsh"
+            ],
+            "collocations": [
+                "rugged terrain",
+                "rugged coastline",
+                "rugged beauty"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The rugged coastline, full of hidden coves, provided ideal hiding spots for pirate vessels.",
+                    "translation": "Bờ biển hiểm trở, đầy những vịnh nhỏ ẩn mình, đã cung cấp những điểm ẩn nấp lý tưởng cho tàu thuyền cướp biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "coastline",
+            "phonetic": "/ˈkəʊstlaɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The outline of a coast, especially with regard to its shape and appearance.",
+            "translation": "Đường bờ biển",
+            "concept": "Dùng trong địa lý, du lịch.",
+            "register": "General / Geographic",
+            "grammar_note": "Along the coastline.",
+            "synonyms": [
+                "shoreline",
+                "coast",
+                "seaboard"
+            ],
+            "collocations": [
+                "long coastline",
+                "rugged coastline",
+                "protect the coastline"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Climate change poses a severe threat to low-lying coastlines around the world.",
+                    "translation": "Biến đổi khí hậu đặt ra một mối đe dọa nghiêm trọng đối với các đường bờ biển thấp trên toàn thế giới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "undetected",
+            "phonetic": "/ˌʌndɪˈtektɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Not detected or discovered.",
+            "translation": "Không bị phát hiện",
+            "concept": "Thường dùng trong bối cảnh lén lút, bệnh tật, hoặc lỗi kỹ thuật.",
+            "register": "General / Formal",
+            "grammar_note": "Go/remain undetected.",
+            "synonyms": [
+                "unnoticed",
+                "unobserved",
+                "undiscovered"
+            ],
+            "collocations": [
+                "remain undetected",
+                "go undetected",
+                "undetected error"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The virus can remain undetected in the system for weeks before symptoms appear.",
+                    "translation": "Virus có thể không bị phát hiện trong hệ thống trong nhiều tuần trước khi các triệu chứng xuất hiện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "surrender",
+            "phonetic": "/səˈrendər/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To stop resisting to an enemy or opponent and submit to their authority.",
+            "translation": "Đầu hàng / Từ bỏ",
+            "concept": "Dùng trong quân sự hoặc pháp luật (surrender passport). Nghĩa bóng là đầu hàng trước cảm xúc hoặc cám dỗ.",
+            "register": "General / Formal",
+            "grammar_note": "Surrender to someone/something.",
+            "synonyms": [
+                "yield",
+                "capitulate",
+                "give up",
+                "submit"
+            ],
+            "collocations": [
+                "surrender to",
+                "demand surrender",
+                "conditional surrender"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The pirates were forced to surrender after their ship was surrounded by the naval fleet.",
+                    "translation": "Những tên cướp biển buộc phải đầu hàng sau khi tàu của chúng bị hạm đội hải quân bao vây."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "retaliation",
+            "phonetic": "/rɪˌtæliˈeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The action of returning a military attack; counter-attack.",
+            "translation": "Sự trả đũa / Sự báo thù",
+            "concept": "Hành động đáp trả lại sự tấn công hoặc xúc phạm. Thường dùng trong chính trị, quân sự.",
+            "register": "Formal / Political",
+            "grammar_note": "In retaliation for something.",
+            "synonyms": [
+                "revenge",
+                "vengeance",
+                "reprisal",
+                "counterstrike"
+            ],
+            "collocations": [
+                "in retaliation",
+                "threaten retaliation",
+                "fear of retaliation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The airstrike was launched in retaliation for the recent attacks on border outposts.",
+                    "translation": "Cuộc không kích được phát động để trả đũa cho các cuộc tấn công gần đây vào các tiền đồn biên giới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resort",
+            "phonetic": "/rɪˈzɔːt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To turn to and adopt (a strategy or course of action, especially a disagreeable or undesirable one) so as to resolve a difficult situation.",
+            "translation": "Phải dùng đến / Viện đến",
+            "concept": "Thường mang nghĩa tiêu cực: phải dùng đến cách cuối cùng, không mong muốn (resort to violence).",
+            "register": "Formal",
+            "grammar_note": "Resort to something / doing something.",
+            "synonyms": [
+                "turn to",
+                "use",
+                "employ",
+                "fall back on"
+            ],
+            "collocations": [
+                "resort to violence",
+                "resort to legal action",
+                "last resort"
+            ],
+            "contexts": [
+                {
+                    "sentence": "When negotiations fail, countries may feel compelled to resort to military force.",
+                    "translation": "Khi các cuộc đàm phán thất bại, các quốc gia có thể cảm thấy buộc phải dùng đến lực lượng quân sự."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "employ",
+            "phonetic": "/ɪmˈplɔɪ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "To make use of.",
+            "translation": "Sử dụng / Áp dụng",
+            "concept": "Ngoài nghĩa 'thuê mướn', 'employ' còn có nghĩa trang trọng là 'sử dụng' (phương pháp, kỹ thuật, công cụ).",
+            "register": "Formal",
+            "grammar_note": "Employ a method/tactic/strategy.",
+            "synonyms": [
+                "use",
+                "utilize",
+                "apply",
+                "implement"
+            ],
+            "collocations": [
+                "employ a strategy",
+                "employ tactics",
+                "employ methods"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The study employed a mixed-methods approach to gather comprehensive data.",
+                    "translation": "Nghiên cứu đã sử dụng phương pháp tiếp cận hỗn hợp để thu thập dữ liệu toàn diện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "maneuverable",
+            "phonetic": "/məˈnuːvərəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Easy to move and direct.",
+            "translation": "Dễ điều khiển / Linh hoạt",
+            "concept": "Dùng cho xe cộ, tàu bè, máy bay có khả năng di chuyển khéo léo.",
+            "register": "Technical / Military",
+            "grammar_note": "Highly maneuverable.",
+            "synonyms": [
+                "agile",
+                "nimble",
+                "responsive"
+            ],
+            "collocations": [
+                "highly maneuverable",
+                "more maneuverable",
+                "maneuverable aircraft"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The smaller ships were highly maneuverable, allowing them to navigate shallow waters where larger vessels could not follow.",
+                    "translation": "Những con tàu nhỏ hơn rất linh hoạt, cho phép chúng di chuyển trong vùng nước nông nơi các tàu lớn hơn không thể theo kịp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "diplomatic",
+            "phonetic": "/ˌdɪpləˈmætɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Of or concerning the profession, activity, or skill of managing international relations.",
+            "translation": "Ngoại giao / Khéo léo",
+            "concept": "Liên quan đến quan hệ giữa các nước. Nghĩa bóng là khéo léo trong ứng xử để tránh xung đột.",
+            "register": "Formal / Political",
+            "grammar_note": "Diplomatic relations, diplomatic solution.",
+            "synonyms": [
+                "tactful",
+                "polite",
+                "political",
+                "conciliatory"
+            ],
+            "collocations": [
+                "diplomatic relations",
+                "diplomatic immunity",
+                "diplomatic solution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A diplomatic solution is always preferable to armed conflict.",
+                    "translation": "Một giải pháp ngoại giao luôn được ưu tiên hơn là xung đột vũ trang."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pressing",
+            "phonetic": "/ˈpresɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Requiring quick or immediate action or attention.",
+            "translation": "Cấp bách / Khẩn cấp",
+            "concept": "Ám chỉ sự khẩn trương, không thể trì hoãn. Thường đi với: problem, need, issue.",
+            "register": "Formal",
+            "grammar_note": "Pressing need, pressing issue.",
+            "synonyms": [
+                "urgent",
+                "critical",
+                "imperative",
+                "burning"
+            ],
+            "collocations": [
+                "pressing need",
+                "pressing issue",
+                "most pressing"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Climate change is arguably the most pressing environmental issue of our time.",
+                    "translation": "Biến đổi khí hậu được cho là vấn đề môi trường cấp bách nhất trong thời đại của chúng ta."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "substantial",
+            "phonetic": "/səbˈstænʃəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Of considerable importance, size, or worth.",
+            "translation": "Đáng kể / Lớn lao",
+            "concept": "Dùng để chỉ số lượng, kích thước hoặc mức độ quan trọng lớn.",
+            "register": "Formal / Academic",
+            "grammar_note": "Substantial amount, substantial increase.",
+            "synonyms": [
+                "significant",
+                "considerable",
+                "large",
+                "sizable"
+            ],
+            "collocations": [
+                "substantial amount",
+                "substantial evidence",
+                "substantial increase"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The project requires a substantial investment of both time and money.",
+                    "translation": "Dự án đòi hỏi một khoản đầu tư đáng kể cả về thời gian và tiền bạc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "condone",
+            "phonetic": "/kənˈdəʊn/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Accept and allow (behavior that is considered morally wrong or offensive) to continue.",
+            "translation": "Bỏ qua / Dung túng",
+            "concept": "Thường dùng trong phủ định 'cannot condone' (không thể dung túng). Ám chỉ việc chấp nhận ngầm một hành động sai trái.",
+            "register": "Formal",
+            "grammar_note": "Condone violence/behavior.",
+            "synonyms": [
+                "disregard",
+                "overlook",
+                "forgive",
+                "excuse"
+            ],
+            "collocations": [
+                "condone violence",
+                "cannot condone",
+                "tacitly condone"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The school has a strict zero-tolerance policy and does not condone bullying of any kind.",
+                    "translation": "Nhà trường có chính sách không khoan nhượng nghiêm ngặt và không dung túng hành vi bắt nạt dưới bất kỳ hình thức nào."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interpersonal",
+            "phonetic": "/ˌɪntəˈpɜːsənəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to relationships or communication between people.",
+            "translation": "Giữa các cá nhân / Giao tiếp liên nhân",
+            "concept": "Liên quan đến mối quan hệ giữa người với người (interpersonal skills, interpersonal conflict).",
+            "register": "Academic / Professional",
+            "grammar_note": "Interpersonal skills, interpersonal relationships.",
+            "synonyms": [
+                "social",
+                "relational",
+                "human"
+            ],
+            "collocations": [
+                "interpersonal skills",
+                "interpersonal relationships",
+                "interpersonal communication"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Strong interpersonal skills are crucial for effective leadership and team management.",
+                    "translation": "Kỹ năng giao tiếp giữa các cá nhân mạnh mẽ là rất quan trọng để lãnh đạo và quản lý nhóm hiệu quả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "misperception",
+            "phonetic": "/ˌmɪspəˈsepʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A wrong or incorrect understanding or interpretation.",
+            "translation": "Sự hiểu lầm / Nhận thức sai",
+            "concept": "Hiểu sai về bản chất sự việc. Thường dùng trong tâm lý học hoặc giao tiếp xã hội.",
+            "register": "Academic / Formal",
+            "grammar_note": "Common misperception.",
+            "synonyms": [
+                "misunderstanding",
+                "misconception",
+                "delusion"
+            ],
+            "collocations": [
+                "common misperception",
+                "correct a misperception",
+                "based on misperception"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is a common misperception that sharks are naturally aggressive towards humans.",
+                    "translation": "Có một sự hiểu lầm phổ biến rằng cá mập tự nhiên hung dữ đối với con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "persistence",
+            "phonetic": "/pəˈsɪstəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Firm or obstinate continuance in a course of action in spite of difficulty or opposition.",
+            "translation": "Sự kiên trì / Sự bền bỉ",
+            "concept": "Tiếp tục làm gì đó bất chấp khó khăn. Cũng dùng cho sự tồn tại dai dẳng của bệnh tật hay vấn đề.",
+            "register": "General / Academic",
+            "grammar_note": "Persistence in doing something.",
+            "synonyms": [
+                "perseverance",
+                "tenacity",
+                "determination",
+                "endurance"
+            ],
+            "collocations": [
+                "reward for persistence",
+                "sheer persistence",
+                "persistence pays off"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Her persistence in the face of repeated rejections eventually led to the publication of her novel.",
+                    "translation": "Sự kiên trì của cô ấy khi đối mặt với sự từ chối lặp đi lặp lại cuối cùng đã dẫn đến việc xuất bản cuốn tiểu thuyết của cô."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "peril",
+            "phonetic": "/ˈperəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Serious and immediate danger.",
+            "translation": "Hiểm họa / Mối nguy hiểm lớn",
+            "concept": "Mạnh hơn 'danger'. Ám chỉ mối nguy chết người hoặc sự sụp đổ. 'Do something at your own peril'.",
+            "register": "Literary / Formal",
+            "grammar_note": "In peril, at peril.",
+            "synonyms": [
+                "danger",
+                "jeopardy",
+                "risk",
+                "hazard"
+            ],
+            "collocations": [
+                "imminent peril",
+                "in great peril",
+                "at one's own peril"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The documentary highlighted the peril facing polar bears due to melting ice caps.",
+                    "translation": "Bộ phim tài liệu nhấn mạnh hiểm họa mà gấu Bắc Cực phải đối mặt do băng tan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deliberately",
+            "phonetic": "/dɪˈlɪbərətli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "B2",
+            "meaning": "Consciously and intentionally; on purpose.",
+            "translation": "Cố ý / Có chủ đích",
+            "concept": "Làm gì đó sau khi đã suy nghĩ kỹ, không phải vô tình. 'On purpose' nhưng trang trọng hơn.",
+            "register": "General / Formal",
+            "grammar_note": "Thường đứng trước động từ.",
+            "synonyms": [
+                "intentionally",
+                "purposefully",
+                "knowingly",
+                "calculatedly"
+            ],
+            "collocations": [
+                "deliberately mislead",
+                "deliberately ignore",
+                "deliberately vague"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The instructions were deliberately vague to allow for interpretation.",
+                    "translation": "Các hướng dẫn cố tình mơ hồ để cho phép diễn giải."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "/ˌdetrɪˈmentəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Tending to cause harm.",
+            "translation": "Có hại / Gây bất lợi",
+            "concept": "Trang trọng hơn 'harmful'. Thường dùng trong văn cảnh y tế, môi trường hoặc kinh doanh.",
+            "register": "Formal / Academic",
+            "grammar_note": "Detrimental to something.",
+            "synonyms": [
+                "harmful",
+                "damaging",
+                "injurious",
+                "deleterious"
+            ],
+            "collocations": [
+                "detrimental effect",
+                "detrimental impact",
+                "prove detrimental"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Smoking is well known to be detrimental to one's health, increasing the risk of lung disease.",
+                    "translation": "Hút thuốc nổi tiếng là có hại cho sức khỏe, làm tăng nguy cơ mắc bệnh phổi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inevitable",
+            "phonetic": "/ɪnˈevɪtəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Certain to happen; unavoidable.",
+            "translation": "Không thể tránh khỏi / Tất yếu",
+            "concept": "Một điều chắc chắn sẽ xảy ra, không thể ngăn cản. 'The inevitable' (điều tất yếu).",
+            "register": "General / Formal",
+            "grammar_note": "It is inevitable that...",
+            "synonyms": [
+                "unavoidable",
+                "inescapable",
+                "certain",
+                "fated"
+            ],
+            "collocations": [
+                "inevitable conclusion",
+                "inevitable consequence",
+                "seem inevitable"
+            ],
+            "contexts": [
+                {
+                    "sentence": "With the rise of automation, job displacement in certain sectors seems inevitable.",
+                    "translation": "Với sự gia tăng của tự động hóa, việc mất việc làm trong một số lĩnh vực dường như là không thể tránh khỏi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "contemporary",
+            "phonetic": "/kənˈtempərəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Belonging to or occurring in the present.",
+            "translation": "Đương đại / Hiện đại",
+            "concept": "Cùng thời (contemporary art - nghệ thuật đương đại). Cũng có nghĩa là 'cùng thời với nhau' (Bach was contemporary with Handel).",
+            "register": "Academic / General",
+            "grammar_note": "Contemporary art, contemporary society.",
+            "synonyms": [
+                "modern",
+                "current",
+                "present-day"
+            ],
+            "collocations": [
+                "contemporary art",
+                "contemporary society",
+                "contemporary issue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Contemporary artists often use digital media to explore themes of identity and connectivity.",
+                    "translation": "Các nghệ sĩ đương đại thường sử dụng phương tiện kỹ thuật số để khám phá các chủ đề về bản sắc và sự kết nối."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "warrant",
+            "phonetic": "/ˈwɒrənt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Justify or necessitate (a certain course of action).",
+            "translation": "Đảm bảo / Chứng thực / Đòi hỏi",
+            "concept": "Làm cho một hành động là cần thiết hoặc chính đáng. 'The situation warrants immediate action'.",
+            "register": "Formal",
+            "grammar_note": "Warrant attention/investigation.",
+            "synonyms": [
+                "justify",
+                "necessitate",
+                "validate",
+                "call for"
+            ],
+            "collocations": [
+                "warrant further investigation",
+                "warrant attention",
+                "not warrant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The severity of the allegations warrants a full and independent investigation.",
+                    "translation": "Mức độ nghiêm trọng của các cáo buộc đòi hỏi một cuộc điều tra đầy đủ và độc lập."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "curtail",
+            "phonetic": "/kɜːˈteɪl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "To reduce in extent or quantity; impose a restriction on.",
+            "translation": "Cắt giảm / Hạn chế bớt",
+            "concept": "Mang sắc thái trang trọng hơn 'reduce' hay 'limit'. Thường dùng cho việc cắt giảm quyền lực, tự do, hoặc chi tiêu ngân sách. Ám chỉ việc làm ngắn lại hoặc tước bớt một phần.",
+            "register": "Formal / Academic",
+            "grammar_note": "Thường dùng với các danh từ trừu tượng: rights, spending, power, freedom.",
+            "synonyms": [
+                "restrict",
+                "limit",
+                "curb",
+                "reduce"
+            ],
+            "collocations": [
+                "curtail spending",
+                "curtail freedom",
+                "severely curtailed"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The government introduced strict regulations to curtail the power of pirates who threatened maritime trade routes.",
+                    "translation": "Chính phủ đã đưa ra các quy định nghiêm ngặt để hạn chế quyền lực của những tên cướp biển đe dọa các tuyến đường thương mại hàng hải."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "eradicate",
+            "phonetic": "/ɪˈrædɪkeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "To destroy completely; put an end to.",
+            "translation": "Xóa bỏ hoàn toàn / Diệt trừ tận gốc",
+            "concept": "Mạnh hơn 'remove' hay 'delete'. Gốc từ 'radix' (rễ) ám chỉ nhổ tận gốc rễ. Thường dùng cho bệnh dịch, đói nghèo, hoặc các vấn nạn nghiêm trọng (như nạn cướp biển).",
+            "register": "Formal / Academic",
+            "grammar_note": "Thường đi với danh từ chỉ 'vấn nạn' (disease, poverty, crime).",
+            "synonyms": [
+                "eliminate",
+                "wipe out",
+                "obliterate",
+                "exterminate"
+            ],
+            "collocations": [
+                "eradicate poverty",
+                "totally eradicate",
+                "eradicate a disease"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Despite numerous naval campaigns, the Roman Empire struggled to completely eradicate piracy from the Mediterranean Sea.",
+                    "translation": "Bất chấp nhiều chiến dịch hải quân, Đế chế La Mã vẫn chật vật để xóa bỏ hoàn toàn nạn cướp biển khỏi Địa Trung Hải."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unsurpassed",
+            "phonetic": "/ˌʌnsəˈpɑːst/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Better or greater than any other.",
+            "translation": "Không thể sánh bằng / Vô song",
+            "concept": "Từ dùng để khen ngợi ở mức cao nhất. Không ai/cái gì vượt qua được. Hay dùng trong văn phong mô tả thành tựu, kỷ lục hoặc chất lượng.",
+            "register": "Formal / Literary",
+            "grammar_note": "Thường đứng sau động từ to be hoặc trước danh từ (unsurpassed quality).",
+            "synonyms": [
+                "unmatched",
+                "unrivaled",
+                "incomparable",
+                "peerless"
+            ],
+            "collocations": [
+                "unsurpassed quality",
+                "unsurpassed beauty",
+                "remain unsurpassed"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The island's strategic location provided natural harbors of unsurpassed quality, making it a haven for seafaring vessels.",
+                    "translation": "Vị trí chiến lược của hòn đảo cung cấp các bến cảng tự nhiên có chất lượng vô song, biến nó thành nơi trú ẩn cho các tàu thuyền đi biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "skepticism",
+            "phonetic": "/ˈskɛptɪsɪzəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A skeptical attitude; doubt as to the truth of something.",
+            "translation": "Thái độ hoài nghi / Sự ngờ vực",
+            "concept": "Không chỉ là 'doubt' (nghi ngờ nhất thời), 'skepticism' là một thái độ tư duy phản biện, đòi hỏi bằng chứng trước khi tin. Trong khoa học và học thuật, đây là đức tính tốt, nhưng trong xã hội có thể ám chỉ sự thiếu tin tưởng.",
+            "register": "Academic",
+            "grammar_note": "Đi với giới từ 'about' hoặc 'towards' (skepticism about/towards something).",
+            "synonyms": [
+                "doubt",
+                "cynicism",
+                "disbelief"
+            ],
+            "collocations": [
+                "deep skepticism",
+                "view with skepticism",
+                "growing skepticism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is growing skepticism among historians regarding the accuracy of ancient texts that glorified certain military victories.",
+                    "translation": "Ngày càng có nhiều sự hoài nghi trong giới sử gia về độ chính xác của các văn bản cổ đại vốn ca ngợi các chiến thắng quân sự nhất định."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "preemptive",
+            "phonetic": "/priːˈemptɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Serving or intended to forestall something, especially to prevent an attack by disabling the enemy.",
+            "translation": "Tiên quyết / Phủ đầu (để ngăn chặn trước)",
+            "concept": "Hành động **trước** khi sự việc xấu xảy ra để ngăn chặn nó. Khác với 'preventive' (phòng ngừa chung chung), 'preemptive' thường mang tính chủ động tấn công hoặc hành động quyết liệt ngay từ đầu.",
+            "register": "Formal / Academic",
+            "grammar_note": "Thường đi với: strike, action, measure.",
+            "synonyms": [
+                "preventive",
+                "proactive",
+                "precautionary"
+            ],
+            "collocations": [
+                "preemptive strike",
+                "preemptive action",
+                "preemptive measure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Social media platforms have begun taking preemptive measures to label misleading content before it spreads virally.",
+                    "translation": "Các nền tảng mạng xã hội đã bắt đầu thực hiện các biện pháp phủ đầu để dán nhãn nội dung sai lệch trước khi nó lan truyền mạnh mẽ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consensus",
+            "phonetic": "/kənˈsensəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A general agreement.",
+            "translation": "Sự đồng thuận / Nhất trí chung",
+            "concept": "Không chỉ là đồng ý (agreement), mà là sự đồng ý của **tập thể** hoặc đa số. Là đích đến của các cuộc đàm phán hoặc nghiên cứu khoa học.",
+            "register": "Academic / Formal",
+            "grammar_note": "Thường đi với: reach a consensus, build a consensus, consensus on/about.",
+            "synonyms": [
+                "agreement",
+                "accord",
+                "harmony",
+                "unanimity"
+            ],
+            "collocations": [
+                "scientific consensus",
+                "reach a consensus",
+                "general consensus"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Although individual studies may vary, the scientific consensus supports the theory that misinformation spreads faster than factual news.",
+                    "translation": "Mặc dù các nghiên cứu riêng lẻ có thể khác nhau, sự đồng thuận khoa học ủng hộ lý thuyết rằng thông tin sai lệch lan truyền nhanh hơn tin tức thực tế."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fallibility",
+            "phonetic": "/ˌfæləˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The tendency to make mistakes or be wrong.",
+            "translation": "Tính chất dễ mắc sai lầm",
+            "concept": "Xuất phát từ tính từ 'fallible'. Đây là từ vựng triết học/tâm lý học hay, ám chỉ bản chất con người là không hoàn hảo và luôn có khả năng sai sót, trái ngược với 'infallibility'.",
+            "register": "Academic / Formal",
+            "grammar_note": "Thường dùng trong cụm: human fallibility.",
+            "synonyms": [
+                "imperfection",
+                "error-proneness",
+                "frailty"
+            ],
+            "collocations": [
+                "human fallibility",
+                "acknowledge one's fallibility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We must acknowledge the fallibility of human memory when relying on eyewitness accounts from centuries ago.",
+                    "translation": "Chúng ta phải thừa nhận tính dễ mắc sai lầm của trí nhớ con người khi dựa vào lời kể của nhân chứng từ nhiều thế kỷ trước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "empirically",
+            "phonetic": "/ɪmˈpɪrɪkli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C2",
+            "meaning": "By means of observation or experience rather than theory or pure logic.",
+            "translation": "Theo kinh nghiệm thực chứng / Dựa trên thực nghiệm",
+            "concept": "Từ khóa vàng trong nghiên cứu khoa học. Nếu cái gì đó được chứng minh 'empirically', nó dựa trên số liệu, quan sát thực tế chứ không phải chỉ là lý thuyết suông.",
+            "register": "Academic",
+            "grammar_note": "Thường bổ nghĩa cho động từ: prove, test, demonstrate.",
+            "synonyms": [
+                "experimentally",
+                "factually",
+                "pragmatically"
+            ],
+            "collocations": [
+                "empirically proven",
+                "empirically tested",
+                "empirically grounded"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The researchers aimed to demonstrate empirically that correcting misinformation after exposure is less effective than pre-bunking it.",
+                    "translation": "Các nhà nghiên cứu nhắm mục đích chứng minh bằng thực nghiệm rằng việc đính chính thông tin sai lệch sau khi đã tiếp xúc kém hiệu quả hơn là bác bỏ trước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inadvertently",
+            "phonetic": "/ˌɪnədˈvɜːtəntli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C2",
+            "meaning": "Without intention; accidentally.",
+            "translation": "Vô tình / Không cố ý",
+            "concept": "Trang trọng hơn 'accidentally'. Thường dùng để miêu tả những hành động gây hậu quả mà người làm không lường trước được.",
+            "register": "Formal",
+            "grammar_note": "Thường đứng trước động từ chính.",
+            "synonyms": [
+                "unintentionally",
+                "accidentally",
+                "unwittingly"
+            ],
+            "collocations": [
+                "inadvertently cause",
+                "inadvertently reveal",
+                "inadvertently delete"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Users often inadvertently spread false claims by sharing headlines without reading the full article content.",
+                    "translation": "Người dùng thường vô tình lan truyền các tuyên bố sai sự thật bằng cách chia sẻ tiêu đề mà không đọc toàn bộ nội dung bài báo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hamper",
+            "phonetic": "/ˈhæmpər/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To hinder or impede the movement or progress of.",
+            "translation": "Cản trở / Gây khó khăn",
+            "concept": "Nhẹ hơn 'stop' hay 'prevent', nhưng ám chỉ việc làm cho tiến độ chậm lại hoặc khó khăn hơn. Thường dùng với: progress, growth, development.",
+            "register": "Formal",
+            "grammar_note": "Dùng như ngoại động từ: hamper someone/something.",
+            "synonyms": [
+                "hinder",
+                "obstruct",
+                "impede",
+                "inhibit"
+            ],
+            "collocations": [
+                "hamper progress",
+                "hamper the investigation",
+                "severely hamper"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The lack of reliable data hampered the historian's ability to reconstruct the timeline of the ancient trade routes.",
+                    "translation": "Việc thiếu dữ liệu đáng tin cậy đã gây khó khăn cho khả năng tái hiện lại dòng thời gian của các tuyến đường thương mại cổ đại của nhà sử học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "misinformation",
+            "phonetic": "/ˌmɪsɪnfəˈmeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "False or inaccurate information, especially that which is deliberately intended to deceive.",
+            "translation": "Thông tin sai lệch",
+            "concept": "Khác với 'disinformation' (tin giả có chủ đích hại), 'misinformation' có thể là tin sai do nhầm lẫn. Tuy nhiên trong ngữ cảnh hiện đại, nó là từ khóa nóng về truyền thông.",
+            "register": "Academic / Media",
+            "grammar_note": "Là danh từ không đếm được.",
+            "synonyms": [
+                "falsehood",
+                "fake news",
+                "fabrication"
+            ],
+            "collocations": [
+                "spread misinformation",
+                "combat misinformation",
+                "flow of misinformation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The rapid dissemination of misinformation on digital platforms poses a significant threat to public trust in democratic institutions.",
+                    "translation": "Sự phổ biến nhanh chóng của thông tin sai lệch trên các nền tảng kỹ thuật số đặt ra mối đe dọa đáng kể đối với niềm tin của công chúng vào các thể chế dân chủ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prominence",
+            "phonetic": "/ˈprɒmɪnəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The state of being important or famous.",
+            "translation": "Sự nổi bật / Tầm quan trọng / Danh tiếng",
+            "concept": "Trang trọng hơn 'fame'. Nó ám chỉ vị trí đứng đầu, dễ thấy hoặc có tầm ảnh hưởng lớn.",
+            "register": "Formal / Academic",
+            "grammar_note": "Thường dùng: come to prominence, rise to prominence, gain prominence.",
+            "synonyms": [
+                "eminence",
+                "fame",
+                "prestige",
+                "importance"
+            ],
+            "collocations": [
+                "rise to prominence",
+                "gain prominence",
+                "national prominence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The issue of data privacy has gained prominence in recent years due to several high-profile security breaches.",
+                    "translation": "Vấn đề bảo mật dữ liệu đã trở nên nổi bật trong những năm gần đây do một số vụ vi phạm an ninh nghiêm trọng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

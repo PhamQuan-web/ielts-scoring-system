@@ -1,0 +1,870 @@
+{
+    "id": "cambridge_19_reading_test_2",
+    "title": "Cam 19 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Reading Test 2, bao gồm chủ đề lịch sử công nghiệp, tâm lý thể thao và trí thông minh.",
+    "wordCount": 30,
+    "category": "Reading",
+    "color": "from-emerald-500 to-teal-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "textile",
+            "phonetic": "/ˈtekstaɪl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A type of cloth or woven fabric.",
+            "translation": "Dệt may / Vải vóc",
+            "concept": "Ngành công nghiệp hoặc sản phẩm liên quan đến vải. Từ vựng quan trọng trong chủ đề lịch sử công nghiệp.",
+            "register": "Academic / Industry",
+            "grammar_note": "Textile industry, textile manufacturing.",
+            "synonyms": [
+                "fabric",
+                "cloth",
+                "material"
+            ],
+            "collocations": [
+                "textile industry",
+                "textile mill",
+                "textile production"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The industrial revolution transformed the textile industry, moving production from homes to factories.",
+                    "translation": "Cuộc cách mạng công nghiệp đã biến đổi ngành dệt may, chuyển sản xuất từ hộ gia đình sang nhà máy."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪnəˈveɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action or process of innovating.",
+            "translation": "Sự đổi mới / Sáng kiến",
+            "concept": "Giới thiệu cái mới, cải tiến cái cũ. Từ khóa vàng trong kinh tế và công nghệ.",
+            "register": "General / Academic",
+            "grammar_note": "Technological innovation, product innovation.",
+            "synonyms": [
+                "change",
+                "alteration",
+                "revolution",
+                "upheaval"
+            ],
+            "collocations": [
+                "technological innovation",
+                "drive innovation",
+                "stifle innovation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Continuous innovation is essential for companies to survive in a competitive market.",
+                    "translation": "Sự đổi mới liên tục là điều cần thiết để các công ty tồn tại trong một thị trường cạnh tranh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "atmospheric",
+            "phonetic": "/ˌætməsˈferɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the atmosphere of the earth or (occasionally) another planet.",
+            "translation": "Thuộc khí quyển / Áp suất không khí",
+            "concept": "Trong kỹ thuật (atmospheric engine), nó hoạt động dựa trên áp suất khí quyển. Nghĩa khác là 'tạo bầu không khí' (atmospheric music).",
+            "register": "Scientific / Technical",
+            "grammar_note": "Atmospheric pressure, atmospheric conditions.",
+            "synonyms": [
+                "meteorological",
+                "climatic",
+                "aerial"
+            ],
+            "collocations": [
+                "atmospheric pressure",
+                "atmospheric conditions",
+                "atmospheric pollution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Early steam engines relied on atmospheric pressure to move the piston.",
+                    "translation": "Các động cơ hơi nước ban đầu dựa vào áp suất khí quyển để di chuyển pít-tông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "efficient",
+            "phonetic": "/ɪˈfɪʃənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Achieving maximum productivity with minimum wasted effort or expense.",
+            "translation": "Hiệu quả / Năng suất cao",
+            "concept": "Làm được việc mà tốn ít tài nguyên (thời gian, tiền bạc). Khác với 'effective' (có kết quả).",
+            "register": "General / Academic",
+            "grammar_note": "Efficient use of resources, energy efficient.",
+            "synonyms": [
+                "productive",
+                "effective",
+                "economical"
+            ],
+            "collocations": [
+                "highly efficient",
+                "energy efficient",
+                "cost efficient"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The new engine design is far more fuel-efficient than its predecessor.",
+                    "translation": "Thiết kế động cơ mới tiết kiệm nhiên liệu hơn nhiều so với phiên bản tiền nhiệm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "agrarian",
+            "phonetic": "/əˈɡreəriən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to cultivated land or the cultivation of land.",
+            "translation": "Thuộc về nông nghiệp / Đất đai",
+            "concept": "Dùng để mô tả xã hội dựa vào nông nghiệp (agrarian society) trước khi công nghiệp hóa.",
+            "register": "Academic / Historical",
+            "grammar_note": "Agrarian society, agrarian economy.",
+            "synonyms": [
+                "agricultural",
+                "rural",
+                "farming"
+            ],
+            "collocations": [
+                "agrarian society",
+                "agrarian economy",
+                "agrarian reform"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Before the industrial revolution, Britain was primarily an agrarian society.",
+                    "translation": "Trước cuộc cách mạng công nghiệp, Anh chủ yếu là một xã hội nông nghiệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "transform",
+            "phonetic": "/trænsˈfɔːm/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Make a thorough or dramatic change in the form, appearance, or character of.",
+            "translation": "Biến đổi / Chuyển mình",
+            "concept": "Thay đổi hoàn toàn bản chất. Từ này lặp lại ở nhiều bài vì tính ứng dụng cao.",
+            "register": "General / Academic",
+            "grammar_note": "Transform A into B.",
+            "synonyms": [
+                "change",
+                "alter",
+                "convert",
+                "metamorphose"
+            ],
+            "collocations": [
+                "transform the landscape",
+                "completely transform",
+                "transform society"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The arrival of the railway transformed the rural landscape forever.",
+                    "translation": "Sự xuất hiện của đường sắt đã biến đổi cảnh quan nông thôn mãi mãi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "industrialized",
+            "phonetic": "/ɪnˈdʌstriəlaɪzd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(Of a country or region) having developed industries on a wide scale.",
+            "translation": "Công nghiệp hóa",
+            "concept": "Quốc gia/khu vực có nền công nghiệp phát triển mạnh.",
+            "register": "Academic / Economic",
+            "grammar_note": "Industrialized nation/country.",
+            "synonyms": [
+                "developed",
+                "modern"
+            ],
+            "collocations": [
+                "industrialized nation",
+                "industrialized world",
+                "newly industrialized"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pollution is a major concern in many industrialized nations.",
+                    "translation": "Ô nhiễm là một mối quan tâm lớn ở nhiều quốc gia công nghiệp hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "urban",
+            "phonetic": "/ˈɜːbən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "In, relating to, or characteristic of a town or city.",
+            "translation": "Thuộc thành thị / Đô thị",
+            "concept": "Đối lập với 'rural'.",
+            "register": "General / Academic",
+            "grammar_note": "Urban area, urban development.",
+            "synonyms": [
+                "city",
+                "metropolitan",
+                "municipal"
+            ],
+            "collocations": [
+                "urban area",
+                "urban planning",
+                "urban population"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Rapid urban growth has led to a housing shortage in the city center.",
+                    "translation": "Sự tăng trưởng đô thị nhanh chóng đã dẫn đến tình trạng thiếu nhà ở tại trung tâm thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "psychological",
+            "phonetic": "/ˌsaɪkəˈlɒdʒɪkəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Of, affecting, or arising in the mind; related to the mental and emotional state of a person.",
+            "translation": "Thuộc tâm lý",
+            "concept": "Liên quan đến tinh thần, cảm xúc, suy nghĩ.",
+            "register": "General / Academic",
+            "grammar_note": "Psychological effect, psychological impact.",
+            "synonyms": [
+                "mental",
+                "emotional",
+                "cognitive"
+            ],
+            "collocations": [
+                "psychological impact",
+                "psychological support",
+                "psychological well-being"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The psychological pressure of competing at a high level can be overwhelming for young athletes.",
+                    "translation": "Áp lực tâm lý khi thi đấu ở cấp độ cao có thể gây choáng ngợp cho các vận động viên trẻ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "regulate",
+            "phonetic": "/ˈreɡjʊleɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Control or maintain the rate or speed of (a machine or process) so that it operates properly.",
+            "translation": "Điều chỉnh / Kiểm soát",
+            "concept": "Làm cho hoạt động đúng quy tắc hoặc nhịp độ. Trong sinh học là điều hòa cơ thể.",
+            "register": "Formal / Academic",
+            "grammar_note": "Regulate temperature, regulate the flow.",
+            "synonyms": [
+                "control",
+                "adjust",
+                "manage",
+                "govern"
+            ],
+            "collocations": [
+                "regulate temperature",
+                "strictly regulated",
+                "regulate the market"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Athletes use breathing techniques to regulate their heart rate before a match.",
+                    "translation": "Các vận động viên sử dụng các kỹ thuật thở để điều chỉnh nhịp tim trước trận đấu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "accumulation",
+            "phonetic": "/əˌkjuːmjəˈleɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The acquisition or gradual gathering of something.",
+            "translation": "Sự tích tụ / Sự tích lũy",
+            "concept": "Việc dồn lại, chất đống theo thời gian (kiến thức, của cải, hoặc rác thải).",
+            "register": "Academic",
+            "grammar_note": "Accumulation of something.",
+            "synonyms": [
+                "buildup",
+                "collection",
+                "gathering",
+                "amassing"
+            ],
+            "collocations": [
+                "accumulation of wealth",
+                "gradual accumulation",
+                "accumulation of data"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The accumulation of fatigue over the season can lead to injury if not managed properly.",
+                    "translation": "Sự tích tụ mệt mỏi trong suốt mùa giải có thể dẫn đến chấn thương nếu không được quản lý đúng cách."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unavoidable",
+            "phonetic": "/ˌʌnəˈvɔɪdəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Not able to be avoided, prevented, or ignored; inevitable.",
+            "translation": "Không thể tránh khỏi",
+            "concept": "Tương tự 'inevitable'.",
+            "register": "General",
+            "grammar_note": "Unavoidable consequence.",
+            "synonyms": [
+                "inevitable",
+                "inescapable",
+                "certain"
+            ],
+            "collocations": [
+                "unavoidable delay",
+                "unavoidable conclusion",
+                "become unavoidable"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Mistakes are unavoidable in the learning process, but they provide valuable lessons.",
+                    "translation": "Sai lầm là không thể tránh khỏi trong quá trình học tập, nhưng chúng mang lại những bài học quý giá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cope",
+            "phonetic": "/kəʊp/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "(of a person) to deal effectively with something difficult.",
+            "translation": "Đương đầu / Đối phó",
+            "concept": "Xử lý thành công một tình huống khó khăn.",
+            "register": "General",
+            "grammar_note": "Cope with something.",
+            "synonyms": [
+                "manage",
+                "survive",
+                "handle",
+                "deal with"
+            ],
+            "collocations": [
+                "cope with stress",
+                "cope with pressure",
+                "ability to cope"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Athletes must develop strategies to cope with the immense pressure of competition.",
+                    "translation": "Các vận động viên phải phát triển các chiến lược để đối phó với áp lực to lớn của cuộc thi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "circumstance",
+            "phonetic": "/ˈsɜːkəmstæns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A fact or condition connected with or relevant to an event or action.",
+            "translation": "Hoàn cảnh / Tình huống",
+            "concept": "Các yếu tố xung quanh ảnh hưởng đến sự việc. Thường dùng số nhiều 'circumstances'.",
+            "register": "Formal",
+            "grammar_note": "In/under ... circumstances.",
+            "synonyms": [
+                "situation",
+                "condition",
+                "context",
+                "scenario"
+            ],
+            "collocations": [
+                "under no circumstances",
+                "exceptional circumstances",
+                "changing circumstances"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The team performed remarkably well given the difficult circumstances.",
+                    "translation": "Đội đã thi đấu tốt một cách đáng kinh ngạc trong hoàn cảnh khó khăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dictate",
+            "phonetic": "/dɪkˈteɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Control or determine.",
+            "translation": "Chi phối / Quyết định",
+            "concept": "Ra lệnh hoặc ảnh hưởng mạnh mẽ đến kết quả. 'The weather dictates the plan'.",
+            "register": "Formal",
+            "grammar_note": "Dictate the terms, dictate how...",
+            "synonyms": [
+                "determine",
+                "control",
+                "govern",
+                "influence"
+            ],
+            "collocations": [
+                "dictate the terms",
+                "dictate the outcome",
+                "dictate policy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Your mindset can dictate whether you see a situation as a threat or a challenge.",
+                    "translation": "Tư duy của bạn có thể quyết định liệu bạn xem một tình huống là mối đe dọa hay là một thử thách."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inquiry",
+            "phonetic": "/ɪnˈkwaɪəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An act of asking for information.",
+            "translation": "Sự điều tra / Thẩm tra",
+            "concept": "Quá trình tìm kiếm thông tin hoặc sự thật. 'Scientific inquiry' (nghiên cứu khoa học).",
+            "register": "Formal / Academic",
+            "grammar_note": "Make inquiries, launch an inquiry.",
+            "synonyms": [
+                "investigation",
+                "examination",
+                "probe",
+                "query"
+            ],
+            "collocations": [
+                "scientific inquiry",
+                "public inquiry",
+                "line of inquiry"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Scientific inquiry requires an open mind and a willingness to challenge established beliefs.",
+                    "translation": "Nghiên cứu khoa học đòi hỏi một tư duy cởi mở và sự sẵn sàng thách thức các niềm tin đã được thiết lập."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "gifted",
+            "phonetic": "/ˈɡɪftɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Having exceptional talent or natural ability.",
+            "translation": "Có năng khiếu / Tài năng thiên bẩm",
+            "concept": "Dùng cho trẻ em hoặc người có tài năng xuất chúng bẩm sinh.",
+            "register": "General / Educational",
+            "grammar_note": "Gifted children, gifted in...",
+            "synonyms": [
+                "talented",
+                "skilled",
+                "brilliant",
+                "precocious"
+            ],
+            "collocations": [
+                "gifted child",
+                "gifted musician",
+                "academically gifted"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Schools often have special programs for gifted children to nurture their abilities.",
+                    "translation": "Các trường học thường có các chương trình đặc biệt dành cho trẻ em có năng khiếu để nuôi dưỡng khả năng của chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "extraordinary",
+            "phonetic": "/ɪkˈstrɔːdənəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Very unusual or remarkable.",
+            "translation": "Phi thường / Khác thường",
+            "concept": "Vượt xa mức bình thường. Khen ngợi hoặc mô tả sự lạ lùng.",
+            "register": "General",
+            "grammar_note": "Extraordinary ability, extraordinary achievement.",
+            "synonyms": [
+                "remarkable",
+                "exceptional",
+                "amazing",
+                "phenomenal"
+            ],
+            "collocations": [
+                "extraordinary achievement",
+                "extraordinary talent",
+                "quite extraordinary"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Her extraordinary memory allowed her to recall details that others had long forgotten.",
+                    "translation": "Trí nhớ phi thường của cô ấy cho phép cô nhớ lại những chi tiết mà người khác đã quên từ lâu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "emerge",
+            "phonetic": "/ɪˈmɜːdʒ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Become apparent, important, or prominent.",
+            "translation": "Nổi lên / Xuất hiện",
+            "concept": "Từ từ xuất hiện hoặc trở nên rõ ràng. 'A problem emerged'.",
+            "register": "Formal",
+            "grammar_note": "Emerge from, emerge as.",
+            "synonyms": [
+                "appear",
+                "arise",
+                "surface",
+                "materialize"
+            ],
+            "collocations": [
+                "emerge as a leader",
+                "patterns emerge",
+                "problems emerge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "New evidence has emerged that challenges the traditional view of intelligence.",
+                    "translation": "Bằng chứng mới đã xuất hiện thách thức quan điểm truyền thống về trí thông minh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "selective",
+            "phonetic": "/sɪˈlektɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to or involving the selection of the most suitable or best qualified.",
+            "translation": "Có chọn lọc / Tuyển chọn kỹ",
+            "concept": "Chỉ chọn những cái tốt nhất hoặc phù hợp nhất.",
+            "register": "General / Academic",
+            "grammar_note": "Selective about/in something.",
+            "synonyms": [
+                "discriminating",
+                "particular",
+                "choosy"
+            ],
+            "collocations": [
+                "highly selective",
+                "selective memory",
+                "selective breeding"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Universities are highly selective in their admissions process, accepting only top-tier students.",
+                    "translation": "Các trường đại học rất chọn lọc trong quy trình tuyển sinh, chỉ chấp nhận những sinh viên hàng đầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fascinate",
+            "phonetic": "/ˈfæsɪneɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Draw irresistibly the attention and interest of (someone).",
+            "translation": "Mê hoặc / Cuốn hút",
+            "concept": "Thu hút sự chú ý mạnh mẽ.",
+            "register": "General",
+            "grammar_note": "Fascinate someone. Be fascinated by.",
+            "synonyms": [
+                "captivate",
+                "enchant",
+                "intrigue",
+                "absorb"
+            ],
+            "collocations": [
+                "fascinate the public",
+                "endlessly fascinate",
+                "fail to fascinate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The complex behavior of social insects continues to fascinate biologists.",
+                    "translation": "Hành vi phức tạp của côn trùng xã hội tiếp tục mê hoặc các nhà sinh học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resolute",
+            "phonetic": "/ˈrezəluːt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Admirably purposeful, determined, and unwavering.",
+            "translation": "Cương quyết / Kiên định",
+            "concept": "Quyết tâm không thay đổi, bất chấp khó khăn.",
+            "register": "Formal / Literary",
+            "grammar_note": "Resolute in doing something.",
+            "synonyms": [
+                "determined",
+                "unwavering",
+                "steadfast",
+                "adamant"
+            ],
+            "collocations": [
+                "remain resolute",
+                "resolute action",
+                "resolute leadership"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Despite the setbacks, she remained resolute in her decision to complete the research.",
+                    "translation": "Bất chấp những trở ngại, cô ấy vẫn kiên định với quyết định hoàn thành nghiên cứu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "setback",
+            "phonetic": "/ˈsetbæk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A reversal or check in progress.",
+            "translation": "Trở ngại / Sự thụt lùi",
+            "concept": "Một vấn đề làm chậm tiến độ.",
+            "register": "General / Business",
+            "grammar_note": "Suffer a setback.",
+            "synonyms": [
+                "obstacle",
+                "hindrance",
+                "impediment",
+                "blow"
+            ],
+            "collocations": [
+                "major setback",
+                "temporary setback",
+                "suffer a setback"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The failure of the prototype was a major setback for the engineering team.",
+                    "translation": "Sự thất bại của nguyên mẫu là một trở ngại lớn đối với đội ngũ kỹ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rewarding",
+            "phonetic": "/rɪˈwɔːdɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Providing satisfaction; gratifying.",
+            "translation": "Đáng giá / Bõ công",
+            "concept": "Mang lại cảm giác thỏa mãn hoặc lợi ích (không nhất thiết là tiền).",
+            "register": "General",
+            "grammar_note": "Reward experience/career.",
+            "synonyms": [
+                "satisfying",
+                "gratifying",
+                "fruitful",
+                "fulfilling"
+            ],
+            "collocations": [
+                "rewarding experience",
+                "financially rewarding",
+                "highly rewarding"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Teaching can be a highly rewarding career for those who enjoy helping others learn.",
+                    "translation": "Giảng dạy có thể là một nghề nghiệp rất đáng giá đối với những người thích giúp đỡ người khác học tập."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "original",
+            "phonetic": "/əˈrɪdʒənəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Created directly and personally by a particular artist; not a copy or imitation.",
+            "translation": "Độc đáo / Nguyên bản",
+            "concept": "Sáng tạo, mới mẻ, không sao chép.",
+            "register": "General / Academic",
+            "grammar_note": "Original idea, original work.",
+            "synonyms": [
+                "innovative",
+                "creative",
+                "novel",
+                "unique"
+            ],
+            "collocations": [
+                "original idea",
+                "highly original",
+                "original research"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The scientist was praised for his original approach to solving the longstanding problem.",
+                    "translation": "Nhà khoa học đã được ca ngợi vì cách tiếp cận độc đáo của ông để giải quyết vấn đề tồn tại lâu năm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "struggle",
+            "phonetic": "/ˈstrʌɡəl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Strive to achieve or attain something in the face of difficulty or resistance.",
+            "translation": "Chật vật / Đấu tranh",
+            "concept": "Cố gắng rất nhiều nhưng gặp khó khăn.",
+            "register": "General",
+            "grammar_note": "Struggle to do something, struggle with something.",
+            "synonyms": [
+                "strive",
+                "fight",
+                "grapple",
+                "labor"
+            ],
+            "collocations": [
+                "struggle to survive",
+                "constant struggle",
+                "struggle against"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Many gifted students struggle with social interactions despite their academic brilliance.",
+                    "translation": "Nhiều học sinh có năng khiếu chật vật với các tương tác xã hội mặc dù có sự xuất sắc trong học tập."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "considerable",
+            "phonetic": "/kənˈsɪdərəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Notably large in size, amount, or extent.",
+            "translation": "Đáng kể / To lớn",
+            "concept": "Tương tự 'substantial'.",
+            "register": "Formal / Academic",
+            "grammar_note": "Considerable amount/number.",
+            "synonyms": [
+                "substantial",
+                "significant",
+                "sizable",
+                "appreciable"
+            ],
+            "collocations": [
+                "considerable amount",
+                "considerable effort",
+                "considerable success"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The project required a considerable amount of research and data analysis.",
+                    "translation": "Dự án đòi hỏi một lượng nghiên cứu và phân tích dữ liệu đáng kể."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unexceptional",
+            "phonetic": "/ˌʌnɪkˈsepʃənəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Not out of the ordinary; usual.",
+            "translation": "Bình thường / Không có gì đặc sắc",
+            "concept": "Trái ngược với 'exceptional'. Dùng để mô tả cái gì đó tầm thường, trung bình.",
+            "register": "Formal",
+            "grammar_note": "An unexceptional performance.",
+            "synonyms": [
+                "ordinary",
+                "average",
+                "mediocre",
+                "commonplace"
+            ],
+            "collocations": [
+                "proved unexceptional",
+                "otherwise unexceptional"
+            ],
+            "contexts": [
+                {
+                    "sentence": "His early academic records were unexceptional, giving no hint of his future genius.",
+                    "translation": "Hồ sơ học tập ban đầu của ông ấy không có gì đặc sắc, không đưa ra gợi ý nào về thiên tài tương lai của ông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "flexible",
+            "phonetic": "/ˈfleksɪbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be easily modified to respond to altered circumstances or conditions.",
+            "translation": "Linh hoạt / Uyển chuyển",
+            "concept": "Khả năng thích nghi nhanh. Có thể dùng cho vật chất hoặc con người/kế hoạch.",
+            "register": "General / Academic",
+            "grammar_note": "Flexible approach, flexible schedule.",
+            "synonyms": [
+                "adaptable",
+                "versatile",
+                "pliable",
+                "elastic"
+            ],
+            "collocations": [
+                "flexible approach",
+                "highly flexible",
+                "flexible working hours"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Successful professionals often possess a flexible mindset that allows them to adapt to changing industry trends.",
+                    "translation": "Những chuyên gia thành công thường sở hữu tư duy linh hoạt cho phép họ thích nghi với các xu hướng thay đổi của ngành."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "giftedness",
+            "phonetic": "/ˈɡɪftɪdnəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The quality of being gifted.",
+            "translation": "Sự có năng khiếu / Tài năng thiên bẩm",
+            "concept": "Danh từ của 'gifted'. Chủ đề giáo dục/tâm lý học.",
+            "register": "Academic",
+            "grammar_note": "Signs of giftedness.",
+            "synonyms": [
+                "talent",
+                "brilliance",
+                "genius",
+                "aptitude"
+            ],
+            "collocations": [
+                "intellectual giftedness",
+                "identify giftedness",
+                "signs of giftedness"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Identifying giftedness in children from diverse backgrounds remains a challenge for educators.",
+                    "translation": "Việc xác định năng khiếu ở trẻ em từ các nền tảng đa dạng vẫn là một thách thức đối với các nhà giáo dục."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

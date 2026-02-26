@@ -1,0 +1,273 @@
+{
+    "id": "cambridge_19_listening_test_3",
+    "title": "Cam 19 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Listening Test 3, chủ đề thực phẩm, lễ hội và vi nhựa.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-green-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "samphire",
+            "phonetic": "/ˈsæmfaɪər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A fleshy plant which grows on rocks near the sea, sometimes eaten as a vegetable.",
+            "translation": "Rau sam biển",
+            "concept": "Một loại thực vật biển có thể ăn được, thường dùng trong ẩm thực cao cấp.",
+            "register": "Culinary / Botanical",
+            "grammar_note": "Uncountable/Countable.",
+            "synonyms": [
+                "sea asparagus"
+            ],
+            "collocations": [
+                "fresh samphire",
+                "pickled samphire"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The fish dish was served with a side of steamed samphire.",
+                    "translation": "Món cá được phục vụ kèm với rau sam biển hấp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "heartwarming",
+            "phonetic": "/ˈhɑːtwɔːmɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Emotionally rewarding or uplifting.",
+            "translation": "Ấm lòng, cảm động",
+            "concept": "Cảm giác hạnh phúc và tích cực khi chứng kiến điều gì đó tốt đẹp.",
+            "register": "General",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "touching",
+                "moving",
+                "uplifting"
+            ],
+            "collocations": [
+                "heartwarming story",
+                "heartwarming moment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The book tells a heartwarming story about a community coming together.",
+                    "translation": "Cuốn sách kể một câu chuyện cảm động về một cộng đồng cùng nhau đoàn kết."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "confidentiality",
+            "phonetic": "/ˌkɒnfɪˌdenʃiˈæləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The state of keeping or being kept secret or private.",
+            "translation": "Sự bảo mật, tính bí mật",
+            "concept": "Nguyên tắc giữ kín thông tin, quan trọng trong y tế và luật pháp.",
+            "register": "Formal / Legal",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "privacy",
+                "secrecy"
+            ],
+            "collocations": [
+                "strict confidentiality",
+                "maintain confidentiality",
+                "breach of confidentiality"
+            ],
+            "contexts": [
+                {
+                    "sentence": "All patient records are treated with strict confidentiality.",
+                    "translation": "Tất cả hồ sơ bệnh nhân đều được xử lý với sự bảo mật nghiêm ngặt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "methodology",
+            "phonetic": "/ˌmeθəˈdɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A system of methods used in a particular area of study or activity.",
+            "translation": "Phương pháp luận",
+            "concept": "Hệ thống các phương pháp và nguyên tắc trong nghiên cứu.",
+            "register": "Academic",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": [
+                "approach",
+                "procedure",
+                "technique"
+            ],
+            "collocations": [
+                "research methodology",
+                "scientific methodology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The study was criticized for its flawed methodology.",
+                    "translation": "Nghiên cứu đã bị chỉ trích vì phương pháp luận thiếu sót."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "microplastic",
+            "phonetic": "/ˌmaɪkrəʊˈplæstɪk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Extremely small pieces of plastic debris in the environment.",
+            "translation": "Vi nhựa",
+            "concept": "Hạt nhựa siêu nhỏ gây ô nhiễm môi trường và chuỗi thức ăn.",
+            "register": "Environmental / Scientific",
+            "grammar_note": "Usually plural (microplastics).",
+            "synonyms": [
+                "plastic particles"
+            ],
+            "collocations": [
+                "microplastic pollution",
+                "ingest microplastics"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Scientists are finding microplastics in the digestive tracts of marine animals.",
+                    "translation": "Các nhà khoa học đang tìm thấy vi nhựa trong đường tiêu hóa của động vật biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodegradable",
+            "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Capable of being decomposed by bacteria or other living organisms.",
+            "translation": "Phân hủy sinh học",
+            "concept": "Vật liệu có thể tự phân hủy trong tự nhiên, thân thiện với môi trường.",
+            "register": "Environmental",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "eco-friendly",
+                "compostable"
+            ],
+            "collocations": [
+                "biodegradable packaging",
+                "biodegradable waste"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The cafe uses biodegradable cups to reduce plastic waste.",
+                    "translation": "Quán cà phê sử dụng cốc phân hủy sinh học để giảm rác thải nhựa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiːkəʊsɪstəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "translation": "Hệ sinh thái",
+            "concept": "Mạng lưới các sinh vật sống và môi trường của chúng.",
+            "register": "Scientific",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "environment",
+                "biosphere"
+            ],
+            "collocations": [
+                "marine ecosystem",
+                "fragile ecosystem",
+                "damage the ecosystem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pollution poses a serious threat to the delicate balance of the ecosystem.",
+                    "translation": "Ô nhiễm gây ra mối đe dọa nghiêm trọng đối với sự cân bằng mong manh của hệ sinh thái."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "food chain",
+            "phonetic": "/ˈfuːd tʃeɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A hierarchical series of organisms each dependent on the next as a source of food.",
+            "translation": "Chuỗi thức ăn",
+            "concept": "Mối quan hệ dinh dưỡng giữa các loài trong tự nhiên.",
+            "register": "Scientific",
+            "grammar_note": "The food chain.",
+            "synonyms": [
+                "food web"
+            ],
+            "collocations": [
+                "top of the food chain",
+                "disrupt the food chain"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Microplastics can enter the food chain when small fish eat them.",
+                    "translation": "Vi nhựa có thể xâm nhập vào chuỗi thức ăn khi cá nhỏ ăn chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ingestion",
+            "phonetic": "/ɪnˈdʒestʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The process of taking food, drink, or another substance into the body by swallowing or absorbing it.",
+            "translation": "Sự ăn/nuốt vào",
+            "concept": "Hành động nuốt chất gì đó vào cơ thể.",
+            "register": "Medical / Scientific",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "consumption",
+                "swallowing"
+            ],
+            "collocations": [
+                "accidental ingestion",
+                "ingestion of toxins"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The ingestion of contaminated water can lead to serious illness.",
+                    "translation": "Việc nuốt phải nước bị ô nhiễm có thể dẫn đến bệnh nghiêm trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "/sɪnˈθetɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Made by chemical synthesis, especially to imitate a natural product.",
+            "translation": "Tổng hợp, nhân tạo",
+            "concept": "Vật liệu do con người tạo ra, không phải tự nhiên (sợi tổng hợp).",
+            "register": "General",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "artificial",
+                "man-made"
+            ],
+            "collocations": [
+                "synthetic fibers",
+                "synthetic materials",
+                "synthetic rubber"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Many modern clothes are made from synthetic fibers like polyester.",
+                    "translation": "Nhiều quần áo hiện đại được làm từ sợi tổng hợp như polyester."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

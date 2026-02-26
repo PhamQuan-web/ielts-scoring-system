@@ -1,0 +1,280 @@
+{
+    "id": "cambridge_19_listening_test_2",
+    "title": "Cam 19 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Listening Test 2, chủ đề âm nhạc, hàng hải và tái chế.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-green-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "coordinator",
+            "phonetic": "/kəʊˈɔːdɪneɪtər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person who organizes the different parts of an activity and the people involved in it so that it works well.",
+            "translation": "Điều phối viên",
+            "concept": "Người chịu trách nhiệm tổ chức, kết nối các bộ phận.",
+            "register": "Formal / Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": [
+                "organizer",
+                "manager",
+                "facilitator"
+            ],
+            "collocations": [
+                "project coordinator",
+                "event coordinator"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The coordinator of the music program ensures all classes run on schedule.",
+                    "translation": "Điều phối viên của chương trình âm nhạc đảm bảo tất cả các lớp học diễn ra đúng lịch trình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reassuring",
+            "phonetic": "/ˌriːəˈʃʊərɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Serving or intended to remove someone's doubts or fears.",
+            "translation": "Làm yên lòng, trấn an",
+            "concept": "Cảm giác hoặc hành động giúp người khác bớt lo lắng.",
+            "register": "General",
+            "grammar_note": "Can be used as 'reassuringly' (adv).",
+            "synonyms": [
+                "comforting",
+                "encouraging",
+                "soothing"
+            ],
+            "collocations": [
+                "reassuring smile",
+                "reassuring presence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It was reassuring to see a police officer nearby.",
+                    "translation": "Thật yên tâm khi thấy một sĩ quan cảnh sát ở gần đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "life jacket",
+            "phonetic": "/ˈlaɪf ˌdʒækɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A sleeveless buoyant or inflatable jacket for keeping a person afloat in water.",
+            "translation": "Áo phao cứu sinh",
+            "concept": "Thiết bị an toàn bắt buộc khi đi tàu thuyền.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": [
+                "life vest",
+                "personal flotation device"
+            ],
+            "collocations": [
+                "wear a life jacket",
+                "inflate a life jacket"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The crew instructed everyone to put on their life jackets immediately.",
+                    "translation": "Phi hành đoàn hướng dẫn mọi người mặc áo phao ngay lập tức."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "institution",
+            "phonetic": "/ˌɪnstɪˈtjuːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An organization founded for a religious, educational, professional, or social purpose.",
+            "translation": "Tổ chức, cơ quan",
+            "concept": "Một tổ chức lớn và quan trọng trong xã hội (như trường học, ngân hàng, bệnh viện).",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": [
+                "organization",
+                "establishment",
+                "institute"
+            ],
+            "collocations": [
+                "educational institution",
+                "financial institution",
+                "charitable institution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The Royal National Lifeboat Institution relies on donations to save lives at sea.",
+                    "translation": "Tổ chức Thuyền cứu sinh Quốc gia Hoàng gia dựa vào tiền quyên góp để cứu người trên biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scruffy",
+            "phonetic": "/ˈskrʌfi/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Shabby and untidy or dirty.",
+            "translation": "Luộm thuộm, lôi thôi",
+            "concept": "Mô tả ngoại hình không gọn gàng, thường dùng cho quần áo hoặc tóc tai.",
+            "register": "Informal",
+            "grammar_note": "Comparative: scruffier.",
+            "synonyms": [
+                "untidy",
+                "messy",
+                "shabby"
+            ],
+            "collocations": [
+                "scruffy clothes",
+                "scruffy appearance",
+                "look scruffy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He arrived at the interview looking a bit scruffy in torn jeans.",
+                    "translation": "Anh ấy đến buổi phỏng vấn với vẻ ngoài hơi luộm thuộm trong chiếc quần jean rách."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hard-wearing",
+            "phonetic": "/ˌhɑːdˈweərɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Able to stand much wear or usage; durable.",
+            "translation": "Bền, chịu được mài mòn",
+            "concept": "Thường dùng để mô tả quần áo, giày dép hoặc vật liệu sàn.",
+            "register": "General",
+            "grammar_note": "Used before nouns.",
+            "synonyms": [
+                "durable",
+                "tough",
+                "long-lasting"
+            ],
+            "collocations": [
+                "hard-wearing fabric",
+                "hard-wearing boots"
+            ],
+            "contexts": [
+                {
+                    "sentence": "These boots are made of hard-wearing leather, perfect for hiking.",
+                    "translation": "Đôi bốt này được làm bằng da bền, hoàn hảo cho việc đi bộ đường dài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "microscopic",
+            "phonetic": "/ˌmaɪkrəˈskɒpɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "So small as to be visible only with a microscope.",
+            "translation": "Siêu nhỏ, vi mô",
+            "concept": "Kích thước cực nhỏ, không thể nhìn thấy bằng mắt thường.",
+            "register": "Scientific / Academic",
+            "grammar_note": "Usually attributive.",
+            "synonyms": [
+                "tiny",
+                "minuscule",
+                "infinitesimal"
+            ],
+            "collocations": [
+                "microscopic organisms",
+                "microscopic details"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tardigrades are microscopic animals that can survive in extreme conditions.",
+                    "translation": "Gấu nước là những động vật vi mô có thể sống sót trong điều kiện khắc nghiệt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cryptobiosis",
+            "phonetic": "/ˌkrɪptəʊbaɪˈəʊsɪs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A physiological state in which metabolic activity is reduced to an undetectable level without disappearing altogether.",
+            "translation": "Trạng thái tiềm sinh (chết giả)",
+            "concept": "Khả năng ngưng mọi hoạt động sống để tồn tại qua điều kiện khắc nghiệt.",
+            "register": "Scientific / Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": [
+                "dormancy",
+                "suspended animation"
+            ],
+            "collocations": [
+                "enter cryptobiosis",
+                "state of cryptobiosis"
+            ],
+            "contexts": [
+                {
+                    "sentence": "By entering cryptobiosis, the creature can survive without water for decades.",
+                    "translation": "Bằng cách đi vào trạng thái tiềm sinh, sinh vật này có thể sống sót mà không cần nước trong nhiều thập kỷ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resilient",
+            "phonetic": "/rɪˈzɪliənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(Of a person or animal) able to withstand or recover quickly from difficult conditions.",
+            "translation": "Kiên cường, có khả năng phục hồi tốt",
+            "concept": "Khả năng bật dậy sau khó khăn hoặc chịu đựng áp lực.",
+            "register": "General / Academic",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "tough",
+                "hardy",
+                "strong"
+            ],
+            "collocations": [
+                "resilient species",
+                "resilient economy",
+                "highly resilient"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tardigrades are known as one of the most resilient species on Earth.",
+                    "translation": "Gấu nước được biết đến là một trong những loài kiên cường nhất trên Trái đất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "metabolism",
+            "phonetic": "/məˈtæbəlɪzəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The chemical processes that occur within a living organism in order to maintain life.",
+            "translation": "Sự trao đổi chất",
+            "concept": "Quá trình chuyển hóa năng lượng trong cơ thể.",
+            "register": "Scientific / Biology",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": [
+                "metabolic process"
+            ],
+            "collocations": [
+                "slow metabolism",
+                "boost metabolism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "During hibernation, the animal's metabolism slows down significantly.",
+                    "translation": "Trong quá trình ngủ đông, quá trình trao đổi chất của động vật chậm lại đáng kể."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

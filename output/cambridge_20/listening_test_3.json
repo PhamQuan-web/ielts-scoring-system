@@ -1,137 +1,200 @@
 {
     "id": "cambridge_20_listening_test_3",
     "title": "Cam 20 - Listening Test 3",
-    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 3, chủ đề thuê nội thất, khảo cổ học và thiết kế hòa nhập.",
-    "wordCount": 10,
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 3, tập trung vào chủ đề thuê nhà, khảo cổ học, lịch sử sân khấu và thiết kế hòa nhập.",
+    "wordCount": 38,
     "category": "Listening",
-    "color": "from-purple-500 to-indigo-600",
+    "color": "from-teal-500 to-emerald-600",
     "isPro": true,
     "words": [
         {
             "word": "contract",
             "phonetic": "/ˈkɒntrækt/",
             "partOfSpeech": "Noun",
-            "cefrLevel": "B2",
-            "meaning": "A written or spoken agreement, especially one concerning employment, sales, or tenancy.",
+            "cefrLevel": "B1",
+            "meaning": "A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
             "translation": "Hợp đồng",
-            "concept": "Thỏa thuận pháp lý.",
-            "register": "General / Business",
+            "concept": "Văn bản thỏa thuận pháp lý.",
+            "register": "Formal / Business",
             "grammar_note": "Sign a contract.",
             "synonyms": [
                 "agreement",
-                "deal"
+                "deal",
+                "compact"
             ],
             "collocations": [
-                "temporary contract",
-                "permanent contract",
-                "sign a contract"
+                "sign a contract",
+                "breach of contract",
+                "temporary contract"
             ],
             "contexts": [
                 {
-                    "sentence": "I need to rent furniture until I know if my temporary work contract is made permanent.",
-                    "translation": "Tôi cần thuê nội thất cho đến khi biết liệu hợp đồng làm việc tạm thời của mình có thành chính thức không."
+                    "sentence": "At least until I know whether my temporary work contract is going to be made permanent.",
+                    "translation": "Ít nhất cho đến khi tôi biết liệu hợp đồng làm việc tạm thời của tôi có được chuyển thành chính thức hay không."
                 }
             ],
             "level": "seed"
         },
         {
-            "word": "excavate",
-            "phonetic": "/ˈekskəveɪt/",
-            "partOfSpeech": "Verb",
-            "cefrLevel": "C1",
-            "meaning": "To dig out material from the ground to find something from the past.",
-            "translation": "Khai quật",
-            "concept": "Đào bới để tìm di tích khảo cổ.",
-            "register": "Academic / Archaeology",
-            "grammar_note": "Transitive.",
+            "word": "insurance",
+            "phonetic": "/ɪnˈʃʊərəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.",
+            "translation": "Bảo hiểm",
+            "concept": "Trả tiền để được đền bù khi có rủi ro.",
+            "register": "General / Business",
+            "grammar_note": "Take out insurance.",
             "synonyms": [
-                "dig up",
-                "unearth"
+                "protection",
+                "coverage"
             ],
             "collocations": [
-                "excavate a site",
-                "excavation area"
+                "take out insurance",
+                "insurance policy",
+                "health insurance"
             ],
             "contexts": [
                 {
-                    "sentence": "One area we excavated in the first summer uncovered the site of a meeting hall.",
-                    "translation": "Một khu vực chúng tôi khai quật vào mùa hè đầu tiên đã lộ ra địa điểm của một hội trường."
+                    "sentence": "First of all you have to take out insurance on the furniture.",
+                    "translation": "Trước hết bạn phải mua bảo hiểm cho đồ nội thất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "brochure",
+            "phonetic": "/ˈbrəʊʃər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A small book or magazine containing pictures and information about a product or service.",
+            "translation": "Tờ rơi / Sách quảng cáo",
+            "concept": "Sách mỏng giới thiệu sản phẩm/du lịch.",
+            "register": "General",
+            "grammar_note": "Travel brochure.",
+            "synonyms": [
+                "pamphlet",
+                "booklet",
+                "leaflet"
+            ],
+            "collocations": [
+                "travel brochure",
+                "read a brochure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I actually have one of their brochures here.",
+                    "translation": "Tôi thực sự có một trong những cuốn sách quảng cáo của họ ở đây."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excavation",
+            "phonetic": "/ˌekskəˈveɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of excavating something, especially an archaeological site.",
+            "translation": "Sự khai quật",
+            "concept": "Đào bới di tích lịch sử.",
+            "register": "Academic",
+            "grammar_note": "Archaeological excavation.",
+            "synonyms": [
+                "dig",
+                "mining"
+            ],
+            "collocations": [
+                "archaeological excavation",
+                "excavation site",
+                "start excavation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is the largest structure in the central area of the site next to the current excavation area.",
+                    "translation": "Nó là cấu trúc lớn nhất ở khu vực trung tâm của địa điểm bên cạnh khu vực khai quật hiện tại."
                 }
             ],
             "level": "seed"
         },
         {
             "word": "foundation",
-            "phonetic": "/faʊnˈdeɪʃn/",
+            "phonetic": "/faʊnˈdeɪʃən/",
             "partOfSpeech": "Noun",
             "cefrLevel": "B2",
             "meaning": "The lowest load-bearing part of a building, typically below ground level.",
-            "translation": "Nền móng (công trình)",
-            "concept": "Phần cơ bản nâng đỡ tòa nhà.",
-            "register": "Construction / General",
+            "translation": "Nền móng",
+            "concept": "Phần đế của tòa nhà.",
+            "register": "General / Construction",
             "grammar_note": "Lay the foundations.",
             "synonyms": [
                 "base",
-                "footing"
+                "footing",
+                "substructure"
             ],
             "collocations": [
-                "foundations of a bridge",
+                "concrete foundation",
+                "strong foundation",
                 "lay the foundations"
             ],
             "contexts": [
                 {
-                    "sentence": "This year, we've identified the foundations of an ancient bridge.",
+                    "sentence": "This year, we’ve identified the foundations of an ancient bridge.",
                     "translation": "Năm nay, chúng tôi đã xác định được nền móng của một cây cầu cổ."
                 }
             ],
             "level": "seed"
         },
         {
-            "word": "playbill",
-            "phonetic": "/ˈpleɪbɪl/",
-            "partOfSpeech": "Noun",
-            "cefrLevel": "C2",
-            "meaning": "A poster announcing a theatrical performance OR a program for a play.",
-            "translation": "Ápphích quảng cáo kịch / Chương trình kịch",
-            "concept": "Tờ chương trình hoặc quảng cáo cho vở kịch (đặc biệt ở Mỹ).",
-            "register": "Arts / Theatre",
-            "grammar_note": "Countable.",
+            "word": "amateur",
+            "phonetic": "/ˈæmətər/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Engaging or engaged in without payment; non-professional.",
+            "translation": "Nghiệp dư",
+            "concept": "Làm vì đam mê, không phải nghề kiếm sống.",
+            "register": "General",
+            "grammar_note": "Amateur photographer/historian.",
             "synonyms": [
-                "theatre programme"
+                "non-professional",
+                "lay"
             ],
             "collocations": [
-                "old playbill"
+                "amateur historian",
+                "amateur photographer",
+                "amateur dramatics"
             ],
             "contexts": [
                 {
-                    "sentence": "I didn't know theatre programmes are called playbills in the USA.",
-                    "translation": "Tôi không biết rằng các chương trình rạp hát được gọi là playbills ở Mỹ."
+                    "sentence": "Peter Swift, an amateur historian, contacted me.",
+                    "translation": "Peter Swift, một nhà sử học nghiệp dư, đã liên lạc với tôi."
                 }
             ],
             "level": "seed"
         },
         {
-            "word": "riot",
-            "phonetic": "/ˈraɪət/",
-            "partOfSpeech": "Noun",
-            "cefrLevel": "C1",
-            "meaning": "A violent disturbance of the peace by a crowd.",
-            "translation": "Cuộc bạo động, nổi loạn",
-            "concept": "Hành động bạo lực của đám đông.",
+            "word": "ruined",
+            "phonetic": "/ˈruːɪnd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "(of a building or place) reduced to a state of decay, collapse, or disintegration.",
+            "translation": "Bị phá hủy / Hoang tàn",
+            "concept": "Đã sụp đổ, hư hại nặng.",
             "register": "General",
-            "grammar_note": "Cause a riot.",
+            "grammar_note": "Ruined castle/temple.",
             "synonyms": [
-                "uproar",
-                "disturbance"
+                "destroyed",
+                "dilapidated",
+                "wrecked"
             ],
             "collocations": [
-                "start a riot",
-                "riot police"
+                "ruined castle",
+                "ruined building",
+                "ruined reputation"
             ],
             "contexts": [
                 {
-                    "sentence": "They would demand refunds and if they didn't get them, there were riots.",
-                    "translation": "Họ sẽ đòi hoàn tiền và nếu không được, sẽ có bạo loạn."
+                    "sentence": "Drawings of ruined buildings on the grassy area.",
+                    "translation": "Các bản vẽ của những tòa nhà hoang tàn trên bãi cỏ."
                 }
             ],
             "level": "seed"
@@ -144,18 +207,130 @@
             "meaning": "Unable to read or write.",
             "translation": "Mù chữ",
             "concept": "Không biết đọc viết.",
-            "register": "Formal",
-            "grammar_note": "N/A",
+            "register": "Formal / Academic",
+            "grammar_note": "Functionally illiterate.",
             "synonyms": [
+                "unlettered",
                 "uneducated"
             ],
             "collocations": [
+                "computer illiterate",
                 "functionally illiterate"
             ],
             "contexts": [
                 {
-                    "sentence": "Lots of ordinary people at that time were illiterate, so programmes were of limited value.",
-                    "translation": "Rất nhiều người dân thường thời đó mù chữ, nên các chương trình có giá trị hạn chế."
+                    "sentence": "Lots of ordinary people at that time were illiterate.",
+                    "translation": "Rất nhiều người dân thường vào thời đó bị mù chữ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "playbill",
+            "phonetic": "/ˈpleɪbɪl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A poster announcing a theatrical performance.",
+            "translation": "Áp phích kịch / Tờ chương trình kịch",
+            "concept": "Tờ giấy quảng cáo vở kịch (từ cổ hoặc Mỹ).",
+            "register": "Arts / Historical",
+            "grammar_note": "Theatre playbill.",
+            "synonyms": [
+                "program",
+                "poster"
+            ],
+            "collocations": [
+                "vintage playbill",
+                "theatre playbill"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I didn’t know theatre programmes are called playbills in the USA.",
+                    "translation": "Tôi không biết chương trình nhà hát được gọi là playbills ở Mỹ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "riot",
+            "phonetic": "/ˈraɪət/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A violent disturbance of the peace by a crowd.",
+            "translation": "Cuộc bạo loạn",
+            "concept": "Đám đông nổi dậy đập phá.",
+            "register": "General / Law",
+            "grammar_note": "Cause a riot.",
+            "synonyms": [
+                "uproar",
+                "disturbance",
+                "insurrection"
+            ],
+            "collocations": [
+                "start a riot",
+                "prison riot",
+                "riot police"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They would demand refunds and if they didn’t get them, there were riots.",
+                    "translation": "Họ sẽ đòi hoàn tiền và nếu họ không nhận được, sẽ có bạo loạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "outrageous",
+            "phonetic": "/aʊtˈreɪdʒəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Shockingly bad or excessive.",
+            "translation": "Thật quá đáng / Gây sốc",
+            "concept": "Không thể chấp nhận được, xúc phạm.",
+            "register": "General",
+            "grammar_note": "It is outrageous that...",
+            "synonyms": [
+                "shocking",
+                "scandalous",
+                "disgraceful"
+            ],
+            "collocations": [
+                "outrageous behavior",
+                "outrageous price",
+                "totally outrageous"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Outrageous! That’d never happen now.",
+                    "translation": "Thật quá đáng! Điều đó sẽ không bao giờ xảy ra bây giờ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "restriction",
+            "phonetic": "/rɪˈstrɪkʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A limiting condition or measure, especially a legal one.",
+            "translation": "Sự hạn chế / Lệnh cấm",
+            "concept": "Quy định giới hạn cái gì.",
+            "register": "Formal",
+            "grammar_note": "Impose restrictions.",
+            "synonyms": [
+                "limitation",
+                "constraint",
+                "control"
+            ],
+            "collocations": [
+                "impose restrictions",
+                "lift restrictions",
+                "travel restrictions"
+            ],
+            "contexts": [
+                {
+                    "sentence": "When the government imposed restrictions on the use of paper.",
+                    "translation": "Khi chính phủ áp đặt các hạn chế về việc sử dụng giấy."
                 }
             ],
             "level": "seed"
@@ -165,23 +340,51 @@
             "phonetic": "/ɪnˈkluːsɪv/",
             "partOfSpeech": "Adjective",
             "cefrLevel": "C1",
-            "meaning": "Not excluding any of the parties or groups involved in something.",
-            "translation": "Bao trùm, hòa nhập (dành cho mọi người)",
-            "concept": "Thiết kế hoặc chính sách không bỏ rơi ai (người khuyết tật, già...).",
-            "register": "Formal / Academic",
-            "grammar_note": "Inclusive design.",
+            "meaning": "Including or covering all the services, facilities, or items normally expected or required.",
+            "translation": "Bao trùm / Hòa nhập",
+            "concept": "Không bỏ sót ai (inclusive design - thiết kế cho mọi người).",
+            "register": "Academic / Formal",
+            "grammar_note": "Inclusive of taxes.",
             "synonyms": [
                 "comprehensive",
-                "all-embracing"
+                "all-encompassing"
             ],
             "collocations": [
                 "inclusive design",
-                "inclusive society"
+                "inclusive society",
+                "all-inclusive"
             ],
             "contexts": [
                 {
-                    "sentence": "Designers have become aware of the need to be inclusive when designing products.",
-                    "translation": "Các nhà thiết kế đã nhận thức được nhu cầu phải bao trùm khi thiết kế sản phẩm."
+                    "sentence": "It’s only relatively recently that designers have become aware of the need to be inclusive when designing products.",
+                    "translation": "Chỉ tương đối gần đây, các nhà thiết kế mới nhận thức được sự cần thiết phải hòa nhập khi thiết kế sản phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡnɪtɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to cognition (the mental action or process of acquiring knowledge).",
+            "translation": "Thuộc nhận thức",
+            "concept": "Liên quan đến trí não, suy nghĩ.",
+            "register": "Academic / Psychology",
+            "grammar_note": "Cognitive development.",
+            "synonyms": [
+                "mental",
+                "intellectual"
+            ],
+            "collocations": [
+                "cognitive skills",
+                "cognitive development",
+                "cognitive impairment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "That includes considering the needs of people who have cognitive difficulties.",
+                    "translation": "Điều đó bao gồm việc xem xét nhu cầu của những người gặp khó khăn về nhận thức."
                 }
             ],
             "level": "seed"
@@ -198,16 +401,72 @@
             "grammar_note": "Manual dexterity.",
             "synonyms": [
                 "agility",
-                "deftness"
+                "skill",
+                "proficiency"
             ],
             "collocations": [
                 "manual dexterity",
-                "dexterity issues"
+                "finger dexterity"
             ],
             "contexts": [
                 {
-                    "sentence": "Taps with sensors are easier for people with dexterity or mobility issues.",
-                    "translation": "Vòi nước có cảm biến dễ dàng hơn cho những người có vấn đề về sự khéo léo hoặc khả năng di chuyển."
+                    "sentence": "They’re not only more hygienic, they’re also easier for people with dexterity or mobility issues.",
+                    "translation": "Chúng không chỉ vệ sinh hơn mà còn dễ dàng hơn cho những người có vấn đề về sự khéo léo hoặc khả năng vận động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mobility",
+            "phonetic": "/məʊˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The ability to move or be moved freely and easily.",
+            "translation": "Khả năng vận động / Sự di động",
+            "concept": "Khả năng đi lại.",
+            "register": "Formal",
+            "grammar_note": "Mobility issues/problems.",
+            "synonyms": [
+                "movement",
+                "maneuverability"
+            ],
+            "collocations": [
+                "mobility issues",
+                "social mobility",
+                "limited mobility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Easier for people with dexterity or mobility issues.",
+                    "translation": "Dễ dàng hơn cho những người có vấn đề về sự khéo léo hoặc khả năng vận động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "implication",
+            "phonetic": "/ˌɪmplɪˈkeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The conclusion that can be drawn from something, although it is not explicitly stated.",
+            "translation": "Hàm ý / Hậu quả ngụ ý",
+            "concept": "Điều suy ra từ việc gì đó, thường là hậu quả.",
+            "register": "Academic / Formal",
+            "grammar_note": "Have implications for.",
+            "synonyms": [
+                "consequence",
+                "ramification",
+                "inference"
+            ],
+            "collocations": [
+                "serious implications",
+                "wider implications",
+                "safety implications"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This has safety implications for all women.",
+                    "translation": "Điều này có những tác động về an toàn đối với tất cả phụ nữ."
                 }
             ],
             "level": "seed"
@@ -218,8 +477,8 @@
             "partOfSpeech": "Adjective",
             "cefrLevel": "C1",
             "meaning": "Relating to the metabolism of a living organism.",
-            "translation": "Thuộc về trao đổi chất",
-            "concept": "Liên quan đến quá trình chuyển hóa năng lượng.",
+            "translation": "Thuộc trao đổi chất",
+            "concept": "Quá trình chuyển hóa năng lượng trong cơ thể.",
             "register": "Scientific / Medical",
             "grammar_note": "Metabolic rate.",
             "synonyms": [],
@@ -236,26 +495,527 @@
             "level": "seed"
         },
         {
-            "word": "dummy",
-            "phonetic": "/ˈdʌmi/",
+            "word": "interface",
+            "phonetic": "/ˈɪntəfeɪs/",
             "partOfSpeech": "Noun",
-            "cefrLevel": "C1",
-            "meaning": "A model or replica of a human being.",
-            "translation": "Ma-nơ-canh, hình nhân (thử nghiệm)",
-            "concept": "Vật mô phỏng người dùng để thử nghiệm an toàn xe.",
-            "register": "General",
-            "grammar_note": "Crash-test dummy.",
+            "cefrLevel": "B2",
+            "meaning": "A point where two systems, subjects, organizations, etc. meet and interact.",
+            "translation": "Giao diện",
+            "concept": "Nơi người dùng tương tác với máy (màn hình, nút bấm).",
+            "register": "Technical",
+            "grammar_note": "User interface.",
             "synonyms": [
-                "mannequin",
-                "model"
+                "connection",
+                "link"
             ],
             "collocations": [
-                "crash-test dummy"
+                "user interface",
+                "interface design"
             ],
             "contexts": [
                 {
-                    "sentence": "Most cars are still crash-tested using a dummy based on an average-sized male.",
-                    "translation": "Hầu hết các xe hơi vẫn được thử nghiệm va chạm sử dụng hình nhân dựa trên nam giới cỡ trung bình."
+                    "sentence": "Which is why software designers rarely create interfaces with this colour.",
+                    "translation": "Đó là lý do tại sao các nhà thiết kế phần mềm hiếm khi tạo ra các giao diện với màu này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "digitised",
+            "phonetic": "/ˈdɪdʒɪtaɪzd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Converted into a digital form.",
+            "translation": "Được số hóa",
+            "concept": "Chuyển từ giấy tờ sang dạng file máy tính.",
+            "register": "Technical",
+            "grammar_note": "Digitised collection.",
+            "synonyms": [
+                "computerized"
+            ],
+            "collocations": [
+                "digitised collection",
+                "digitised records"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It comes from the British Library’s digitised collection of programmes.",
+                    "translation": "Nó đến từ bộ sưu tập các chương trình đã được số hóa của Thư viện Anh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "brooch",
+            "phonetic": "/brəʊtʃ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An ornament fastened to clothing with a hinged pin and catch.",
+            "translation": "Trâm cài áo",
+            "concept": "Đồ trang sức cài lên áo.",
+            "register": "General",
+            "grammar_note": "Wear a brooch.",
+            "synonyms": [
+                "pin",
+                "badge"
+            ],
+            "collocations": [
+                "gold brooch",
+                "diamond brooch"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Normally you’d expect to find brooches and other jewellery.",
+                    "translation": "Thông thường bạn sẽ mong đợi tìm thấy trâm cài và đồ trang sức khác."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "parade",
+            "phonetic": "/pəˈreɪd/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Walk or march together in a formal procession or in an ostentatious way.",
+            "translation": "Diễu hành",
+            "concept": "Đi thành đoàn để biểu diễn hoặc phô trương.",
+            "register": "General",
+            "grammar_note": "Parade through the streets.",
+            "synonyms": [
+                "march",
+                "process",
+                "strut"
+            ],
+            "collocations": [
+                "parade around",
+                "victory parade"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They’d parade around the streets in their costumes.",
+                    "translation": "Họ sẽ diễu hành quanh đường phố trong trang phục của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "refund",
+            "phonetic": "/ˈriːfʌnd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A repayment of a sum of money.",
+            "translation": "Tiền hoàn lại",
+            "concept": "Trả lại tiền khi không hài lòng.",
+            "register": "General / Business",
+            "grammar_note": "Demand a refund.",
+            "synonyms": [
+                "repayment",
+                "reimbursement"
+            ],
+            "collocations": [
+                "full refund",
+                "claim a refund",
+                "offer a refund"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They would demand refunds and if they didn’t get them, there were riots.",
+                    "translation": "Họ sẽ đòi hoàn tiền và nếu họ không nhận được, sẽ có bạo loạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hamper",
+            "phonetic": "/ˈhæmpər/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Hinder or impede the movement or progress of.",
+            "translation": "Cản trở / Gây khó khăn",
+            "concept": "Làm vướng víu, chậm tiến độ.",
+            "register": "Formal",
+            "grammar_note": "Hamper progress.",
+            "synonyms": [
+                "hinder",
+                "obstruct",
+                "impede"
+            ],
+            "collocations": [
+                "hamper efforts",
+                "hamper progress",
+                "hamper the investigation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The report found that 95% of women said that their PPE often hampered their work.",
+                    "translation": "Báo cáo cho thấy 95% phụ nữ nói rằng PPE của họ thường cản trở công việc của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hygienic",
+            "phonetic": "/haɪˈdʒiːnɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Conducive to maintaining health and preventing disease, especially by being clean; sanitary.",
+            "translation": "Hợp vệ sinh",
+            "concept": "Sạch sẽ, không gây bệnh.",
+            "register": "General / Medical",
+            "grammar_note": "Hygienic conditions.",
+            "synonyms": [
+                "sanitary",
+                "clean",
+                "sterile"
+            ],
+            "collocations": [
+                "hygienic environment",
+                "hygienic way"
+            ],
+            "contexts": [
+                {
+                    "sentence": "These are not only more hygienic, they’re also easier for people with dexterity or mobility issues.",
+                    "translation": "Chúng không chỉ vệ sinh hơn mà còn dễ dàng hơn cho những người có vấn đề về sự khéo léo hoặc khả năng vận động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "barrier",
+            "phonetic": "/ˈbæriər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A circumstance or obstacle that keeps people or things apart or prevents communication or progress.",
+            "translation": "Rào cản",
+            "concept": "Vật cản trở (nghĩa đen hoặc bóng).",
+            "register": "General",
+            "grammar_note": "Barrier to entry.",
+            "synonyms": [
+                "obstacle",
+                "hurdle",
+                "block"
+            ],
+            "collocations": [
+                "language barrier",
+                "cultural barrier",
+                "break down barriers"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It simply means designing products that span economic, social and cultural barriers.",
+                    "translation": "Nó chỉ đơn giản có nghĩa là thiết kế các sản phẩm vượt qua các rào cản kinh tế, xã hội và văn hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deposit",
+            "phonetic": "/dɪˈpɒzɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A sum of money placed or kept in a bank account, usually to gain interest, or paid as a first instalment.",
+            "translation": "Tiền đặt cọc",
+            "concept": "Tiền trả trước để giữ chỗ hoặc đảm bảo.",
+            "register": "General / Business",
+            "grammar_note": "Pay a deposit.",
+            "synonyms": [
+                "down payment"
+            ],
+            "collocations": [
+                "pay a deposit",
+                "refundable deposit",
+                "security deposit"
+            ],
+            "contexts": [
+                {
+                    "sentence": "If you rent living room furniture, you’ll also get a lamp at no extra cost.",
+                    "translation": "Nếu bạn thuê đồ nội thất phòng khách, bạn cũng sẽ nhận được một chiếc đèn mà không mất thêm chi phí."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "renovate",
+            "phonetic": "/ˈrenəveɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Restore (something old, especially a building) to a good state of repair.",
+            "translation": "Cải tạo / Tân trang",
+            "concept": "Sửa chữa lại nhà cửa cho mới.",
+            "register": "General / Construction",
+            "grammar_note": "Renovate a house.",
+            "synonyms": [
+                "restore",
+                "refurbish",
+                "revamp"
+            ],
+            "collocations": [
+                "renovate a building",
+                "recently renovated"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The house has been recently renovated.",
+                    "translation": "Ngôi nhà đã được cải tạo gần đây."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "specialize",
+            "phonetic": "/ˈspeʃəlaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Concentrate on and become expert in a particular subject or skill.",
+            "translation": "Chuyên về",
+            "concept": "Tập trung sâu vào một lĩnh vực.",
+            "register": "General / Academic",
+            "grammar_note": "Specialize in something.",
+            "synonyms": [
+                "focus on"
+            ],
+            "collocations": [
+                "specialize in",
+                "highly specialized"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Anyway I hadn’t realised there are actually companies specialising in creating theatre programmes.",
+                    "translation": "Dù sao thì tôi cũng không nhận ra rằng thực sự có những công ty chuyên tạo ra các chương trình nhà hát."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adaptation",
+            "phonetic": "/ˌædæpˈteɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action or process of adapting or being adapted.",
+            "translation": "Sự thích nghi / Sự điều chỉnh",
+            "concept": "Thay đổi để phù hợp hoàn cảnh.",
+            "register": "Academic / Formal",
+            "grammar_note": "Adaptation to...",
+            "synonyms": [
+                "adjustment",
+                "modification"
+            ],
+            "collocations": [
+                "adaptation of",
+                "make adaptations"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Without any type of adaptation having to be made to the original design.",
+                    "translation": "Mà không cần phải thực hiện bất kỳ loại điều chỉnh nào đối với thiết kế ban đầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "medieval",
+            "phonetic": "/ˌmediˈiːvəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to the Middle Ages.",
+            "translation": "Thuộc thời Trung cổ",
+            "concept": "Giai đoạn lịch sử xưa ở châu Âu.",
+            "register": "Academic / Historical",
+            "grammar_note": "Medieval history.",
+            "synonyms": [],
+            "collocations": [
+                "medieval castle",
+                "medieval times",
+                "medieval period"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The rubbish pit actually dates to the time of the castle.",
+                    "translation": "Hố rác thực sự có từ thời của lâu đài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exciting",
+            "phonetic": "/ɪkˈsaɪtɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "A2",
+            "meaning": "Causing great enthusiasm and eagerness.",
+            "translation": "Thú vị / Hào hứng",
+            "concept": "Gây hứng khởi.",
+            "register": "General",
+            "grammar_note": "Exciting news/event.",
+            "synonyms": [
+                "thrilling",
+                "exhilarating"
+            ],
+            "collocations": [
+                "exciting opportunity",
+                "very exciting"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This year, we’ve identified the foundations of an ancient bridge, and it’s really exciting today.",
+                    "translation": "Năm nay, chúng tôi đã xác định được nền móng của một cây cầu cổ, và hôm nay thực sự rất thú vị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "documentary",
+            "phonetic": "/ˌdɒkjʊˈmentəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A movie or a television or radio program that provides a factual record or report.",
+            "translation": "Phim tài liệu",
+            "concept": "Phim về sự thật, không hư cấu.",
+            "register": "General",
+            "grammar_note": "Watch a documentary.",
+            "synonyms": [],
+            "collocations": [
+                "TV documentary",
+                "nature documentary",
+                "make a documentary"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Oh, and maybe you saw the TV documentary about our project.",
+                    "translation": "Ồ, và có lẽ bạn đã xem bộ phim tài liệu truyền hình về dự án của chúng tôi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "tunnel",
+            "phonetic": "/ˈtʌnəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "An artificial underground passage, especially one built through a hill or under a building, road, or river.",
+            "translation": "Đường hầm",
+            "concept": "Lối đi ngầm.",
+            "register": "General",
+            "grammar_note": "Dig a tunnel.",
+            "synonyms": [
+                "passage",
+                "underpass"
+            ],
+            "collocations": [
+                "railway tunnel",
+                "secret tunnel"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Coins are uncovered when wild animals like rabbits have been digging tunnels.",
+                    "translation": "Tiền xu được phát hiện khi các động vật hoang dã như thỏ đào hang."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "temporary",
+            "phonetic": "/ˈtempərəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Lasting for only a limited period of time; not permanent.",
+            "translation": "Tạm thời",
+            "concept": "Không lâu dài.",
+            "register": "General",
+            "grammar_note": "Temporary job/solution.",
+            "synonyms": [
+                "provisional",
+                "short-term"
+            ],
+            "collocations": [
+                "temporary contract",
+                "temporary solution",
+                "temporary accommodation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "At least until I know whether my temporary work contract is going to be made permanent.",
+                    "translation": "Ít nhất cho đến khi tôi biết liệu hợp đồng làm việc tạm thời của tôi có được chuyển thành chính thức hay không."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "permanent",
+            "phonetic": "/ˈpɜːmənənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Lasting or intended to last or remain unchanged indefinitely.",
+            "translation": "Vĩnh viễn / Lâu dài",
+            "concept": "Mãi mãi, không thay đổi.",
+            "register": "General",
+            "grammar_note": "Permanent job/address.",
+            "synonyms": [
+                "lasting",
+                "enduring",
+                "perpetual"
+            ],
+            "collocations": [
+                "permanent resident",
+                "permanent damage",
+                "permanent job"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This allows anything you’ve made to set permanently in shape.",
+                    "translation": "Điều này cho phép bất cứ thứ gì bạn làm ra được định hình vĩnh viễn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ill-fitting",
+            "phonetic": "/ˌɪlˈfɪtɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Not fitting well.",
+            "translation": "Không vừa vặn",
+            "concept": "Quần áo/giày dép không đúng kích cỡ.",
+            "register": "General",
+            "grammar_note": "Ill-fitting clothes.",
+            "synonyms": [
+                "loose",
+                "tight",
+                "uncomfortable"
+            ],
+            "collocations": [
+                "ill-fitting shoes",
+                "ill-fitting clothes"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Ill-fitting PPE such as high-vis jackets, vests and body armour can put women at risk.",
+                    "translation": "PPE không vừa vặn như áo khoác phản quang, áo vest và áo giáp có thể khiến phụ nữ gặp nguy hiểm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "emergency",
+            "phonetic": "/ɪˈmɜːdʒənsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A serious, unexpected, and often dangerous situation requiring immediate action.",
+            "translation": "Tình trạng khẩn cấp",
+            "concept": "Tình huống nguy hiểm cần xử lý ngay.",
+            "register": "General",
+            "grammar_note": "In an emergency.",
+            "synonyms": [
+                "crisis"
+            ],
+            "collocations": [
+                "emergency services",
+                "emergency exit",
+                "state of emergency"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The report found that 95% of women said that their PPE often hampered their work and that this problem was worst in the emergency services.",
+                    "translation": "Báo cáo cho thấy 95% phụ nữ nói rằng PPE thường cản trở công việc của họ và vấn đề này tồi tệ nhất trong các dịch vụ khẩn cấp."
                 }
             ],
             "level": "seed"

@@ -1,34 +1,114 @@
 {
     "id": "cambridge_20_listening_test_4",
     "title": "Cam 20 - Listening Test 4",
-    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 4, chủ đề tham quan thành phố, lịch sử bóng đá và chữ viết tay.",
-    "wordCount": 10,
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 4, tập trung vào chủ đề du lịch gia đình, lịch sử bóng đá, kỹ năng viết tay và xung đột động vật hoang dã.",
+    "wordCount": 38,
     "category": "Listening",
-    "color": "from-purple-500 to-indigo-600",
+    "color": "from-teal-500 to-emerald-600",
     "isPro": true,
     "words": [
         {
-            "word": "fort",
-            "phonetic": "/fɔːt/",
+            "word": "accommodation",
+            "phonetic": "/əˌkɒməˈdeɪʃən/",
             "partOfSpeech": "Noun",
-            "cefrLevel": "B2",
-            "meaning": "A fortified building or strategic position.",
-            "translation": "Pháo đài",
-            "concept": "Công trình quân sự phòng thủ.",
-            "register": "General / Historical",
-            "grammar_note": "Countable.",
+            "cefrLevel": "B1",
+            "meaning": "A room, group of rooms, or building in which someone may live or stay.",
+            "translation": "Chỗ ở",
+            "concept": "Nơi ăn chốn ở khi đi du lịch.",
+            "register": "General",
+            "grammar_note": "Book accommodation.",
             "synonyms": [
-                "fortress",
-                "stronghold"
+                "lodging",
+                "housing",
+                "quarters"
             ],
             "collocations": [
-                "old fort",
-                "visit the fort"
+                "book accommodation",
+                "cheap accommodation",
+                "temporary accommodation"
             ],
             "contexts": [
                 {
-                    "sentence": "If the weather's nice, you could visit the old fort by boat.",
-                    "translation": "Nếu thời tiết đẹp, bạn có thể ghé thăm pháo đài cũ bằng thuyền."
+                    "sentence": "What about accommodation? Are they going to stay with you in your flat?",
+                    "translation": "Còn về chỗ ở thì sao? Họ có định ở cùng bạn trong căn hộ của bạn không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vegetarian",
+            "phonetic": "/ˌvedʒɪˈteəriən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person who does not eat meat.",
+            "translation": "Người ăn chay",
+            "concept": "Không ăn thịt cá.",
+            "register": "General",
+            "grammar_note": "Strict vegetarian.",
+            "synonyms": [],
+            "collocations": [
+                "vegetarian dish",
+                "strict vegetarian",
+                "become a vegetarian"
+            ],
+            "contexts": [
+                {
+                    "sentence": "My cousin’s vegetarian. I know it’s one of the best places for that kind of food.",
+                    "translation": "Em họ tôi ăn chay. Tôi biết đó là một trong những nơi tốt nhất cho loại thức ăn đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bargain",
+            "phonetic": "/ˈbɑːɡɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A thing bought or offered for sale more cheaply than is usual or expected.",
+            "translation": "Món hời / Sự mặc cả",
+            "concept": "Mua được giá rẻ.",
+            "register": "General",
+            "grammar_note": "A real bargain.",
+            "synonyms": [
+                "deal",
+                "good buy"
+            ],
+            "collocations": [
+                "bargain price",
+                "strike a bargain",
+                "hunt for bargains"
+            ],
+            "contexts": [
+                {
+                    "sentence": "But you can get some good deals if you book online with bargained tickets for the following day.",
+                    "translation": "Nhưng bạn có thể nhận được một số ưu đãi tốt nếu bạn đặt trực tuyến với vé giá hời cho ngày hôm sau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "redevelopment",
+            "phonetic": "/ˌriːdɪˈveləpmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or process of developing something again or differently.",
+            "translation": "Sự tái phát triển / Quy hoạch lại",
+            "concept": "Xây dựng lại khu vực cũ.",
+            "register": "Formal / Urban Planning",
+            "grammar_note": "Urban redevelopment.",
+            "synonyms": [
+                "renovation",
+                "renewal"
+            ],
+            "collocations": [
+                "urban redevelopment",
+                "redevelopment project",
+                "undergo redevelopment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Now, the stadium you see today was built in 1989 as part of a three-year redevelopment project.",
+                    "translation": "Sân vận động bạn thấy ngày nay được xây dựng vào năm 1989 như một phần của dự án tái phát triển kéo dài ba năm."
                 }
             ],
             "level": "seed"
@@ -37,117 +117,177 @@
             "word": "referee",
             "phonetic": "/ˌrefəˈriː/",
             "partOfSpeech": "Noun",
-            "cefrLevel": "B1",
+            "cefrLevel": "B2",
             "meaning": "An official who watches a game or match closely to ensure that the rules are adhered to.",
             "translation": "Trọng tài",
-            "concept": "Người điều khiển trận đấu thể thao.",
-            "register": "Sports",
-            "grammar_note": "Countable.",
+            "concept": "Người cầm còi trong thi đấu thể thao.",
+            "register": "General / Sports",
+            "grammar_note": "Act as referee.",
             "synonyms": [
                 "umpire",
-                "official"
+                "official",
+                "judge"
             ],
             "collocations": [
                 "football referee",
-                "match referee"
+                "match referee",
+                "referee's decision"
             ],
             "contexts": [
                 {
-                    "sentence": "In 1874, referees were allowed to send players off if they committed certain offences.",
-                    "translation": "Năm 1874, trọng tài được phép đuổi cầu thủ nếu họ phạm lỗi nhất định."
+                    "sentence": "And the following year, in 1874, referees were allowed to send players off if they committed certain offences.",
+                    "translation": "Và năm sau đó, năm 1874, trọng tài được phép đuổi cầu thủ khỏi sân nếu họ phạm một số lỗi nhất định."
                 }
             ],
             "level": "seed"
         },
         {
-            "word": "crossbar",
-            "phonetic": "/ˈkrɒsbɑːr/",
+            "word": "offence",
+            "phonetic": "/əˈfens/",
             "partOfSpeech": "Noun",
-            "cefrLevel": "C1",
-            "meaning": "A horizontal bar between the two upright posts of a goal.",
-            "translation": "Xà ngang (khung thành)",
-            "concept": "Thanh ngang trên khung thành bóng đá.",
-            "register": "Sports",
-            "grammar_note": "Countable.",
-            "synonyms": [],
-            "collocations": [
-                "hit the crossbar"
-            ],
-            "contexts": [
-                {
-                    "sentence": "The tape was replaced with the solid crossbar that we're familiar with today.",
-                    "translation": "Dải băng đã được thay thế bằng thanh xà ngang vững chắc mà chúng ta quen thuộc ngày nay."
-                }
-            ],
-            "level": "seed"
-        },
-        {
-            "word": "spatial awareness",
-            "phonetic": "/ˌspeɪʃl əˈweənəs/",
-            "partOfSpeech": "Noun",
-            "cefrLevel": "C2",
-            "meaning": "The ability to be aware of oneself in space.",
-            "translation": "Nhận thức không gian",
-            "concept": "Khả năng định vị bản thân và vật thể trong không gian (quan trọng khi viết tay).",
-            "register": "Scientific / Educational",
-            "grammar_note": "Uncountable.",
-            "synonyms": [],
-            "collocations": [
-                "develop spatial awareness",
-                "good spatial awareness"
-            ],
-            "contexts": [
-                {
-                    "sentence": "Good spatial awareness is essential for writing because you have to space words correctly.",
-                    "translation": "Nhận thức không gian tốt là điều cần thiết để viết vì bạn phải cách các từ một cách chính xác."
-                }
-            ],
-            "level": "seed"
-        },
-        {
-            "word": "dyspraxia",
-            "phonetic": "/dɪsˈpræksiə/",
-            "partOfSpeech": "Noun",
-            "cefrLevel": "C2",
-            "meaning": "A developmental disorder affecting physical coordination.",
-            "translation": "Chứng khó vận động",
-            "concept": "Rối loạn ảnh hưởng đến sự phối hợp cử động (viết, buộc dây giày).",
-            "register": "Medical / Educational",
-            "grammar_note": "Uncountable.",
-            "synonyms": [],
-            "collocations": [
-                "children with dyspraxia"
-            ],
-            "contexts": [
-                {
-                    "sentence": "Handwriting is much harder for children with dyspraxia who have problems coordinating movement.",
-                    "translation": "Viết tay khó hơn nhiều đối với trẻ em mắc chứng khó vận động, những người gặp vấn đề về phối hợp cử động."
-                }
-            ],
-            "level": "seed"
-        },
-        {
-            "word": "legibility",
-            "phonetic": "/ˌledʒəˈbɪləti/",
-            "partOfSpeech": "Noun",
-            "cefrLevel": "C1",
-            "meaning": "The quality of being clear enough to read.",
-            "translation": "Tính dễ đọc (của chữ viết)",
-            "concept": "Chữ viết rõ ràng, đọc được.",
-            "register": "General",
-            "grammar_note": "Uncountable.",
+            "cefrLevel": "B2",
+            "meaning": "A breach of a law or rule; an illegal act.",
+            "translation": "Sự vi phạm / Lỗi",
+            "concept": "Phạm luật.",
+            "register": "Formal / Legal",
+            "grammar_note": "Commit an offence.",
             "synonyms": [
-                "readability",
-                "clarity"
+                "crime",
+                "violation",
+                "misdemeanor"
             ],
             "collocations": [
-                "improve legibility",
-                "poor legibility"
+                "commit an offence",
+                "serious offence",
+                "criminal offence"
             ],
             "contexts": [
                 {
-                    "sentence": "Spacing letters correctly is important for legibility.",
-                    "translation": "Giãn cách các chữ cái chính xác là rất quan trọng để dễ đọc."
+                    "sentence": "Referees were allowed to send players off if they committed certain offences.",
+                    "translation": "Trọng tài được phép đuổi cầu thủ khỏi sân nếu họ phạm một số lỗi nhất định."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "amateur",
+            "phonetic": "/ˈæmətər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person who engages in a pursuit, especially a sport, on an unpaid rather than a professional basis.",
+            "translation": "Người chơi nghiệp dư",
+            "concept": "Chơi cho vui, không kiếm tiền từ đó.",
+            "register": "General",
+            "grammar_note": "Remain an amateur.",
+            "synonyms": [
+                "non-professional"
+            ],
+            "collocations": [
+                "amateur player",
+                "amateur status"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Even though players were still amateurs and had other proper jobs.",
+                    "translation": "Mặc dù các cầu thủ vẫn là nghiệp dư và có những công việc chính thức khác."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "handwriting",
+            "phonetic": "/ˈhændˌraɪtɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Writing with a pen or pencil; the style or manner of a person's writing.",
+            "translation": "Chữ viết tay",
+            "concept": "Viết bằng tay, không gõ máy.",
+            "register": "General",
+            "grammar_note": "Clear/neat handwriting.",
+            "synonyms": [
+                "penmanship",
+                "script"
+            ],
+            "collocations": [
+                "legible handwriting",
+                "improve handwriting",
+                "handwriting style"
+            ],
+            "contexts": [
+                {
+                    "sentence": "How are you getting on with the assignment on handwriting?",
+                    "translation": "Bạn làm bài tập về chữ viết tay đến đâu rồi?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "spatial",
+            "phonetic": "/ˈspeɪʃəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to space.",
+            "translation": "Thuộc không gian",
+            "concept": "Liên quan đến vị trí, khoảng cách trong không gian.",
+            "register": "Academic",
+            "grammar_note": "Spatial awareness.",
+            "synonyms": [],
+            "collocations": [
+                "spatial awareness",
+                "spatial ability",
+                "spatial skills"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I never associated spatial awareness with handwriting either.",
+                    "translation": "Tôi cũng chưa bao giờ liên hệ nhận thức không gian với chữ viết tay."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "coordination",
+            "phonetic": "/kəʊˌɔːdɪˈneɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The ability to use different parts of the body together smoothly and efficiently.",
+            "translation": "Sự phối hợp (vận động)",
+            "concept": "Tay chân kết hợp nhịp nhàng.",
+            "register": "General / Medical",
+            "grammar_note": "Hand-eye coordination.",
+            "synonyms": [],
+            "collocations": [
+                "hand-eye coordination",
+                "coordination problems",
+                "lack of coordination"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Handwriting is so much harder for children with dyspraxia, who have problems coordinating movement.",
+                    "translation": "Viết tay khó hơn nhiều đối với trẻ mắc chứng rối loạn phối hợp động tác, những trẻ gặp vấn đề trong việc phối hợp chuyển động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dyslexia",
+            "phonetic": "/dɪsˈleksiə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A general term for disorders that involve difficulty in learning to read or interpret words, letters, and other symbols.",
+            "translation": "Chứng khó đọc",
+            "concept": "Rối loạn khả năng đọc hiểu chữ.",
+            "register": "Medical / Educational",
+            "grammar_note": "Suffer from dyslexia.",
+            "synonyms": [],
+            "collocations": [
+                "diagnosed with dyslexia",
+                "students with dyslexia"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Like children with dyslexia. They often really struggle with handwriting.",
+                    "translation": "Giống như trẻ em mắc chứng khó đọc. Chúng thường thực sự gặp khó khăn với chữ viết tay."
                 }
             ],
             "level": "seed"
@@ -156,23 +296,51 @@
             "word": "cursive",
             "phonetic": "/ˈkɜːsɪv/",
             "partOfSpeech": "Adjective",
-            "cefrLevel": "C1",
+            "cefrLevel": "C2",
             "meaning": "Written with the characters joined.",
-            "translation": "Chữ viết thảo (nối nét)",
-            "concept": "Kiểu viết liền mạch, các chữ cái nối nhau.",
+            "translation": "Chữ viết liền / Chữ thảo",
+            "concept": "Kiểu viết nối các chữ cái với nhau.",
             "register": "Educational",
-            "grammar_note": "Cursive writing/handwriting.",
+            "grammar_note": "Cursive handwriting/script.",
             "synonyms": [
                 "joined-up"
             ],
             "collocations": [
-                "cursive handwriting",
-                "write in cursive"
+                "cursive writing",
+                "cursive script"
             ],
             "contexts": [
                 {
-                    "sentence": "Cursive writing was considered more stylish, but it is harder to learn.",
-                    "translation": "Chữ viết thảo từng được coi là phong cách hơn, nhưng nó khó học hơn."
+                    "sentence": "Did you read that article on the benefits of teaching print rather than cursive handwriting?",
+                    "translation": "Bạn có đọc bài báo về lợi ích của việc dạy chữ in thay vì chữ viết thảo không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "legible",
+            "phonetic": "/ˈledʒəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "(of handwriting or print) clear enough to read.",
+            "translation": "Dễ đọc / Rõ ràng",
+            "concept": "Viết rõ chữ, đọc được.",
+            "register": "General",
+            "grammar_note": "Legible handwriting.",
+            "synonyms": [
+                "readable",
+                "clear",
+                "decipherable"
+            ],
+            "collocations": [
+                "highly legible",
+                "scarcely legible",
+                "legible writing"
+            ],
+            "contexts": [
+                {
+                    "sentence": "That is why it has always been so important to teach children to write legibly.",
+                    "translation": "Đó là lý do tại sao việc dạy trẻ viết chữ dễ đọc luôn rất quan trọng."
                 }
             ],
             "level": "seed"
@@ -184,48 +352,97 @@
             "cefrLevel": "C1",
             "meaning": "A nature reserve.",
             "translation": "Khu bảo tồn",
-            "concept": "Nơi động vật được bảo vệ.",
-            "register": "General / Environmental",
-            "grammar_note": "Bird sanctuary, wildlife sanctuary.",
+            "concept": "Nơi an toàn cho động vật hoang dã.",
+            "register": "Environmental",
+            "grammar_note": "Wildlife sanctuary.",
             "synonyms": [
                 "reserve",
                 "refuge",
                 "haven"
             ],
             "collocations": [
+                "wildlife sanctuary",
                 "bird sanctuary",
-                "wildlife sanctuary"
+                "animal sanctuary"
             ],
             "contexts": [
                 {
-                    "sentence": "The Chembe Bird Sanctuary contains over 300 listed birds.",
-                    "translation": "Khu bảo tồn chim Chembe chứa hơn 300 loài chim được liệt kê."
+                    "sentence": "We’ve been involved in recently in the area around the Chembe Bird Sanctuary.",
+                    "translation": "Gần đây chúng tôi đã tham gia vào khu vực xung quanh Khu bảo tồn chim Chembe."
                 }
             ],
             "level": "seed"
         },
         {
-            "word": "predatory",
-            "phonetic": "/ˈpredətri/",
-            "partOfSpeech": "Adjective",
-            "cefrLevel": "C1",
-            "meaning": "Relating to or denoting an animal or animals preying naturally on others.",
-            "translation": "Săn mồi",
-            "concept": "Động vật ăn thịt loài khác.",
-            "register": "Scientific",
-            "grammar_note": "Predatory birds/habits.",
+            "word": "predator",
+            "phonetic": "/ˈpredətər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An animal that naturally preys on others.",
+            "translation": "Thú săn mồi",
+            "concept": "Động vật ăn thịt động vật khác.",
+            "register": "Scientific / General",
+            "grammar_note": "Top predator.",
             "synonyms": [
-                "hunting",
-                "carnivorous"
+                "hunter",
+                "carnivore"
             ],
             "collocations": [
-                "predatory habits",
-                "predatory birds"
+                "natural predator",
+                "top predator",
+                "apex predator"
             ],
             "contexts": [
                 {
-                    "sentence": "The predatory habits of these birds protect farmers from rodents.",
-                    "translation": "Thói quen săn mồi của những loài chim này bảo vệ nông dân khỏi loài gặm nhấm."
+                    "sentence": "Some people believe that to prevent the predators from settling near the area.",
+                    "translation": "Một số người tin rằng để ngăn chặn những kẻ săn mồi định cư gần khu vực."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rodent",
+            "phonetic": "/ˈrəʊdənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A gnawing mammal of an order that includes rats, mice, squirrels, hamsters, porcupines, and their relatives.",
+            "translation": "Loài gặm nhấm",
+            "concept": "Chuột, sóc...",
+            "register": "Scientific",
+            "grammar_note": "Rodent control.",
+            "synonyms": [],
+            "collocations": [
+                "rodent infestation",
+                "small rodent"
+            ],
+            "contexts": [
+                {
+                    "sentence": "For example, a lot of damage can be caused to farmers’ crops by rodents, such as rats.",
+                    "translation": "Ví dụ, rất nhiều thiệt hại có thể gây ra cho mùa màng của nông dân bởi các loài gặm nhấm, như chuột."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiːkəʊˌsɪstəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "translation": "Hệ sinh thái",
+            "concept": "Môi trường sống và các sinh vật liên quan.",
+            "register": "Scientific / Environmental",
+            "grammar_note": "Fragile ecosystem.",
+            "synonyms": [],
+            "collocations": [
+                "marine ecosystem",
+                "fragile ecosystem",
+                "balance of the ecosystem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Or they may poison the birds, which again is illegal and can have negative effects on the ecosystem.",
+                    "translation": "Hoặc họ có thể đầu độc chim, điều này cũng là bất hợp pháp và có thể gây tác động tiêu cực đến hệ sinh thái."
                 }
             ],
             "level": "seed"
@@ -237,21 +454,559 @@
             "cefrLevel": "C2",
             "meaning": "Having the opposite of the desired effect.",
             "translation": "Phản tác dụng",
-            "concept": "Làm hỏng mục đích ban đầu.",
+            "concept": "Làm hỏng việc thay vì giúp ích.",
             "register": "Formal",
-            "grammar_note": "N/A",
+            "grammar_note": "Be counterproductive.",
             "synonyms": [
                 "harmful",
-                "damaging"
+                "detrimental"
             ],
             "collocations": [
                 "prove counterproductive",
-                "be counterproductive"
+                "highly counterproductive"
             ],
             "contexts": [
                 {
-                    "sentence": "Removing vegetation is counterproductive as it means chickens have no cover to hide.",
-                    "translation": "Loại bỏ thảm thực vật là phản tác dụng vì nó có nghĩa là gà không còn nơi trú ẩn."
+                    "sentence": "But in fact, this is counterproductive, as it means the chickens have no cover to hide in.",
+                    "translation": "Nhưng thực tế, điều này phản tác dụng, vì nó có nghĩa là gà không có chỗ ẩn nấp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vulnerable",
+            "phonetic": "/ˈvʌlnərəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Susceptible to physical or emotional attack or harm.",
+            "translation": "Dễ bị tổn thương / Dễ bị tấn công",
+            "concept": "Yếu đuối, không tự vệ được.",
+            "register": "General",
+            "grammar_note": "Vulnerable to attack.",
+            "synonyms": [
+                "exposed",
+                "defenseless",
+                "susceptible"
+            ],
+            "collocations": [
+                "highly vulnerable",
+                "vulnerable groups",
+                "vulnerable species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "During the breeding season, when the chickens were particularly vulnerable.",
+                    "translation": "Trong mùa sinh sản, khi gà đặc biệt dễ bị tấn công."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conflict",
+            "phonetic": "/ˈkɒnflɪkt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A serious disagreement or argument, typically a protracted one.",
+            "translation": "Sự xung đột",
+            "concept": "Mâu thuẫn, tranh chấp.",
+            "register": "General",
+            "grammar_note": "Conflict between...",
+            "synonyms": [
+                "dispute",
+                "clash",
+                "strife"
+            ],
+            "collocations": [
+                "resolve a conflict",
+                "conflict of interest",
+                "armed conflict"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We’ve been looking at different types of conflicts that may arise between wildlife and humans.",
+                    "translation": "Chúng tôi đang xem xét các loại xung đột khác nhau có thể nảy sinh giữa động vật hoang dã và con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "boundary",
+            "phonetic": "/ˈbaʊndəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A line that marks the limits of an area; a dividing line.",
+            "translation": "Ranh giới / Biên giới",
+            "concept": "Đường phân chia hai khu vực.",
+            "register": "General",
+            "grammar_note": "Mark the boundary.",
+            "synonyms": [
+                "border",
+                "frontier",
+                "limit"
+            ],
+            "collocations": [
+                "national boundary",
+                "mark a boundary",
+                "push the boundaries"
+            ],
+            "contexts": [
+                {
+                    "sentence": "At the boundaries of protected areas, such as national parks.",
+                    "translation": "Tại ranh giới của các khu bảo tồn, như công viên quốc gia."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revenue",
+            "phonetic": "/ˈrevənjuː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Income, especially when of a company or organization and of a substantial nature.",
+            "translation": "Doanh thu / Thu nhập",
+            "concept": "Tiền thu được từ kinh doanh hoặc thuế.",
+            "register": "Business / Formal",
+            "grammar_note": "Generate revenue.",
+            "synonyms": [
+                "income",
+                "earnings",
+                "profits"
+            ],
+            "collocations": [
+                "generate revenue",
+                "tax revenue",
+                "annual revenue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tourism has become an important source of revenue for them.",
+                    "translation": "Du lịch đã trở thành một nguồn thu nhập quan trọng đối với họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fatality",
+            "phonetic": "/fəˈtæləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An occurrence of death by accident, in war, or from disease.",
+            "translation": "Ca tử vong / Tai nạn chết người",
+            "concept": "Cái chết do tai nạn.",
+            "register": "Formal / Journalism",
+            "grammar_note": "Cause fatalities.",
+            "synonyms": [
+                "death",
+                "casualty",
+                "loss"
+            ],
+            "collocations": [
+                "road fatalities",
+                "high fatality rate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fatalities occur when birds alight on roads to catch and eat their prey.",
+                    "translation": "Các trường hợp tử vong xảy ra khi chim đậu xuống đường để bắt và ăn con mồi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "electrocute",
+            "phonetic": "/ɪˈlektrəkjuːt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Injure or kill someone by electric shock.",
+            "translation": "Làm bị điện giật (chết/thương)",
+            "concept": "Bị giật điện.",
+            "register": "General",
+            "grammar_note": "Be electrocuted.",
+            "synonyms": [],
+            "collocations": [
+                "risk of being electrocuted",
+                "accidentally electrocuted"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Accidental deaths may also occur if these birds fly close to high power lines as they may be electrocuted.",
+                    "translation": "Cái chết do tai nạn cũng có thể xảy ra nếu những con chim này bay gần đường dây điện cao thế vì chúng có thể bị điện giật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vegetation",
+            "phonetic": "/ˌvedʒɪˈteɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Plants considered collectively, especially those found in a particular area or habitat.",
+            "translation": "Thảm thực vật / Cây cối",
+            "concept": "Cây cỏ mọc ở một vùng.",
+            "register": "Scientific / Academic",
+            "grammar_note": "Dense vegetation.",
+            "synonyms": [
+                "flora",
+                "plants",
+                "greenery"
+            ],
+            "collocations": [
+                "dense vegetation",
+                "lush vegetation",
+                "clearing vegetation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s best to keep this area free from vegetation.",
+                    "translation": "Tốt nhất là giữ cho khu vực này sạch cỏ cây."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "breeding",
+            "phonetic": "/ˈbriːdɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The mating and production of offspring by animals.",
+            "translation": "Sự sinh sản / Nhân giống",
+            "concept": "Động vật đẻ con.",
+            "register": "Scientific / Agricultural",
+            "grammar_note": "Breeding season.",
+            "synonyms": [
+                "reproduction"
+            ],
+            "collocations": [
+                "breeding season",
+                "captive breeding",
+                "breeding ground"
+            ],
+            "contexts": [
+                {
+                    "sentence": "During the breeding season, when the chickens were particularly vulnerable.",
+                    "translation": "Trong mùa sinh sản, khi gà đặc biệt dễ bị tấn công."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "seize",
+            "phonetic": "/siːz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Take hold of suddenly and forcibly.",
+            "translation": "Vồ lấy / Chộp lấy",
+            "concept": "Bắt lấy nhanh và mạnh.",
+            "register": "General",
+            "grammar_note": "Seize the opportunity/prey.",
+            "synonyms": [
+                "grab",
+                "snatch",
+                "grasp"
+            ],
+            "collocations": [
+                "seize the chance",
+                "seize power",
+                "seize prey"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Birds that were trying to seize the young chicks.",
+                    "translation": "Những con chim đang cố gắng vồ lấy gà con."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "budget",
+            "phonetic": "/ˈbʌdʒɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "An estimate of income and expenditure for a set period of time.",
+            "translation": "Ngân sách",
+            "concept": "Số tiền dự tính để tiêu.",
+            "register": "General / Business",
+            "grammar_note": "On a budget.",
+            "synonyms": [
+                "funds",
+                "financial plan"
+            ],
+            "collocations": [
+                "tight budget",
+                "on a budget",
+                "budget cut"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I think they’re on quite a tight budget.",
+                    "translation": "Tôi nghĩ họ có ngân sách khá eo hẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exhibition",
+            "phonetic": "/ˌeksɪˈbɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A public display of works of art or items of interest, held in an art gallery or museum or at a trade fair.",
+            "translation": "Triển lãm",
+            "concept": "Trưng bày công khai.",
+            "register": "General",
+            "grammar_note": "Hold an exhibition.",
+            "synonyms": [
+                "display",
+                "show",
+                "presentation"
+            ],
+            "collocations": [
+                "art exhibition",
+                "museum exhibition",
+                "visit an exhibition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I took my kids to the exhibition on old computers there.",
+                    "translation": "Tôi đã đưa các con tôi đến triển lãm về máy tính cũ ở đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commercial",
+            "phonetic": "/kəˈmɜːʃəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Concerned with or engaged in commerce.",
+            "translation": "Thương mại",
+            "concept": "Liên quan đến buôn bán, kiếm lời.",
+            "register": "General / Business",
+            "grammar_note": "Commercial purpose.",
+            "synonyms": [
+                "business",
+                "trade",
+                "mercantile"
+            ],
+            "collocations": [
+                "commercial success",
+                "commercial break",
+                "commercial value"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Earn significant sums of money from both playing and commercial activities.",
+                    "translation": "Kiếm được số tiền đáng kể từ cả việc chơi bóng và các hoạt động thương mại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "whistle",
+            "phonetic": "/ˈwɪsəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A clear, high-pitched sound made by forcing breath through a small hole between partly closed lips, or through a device.",
+            "translation": "Còi (trọng tài)",
+            "concept": "Dụng cụ thổi ra tiếng rít.",
+            "register": "General",
+            "grammar_note": "Blow the whistle.",
+            "synonyms": [],
+            "collocations": [
+                "blow the whistle",
+                "referee's whistle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "In addition, referees started using whistles.",
+                    "translation": "Ngoài ra, các trọng tài bắt đầu sử dụng còi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pitch",
+            "phonetic": "/pɪtʃ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A playing area for certain sports, especially cricket or football.",
+            "translation": "Sân cỏ (bóng đá)",
+            "concept": "Sân thi đấu.",
+            "register": "Sports",
+            "grammar_note": "Football pitch.",
+            "synonyms": [
+                "field",
+                "ground"
+            ],
+            "collocations": [
+                "football pitch",
+                "on the pitch"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s very hot and sunny out on the pitch today.",
+                    "translation": "Hôm nay trời rất nóng và nắng trên sân cỏ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "penalty",
+            "phonetic": "/ˈpenəlti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A punishment imposed for breaking a law, rule, or contract.",
+            "translation": "Quả phạt đền / Hình phạt",
+            "concept": "Phạt trong thể thao hoặc luật pháp.",
+            "register": "General / Sports / Law",
+            "grammar_note": "Penalty kick.",
+            "synonyms": [
+                "punishment",
+                "fine",
+                "sanction"
+            ],
+            "collocations": [
+                "penalty kick",
+                "death penalty",
+                "pay a penalty"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You can take pictures of your child shooting a penalty.",
+                    "translation": "Bạn có thể chụp ảnh con mình đang sút phạt đền."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "queue",
+            "phonetic": "/kjuː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A line or sequence of people or vehicles awaiting their turn to be attended to or to proceed.",
+            "translation": "Hàng đợi",
+            "concept": "Xếp hàng.",
+            "register": "General (British)",
+            "grammar_note": "Join the queue.",
+            "synonyms": [
+                "line"
+            ],
+            "collocations": [
+                "join the queue",
+                "jump the queue",
+                "long queue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Hopefully the queue won’t be too long.",
+                    "translation": "Hy vọng hàng đợi sẽ không quá dài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "wander",
+            "phonetic": "/ˈwɒndər/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Walk or move in a leisurely, casual, or aimless way.",
+            "translation": "Đi lang thang",
+            "concept": "Đi không mục đích.",
+            "register": "General",
+            "grammar_note": "Wander off.",
+            "synonyms": [
+                "stroll",
+                "roam",
+                "ramble"
+            ],
+            "collocations": [
+                "wander off",
+                "wander around"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Please don’t let your children wander off on their own.",
+                    "translation": "Làm ơn đừng để con bạn tự ý đi lang thang."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "port",
+            "phonetic": "/pɔːt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A town or city with a harbor where ships load or unload, especially one where customs officers are stationed.",
+            "translation": "Cảng",
+            "concept": "Bến cảng tàu bè.",
+            "register": "General",
+            "grammar_note": "In port.",
+            "synonyms": [
+                "harbor",
+                "dock"
+            ],
+            "collocations": [
+                "busy port",
+                "fishing port",
+                "leave port"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You’ll be able to look right down on the port.",
+                    "translation": "Bạn sẽ có thể nhìn thẳng xuống cảng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fort",
+            "phonetic": "/fɔːt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A fortified building or strategic position.",
+            "translation": "Pháo đài",
+            "concept": "Công trình quân sự kiên cố.",
+            "register": "General / Military",
+            "grammar_note": "Build a fort.",
+            "synonyms": [
+                "fortress",
+                "stronghold",
+                "citadel"
+            ],
+            "collocations": [
+                "ancient fort",
+                "build a fort"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One thing you could do is visit the old fort.",
+                    "translation": "Một điều bạn có thể làm là ghé thăm pháo đài cổ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "central",
+            "phonetic": "/ˈsentrəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "In the middle of something.",
+            "translation": "Ở trung tâm",
+            "concept": "Vị trí chính giữa, thuận tiện.",
+            "register": "General",
+            "grammar_note": "Central location.",
+            "synonyms": [
+                "middle",
+                "focal"
+            ],
+            "collocations": [
+                "central location",
+                "central heating",
+                "central part"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s about a five minutes walk from Murray Station, so nice and central.",
+                    "translation": "Nó cách ga Murray khoảng năm phút đi bộ, vì vậy rất đẹp và ở trung tâm."
                 }
             ],
             "level": "seed"

@@ -1,34 +1,520 @@
 {
     "id": "cambridge_20_reading_test_3",
     "title": "Cam 20 - Reading Test 3",
-    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Reading Test 3. (Đang cập nhật)",
-    "wordCount": 1,
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Reading Test 3, bao gồm các bài đọc: Frozen Food, Coral Reefs, và Robots and Us.",
+    "wordCount": 35,
     "category": "Reading",
-    "color": "from-orange-500 to-red-600",
+    "color": "from-red-500 to-orange-600",
     "isPro": true,
     "words": [
         {
-            "word": "hypothesis",
-            "phonetic": "/haɪˈpɒθəsɪs/",
+            "word": "preservation",
+            "phonetic": "/ˌprezəˈveɪʃn/",
             "partOfSpeech": "Noun",
             "cefrLevel": "B2",
-            "meaning": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
-            "translation": "Giả thuyết",
-            "concept": "Một ý tưởng chưa được chứng minh.",
-            "register": "Academic",
-            "grammar_note": "Plural: hypotheses.",
+            "meaning": "The action of preserving something.",
+            "translation": "Sự bảo quản",
+            "concept": "Giữ cho thức ăn không hỏng.",
+            "register": "General",
             "synonyms": [
-                "theory",
-                "premise"
+                "conservation",
+                "protection"
             ],
             "collocations": [
-                "test a hypothesis",
-                "formulate a hypothesis"
+                "food preservation",
+                "preservation techniques"
             ],
             "contexts": [
                 {
-                    "sentence": "The results of the experiment supported the initial hypothesis.",
-                    "translation": "Kết quả thí nghiệm ủng hộ giả thuyết ban đầu."
+                    "sentence": "For the purpose of food preservation.",
+                    "translation": "Vì mục đích bảo quản thực phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "indigenous",
+            "phonetic": "/ɪnˈdɪdʒənəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Originating or occurring naturally in a particular place; native.",
+            "translation": "Bản địa",
+            "concept": "Dân gốc ở một vùng.",
+            "register": "Academic",
+            "synonyms": [
+                "native",
+                "aboriginal"
+            ],
+            "collocations": [
+                "indigenous people",
+                "indigenous population"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The modern frozen food industry began with the indigenous Inuit people of Canada.",
+                    "translation": "Ngành công nghiệp thực phẩm đông lạnh hiện đại bắt đầu với người Inuit bản địa của Canada."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "palatable",
+            "phonetic": "/ˈpælətəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(of food or drink) pleasant to taste.",
+            "translation": "Ngon miệng / Dễ ăn",
+            "concept": "Ăn được, vị ổn.",
+            "register": "Formal",
+            "synonyms": [
+                "tasty",
+                "appetizing"
+            ],
+            "collocations": [
+                "highly palatable",
+                "make it palatable"
+            ],
+            "contexts": [
+                {
+                    "sentence": "While the food frozen this way was still palatable, there was some deterioration.",
+                    "translation": "Mặc dù thực phẩm đông lạnh theo cách này vẫn ăn được, nhưng đã có một số hư hỏng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deterioration",
+            "phonetic": "/dɪˌtɪəriəˈreɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The process of becoming progressively worse.",
+            "translation": "Sự hư hỏng / Sự xuống cấp",
+            "concept": "Chất lượng giảm đi.",
+            "register": "Formal",
+            "synonyms": [
+                "decline",
+                "degradation"
+            ],
+            "collocations": [
+                "rapid deterioration",
+                "signs of deterioration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There was some deterioration.",
+                    "translation": "Đã có một số hư hỏng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "methodically",
+            "phonetic": "/məˈθɒdɪkli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C1",
+            "meaning": "In an orderly or systematic manner.",
+            "translation": "Một cách có phương pháp",
+            "concept": "Làm việc ngăn nắp, bài bản.",
+            "register": "General",
+            "synonyms": [
+                "systematically",
+                "carefully"
+            ],
+            "collocations": [
+                "work methodically",
+                "go through methodically"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Birdseye methodically kept inventing better freezers.",
+                    "translation": "Birdseye vẫn tiếp tục phát minh ra các tủ đông tốt hơn một cách có phương pháp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovate",
+            "phonetic": "/ˈɪnəveɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Make changes in something established, especially by introducing new methods, ideas, or products.",
+            "translation": "Đổi mới / Sáng tạo",
+            "concept": "Tạo ra cái mới.",
+            "register": "Business",
+            "synonyms": [
+                "invent",
+                "pioneer"
+            ],
+            "collocations": [
+                "innovate constantly",
+                "ability to innovate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "His division continued to innovate.",
+                    "translation": "Bộ phận của ông tiếp tục đổi mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "transparent",
+            "phonetic": "/trænsˈpærənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "(of a material or article) allowing light to pass through so that objects behind can be distinctly seen.",
+            "translation": "Trong suốt",
+            "concept": "Nhìn xuyên qua được.",
+            "register": "General",
+            "synonyms": [
+                "clear",
+                "see-through"
+            ],
+            "collocations": [
+                "transparent material",
+                "transparent glass"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The first transparent material for food packaging.",
+                    "translation": "Vật liệu trong suốt đầu tiên dùng để đóng gói thực phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "obstacle",
+            "phonetic": "/ˈɒbstəkl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A thing that blocks one's way or prevents or hinders progress.",
+            "translation": "Chướng ngại vật / Trở ngại",
+            "concept": "Cái gây khó khăn.",
+            "register": "General",
+            "synonyms": [
+                "hurdle",
+                "barrier"
+            ],
+            "collocations": [
+                "overcome an obstacle",
+                "major obstacle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "But there were still obstacles.",
+                    "translation": "Nhưng vẫn còn những trở ngại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "spectacular",
+            "phonetic": "/spekˈtækjələ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Beautiful in a dramatic and eye-catching way.",
+            "translation": "Ngoạn mục / Hùng vĩ",
+            "concept": "Rất đẹp, ấn tượng.",
+            "register": "General",
+            "synonyms": [
+                "breathtaking",
+                "stunning"
+            ],
+            "collocations": [
+                "spectacular view",
+                "spectacular scenery"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Samples of the planet’s most spectacular corals.",
+                    "translation": "Các mẫu san hô ngoạn mục nhất hành tinh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "invertebrate",
+            "phonetic": "/ɪnˈvɜːtɪbrət/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An animal lacking a backbone.",
+            "translation": "Động vật không xương sống",
+            "concept": "Động vật mềm như sứa, san hô.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "marine invertebrate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tiny Giants, which is dedicated to the minuscule invertebrate creatures.",
+                    "translation": "Tiny Giants, nơi dành riêng cho những sinh vật không xương sống nhỏ bé."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "symbiotic",
+            "phonetic": "/ˌsɪmbaɪˈɒtɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Involving interaction between two different organisms living in close physical association.",
+            "translation": "Cộng sinh",
+            "concept": "Hai loài cùng sống và giúp nhau.",
+            "register": "Scientific",
+            "synonyms": [
+                "interdependent"
+            ],
+            "collocations": [
+                "symbiotic relationship"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This comfortable symbiotic relationship has led to the growth of coral reefs.",
+                    "translation": "Mối quan hệ cộng sinh thoải mái này đã dẫn đến sự phát triển của các rạn san hô."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bleaching",
+            "phonetic": "/ˈbliːtʃɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The process of becoming white or pale, typically as a result of chemical treatment or exposure to sunlight.",
+            "translation": "Sự tẩy trắng / Bạc màu (san hô)",
+            "concept": "San hô chết và chuyển sang màu trắng.",
+            "register": "Scientific",
+            "synonyms": [
+                "whitening"
+            ],
+            "collocations": [
+                "coral bleaching",
+                "bleaching event"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Rising ocean temperatures are triggering bleaching events.",
+                    "translation": "Nhiệt độ đại dương tăng đang kích hoạt các sự kiện tẩy trắng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "acidification",
+            "phonetic": "/əˌsɪdɪfɪˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The action or process of making or becoming acidic.",
+            "translation": "Sự axit hóa",
+            "concept": "Nước biển trở nên nhiều axit hơn.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "ocean acidification"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Other menaces include ocean acidification.",
+                    "translation": "Các mối đe dọa khác bao gồm sự axit hóa đại dương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪliəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The capacity to recover quickly from difficulties; toughness.",
+            "translation": "Khả năng phục hồi / Sự kiên cường",
+            "concept": "Sức chịu đựng dẻo dai.",
+            "register": "General",
+            "synonyms": [
+                "toughness",
+                "hardiness"
+            ],
+            "collocations": [
+                "build resilience",
+                "climate resilience"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Scientists are trying to pinpoint hardy types of coral.",
+                    "translation": "Các nhà khoa học đang cố gắng xác định các loại san hô cứng cáp (có khả năng phục hồi)."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "colonise",
+            "phonetic": "/ˈkɒlənaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Send a group of settlers to (a place) and establish political control over it.",
+            "translation": "Thuộc địa hóa / Định cư",
+            "concept": "Chiếm vùng đất mới để sống.",
+            "register": "Formal",
+            "synonyms": [
+                "settle",
+                "occupy"
+            ],
+            "collocations": [
+                "colonise Mars",
+                "colonise planets"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Should robots be used to colonise other planets?",
+                    "translation": "Liệu robot có nên được sử dụng để thuộc địa hóa các hành tinh khác không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "benign",
+            "phonetic": "/bɪˈnaɪn/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Gentle; kindly; (of a disease) not harmful in effect.",
+            "translation": "Lành tính / Ôn hòa",
+            "concept": "Không gây hại.",
+            "register": "Formal",
+            "synonyms": [
+                "harmless",
+                "gentle"
+            ],
+            "collocations": [
+                "benign tumor",
+                "benign intention"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I think this is more realistic and benign.",
+                    "translation": "Tôi nghĩ điều này thực tế và lành tính hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adeptly",
+            "phonetic": "/əˈdeptli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C2",
+            "meaning": "In a way that shows skill and ability.",
+            "translation": "Một cách lão luyện / Khéo léo",
+            "concept": "Làm gì đó rất giỏi.",
+            "register": "Formal",
+            "synonyms": [
+                "skillfully",
+                "expertly"
+            ],
+            "collocations": [
+                "perform adeptly",
+                "handle adeptly"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Their more advanced successors may relate to their surroundings as adeptly as we do.",
+                    "translation": "Những người kế nhiệm tiên tiến hơn của chúng có thể liên hệ với môi trường xung quanh một cách khéo léo như chúng ta."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "intrinsic",
+            "phonetic": "/ɪnˈtrɪnzɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Belonging naturally; essential.",
+            "translation": "Bản chất / Bên trong",
+            "concept": "Thuộc về bản chất tự nhiên.",
+            "register": "Formal",
+            "synonyms": [
+                "inherent",
+                "innate"
+            ],
+            "collocations": [
+                "intrinsic value",
+                "intrinsic nature"
+            ],
+            "contexts": [
+                {
+                    "sentence": "More to do with human nature than anything intrinsic to the machines themselves.",
+                    "translation": "Liên quan nhiều đến bản chất con người hơn là bất cứ điều gì thuộc về bản chất của chính máy móc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "personify",
+            "phonetic": "/pəˈsɒnɪfaɪ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Attribute a personal nature or human characteristics to (something nonhuman).",
+            "translation": "Nhân cách hóa",
+            "concept": "Coi vật như người.",
+            "register": "Literary",
+            "synonyms": [
+                "humanize"
+            ],
+            "collocations": [
+                "personify nature",
+                "personify evil"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It stems from humans’ tendency to personify inanimate objects.",
+                    "translation": "Nó bắt nguồn từ xu hướng nhân cách hóa các vật vô tri của con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "/ɔːˈtɒnəməs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of a country or region) having the freedom to govern itself or control its own affairs.",
+            "translation": "Tự chủ / Tự trị",
+            "concept": "Tự hoạt động không cần điều khiển.",
+            "register": "Formal",
+            "synonyms": [
+                "independent",
+                "self-governing"
+            ],
+            "collocations": [
+                "autonomous vehicle",
+                "autonomous robot"
+            ],
+            "contexts": [
+                {
+                    "sentence": "See them as an autonomous threat.",
+                    "translation": "Coi chúng như một mối đe dọa tự chủ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dystopian",
+            "phonetic": "/dɪsˈtəʊpiən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to or denoting an imagined state or society where there is great suffering or injustice.",
+            "translation": "Phản địa đàng / Bi thảm",
+            "concept": "Xã hội tương lai đen tối (ngược với Utopia).",
+            "register": "Literary",
+            "synonyms": [
+                "nightmarish"
+            ],
+            "collocations": [
+                "dystopian future",
+                "dystopian society"
+            ],
+            "contexts": [
+                {
+                    "sentence": "From cute and helpful robots to dystopian robotic societies.",
+                    "translation": "Từ những robot dễ thương và hữu ích đến những xã hội robot bi thảm."
                 }
             ],
             "level": "seed"

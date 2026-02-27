@@ -45,8 +45,5 @@ print(f"\nSamples: {len(samples)} | Errors: {errs}")
 print(f"Vocab: {dict(sorted(vd.items()))}")
 print(f"Grammar: {dict(sorted(gd.items()))}")
 print(f"Unique Qs: {len(qs)}/{len(samples)}")
-if lengths:
-    print(f"Words: min={min(lengths)} max={max(lengths)} avg={sum(lengths)//len(lengths)}")
-else:
-    print(f"Words: min=0 max=0 avg=0")
+print(f"Words: min={min(lengths)} max={max(lengths)} avg={sum(lengths)//len(lengths)}")
 print(f"\n{'PASS' if errs == 0 else 'FAIL - FIX ERRORS ABOVE'}")

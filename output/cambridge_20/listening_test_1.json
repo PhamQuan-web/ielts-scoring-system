@@ -1,0 +1,273 @@
+{
+    "id": "cambridge_20_listening_test_1",
+    "title": "Cam 20 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 1, chủ đề nhà hàng, gốm sứ và sự cô đơn.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-purple-500 to-indigo-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "atmosphere",
+            "phonetic": "/ˈætməsfɪər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The prevailing tone or mood of a place, situation, or work of art.",
+            "translation": "Không khí, bầu không khí",
+            "concept": "Cảm giác chung của một nơi chốn (nhà hàng, sự kiện).",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": [
+                "ambiance",
+                "mood",
+                "vibe"
+            ],
+            "collocations": [
+                "lively atmosphere",
+                "relaxed atmosphere"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The restaurant has a great atmosphere for a special occasion.",
+                    "translation": "Nhà hàng có bầu không khí tuyệt vời cho một dịp đặc biệt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reputation",
+            "phonetic": "/ˌrepjuˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The beliefs or opinions that are generally held about someone or something.",
+            "translation": "Danh tiếng",
+            "concept": "Sự nổi tiếng, được nhiều người biết đến (tốt hoặc xấu).",
+            "register": "General",
+            "grammar_note": "Have a reputation for.",
+            "synonyms": [
+                "fame",
+                "prestige",
+                "standing"
+            ],
+            "collocations": [
+                "good reputation",
+                "build a reputation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's only been open a few months, but it's got a great reputation already.",
+                    "translation": "Nó mới mở được vài tháng nhưng đã có danh tiếng rất tốt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "kiln",
+            "phonetic": "/kɪln/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A furnace or oven for burning, baking, or drying, especially one for calcining lime or firing pottery.",
+            "translation": "Lò nung (gốm)",
+            "concept": "Thiết bị dùng để nung đất sét thành gốm.",
+            "register": "Technical / Arts",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "furnace",
+                "oven"
+            ],
+            "collocations": [
+                "fire in a kiln",
+                "electric kiln"
+            ],
+            "contexts": [
+                {
+                    "sentence": "To make pottery that will last, you need a kiln to fire it.",
+                    "translation": "Để làm đồ gốm bền, bạn cần một cái lò nung để nung nó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "arthritis",
+            "phonetic": "/ɑːˈθraɪtɪs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A disease causing painful inflammation and stiffness of the joints.",
+            "translation": "Viêm khớp",
+            "concept": "Bệnh lý về xương khớp thường gặp ở người già.",
+            "register": "Medical",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "joint inflammation"
+            ],
+            "collocations": [
+                "suffer from arthritis",
+                "arthritis pain"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pottery is good exercise for hands and helps with arthritis.",
+                    "translation": "Làm gốm là bài tập tốt cho tay và giúp giảm viêm khớp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "loneliness",
+            "phonetic": "/ˈləʊnlinəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Sadness because one has no friends or company.",
+            "translation": "Sự cô đơn",
+            "concept": "Cảm giác bị cô lập, thiếu kết nối xã hội.",
+            "register": "General / Psychology",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "isolation",
+                "solitude"
+            ],
+            "collocations": [
+                "combat loneliness",
+                "feelings of loneliness"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Loneliness has been increasing steadily for the last 20 years.",
+                    "translation": "Sự cô đơn đã gia tăng đều đặn trong 20 năm qua."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sewage",
+            "phonetic": "/ˈsuːɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Waste water and excrement conveyed in sewers.",
+            "translation": "Nước thải, chất thải",
+            "concept": "Chất thải lỏng từ sinh hoạt hoặc công nghiệp.",
+            "register": "Technical / Environmental",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "waste water",
+                "effluent"
+            ],
+            "collocations": [
+                "sewage treatment",
+                "raw sewage"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There was a huge increase in the amount of sewage discharged into the rivers.",
+                    "translation": "Có một sự gia tăng lớn về lượng nước thải xả ra sông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "disorientation",
+            "phonetic": "/dɪsˌɔːriənˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A state of mental confusion as to time, place, or identity.",
+            "translation": "Sự mất phương hướng",
+            "concept": "Trạng thái không biết mình đang ở đâu hoặc đi đâu.",
+            "register": "Medical / General",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "confusion"
+            ],
+            "collocations": [
+                "sense of disorientation",
+                "cause disorientation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The problem for the whale was disorientation rather than water quality.",
+                    "translation": "Vấn đề của con cá voi là mất phương hướng chứ không phải chất lượng nước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "astronomical",
+            "phonetic": "/ˌæstrəˈnɒmɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(Of an amount or price) extremely large.",
+            "translation": "Vô cùng lớn (giá cả, số lượng)",
+            "concept": "Dùng để nói quá lên về giá cả hoặc con số.",
+            "register": "General",
+            "grammar_note": "Astronomical prices/costs.",
+            "synonyms": [
+                "huge",
+                "enormous",
+                "colossal"
+            ],
+            "collocations": [
+                "astronomical prices",
+                "astronomical costs"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Apartments with river views are in great demand and sell for astronomical prices.",
+                    "translation": "Các căn hộ có tầm nhìn ra sông đang rất được săn đón và bán với giá cao ngất ngưởng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revitalise",
+            "phonetic": "/riːˈvaɪtəlaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To imbue something with new life and vitality.",
+            "translation": "Tái sinh, đem lại sức sống mới",
+            "concept": "Làm mới lại một khu vực, tổ chức hoặc con người.",
+            "register": "Formal / Business",
+            "grammar_note": "Transitive verb.",
+            "synonyms": [
+                "regenerate",
+                "rejuvenate",
+                "restore"
+            ],
+            "collocations": [
+                "revitalise the economy",
+                "revitalise the area"
+            ],
+            "contexts": [
+                {
+                    "sentence": "An architect has plans to revitalise the banks of the river.",
+                    "translation": "Một kiến trúc sư có kế hoạch tái sinh các bờ sông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "barge",
+            "phonetic": "/bɑːdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A long flat-bottomed boat for carrying freight on canals and rivers.",
+            "translation": "Sà lan",
+            "concept": "Thuyền đáy bằng dùng chở hàng trên sông/kênh.",
+            "register": "Transport",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "canal boat",
+                "lighter"
+            ],
+            "collocations": [
+                "freight barge",
+                "river barge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One freight barge can replace 44 large trucks.",
+                    "translation": "Một chiếc sà lan chở hàng có thể thay thế 44 xe tải lớn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

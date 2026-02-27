@@ -1,0 +1,266 @@
+{
+    "id": "cambridge_20_listening_test_2",
+    "title": "Cam 20 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 2, chủ đề hỗ trợ chăm sóc, tình nguyện và xu hướng thực phẩm.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-purple-500 to-indigo-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "eligible",
+            "phonetic": "/ˈelɪdʒəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Having the right to do or obtain something; satisfying the appropriate conditions.",
+            "translation": "Đủ điều kiện, đủ tư cách",
+            "concept": "Được phép nhận hoặc làm gì đó theo quy định.",
+            "register": "Formal / Administrative",
+            "grammar_note": "Eligible for sth / to do sth.",
+            "synonyms": [
+                "entitled",
+                "qualified"
+            ],
+            "collocations": [
+                "eligible for support",
+                "eligible to vote"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Once they've done this assessment, they'll tell you if you're eligible for financial support.",
+                    "translation": "Khi họ đánh giá xong, họ sẽ cho bạn biết liệu bạn có đủ điều kiện nhận hỗ trợ tài chính hay không."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "minimise",
+            "phonetic": "/ˈmɪnɪmaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Reduce (something, especially something unwanted or unpleasant) to the smallest possible amount or degree.",
+            "translation": "Giảm thiểu",
+            "concept": "Làm cho cái gì đó (thường là xấu) nhỏ nhất có thể.",
+            "register": "General / Academic",
+            "grammar_note": "Transitive.",
+            "synonyms": [
+                "reduce",
+                "decrease",
+                "lessen"
+            ],
+            "collocations": [
+                "minimise risk",
+                "minimise stress"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They may be able to give you some advice on how to minimise stress.",
+                    "translation": "Họ có thể cho bạn lời khuyên về cách giảm thiểu căng thẳng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "recommendation",
+            "phonetic": "/ˌrekəmenˈdeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A suggestion or proposal as to the best course of action, especially one put forward by an authoritative body.",
+            "translation": "Sự giới thiệu, đề xuất",
+            "concept": "Lời khuyên nên làm gì hoặc chọn gì.",
+            "register": "General",
+            "grammar_note": "Make a recommendation.",
+            "synonyms": [
+                "advice",
+                "suggestion"
+            ],
+            "collocations": [
+                "personal recommendation",
+                "make a recommendation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tourists might be grateful for recommendations about what to visit.",
+                    "translation": "Khách du lịch có thể biết ơn những lời giới thiệu về nơi nên tham quan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cholera",
+            "phonetic": "/ˈkɒlərə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An infectious and often fatal bacterial disease of the small intestine, typically contracted from infected water supplies.",
+            "translation": "Bệnh tả",
+            "concept": "Một loại bệnh truyền nhiễm nguy hiểm qua đường nước.",
+            "register": "Medical / Historical",
+            "grammar_note": "Uncountable.",
+            "synonyms": [],
+            "collocations": [
+                "cholera epidemic",
+                "cholera outbreak"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A physician used street plans to find the source of a cholera epidemic.",
+                    "translation": "Một bác sĩ đã sử dụng bản đồ đường phố để tìm ra nguồn gốc của dịch tả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "urbanisation",
+            "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The process of making an area more urban.",
+            "translation": "Đô thị hóa",
+            "concept": "Quá trình dân cư tập trung vào các thành phố.",
+            "register": "Academic / Geography",
+            "grammar_note": "Uncountable.",
+            "synonyms": [],
+            "collocations": [
+                "rapid urbanisation",
+                "urbanisation trends"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One of the possibilities we discussed is urbanisation and how populations live in cities.",
+                    "translation": "Một trong những khả năng chúng ta đã thảo luận là đô thị hóa và cách dân cư sống trong các thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "outskirts",
+            "phonetic": "/ˈaʊtskɜːts/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The outer parts of a town or city.",
+            "translation": "Vùng ngoại ô",
+            "concept": "Khu vực rìa thành phố.",
+            "register": "General",
+            "grammar_note": "Plural noun.",
+            "synonyms": [
+                "suburbs",
+                "fringes"
+            ],
+            "collocations": [
+                "on the outskirts",
+                "city outskirts"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They've opened some massive new shopping centres on the outskirts of my city.",
+                    "translation": "Họ đã mở một số trung tâm mua sắm khổng lồ mới ở vùng ngoại ô thành phố của tôi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pedestrianised",
+            "phonetic": "/pəˈdestriənaɪzd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(Of a street or area) made into a zone where vehicles are prohibited.",
+            "translation": "Dành cho người đi bộ (cấm xe)",
+            "concept": "Khu vực chỉ cho phép đi bộ.",
+            "register": "Urban Planning",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "car-free",
+                "traffic-free"
+            ],
+            "collocations": [
+                "pedestrianised zone",
+                "totally pedestrianised"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It was designed to be totally pedestrianised with transport underground.",
+                    "translation": "Nó được thiết kế để hoàn toàn dành cho người đi bộ với giao thông ngầm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪnəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be maintained at a certain rate or level.",
+            "translation": "Bền vững",
+            "concept": "Phát triển mà không làm hại môi trường tương lai.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Sustainable development.",
+            "synonyms": [
+                "viable",
+                "eco-friendly"
+            ],
+            "collocations": [
+                "sustainable farming",
+                "sustainably produced"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The public can be encouraged to buy things which are more sustainably produced.",
+                    "translation": "Công chúng có thể được khuyến khích mua những thứ được sản xuất bền vững hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "provocation",
+            "phonetic": "/ˌprɒvəˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Action or speech that makes someone annoyed or angry, especially deliberately.",
+            "translation": "Sự khiêu khích",
+            "concept": "Hành động gây chú ý bằng cách chọc tức hoặc gây tranh cãi.",
+            "register": "Formal",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": [
+                "incitement",
+                "goading"
+            ],
+            "collocations": [
+                "without provocation",
+                "deliberate provocation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They attracted attention with a campaign which used provocation to get their message across.",
+                    "translation": "Họ thu hút sự chú ý bằng một chiến dịch sử dụng sự khiêu khích để truyền tải thông điệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "staple",
+            "phonetic": "/ˈsteɪpl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A main or important element of something, especially of a diet.",
+            "translation": "Thực phẩm chủ yếu / Sản phẩm chính",
+            "concept": "Thứ được dùng thường xuyên và quan trọng.",
+            "register": "General",
+            "grammar_note": "Staple food/diet.",
+            "synonyms": [
+                "basic",
+                "essential"
+            ],
+            "collocations": [
+                "daily staple",
+                "staple diet"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The avocado was certainly not the daily staple it has since become.",
+                    "translation": "Bơ chắc chắn không phải là thực phẩm chủ yếu hàng ngày như bây giờ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

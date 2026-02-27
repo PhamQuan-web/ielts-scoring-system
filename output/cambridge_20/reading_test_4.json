@@ -1,0 +1,37 @@
+{
+    "id": "cambridge_20_reading_test_4",
+    "title": "Cam 20 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Reading Test 4. (Đang cập nhật)",
+    "wordCount": 1,
+    "category": "Reading",
+    "color": "from-orange-500 to-red-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "hypothesis",
+            "phonetic": "/haɪˈpɒθəsɪs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+            "translation": "Giả thuyết",
+            "concept": "Một ý tưởng chưa được chứng minh.",
+            "register": "Academic",
+            "grammar_note": "Plural: hypotheses.",
+            "synonyms": [
+                "theory",
+                "premise"
+            ],
+            "collocations": [
+                "test a hypothesis",
+                "formulate a hypothesis"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The results of the experiment supported the initial hypothesis.",
+                    "translation": "Kết quả thí nghiệm ủng hộ giả thuyết ban đầu."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

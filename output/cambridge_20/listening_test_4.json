@@ -1,0 +1,260 @@
+{
+    "id": "cambridge_20_listening_test_4",
+    "title": "Cam 20 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 4, chủ đề tham quan thành phố, lịch sử bóng đá và chữ viết tay.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-purple-500 to-indigo-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "fort",
+            "phonetic": "/fɔːt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A fortified building or strategic position.",
+            "translation": "Pháo đài",
+            "concept": "Công trình quân sự phòng thủ.",
+            "register": "General / Historical",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "fortress",
+                "stronghold"
+            ],
+            "collocations": [
+                "old fort",
+                "visit the fort"
+            ],
+            "contexts": [
+                {
+                    "sentence": "If the weather's nice, you could visit the old fort by boat.",
+                    "translation": "Nếu thời tiết đẹp, bạn có thể ghé thăm pháo đài cũ bằng thuyền."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "referee",
+            "phonetic": "/ˌrefəˈriː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "An official who watches a game or match closely to ensure that the rules are adhered to.",
+            "translation": "Trọng tài",
+            "concept": "Người điều khiển trận đấu thể thao.",
+            "register": "Sports",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "umpire",
+                "official"
+            ],
+            "collocations": [
+                "football referee",
+                "match referee"
+            ],
+            "contexts": [
+                {
+                    "sentence": "In 1874, referees were allowed to send players off if they committed certain offences.",
+                    "translation": "Năm 1874, trọng tài được phép đuổi cầu thủ nếu họ phạm lỗi nhất định."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "crossbar",
+            "phonetic": "/ˈkrɒsbɑːr/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A horizontal bar between the two upright posts of a goal.",
+            "translation": "Xà ngang (khung thành)",
+            "concept": "Thanh ngang trên khung thành bóng đá.",
+            "register": "Sports",
+            "grammar_note": "Countable.",
+            "synonyms": [],
+            "collocations": [
+                "hit the crossbar"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The tape was replaced with the solid crossbar that we're familiar with today.",
+                    "translation": "Dải băng đã được thay thế bằng thanh xà ngang vững chắc mà chúng ta quen thuộc ngày nay."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "spatial awareness",
+            "phonetic": "/ˌspeɪʃl əˈweənəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The ability to be aware of oneself in space.",
+            "translation": "Nhận thức không gian",
+            "concept": "Khả năng định vị bản thân và vật thể trong không gian (quan trọng khi viết tay).",
+            "register": "Scientific / Educational",
+            "grammar_note": "Uncountable.",
+            "synonyms": [],
+            "collocations": [
+                "develop spatial awareness",
+                "good spatial awareness"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Good spatial awareness is essential for writing because you have to space words correctly.",
+                    "translation": "Nhận thức không gian tốt là điều cần thiết để viết vì bạn phải cách các từ một cách chính xác."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dyspraxia",
+            "phonetic": "/dɪsˈpræksiə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A developmental disorder affecting physical coordination.",
+            "translation": "Chứng khó vận động",
+            "concept": "Rối loạn ảnh hưởng đến sự phối hợp cử động (viết, buộc dây giày).",
+            "register": "Medical / Educational",
+            "grammar_note": "Uncountable.",
+            "synonyms": [],
+            "collocations": [
+                "children with dyspraxia"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Handwriting is much harder for children with dyspraxia who have problems coordinating movement.",
+                    "translation": "Viết tay khó hơn nhiều đối với trẻ em mắc chứng khó vận động, những người gặp vấn đề về phối hợp cử động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "legibility",
+            "phonetic": "/ˌledʒəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The quality of being clear enough to read.",
+            "translation": "Tính dễ đọc (của chữ viết)",
+            "concept": "Chữ viết rõ ràng, đọc được.",
+            "register": "General",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "readability",
+                "clarity"
+            ],
+            "collocations": [
+                "improve legibility",
+                "poor legibility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Spacing letters correctly is important for legibility.",
+                    "translation": "Giãn cách các chữ cái chính xác là rất quan trọng để dễ đọc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cursive",
+            "phonetic": "/ˈkɜːsɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Written with the characters joined.",
+            "translation": "Chữ viết thảo (nối nét)",
+            "concept": "Kiểu viết liền mạch, các chữ cái nối nhau.",
+            "register": "Educational",
+            "grammar_note": "Cursive writing/handwriting.",
+            "synonyms": [
+                "joined-up"
+            ],
+            "collocations": [
+                "cursive handwriting",
+                "write in cursive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Cursive writing was considered more stylish, but it is harder to learn.",
+                    "translation": "Chữ viết thảo từng được coi là phong cách hơn, nhưng nó khó học hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sanctuary",
+            "phonetic": "/ˈsæŋktʃuəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A nature reserve.",
+            "translation": "Khu bảo tồn",
+            "concept": "Nơi động vật được bảo vệ.",
+            "register": "General / Environmental",
+            "grammar_note": "Bird sanctuary, wildlife sanctuary.",
+            "synonyms": [
+                "reserve",
+                "refuge",
+                "haven"
+            ],
+            "collocations": [
+                "bird sanctuary",
+                "wildlife sanctuary"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The Chembe Bird Sanctuary contains over 300 listed birds.",
+                    "translation": "Khu bảo tồn chim Chembe chứa hơn 300 loài chim được liệt kê."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "predatory",
+            "phonetic": "/ˈpredətri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to or denoting an animal or animals preying naturally on others.",
+            "translation": "Săn mồi",
+            "concept": "Động vật ăn thịt loài khác.",
+            "register": "Scientific",
+            "grammar_note": "Predatory birds/habits.",
+            "synonyms": [
+                "hunting",
+                "carnivorous"
+            ],
+            "collocations": [
+                "predatory habits",
+                "predatory birds"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The predatory habits of these birds protect farmers from rodents.",
+                    "translation": "Thói quen săn mồi của những loài chim này bảo vệ nông dân khỏi loài gặm nhấm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "counterproductive",
+            "phonetic": "/ˌkaʊntəprəˈdʌktɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Having the opposite of the desired effect.",
+            "translation": "Phản tác dụng",
+            "concept": "Làm hỏng mục đích ban đầu.",
+            "register": "Formal",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "harmful",
+                "damaging"
+            ],
+            "collocations": [
+                "prove counterproductive",
+                "be counterproductive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Removing vegetation is counterproductive as it means chickens have no cover to hide.",
+                    "translation": "Loại bỏ thảm thực vật là phản tác dụng vì nó có nghĩa là gà không còn nơi trú ẩn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "id": "cambridge_20_listening_test_3",
+    "title": "Cam 20 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 3, chủ đề thuê nội thất, khảo cổ học và thiết kế hòa nhập.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-purple-500 to-indigo-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "contract",
+            "phonetic": "/ˈkɒntrækt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A written or spoken agreement, especially one concerning employment, sales, or tenancy.",
+            "translation": "Hợp đồng",
+            "concept": "Thỏa thuận pháp lý.",
+            "register": "General / Business",
+            "grammar_note": "Sign a contract.",
+            "synonyms": [
+                "agreement",
+                "deal"
+            ],
+            "collocations": [
+                "temporary contract",
+                "permanent contract",
+                "sign a contract"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I need to rent furniture until I know if my temporary work contract is made permanent.",
+                    "translation": "Tôi cần thuê nội thất cho đến khi biết liệu hợp đồng làm việc tạm thời của mình có thành chính thức không."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excavate",
+            "phonetic": "/ˈekskəveɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To dig out material from the ground to find something from the past.",
+            "translation": "Khai quật",
+            "concept": "Đào bới để tìm di tích khảo cổ.",
+            "register": "Academic / Archaeology",
+            "grammar_note": "Transitive.",
+            "synonyms": [
+                "dig up",
+                "unearth"
+            ],
+            "collocations": [
+                "excavate a site",
+                "excavation area"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One area we excavated in the first summer uncovered the site of a meeting hall.",
+                    "translation": "Một khu vực chúng tôi khai quật vào mùa hè đầu tiên đã lộ ra địa điểm của một hội trường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "foundation",
+            "phonetic": "/faʊnˈdeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The lowest load-bearing part of a building, typically below ground level.",
+            "translation": "Nền móng (công trình)",
+            "concept": "Phần cơ bản nâng đỡ tòa nhà.",
+            "register": "Construction / General",
+            "grammar_note": "Lay the foundations.",
+            "synonyms": [
+                "base",
+                "footing"
+            ],
+            "collocations": [
+                "foundations of a bridge",
+                "lay the foundations"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This year, we've identified the foundations of an ancient bridge.",
+                    "translation": "Năm nay, chúng tôi đã xác định được nền móng của một cây cầu cổ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "playbill",
+            "phonetic": "/ˈpleɪbɪl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A poster announcing a theatrical performance OR a program for a play.",
+            "translation": "Ápphích quảng cáo kịch / Chương trình kịch",
+            "concept": "Tờ chương trình hoặc quảng cáo cho vở kịch (đặc biệt ở Mỹ).",
+            "register": "Arts / Theatre",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "theatre programme"
+            ],
+            "collocations": [
+                "old playbill"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I didn't know theatre programmes are called playbills in the USA.",
+                    "translation": "Tôi không biết rằng các chương trình rạp hát được gọi là playbills ở Mỹ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "riot",
+            "phonetic": "/ˈraɪət/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A violent disturbance of the peace by a crowd.",
+            "translation": "Cuộc bạo động, nổi loạn",
+            "concept": "Hành động bạo lực của đám đông.",
+            "register": "General",
+            "grammar_note": "Cause a riot.",
+            "synonyms": [
+                "uproar",
+                "disturbance"
+            ],
+            "collocations": [
+                "start a riot",
+                "riot police"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They would demand refunds and if they didn't get them, there were riots.",
+                    "translation": "Họ sẽ đòi hoàn tiền và nếu không được, sẽ có bạo loạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "illiterate",
+            "phonetic": "/ɪˈlɪtərət/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Unable to read or write.",
+            "translation": "Mù chữ",
+            "concept": "Không biết đọc viết.",
+            "register": "Formal",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "uneducated"
+            ],
+            "collocations": [
+                "functionally illiterate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Lots of ordinary people at that time were illiterate, so programmes were of limited value.",
+                    "translation": "Rất nhiều người dân thường thời đó mù chữ, nên các chương trình có giá trị hạn chế."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inclusive",
+            "phonetic": "/ɪnˈkluːsɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Not excluding any of the parties or groups involved in something.",
+            "translation": "Bao trùm, hòa nhập (dành cho mọi người)",
+            "concept": "Thiết kế hoặc chính sách không bỏ rơi ai (người khuyết tật, già...).",
+            "register": "Formal / Academic",
+            "grammar_note": "Inclusive design.",
+            "synonyms": [
+                "comprehensive",
+                "all-embracing"
+            ],
+            "collocations": [
+                "inclusive design",
+                "inclusive society"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Designers have become aware of the need to be inclusive when designing products.",
+                    "translation": "Các nhà thiết kế đã nhận thức được nhu cầu phải bao trùm khi thiết kế sản phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dexterity",
+            "phonetic": "/dekˈsterəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Skill in performing tasks, especially with the hands.",
+            "translation": "Sự khéo léo (của đôi tay)",
+            "concept": "Khả năng dùng tay linh hoạt.",
+            "register": "Formal",
+            "grammar_note": "Manual dexterity.",
+            "synonyms": [
+                "agility",
+                "deftness"
+            ],
+            "collocations": [
+                "manual dexterity",
+                "dexterity issues"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Taps with sensors are easier for people with dexterity or mobility issues.",
+                    "translation": "Vòi nước có cảm biến dễ dàng hơn cho những người có vấn đề về sự khéo léo hoặc khả năng di chuyển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "metabolic",
+            "phonetic": "/ˌmetəˈbɒlɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the metabolism of a living organism.",
+            "translation": "Thuộc về trao đổi chất",
+            "concept": "Liên quan đến quá trình chuyển hóa năng lượng.",
+            "register": "Scientific / Medical",
+            "grammar_note": "Metabolic rate.",
+            "synonyms": [],
+            "collocations": [
+                "metabolic rate",
+                "metabolic process"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This is due to differences in metabolic rates for men and women.",
+                    "translation": "Điều này là do sự khác biệt về tỷ lệ trao đổi chất giữa nam và nữ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dummy",
+            "phonetic": "/ˈdʌmi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A model or replica of a human being.",
+            "translation": "Ma-nơ-canh, hình nhân (thử nghiệm)",
+            "concept": "Vật mô phỏng người dùng để thử nghiệm an toàn xe.",
+            "register": "General",
+            "grammar_note": "Crash-test dummy.",
+            "synonyms": [
+                "mannequin",
+                "model"
+            ],
+            "collocations": [
+                "crash-test dummy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Most cars are still crash-tested using a dummy based on an average-sized male.",
+                    "translation": "Hầu hết các xe hơi vẫn được thử nghiệm va chạm sử dụng hình nhân dựa trên nam giới cỡ trung bình."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

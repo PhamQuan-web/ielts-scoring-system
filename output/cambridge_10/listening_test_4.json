@@ -1,0 +1,253 @@
+{
+    "id": "cambridge_10_listening_test_4",
+    "title": "Cam 10 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Listening Test 4, bao gồm các chủ đề về công ty xây dựng, cảng công nghiệp, công nghệ nano.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "appliance",
+            "phonetic": "/əˈplaɪəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A device or piece of equipment designed to perform a specific task.",
+            "translation": "Thiết bị",
+            "concept": "Máy móc trong nhà.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "device",
+                "gadget"
+            ],
+            "collocations": [
+                "domestic appliance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Design a new domestic kitchen appliance.",
+                    "translation": "Thiết kế một thiết bị nhà bếp gia dụng mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovative",
+            "phonetic": "/ˈɪnəveɪtɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Featuring new methods; advanced and original.",
+            "translation": "Đổi mới / Sáng tạo",
+            "concept": "Mới mẻ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "inventive",
+                "original"
+            ],
+            "collocations": [
+                "innovative approach"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We must adopt an innovative approach.",
+                    "translation": "Chúng ta phải áp dụng một cách tiếp cận đổi mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "existing",
+            "phonetic": "/ɪɡˈzɪstɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "In existence or operation at the time under consideration.",
+            "translation": "Hiện có",
+            "concept": "Đang có sẵn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "current",
+                "present"
+            ],
+            "collocations": [
+                "existing technology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Use existing technology in a new way.",
+                    "translation": "Sử dụng công nghệ hiện có theo một cách mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expansion",
+            "phonetic": "/ɪkˈspænʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of becoming larger.",
+            "translation": "Sự mở rộng",
+            "concept": "Phát triển to ra.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "growth"
+            ],
+            "collocations": [
+                "sudden expansion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What caused the port's sudden expansion?",
+                    "translation": "Điều gì đã gây ra sự mở rộng đột ngột của bến cảng?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "decline",
+            "phonetic": "/dɪˈklaɪn/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Become smaller, fewer, or less; decrease.",
+            "translation": "Suy tàn / Giảm sút",
+            "concept": "Kém đi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "decrease",
+                "deteriorate"
+            ],
+            "collocations": [
+                "port declined"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The port declined in the twentieth century.",
+                    "translation": "Bến cảng đã suy tàn vào thế kỷ 20."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exhibition",
+            "phonetic": "/ˌeksɪˈbɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A public display of items.",
+            "translation": "Triển lãm",
+            "concept": "Trưng bày.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "display"
+            ],
+            "collocations": [
+                "special exhibition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is a special exhibition.",
+                    "translation": "Có một cuộc triển lãm đặc biệt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nanotechnology",
+            "phonetic": "/ˌnænəʊtekˈnɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The branch of technology dealing with dimensions less than 100 nanometers.",
+            "translation": "Công nghệ nano",
+            "concept": "Công nghệ siêu nhỏ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "field of nanotechnology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The lecture is about nanotechnology.",
+                    "translation": "Bài giảng nói về công nghệ nano."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "particle",
+            "phonetic": "/ˈpɑːtɪkl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A minute portion of matter.",
+            "translation": "Hạt / Phần tử",
+            "concept": "Cái cực nhỏ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "speck",
+                "fragment"
+            ],
+            "collocations": [
+                "nano particle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It involves manipulating particles.",
+                    "translation": "Nó liên quan đến việc thao tác các hạt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "application",
+            "phonetic": "/ˌæplɪˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The practical use or relevance of something.",
+            "translation": "Ứng dụng",
+            "concept": "Đem vào thực tế.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "use",
+                "implementation"
+            ],
+            "collocations": [
+                "practical application"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What are the applications of this?",
+                    "translation": "Ứng dụng của điều này là gì?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "molecule",
+            "phonetic": "/ˈmɒlɪkjuːl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A group of atoms bonded together.",
+            "translation": "Phân tử",
+            "concept": "Nhóm nguyên tử.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "water molecule"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They work at the level of molecules.",
+                    "translation": "Họ làm việc ở cấp độ phân tử."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

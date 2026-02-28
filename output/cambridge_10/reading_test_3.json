@@ -1,0 +1,257 @@
+{
+    "id": "cambridge_10_reading_test_3",
+    "title": "Cam 10 - Reading Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Reading Test 3, bao gồm các chủ đề về lịch sử ngành du lịch.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "tourism",
+            "phonetic": "/ˈtʊərɪzəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "The commercial organization and operation of vacations and visits to places of interest.",
+            "translation": "Ngành du lịch",
+            "concept": "Việc đi chơi xa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "travel industry"
+            ],
+            "collocations": [
+                "mass tourism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tourism is a major industry.",
+                    "translation": "Du lịch là một ngành công nghiệp lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "traverse",
+            "phonetic": "/trəˈvɜːs/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Travel across or through.",
+            "translation": "Đi ngang qua",
+            "concept": "Băng qua.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "cross",
+                "navigate"
+            ],
+            "collocations": [
+                "traverse great distances"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Early man traversed great distances.",
+                    "translation": "Người nguyên thủy đã đi qua những khoảng cách rất lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conviction",
+            "phonetic": "/kənˈvɪkʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A firmly held belief or opinion.",
+            "translation": "Niềm tin",
+            "concept": "Sự tin tưởng mạnh mẽ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "belief",
+                "certainty"
+            ],
+            "collocations": [
+                "religious conviction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They travelled for religious conviction.",
+                    "translation": "Họ đi du lịch vì niềm tin tôn giáo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aristocrat",
+            "phonetic": "/ˈærɪstəkræt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A member of the aristocracy.",
+            "translation": "Nhà quý tộc",
+            "concept": "Người thuộc tầng lớp cao.",
+            "register": "Historical",
+            "grammar_note": "",
+            "synonyms": [
+                "noble"
+            ],
+            "collocations": [
+                "wealthy aristocrat"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Wealthy aristocrats travelled for pleasure.",
+                    "translation": "Những nhà quý tộc giàu có đi du lịch để giải trí."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "phenomenon",
+            "phonetic": "/fəˈnɒmɪnən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A fact or situation that is observed to exist or happen.",
+            "translation": "Hiện tượng",
+            "concept": "Sự việc đáng chú ý.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "occurrence"
+            ],
+            "collocations": [
+                "twentieth-century phenomenon"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Mass tourism is a modern phenomenon.",
+                    "translation": "Du lịch đại chúng là một hiện tượng hiện đại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "advent",
+            "phonetic": "/ˈædvent/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The arrival of a notable person, thing, or event.",
+            "translation": "Sự xuất hiện / Kỷ nguyên",
+            "concept": "Lúc bắt đầu.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "arrival",
+                "emergence"
+            ],
+            "collocations": [
+                "advent of mass tourism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The advent of the jet aircraft changed things.",
+                    "translation": "Sự ra đời của máy bay phản lực đã thay đổi mọi thứ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "subsequent",
+            "phonetic": "/ˈsʌbsɪkwənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Coming after something in time; following.",
+            "translation": "Tiếp theo / Xảy ra sau",
+            "concept": "Cái đến sau.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "following",
+                "successive"
+            ],
+            "collocations": [
+                "subsequent development"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The subsequent development led to rapid growth.",
+                    "translation": "Sự phát triển tiếp theo dẫn đến sự tăng trưởng nhanh chóng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expansion",
+            "phonetic": "/ɪkˈspænʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of becoming larger or more extensive.",
+            "translation": "Sự mở rộng",
+            "concept": "Làm to ra.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "growth",
+                "increase"
+            ],
+            "collocations": [
+                "expansion of international travel"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This signalled the expansion of travel.",
+                    "translation": "Điều này báo hiệu sự mở rộng của việc đi lại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "segment",
+            "phonetic": "/ˈseɡmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Each of the parts into which something is or may be divided.",
+            "translation": "Mảng / Phân khúc",
+            "concept": "Một phần nhỏ.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "part",
+                "section"
+            ],
+            "collocations": [
+                "market segment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a large segment of the service industry.",
+                    "translation": "Nó là một mảng lớn của ngành dịch vụ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commodity",
+            "phonetic": "/kəˈmɒdəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A raw material or primary agricultural product that can be bought and sold.",
+            "translation": "Hàng hóa",
+            "concept": "Món đồ bán ra tiền.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "goods"
+            ],
+            "collocations": [
+                "largest commodity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Tourism has become the largest commodity.",
+                    "translation": "Du lịch đã trở thành loại hàng hóa lớn nhất."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

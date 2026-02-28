@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_12_reading_test_3",
+    "title": "Cam 12 - Reading Test 3",
+    "description": "Từ vựng về rùa Galapagos, địa lý y tế.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "reintroduction",
+            "phonetic": "/ˌriːɪntrəˈdʌkʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of putting a species back into a former habitat.",
+            "translation": "Sự đưa trở lại tự nhiên",
+            "concept": "Thả về rừng.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "airborne reintroduction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The reintroduction program helped tortoises.",
+                    "translation": "Chương trình đưa rùa trở lại tự nhiên đã giúp ích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "endangered",
+            "phonetic": "/ɪnˈdeɪndʒəd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Seriously at risk of extinction.",
+            "translation": "Bị đe dọa tuyệt chủng",
+            "concept": "Sắp tuyệt chủng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "threatened"
+            ],
+            "collocations": [
+                "endangered species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The Galapagos tortoise is an endangered species.",
+                    "translation": "Rùa Galapagos là một loài có nguy cơ tuyệt chủng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inhospitable",
+            "phonetic": "/ˌɪnhɒˈspɪtəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of an environment) harsh and difficult to live in.",
+            "translation": "Khắc nghiệt / Không thân thiện",
+            "concept": "Khó sống.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "harsh",
+                "hostile"
+            ],
+            "collocations": [
+                "inhospitable environment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They live in an inhospitable environment.",
+                    "translation": "Chúng sống trong một môi trường khắc nghiệt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exploitation",
+            "phonetic": "/ˌeksplɔɪˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of making use of and benefiting from resources.",
+            "translation": "Sự khai thác",
+            "concept": "Tận dụng tài nguyên.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "utilization"
+            ],
+            "collocations": [
+                "historical exploitation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Whaling ships began the exploitation of tortoises.",
+                    "translation": "Các tàu săn cá voi đã bắt đầu việc khai thác rùa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exacerbate",
+            "phonetic": "/ɪɡˈzæsəbeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Make (a problem, bad situation, or negative feeling) worse.",
+            "translation": "Làm trầm trọng thêm",
+            "concept": "Làm cho tệ hơn.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "worsen",
+                "aggravate"
+            ],
+            "collocations": [
+                "exacerbate the problem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This exploitation was exacerbated by settlers.",
+                    "translation": "Sự khai thác này càng trở nên tồi tệ hơn bởi những người định cư."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "intersection",
+            "phonetic": "/ˌɪntəˈsekʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A point at which two or more things intersect.",
+            "translation": "Sự giao thoa",
+            "concept": "Nơi gặp nhau.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "junction"
+            ],
+            "collocations": [
+                "intersection of science and geography"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The passage discusses the intersection of health and geography.",
+                    "translation": "Bài đọc thảo luận về sự giao thoa giữa y tế và địa lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "geography",
+            "phonetic": "/dʒiˈɒɡrəfi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "The study of the physical features of the earth.",
+            "translation": "Địa lý",
+            "concept": "Môn địa lý.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "health geography"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Geography impacts public health.",
+                    "translation": "Địa lý ảnh hưởng đến sức khỏe cộng đồng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "disease",
+            "phonetic": "/dɪˈziːz/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A disorder of structure or function.",
+            "translation": "Căn bệnh",
+            "concept": "Ốm đau.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "illness"
+            ],
+            "collocations": [
+                "spread of disease"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They track the spread of disease.",
+                    "translation": "Họ theo dõi sự lây lan của dịch bệnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prevalence",
+            "phonetic": "/ˈprevələns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The fact or condition of being prevalent; commonness.",
+            "translation": "Sự phổ biến / Tỷ lệ mắc bệnh",
+            "concept": "Có nhiều nơi.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "commonness"
+            ],
+            "collocations": [
+                "disease prevalence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They map the prevalence of asthma.",
+                    "translation": "Họ lập bản đồ tỷ lệ mắc bệnh hen suyễn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "correlation",
+            "phonetic": "/ˌkɒrəˈleɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A mutual relationship or connection.",
+            "translation": "Sự tương quan",
+            "concept": "Có liên quan.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "connection"
+            ],
+            "collocations": [
+                "positive correlation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is a correlation between pollution and health.",
+                    "translation": "Có một sự tương quan giữa ô nhiễm và sức khỏe."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

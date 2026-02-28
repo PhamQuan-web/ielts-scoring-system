@@ -1,0 +1,252 @@
+{
+    "id": "cambridge_11_listening_test_3",
+    "title": "Cam 11 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Listening Test 3, bao gồm các chủ đề về các hoạt động miễn phí, hòa nhạc.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "venue",
+            "phonetic": "/ˈvenjuː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The place where something happens.",
+            "translation": "Địa điểm",
+            "concept": "Nơi tổ chức.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "location"
+            ],
+            "collocations": [
+                "festival venue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The school is the venue.",
+                    "translation": "Trường học là địa điểm tổ chức."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "performer",
+            "phonetic": "/pəˈfɔːmə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person who entertains an audience.",
+            "translation": "Người biểu diễn",
+            "concept": "Nghệ sĩ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "entertainer"
+            ],
+            "collocations": [
+                "street performer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She is a talented performer.",
+                    "translation": "Cô ấy là một người biểu diễn tài năng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "concert",
+            "phonetic": "/ˈkɒnsət/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A musical performance.",
+            "translation": "Buổi hòa nhạc",
+            "concept": "Trình diễn nhạc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "gig"
+            ],
+            "collocations": [
+                "live concert"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I have tickets to the concert.",
+                    "translation": "Tôi có vé xem buổi hòa nhạc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stall",
+            "phonetic": "/stɔːl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A stand, booth, or compartment.",
+            "translation": "Quầy hàng",
+            "concept": "Sạp bán đồ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "booth",
+                "stand"
+            ],
+            "collocations": [
+                "market stall"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You can buy it at a stall.",
+                    "translation": "Bạn có thể mua nó ở một quầy hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "presentation",
+            "phonetic": "/ˌpreznˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A speech or talk.",
+            "translation": "Bài thuyết trình",
+            "concept": "Trình bày.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "talk"
+            ],
+            "collocations": [
+                "give a presentation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He gave a presentation on local history.",
+                    "translation": "Ông ấy đã thuyết trình về lịch sử địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "local",
+            "phonetic": "/ˈləʊkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "A2",
+            "meaning": "Belonging or relating to a particular area.",
+            "translation": "Địa phương",
+            "concept": "Trong vùng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "regional"
+            ],
+            "collocations": [
+                "local residents"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is popular with local people.",
+                    "translation": "Nó phổ biến với người dân địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "craft",
+            "phonetic": "/krɑːft/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An activity involving skill in making things by hand.",
+            "translation": "Thủ công",
+            "concept": "Đồ làm bằng tay.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "handicraft"
+            ],
+            "collocations": [
+                "traditional craft"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They sell local crafts.",
+                    "translation": "Họ bán đồ thủ công địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "charity",
+            "phonetic": "/ˈtʃærəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "An organization set up to provide help and raise money.",
+            "translation": "Tổ chức từ thiện",
+            "concept": "Làm từ thiện.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "non-profit"
+            ],
+            "collocations": [
+                "raise money for charity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The event raises money for charity.",
+                    "translation": "Sự kiện gây quỹ cho tổ chức từ thiện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "tournament",
+            "phonetic": "/ˈtʊənəmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A sporting competition in which contestants play a series of games.",
+            "translation": "Giải đấu",
+            "concept": "Thi đấu thể thao.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "competition"
+            ],
+            "collocations": [
+                "tennis tournament"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She won the tennis tournament.",
+                    "translation": "Cô ấy đã giành chiến thắng trong giải quần vợt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "enroll",
+            "phonetic": "/ɪnˈrəʊl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Officially register as a member of an institution or a student on a course.",
+            "translation": "Đăng ký",
+            "concept": "Ghi danh.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "register"
+            ],
+            "collocations": [
+                "enroll in a course"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You need to enroll in advance.",
+                    "translation": "Bạn cần phải đăng ký trước."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

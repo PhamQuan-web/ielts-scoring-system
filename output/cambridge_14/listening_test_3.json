@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_14_listening_test_3",
+    "title": "Cam 14 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Listening Test 3, bao gồm các chủ đề về hội nghị, ban nhạc trường.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "conference",
+            "phonetic": "/ˈkɒnfərəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A formal meeting.",
+            "translation": "Hội nghị",
+            "concept": "Cuộc họp.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "seminar"
+            ],
+            "collocations": [
+                "conference room"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We booked a conference room.",
+                    "translation": "Chúng tôi đã đặt một phòng hội nghị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "facility",
+            "phonetic": "/fəˈsɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Equipment provided for a purpose.",
+            "translation": "Cơ sở vật chất",
+            "concept": "Đồ đạc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "amenity"
+            ],
+            "collocations": [
+                "modern facility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The facilities are good.",
+                    "translation": "Cơ sở vật chất rất tốt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "projector",
+            "phonetic": "/prəˈdʒektə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Object used to project images.",
+            "translation": "Máy chiếu",
+            "concept": "Phát hình.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "use a projector"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need a projector.",
+                    "translation": "Chúng tôi cần một máy chiếu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rehearsal",
+            "phonetic": "/rɪˈhɜːsl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A practice performance.",
+            "translation": "Buổi tập dượt",
+            "concept": "Tập trước.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "practice"
+            ],
+            "collocations": [
+                "band rehearsal"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The band had a rehearsal.",
+                    "translation": "Ban nhạc đã có một buổi tập dượt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "audition",
+            "phonetic": "/ɔːˈdɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An interview for a performer.",
+            "translation": "Thử giọng",
+            "concept": "Tuyển diễn viên.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "tryout"
+            ],
+            "collocations": [
+                "hold an audition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They held auditions.",
+                    "translation": "Họ đã tổ chức các buổi thử giọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "budget",
+            "phonetic": "/ˈbʌdʒɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Estimate of income and expenditure.",
+            "translation": "Ngân sách",
+            "concept": "Tiền có.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "funds"
+            ],
+            "collocations": [
+                "tight budget"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We are on a tight budget.",
+                    "translation": "Chúng tôi có ngân sách eo hẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "festival",
+            "phonetic": "/ˈfestɪvl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A period of celebration.",
+            "translation": "Lễ hội",
+            "concept": "Ngày vui.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "celebration"
+            ],
+            "collocations": [
+                "music festival"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's an arts festival.",
+                    "translation": "Đó là một lễ hội nghệ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "composer",
+            "phonetic": "/kəmˈpəʊzə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person who writes music.",
+            "translation": "Nhà soạn nhạc",
+            "concept": "Người viết nhạc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "famous composer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She is a composer.",
+                    "translation": "Cô ấy là một nhà soạn nhạc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commission",
+            "phonetic": "/kəˈmɪʃn/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Order something to be produced.",
+            "translation": "Đặt hàng",
+            "concept": "Thuê làm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "order"
+            ],
+            "collocations": [
+                "commission a piece"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They commissioned a song.",
+                    "translation": "Họ đã đặt hàng một bài hát."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vibrant",
+            "phonetic": "/ˈvaɪbrənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Full of energy.",
+            "translation": "Sôi động",
+            "concept": "Mạnh mẽ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "energetic"
+            ],
+            "collocations": [
+                "vibrant music"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The music is vibrant.",
+                    "translation": "Âm nhạc rất sôi động."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

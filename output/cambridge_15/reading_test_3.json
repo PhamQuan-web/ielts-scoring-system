@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_15_reading_test_3",
+    "title": "Cam 15 - Reading Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Reading Test 3, bao gồm các chủ đề về Henry Moore, lọc nước.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "sculpture",
+            "phonetic": "/ˈskʌlptʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Art of making forms.",
+            "translation": "Điêu khắc",
+            "concept": "Tượng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "statue"
+            ],
+            "collocations": [
+                "modern sculpture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He is known for his sculptures.",
+                    "translation": "Ông ấy nổi tiếng với các tác phẩm điêu khắc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "abstract",
+            "phonetic": "/ˈæbstrækt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Existing in thought.",
+            "translation": "Trừu tượng",
+            "concept": "Không rõ hình.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "conceptual"
+            ],
+            "collocations": [
+                "abstract art"
+            ],
+            "contexts": [
+                {
+                    "sentence": "His art is abstract.",
+                    "translation": "Nghệ thuật của ông ấy mang tính trừu tượng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commission",
+            "phonetic": "/kəˈmɪʃn/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Order something to be produced.",
+            "translation": "Ủy nhiệm / Đặt làm",
+            "concept": "Thuê.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "order"
+            ],
+            "collocations": [
+                "commission a statue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He was commissioned.",
+                    "translation": "Ông ấy đã được ủy nhiệm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "desalination",
+            "phonetic": "/ˌdiːsælɪˈneɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Process of removing salt.",
+            "translation": "Khử muối",
+            "concept": "Lọc nước.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "solar desalination"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Desalination provides water.",
+                    "translation": "Khử muối cung cấp nước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scarcity",
+            "phonetic": "/ˈskeəsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "State of being scarce.",
+            "translation": "Sự khan hiếm",
+            "concept": "Thiếu.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "shortage"
+            ],
+            "collocations": [
+                "water scarcity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Water scarcity is an issue.",
+                    "translation": "Khan hiếm nước là một vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "portable",
+            "phonetic": "/ˈpɔːtəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Easily carried.",
+            "translation": "Di động",
+            "concept": "Dễ mang.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "mobile"
+            ],
+            "collocations": [
+                "portable device"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a portable device.",
+                    "translation": "Đó là một thiết bị di động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "folklore",
+            "phonetic": "/ˈfəʊklɔː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Traditional beliefs.",
+            "translation": "Văn hóa dân gian",
+            "concept": "Truyện xưa.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "mythology"
+            ],
+            "collocations": [
+                "local folklore"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fairy tales are folklore.",
+                    "translation": "Truyện cổ tích là văn hóa dân gian."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "gruesome",
+            "phonetic": "/ˈɡruːsəm/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Causing repulsion.",
+            "translation": "Kinh khủng",
+            "concept": "Đáng sợ.",
+            "register": "Literary",
+            "grammar_note": "",
+            "synonyms": [
+                "ghastly"
+            ],
+            "collocations": [
+                "gruesome details"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The stories were gruesome.",
+                    "translation": "Các câu chuyện rất rùng rợn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "variant",
+            "phonetic": "/ˈveəriənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A form that differs.",
+            "translation": "Biến thể",
+            "concept": "Bản khác.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "version"
+            ],
+            "collocations": [
+                "regional variant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are many variants.",
+                    "translation": "Có nhiều biến thể."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archetype",
+            "phonetic": "/ˈɑːkitaɪp/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A typical example.",
+            "translation": "Nguyên mẫu",
+            "concept": "Mẫu gốc.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "prototype"
+            ],
+            "collocations": [
+                "hero archetype"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The wolf is an archetype.",
+                    "translation": "Sói là một nguyên mẫu."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

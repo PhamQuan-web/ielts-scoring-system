@@ -1,0 +1,248 @@
+{
+    "id": "cambridge_11_reading_test_3",
+    "title": "Cam 11 - Reading Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Reading Test 3, bao gồm các chủ đề về lịch sử tơ lụa.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "silk",
+            "phonetic": "/sɪlk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A fine, strong, soft lustrous fibre produced by silkworms.",
+            "translation": "Lụa",
+            "concept": "Vải tơ tằm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "silk worm",
+                "silk trade"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Silk is a luxurious fabric.",
+                    "translation": "Lụa là một loại vải sang trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cocoon",
+            "phonetic": "/kəˈkuːn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A silky case spun by the larvae of many insects.",
+            "translation": "Cái kén",
+            "concept": "Bọc tơ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "spin a cocoon"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Silk is produced from cocoons.",
+                    "translation": "Lụa được sản xuất từ những cái kén."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "larva",
+            "phonetic": "/ˈlɑːvə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The active immature form of an insect.",
+            "translation": "Ấu trùng",
+            "concept": "Sâu con.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "caterpillar"
+            ],
+            "collocations": [
+                "insect larva"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Silkworms are insect larvae.",
+                    "translation": "Tằm là ấu trùng của côn trùng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "legend",
+            "phonetic": "/ˈledʒənd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A traditional story.",
+            "translation": "Truyền thuyết",
+            "concept": "Chuyện xưa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "myth"
+            ],
+            "collocations": [
+                "ancient legend"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Legend has it that she discovered it.",
+                    "translation": "Truyền thuyết kể rằng cô ấy đã phát hiện ra nó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "emperor",
+            "phonetic": "/ˈempərə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A sovereign ruler of great power.",
+            "translation": "Hoàng đế",
+            "concept": "Vua.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "ruler"
+            ],
+            "collocations": [
+                "Chinese emperor"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He was the ruler of the empire.",
+                    "translation": "Ông là người cai trị đế chế."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monopoly",
+            "phonetic": "/məˈnɒpəli/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The exclusive possession or control of the supply or trade.",
+            "translation": "Độc quyền",
+            "concept": "Một mình bán.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "control"
+            ],
+            "collocations": [
+                "hold a monopoly"
+            ],
+            "contexts": [
+                {
+                    "sentence": "China had a monopoly on silk.",
+                    "translation": "Trung Quốc có độc quyền về lụa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "smuggle",
+            "phonetic": "/ˈsmʌɡl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Move goods illegally.",
+            "translation": "Buôn lậu",
+            "concept": "Đưa lén lút.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "traffic"
+            ],
+            "collocations": [
+                "smuggle goods"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Monks smuggled silkworms to Europe.",
+                    "translation": "Các nhà sư đã lén lút đưa tằm đến châu Âu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conceal",
+            "phonetic": "/kənˈsiːl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Keep from sight; hide.",
+            "translation": "Giấu giếm",
+            "concept": "Che đậy.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "hide"
+            ],
+            "collocations": [
+                "conceal the truth"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They concealed the eggs in canes.",
+                    "translation": "Họ đã giấu trứng trong những cây gậy."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lucrative",
+            "phonetic": "/ˈluːkrətɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Producing a great deal of profit.",
+            "translation": "Sinh lời",
+            "concept": "Béo bở.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "profitable"
+            ],
+            "collocations": [
+                "lucrative business"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The silk trade was highly lucrative.",
+                    "translation": "Buôn bán lụa rất có lợi nhuận."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commodity",
+            "phonetic": "/kəˈmɒdəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A raw material or primary agricultural product.",
+            "translation": "Hàng hóa",
+            "concept": "Món đồ bán.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "goods"
+            ],
+            "collocations": [
+                "valuable commodity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Silk became a valuable commodity.",
+                    "translation": "Lụa trở thành một mặt hàng có giá trị."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

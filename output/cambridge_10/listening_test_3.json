@@ -1,0 +1,254 @@
+{
+    "id": "cambridge_10_listening_test_3",
+    "title": "Cam 10 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Listening Test 3, bao gồm các chủ đề về bảo tồn cá heo.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "pollution",
+            "phonetic": "/pəˈluːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The presence of a substance that has harmful effects.",
+            "translation": "Sự ô nhiễm",
+            "concept": "Làm bẩn môi trường.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "contamination"
+            ],
+            "collocations": [
+                "marine pollution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Dolphins suffer from pollution.",
+                    "translation": "Cá heo bị ảnh hưởng bởi ô nhiễm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "threat",
+            "phonetic": "/θret/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person or thing likely to cause damage or danger.",
+            "translation": "Mối đe dọa",
+            "concept": "Nguy hiểm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "danger",
+                "menace"
+            ],
+            "collocations": [
+                "pose a threat"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pollution is a major threat.",
+                    "translation": "Ô nhiễm là một mối đe dọa lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "charity",
+            "phonetic": "/ˈtʃærəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "An organization set up to provide help and raise money for those in need.",
+            "translation": "Tổ chức từ thiện",
+            "concept": "Hội giúp người.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "non-profit"
+            ],
+            "collocations": [
+                "animal charity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's a fast-growing animal charity.",
+                    "translation": "Đây là một tổ chức từ thiện vì động vật đang phát triển nhanh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "education",
+            "phonetic": "/ˌedʒuˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The process of receiving or giving systematic instruction.",
+            "translation": "Sự giáo dục",
+            "concept": "Việc dạy học.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "teaching"
+            ],
+            "collocations": [
+                "work in education"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We are proud of our work in education.",
+                    "translation": "Chúng tôi tự hào về công việc của mình trong lĩnh vực giáo dục."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "campaign",
+            "phonetic": "/kæmˈpeɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An organized course of action to achieve a goal.",
+            "translation": "Chiến dịch",
+            "concept": "Hoạt động chung.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "movement"
+            ],
+            "collocations": [
+                "support a campaign"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The charity supports campaigns.",
+                    "translation": "Tổ chức từ thiện hỗ trợ các chiến dịch."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "policy",
+            "phonetic": "/ˈpɒləsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A course or principle of action.",
+            "translation": "Chính sách",
+            "concept": "Đường lối.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "strategy"
+            ],
+            "collocations": [
+                "fishing policy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We want changes in fishing policy.",
+                    "translation": "Chúng tôi muốn thay đổi chính sách đánh bắt cá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expertise",
+            "phonetic": "/ˌekspɜːˈtiːz/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Expert skill or knowledge in a particular field.",
+            "translation": "Chuyên môn",
+            "concept": "Kỹ năng giỏi.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "skill",
+                "knowledge"
+            ],
+            "collocations": [
+                "dolphin expertise"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They need a biologist with dolphin expertise.",
+                    "translation": "Họ cần một nhà sinh vật học có chuyên môn về cá heo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monitor",
+            "phonetic": "/ˈmɒnɪtə/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Observe and check the progress or quality of something.",
+            "translation": "Giám sát / Theo dõi",
+            "concept": "Xem xét.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "observe",
+                "track"
+            ],
+            "collocations": [
+                "monitor populations"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need to monitor dolphin populations.",
+                    "translation": "Chúng ta cần theo dõi quần thể cá heo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "voluntary",
+            "phonetic": "/ˈvɒləntri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Done, given, or acting of one's own free will.",
+            "translation": "Tự nguyện",
+            "concept": "Tự làm không ép.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "optional"
+            ],
+            "collocations": [
+                "voluntary basis"
+            ],
+            "contexts": [
+                {
+                    "sentence": "People give their services on a voluntary basis.",
+                    "translation": "Mọi người cung cấp dịch vụ của họ một cách tự nguyện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "observation",
+            "phonetic": "/ˌɒbzəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action or process of observing.",
+            "translation": "Sự quan sát",
+            "concept": "Theo dõi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "monitoring"
+            ],
+            "collocations": [
+                "field observation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Volunteers work in observation.",
+                    "translation": "Các tình nguyện viên làm công việc quan sát."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

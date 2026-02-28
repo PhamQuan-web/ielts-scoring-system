@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_15_listening_test_2",
+    "title": "Cam 15 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Listening Test 2, bao gồm các chủ đề về lễ hội, Mozambique.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "amateur",
+            "phonetic": "/ˈæmətə/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Engaging on an unpaid basis.",
+            "translation": "Nghiệp dư",
+            "concept": "Làm vì đam mê.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "non-professional"
+            ],
+            "collocations": [
+                "amateur group"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They are an amateur theatre group.",
+                    "translation": "Họ là một nhóm kịch nghiệp dư."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "demonstration",
+            "phonetic": "/ˌdemənˈstreɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Practical exhibition.",
+            "translation": "Biểu diễn thử",
+            "concept": "Làm mẫu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "display"
+            ],
+            "collocations": [
+                "craft demonstration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Watch a craft demonstration.",
+                    "translation": "Hãy xem một buổi biểu diễn thủ công."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commemorate",
+            "phonetic": "/kəˈmeməreɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Show respect in a ceremony.",
+            "translation": "Tưởng niệm",
+            "concept": "Kỷ niệm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "honor"
+            ],
+            "collocations": [
+                "commemorate a hero"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The statue commemorates a hero.",
+                    "translation": "Bức tượng tưởng niệm một anh hùng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adaptation",
+            "phonetic": "/ˌædæpˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A film or play adapted from a written work.",
+            "translation": "Tác phẩm chuyển thể",
+            "concept": "Sách lên phim.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "version"
+            ],
+            "collocations": [
+                "film adaptation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's an adaptation of Dickens.",
+                    "translation": "Đó là bản chuyển thể từ Dickens."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "satire",
+            "phonetic": "/ˈsætaɪə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Use of humor to expose stupidity.",
+            "translation": "Châm biếm",
+            "concept": "Cười nhạo.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "mockery"
+            ],
+            "collocations": [
+                "political satire"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The book is a satire.",
+                    "translation": "Cuốn sách là một tác phẩm châm biếm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "irrigation",
+            "phonetic": "/ˌɪrɪˈɡeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Supply of water to crops.",
+            "translation": "Thủy lợi",
+            "concept": "Tưới tiêu.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "watering"
+            ],
+            "collocations": [
+                "irrigation system"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They built an irrigation system.",
+                    "translation": "Họ đã xây dựng một hệ thống tưới tiêu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "agriculture",
+            "phonetic": "/ˈæɡrɪkʌltʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Science of farming.",
+            "translation": "Nông nghiệp",
+            "concept": "Làm nông.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "farming"
+            ],
+            "collocations": [
+                "modern agriculture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Agriculture is important.",
+                    "translation": "Nông nghiệp rất quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "livelihood",
+            "phonetic": "/ˈlaɪvlihʊd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Means of securing necessities.",
+            "translation": "Sinh kế",
+            "concept": "Cách kiếm sống.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "income"
+            ],
+            "collocations": [
+                "earn a livelihood"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Farming is their livelihood.",
+                    "translation": "Làm nông là sinh kế của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cooperative",
+            "phonetic": "/kəʊˈɒpərətɪv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Business owned jointly.",
+            "translation": "Hợp tác xã",
+            "concept": "Làm chung.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "partnership"
+            ],
+            "collocations": [
+                "farmers' cooperative"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They formed a cooperative.",
+                    "translation": "Họ đã thành lập một hợp tác xã."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "/ˈɪnfrəstrʌktʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Basic physical structures.",
+            "translation": "Cơ sở hạ tầng",
+            "concept": "Đường sá.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "facilities"
+            ],
+            "collocations": [
+                "improve infrastructure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need better infrastructure.",
+                    "translation": "Chúng ta cần cơ sở hạ tầng tốt hơn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

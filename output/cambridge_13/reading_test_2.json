@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_13_reading_test_2",
+    "title": "Cam 13 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Reading Test 2, bao gồm các chủ đề về quế, oxytocin.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "cinnamon",
+            "phonetic": "/ˈsɪnəmən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An aromatic spice.",
+            "translation": "Quế",
+            "concept": "Gia vị.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "spice"
+            ],
+            "collocations": [
+                "cinnamon stick"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Cinnamon was highly prized.",
+                    "translation": "Quế được đánh giá rất cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monopoly",
+            "phonetic": "/məˈnɒpəli/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Exclusive possession or control.",
+            "translation": "Độc quyền",
+            "concept": "Một mình bán.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "domination"
+            ],
+            "collocations": [
+                "hold a monopoly"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They held a monopoly on the trade.",
+                    "translation": "Họ độc quyền buôn bán."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hormone",
+            "phonetic": "/ˈhɔːməʊn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A regulatory substance produced in an organism.",
+            "translation": "Hóc-môn",
+            "concept": "Chất trong cơ thể.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "growth hormone"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Oxytocin is a hormone.",
+                    "translation": "Oxytocin là một loại hormone."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interaction",
+            "phonetic": "/ˌɪntərˈækʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Reciprocal action or influence.",
+            "translation": "Sự tương tác",
+            "concept": "Giao tiếp.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "communication"
+            ],
+            "collocations": [
+                "social interaction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It affects social interaction.",
+                    "translation": "Nó ảnh hưởng đến sự tương tác xã hội."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "trust",
+            "phonetic": "/trʌst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Firm belief in reliability.",
+            "translation": "Lòng tin",
+            "concept": "Sự tin tưởng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "confidence"
+            ],
+            "collocations": [
+                "build trust"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Oxytocin promotes trust.",
+                    "translation": "Oxytocin thúc đẩy lòng tin."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪnəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of innovating.",
+            "translation": "Sự đổi mới",
+            "concept": "Sáng tạo mới.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "novelty"
+            ],
+            "collocations": [
+                "technological innovation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Innovation is key for business.",
+                    "translation": "Đổi mới là chìa khóa cho kinh doanh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "strategy",
+            "phonetic": "/ˈstrætədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A plan of action.",
+            "translation": "Chiến lược",
+            "concept": "Kế hoạch lớn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "plan"
+            ],
+            "collocations": [
+                "business strategy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Companies need a new strategy.",
+                    "translation": "Các công ty cần một chiến lược mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consumer",
+            "phonetic": "/kənˈsjuːmə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person who purchases goods.",
+            "translation": "Người tiêu dùng",
+            "concept": "Khách hàng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "buyer"
+            ],
+            "collocations": [
+                "consumer trends"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Consumer trends are changing.",
+                    "translation": "Xu hướng của người tiêu dùng đang thay đổi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "counter-intuitive",
+            "phonetic": "/ˌkaʊntər ɪnˈtjuːɪtɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Contrary to intuition.",
+            "translation": "Phản trực giác",
+            "concept": "Ngược lẽ thường.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "unexpected"
+            ],
+            "collocations": [
+                "seem counter-intuitive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The result was counter-intuitive.",
+                    "translation": "Kết quả có vẻ ngược với trực giác."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aversion",
+            "phonetic": "/əˈvɜːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A strong dislike.",
+            "translation": "Sự ác cảm",
+            "concept": "Ghét bỏ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "dislike"
+            ],
+            "collocations": [
+                "aversion to risk"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They have an aversion to change.",
+                    "translation": "Họ có ác cảm với sự thay đổi."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

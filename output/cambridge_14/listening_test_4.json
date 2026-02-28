@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_14_listening_test_4",
+    "title": "Cam 14 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Listening Test 4, bao gồm các chủ đề về đặt phòng, văn học, khảo cổ.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "booking",
+            "phonetic": "/ˈbʊkɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "An act of reserving.",
+            "translation": "Sự đặt chỗ",
+            "concept": "Mua trước.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "reservation"
+            ],
+            "collocations": [
+                "make a booking"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I made a booking.",
+                    "translation": "Tôi đã đặt chỗ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "buffet",
+            "phonetic": "/ˈbʊfeɪ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A meal where guests serve themselves.",
+            "translation": "Tiệc đứng",
+            "concept": "Tự lấy đồ ăn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "buffet lunch"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We will have a buffet.",
+                    "translation": "Chúng tôi sẽ có tiệc đứng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excursion",
+            "phonetic": "/ɪkˈskɜːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A short journey.",
+            "translation": "Dã ngoại",
+            "concept": "Đi chơi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "trip"
+            ],
+            "collocations": [
+                "go on an excursion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We went on an excursion.",
+                    "translation": "Chúng tôi đã đi dã ngoại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "literature",
+            "phonetic": "/ˈlɪtrətʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Written works.",
+            "translation": "Văn học",
+            "concept": "Sách vở.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "writing"
+            ],
+            "collocations": [
+                "children's literature"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He studies literature.",
+                    "translation": "Anh ấy học văn học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "illustration",
+            "phonetic": "/ˌɪləˈstreɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A picture in a book.",
+            "translation": "Hình minh họa",
+            "concept": "Tranh vẽ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "picture"
+            ],
+            "collocations": [
+                "book illustration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The book has illustrations.",
+                    "translation": "Cuốn sách có hình minh họa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archaeology",
+            "phonetic": "/ˌɑːkiˈɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Study of human history via excavation.",
+            "translation": "Khảo cổ học",
+            "concept": "Đào cổ vật.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "marine archaeology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Marine archaeology is hard.",
+                    "translation": "Khảo cổ học biển rất khó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "shipwreck",
+            "phonetic": "/ˈʃɪprek/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Destruction of a ship.",
+            "translation": "Xác tàu đắm",
+            "concept": "Tàu chìm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "wreck"
+            ],
+            "collocations": [
+                "ancient shipwreck"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They found a shipwreck.",
+                    "translation": "Họ đã tìm thấy một xác tàu đắm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excavation",
+            "phonetic": "/ˌekskəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Action of excavating.",
+            "translation": "Sự khai quật",
+            "concept": "Đào bới.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "digging"
+            ],
+            "collocations": [
+                "excavation site"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The excavation is ongoing.",
+                    "translation": "Cuộc khai quật đang diễn ra."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "artifact",
+            "phonetic": "/ˈɑːtɪfækt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An object made by human.",
+            "translation": "Hiện vật",
+            "concept": "Đồ cổ.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "relic"
+            ],
+            "collocations": [
+                "museum artifact"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They recovered artifacts.",
+                    "translation": "Họ đã thu hồi các hiện vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "submersible",
+            "phonetic": "/səbˈmɜːsəbl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A boat that goes underwater.",
+            "translation": "Tàu lặn",
+            "concept": "Tàu dưới nước.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "submarine"
+            ],
+            "collocations": [
+                "use a submersible"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They used a submersible.",
+                    "translation": "Họ đã sử dụng một chiếc tàu lặn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

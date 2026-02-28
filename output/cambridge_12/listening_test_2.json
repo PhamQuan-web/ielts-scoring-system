@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_12_listening_test_2",
+    "title": "Cam 12 - Listening Test 2",
+    "description": "Từ vựng về quản lý xung đột, viết báo cáo.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "conflict",
+            "phonetic": "/ˈkɒnflɪkt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A serious disagreement or argument.",
+            "translation": "Sự xung đột",
+            "concept": "Cãi vã gay gắt.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "dispute"
+            ],
+            "collocations": [
+                "resolve a conflict"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Conflict at work can cause stress.",
+                    "translation": "Xung đột tại nơi làm việc có thể gây căng thẳng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "executive",
+            "phonetic": "/ɪɡˈzekjətɪv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person with senior managerial responsibility.",
+            "translation": "Giám đốc điều hành",
+            "concept": "Sếp lớn.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "manager"
+            ],
+            "collocations": [
+                "chief executive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Chief executives face a lot of pressure.",
+                    "translation": "Các giám đốc điều hành phải đối mặt với nhiều áp lực."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "anxiety",
+            "phonetic": "/æŋˈzaɪəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A feeling of worry, nervousness, or unease.",
+            "translation": "Sự lo âu",
+            "concept": "Cảm giác bồn chồn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "worry"
+            ],
+            "collocations": [
+                "feel anxiety"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Many managers suffer from anxiety.",
+                    "translation": "Nhiều người quản lý bị lo âu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "structure",
+            "phonetic": "/ˈstrʌktʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The arrangement of and relations between the parts or elements of something complex.",
+            "translation": "Cấu trúc",
+            "concept": "Cách tổ chức.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "organization"
+            ],
+            "collocations": [
+                "company structure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The company has a rigid structure.",
+                    "translation": "Công ty có một cấu trúc cứng nhắc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "minimize",
+            "phonetic": "/ˈmɪnɪmaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Reduce to the smallest possible amount or degree.",
+            "translation": "Giảm thiểu",
+            "concept": "Làm cho ít nhất.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "reduce"
+            ],
+            "collocations": [
+                "minimize risk"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need to minimize conflict.",
+                    "translation": "Chúng ta cần giảm thiểu xung đột."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resolve",
+            "phonetic": "/rɪˈzɒlv/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Settle or find a solution to.",
+            "translation": "Giải quyết",
+            "concept": "Tìm ra cách giải.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "settle"
+            ],
+            "collocations": [
+                "resolve an issue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They hired someone to resolve the conflicts.",
+                    "translation": "Họ đã thuê người để giải quyết các xung đột."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "uncertainty",
+            "phonetic": "/ʌnˈsɜːtnti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The state of being uncertain.",
+            "translation": "Sự không chắc chắn",
+            "concept": "Không biết rõ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "doubt"
+            ],
+            "collocations": [
+                "feeling of uncertainty"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Changes create a feeling of uncertainty.",
+                    "translation": "Những thay đổi tạo ra cảm giác không chắc chắn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "borrow",
+            "phonetic": "/ˈbɒrəʊ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "A2",
+            "meaning": "Take and use with the intention of returning it.",
+            "translation": "Mượn",
+            "concept": "Mượn tạm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "loan"
+            ],
+            "collocations": [
+                "borrow a book"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He will borrow a book from Beth.",
+                    "translation": "Anh ấy sẽ mượn một cuốn sách từ Beth."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "source",
+            "phonetic": "/sɔːs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A place, person, or thing from which something comes.",
+            "translation": "Nguồn",
+            "concept": "Nơi bắt đầu.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "origin"
+            ],
+            "collocations": [
+                "source material"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He needs to read some source material.",
+                    "translation": "Anh ấy cần đọc một số tài liệu tham khảo (nguồn)."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "category",
+            "phonetic": "/ˈkætəɡəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A class or division of people or things.",
+            "translation": "Hạng mục / Thể loại",
+            "concept": "Nhóm cùng loại.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "class"
+            ],
+            "collocations": [
+                "general category"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It falls into the general category.",
+                    "translation": "Nó rơi vào hạng mục chung."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

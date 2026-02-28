@@ -1,0 +1,241 @@
+{
+    "id": "cambridge_13_listening_test_2",
+    "title": "Cam 13 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Listening Test 2, bao gồm các chủ đề về xe đạp, trí nhớ.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "membership",
+            "phonetic": "/ˈmembəʃɪp/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The state of being a member.",
+            "translation": "Tư cách thành viên",
+            "concept": "Tham gia hội.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "affiliation"
+            ],
+            "collocations": [
+                "club membership"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I asked about the club membership.",
+                    "translation": "Tôi đã hỏi về tư cách thành viên câu lạc bộ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "insurance",
+            "phonetic": "/ɪnˈʃʊərəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Guarantee of compensation for specified loss.",
+            "translation": "Bảo hiểm",
+            "concept": "Phí bảo vệ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "coverage"
+            ],
+            "collocations": [
+                "include insurance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The fee includes insurance.",
+                    "translation": "Phí bao gồm cả bảo hiểm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "volunteer",
+            "phonetic": "/ˌvɒlənˈtɪə/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B1",
+            "meaning": "Freely offer to do something.",
+            "translation": "Tình nguyện",
+            "concept": "Làm không lương.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "offer"
+            ],
+            "collocations": [
+                "volunteer work"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We encourage staff to volunteer.",
+                    "translation": "Chúng tôi khuyến khích nhân viên làm tình nguyện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪnəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The ability to be maintained at a certain rate.",
+            "translation": "Sự bền vững",
+            "concept": "Lâu dài.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "viability"
+            ],
+            "collocations": [
+                "environmental sustainability"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The project focuses on sustainability.",
+                    "translation": "Dự án tập trung vào tính bền vững."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nanotechnology",
+            "phonetic": "/ˌnænəʊtekˈnɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Technology dealing with dimensions less than 100 nanometers.",
+            "translation": "Công nghệ nano",
+            "concept": "Công nghệ siêu nhỏ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "field of nanotechnology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The presentation is on nanotechnology.",
+                    "translation": "Bài thuyết trình về công nghệ nano."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "episodic",
+            "phonetic": "/ˌepɪˈsɒdɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Containing or consisting of a series of separate events.",
+            "translation": "Thuộc tình tiết",
+            "concept": "Nhớ sự kiện.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "episodic memory"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Episodic memory involves specific events.",
+                    "translation": "Trí nhớ tình tiết liên quan đến các sự kiện cụ thể."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "semantic",
+            "phonetic": "/sɪˈmæntɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to meaning.",
+            "translation": "Thuộc ngữ nghĩa",
+            "concept": "Kiến thức.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "semantic memory"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Semantic memory stores facts.",
+                    "translation": "Trí nhớ ngữ nghĩa lưu trữ các sự kiện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "encoding",
+            "phonetic": "/ɪnˈkəʊdɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The process of converting information into a form.",
+            "translation": "Sự mã hóa",
+            "concept": "Ghi vào não.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "memory encoding"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Encoding is the first step.",
+                    "translation": "Mã hóa là bước đầu tiên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "retrieval",
+            "phonetic": "/rɪˈtriːvl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The process of getting something back.",
+            "translation": "Sự truy xuất",
+            "concept": "Nhớ lại.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "recall"
+            ],
+            "collocations": [
+                "information retrieval"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Retrieval is accessing memories.",
+                    "translation": "Truy xuất là việc truy cập vào ký ức."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "olfactory",
+            "phonetic": "/ɒlˈfæktəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to the sense of smell.",
+            "translation": "Thuộc khứu giác",
+            "concept": "Liên quan đến mùi.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "olfactory cues"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Olfactory cues trigger memories.",
+                    "translation": "Dấu hiệu khứu giác kích hoạt ký ức."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

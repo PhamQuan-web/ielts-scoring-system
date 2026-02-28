@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_11_listening_test_1",
+    "title": "Cam 11 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Listening Test 1, bao gồm các chủ đề về hội trường, trang trại di sản.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "hall",
+            "phonetic": "/hɔːl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A large room for meetings or concerts.",
+            "translation": "Hội trường",
+            "concept": "Phòng lớn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "main hall"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We rented the main hall.",
+                    "translation": "Chúng tôi đã thuê hội trường chính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deposit",
+            "phonetic": "/dɪˈpɒzɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A sum of money paid as a first installment.",
+            "translation": "Tiền đặt cọc",
+            "concept": "Tiền đưa trước.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "down payment"
+            ],
+            "collocations": [
+                "pay a deposit"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You must pay a deposit.",
+                    "translation": "Bạn phải trả tiền đặt cọc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "licence",
+            "phonetic": "/ˈlaɪsns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An official document giving permission.",
+            "translation": "Giấy phép",
+            "concept": "Giấy tờ được phép làm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "permit"
+            ],
+            "collocations": [
+                "music licence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Do you have a licence?",
+                    "translation": "Bạn có giấy phép không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "caretaker",
+            "phonetic": "/ˈkeəteɪkə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person employed to look after a building.",
+            "translation": "Người trông coi",
+            "concept": "Người giữ nhà/trường.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "janitor"
+            ],
+            "collocations": [
+                "school caretaker"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Contact the caretaker for the keys.",
+                    "translation": "Hãy liên hệ với người trông coi để lấy chìa khóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "volume",
+            "phonetic": "/ˈvɒljuːm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Degree of loudness.",
+            "translation": "Âm lượng",
+            "concept": "Độ to nhỏ của âm thanh.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "loudness"
+            ],
+            "collocations": [
+                "turn up the volume"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Don't touch the volume controls.",
+                    "translation": "Đừng chạm vào các nút điều khiển âm lượng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rubbish",
+            "phonetic": "/ˈrʌbɪʃ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "Waste material; refuse or litter.",
+            "translation": "Rác rưởi",
+            "concept": "Đồ vứt đi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "garbage",
+                "trash"
+            ],
+            "collocations": [
+                "throw away the rubbish"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Put the rubbish in the black bags.",
+                    "translation": "Hãy bỏ rác vào những chiếc túi đen."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pile",
+            "phonetic": "/paɪl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B1",
+            "meaning": "Place things one on top of the other.",
+            "translation": "Chất đống",
+            "concept": "Chồng lên nhau.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "stack"
+            ],
+            "collocations": [
+                "pile up"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The chairs must be piled up.",
+                    "translation": "Ghế phải được chất đống lên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "heritage",
+            "phonetic": "/ˈherɪtɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Property that is or may be inherited.",
+            "translation": "Di sản",
+            "concept": "Của để lại từ xưa.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "legacy"
+            ],
+            "collocations": [
+                "heritage farm"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's a working heritage farm.",
+                    "translation": "Đó là một trang trại di sản đang hoạt động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "harm",
+            "phonetic": "/hɑːm/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Physically injure.",
+            "translation": "Gây hại",
+            "concept": "Làm đau.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "hurt",
+                "damage"
+            ],
+            "collocations": [
+                "harm animals"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Do not harm the animals.",
+                    "translation": "Đừng gây hại cho các con vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exception",
+            "phonetic": "/ɪkˈsepʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person or thing that is excluded from a general statement.",
+            "translation": "Ngoại lệ",
+            "concept": "Trường hợp đặc biệt.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "anomaly"
+            ],
+            "collocations": [
+                "with the exception of"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are some exceptions.",
+                    "translation": "Có một số ngoại lệ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

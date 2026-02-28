@@ -1,0 +1,250 @@
+{
+    "id": "cambridge_11_reading_test_4",
+    "title": "Cam 11 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Reading Test 4, bao gồm các chủ đề về nghiên cứu song sinh.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "genetic",
+            "phonetic": "/dʒəˈnetɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to genes or heredity.",
+            "translation": "Thuộc di truyền",
+            "concept": "Do gen.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "hereditary"
+            ],
+            "collocations": [
+                "genetic code",
+                "genetic makeup"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Twins share the same genetic code.",
+                    "translation": "Các cặp song sinh chia sẻ cùng một mã di truyền."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "identical",
+            "phonetic": "/aɪˈdentɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Similar in every detail; exactly alike.",
+            "translation": "Giống hệt nhau",
+            "concept": "Y đúc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "exact",
+                "indistinguishable"
+            ],
+            "collocations": [
+                "identical twins"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Identical twins come from one egg.",
+                    "translation": "Sinh đôi cùng trứng đến từ một quả trứng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fraternal",
+            "phonetic": "/frəˈtɜːnl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(of twins) developed from separate ova.",
+            "translation": "Khác trứng (song sinh)",
+            "concept": "Không giống nhau.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "non-identical"
+            ],
+            "collocations": [
+                "fraternal twins"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fraternal twins share half their DNA.",
+                    "translation": "Sinh đôi khác trứng chia sẻ một nửa DNA của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "heredity",
+            "phonetic": "/həˈredəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The passing on of physical or mental characteristics genetically.",
+            "translation": "Sự di truyền",
+            "concept": "Truyền từ cha mẹ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "inheritance"
+            ],
+            "collocations": [
+                "influence of heredity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Vulnerability is rooted in heredity.",
+                    "translation": "Sự dễ mắc bệnh bắt nguồn từ di truyền."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nurture",
+            "phonetic": "/ˈnɜːtʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Care and encouragement given to someone or something.",
+            "translation": "Sự nuôi dưỡng / Môi trường",
+            "concept": "Cách dạy dỗ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "upbringing"
+            ],
+            "collocations": [
+                "nature and nurture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They study nature versus nurture.",
+                    "translation": "Họ nghiên cứu bản năng và sự nuôi dưỡng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "untangle",
+            "phonetic": "/ʌnˈtæŋɡl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Free from a tangled or twisted state; investigate and resolve.",
+            "translation": "Gỡ rối / Làm sáng tỏ",
+            "concept": "Giải quyết rắc rối.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "unravel",
+                "resolve"
+            ],
+            "collocations": [
+                "untangle a mystery"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Researchers try to untangle the influence of genes.",
+                    "translation": "Các nhà nghiên cứu cố gắng làm sáng tỏ ảnh hưởng của gen."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vulnerability",
+            "phonetic": "/ˌvʌlnərəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The quality or state of being exposed to the possibility of being attacked or harmed.",
+            "translation": "Sự dễ bị tổn thương",
+            "concept": "Dễ mắc bệnh.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "susceptibility"
+            ],
+            "collocations": [
+                "vulnerability to disease"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It determines vulnerability to disease.",
+                    "translation": "Nó quyết định sự dễ mắc bệnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "statistical",
+            "phonetic": "/stəˈtɪstɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to the use of statistics.",
+            "translation": "Thuộc thống kê",
+            "concept": "Về số liệu.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "statistical analysis"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They used a statistical approach.",
+                    "translation": "Họ đã sử dụng một phương pháp thống kê."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "epigenetics",
+            "phonetic": "/ˌepɪdʒəˈnetɪks/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The study of changes in organisms caused by modification of gene expression.",
+            "translation": "Di truyền biểu sinh",
+            "concept": "Sự thay đổi biểu hiện gen.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "field of epigenetics"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Epigenetics is a new field.",
+                    "translation": "Di truyền biểu sinh là một lĩnh vực mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "trait",
+            "phonetic": "/treɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A distinguishing quality or characteristic.",
+            "translation": "Đặc điểm / Nét tiêu biểu",
+            "concept": "Điểm riêng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "characteristic"
+            ],
+            "collocations": [
+                "personality trait"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They share physical traits.",
+                    "translation": "Họ chia sẻ các đặc điểm thể chất."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

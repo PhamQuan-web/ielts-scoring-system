@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_15_reading_test_4",
+    "title": "Cam 15 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Reading Test 4, bao gồm các chủ đề về cây Huarango, huýt sáo.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "restoration",
+            "phonetic": "/ˌrestəˈreɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Returning to former condition.",
+            "translation": "Sự phục hồi",
+            "concept": "Sửa lại.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "repair"
+            ],
+            "collocations": [
+                "ecological restoration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Restoration is important.",
+                    "translation": "Việc phục hồi là quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deforestation",
+            "phonetic": "/ˌdiːfɒrɪˈsteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Clearing of trees.",
+            "translation": "Phá rừng",
+            "concept": "Chặt cây.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "logging"
+            ],
+            "collocations": [
+                "widespread deforestation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Deforestation is bad.",
+                    "translation": "Phá rừng là điều tồi tệ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fertility",
+            "phonetic": "/fəˈtɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Quality of being fertile.",
+            "translation": "Sự màu mỡ",
+            "concept": "Đất tốt.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "richness"
+            ],
+            "collocations": [
+                "soil fertility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It improves soil fertility.",
+                    "translation": "Nó cải thiện độ màu mỡ của đất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "indigenous",
+            "phonetic": "/ɪnˈdɪdʒənəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Native.",
+            "translation": "Bản địa",
+            "concept": "Gốc ở đó.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "native"
+            ],
+            "collocations": [
+                "indigenous tree"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The tree is indigenous.",
+                    "translation": "Cây là loài bản địa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "erosion",
+            "phonetic": "/ɪˈrəʊʒn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Process of eroding.",
+            "translation": "Sự xói mòn",
+            "concept": "Mất đất.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "wearing away"
+            ],
+            "collocations": [
+                "soil erosion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It prevents erosion.",
+                    "translation": "Nó ngăn chặn xói mòn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "whistle",
+            "phonetic": "/ˈwɪsl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B1",
+            "meaning": "Emit a high-pitched sound.",
+            "translation": "Huýt sáo",
+            "concept": "Thổi sáo.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "blow"
+            ],
+            "collocations": [
+                "whistling language"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They whistle to communicate.",
+                    "translation": "Họ huýt sáo để giao tiếp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "terrain",
+            "phonetic": "/təˈreɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Stretch of land.",
+            "translation": "Địa hình",
+            "concept": "Đất đai.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "landscape"
+            ],
+            "collocations": [
+                "rough terrain"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The terrain is difficult.",
+                    "translation": "Địa hình rất khó khăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "greenwashing",
+            "phonetic": "/ˈɡriːnwɒʃɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Disinformation about environmental image.",
+            "translation": "Tẩy xanh",
+            "concept": "Giả vờ xanh.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "corporate greenwashing"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Companies use greenwashing.",
+                    "translation": "Các công ty sử dụng chiêu bài tẩy xanh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruːtəni/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Critical observation.",
+            "translation": "Sự giám sát",
+            "concept": "Nhìn kỹ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "inspection"
+            ],
+            "collocations": [
+                "intense scrutiny"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They face scrutiny.",
+                    "translation": "Họ đối mặt với sự giám sát."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "transparent",
+            "phonetic": "/trænsˈpærənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Open to public scrutiny.",
+            "translation": "Minh bạch",
+            "concept": "Rõ ràng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "clear"
+            ],
+            "collocations": [
+                "transparent process"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Business must be transparent.",
+                    "translation": "Kinh doanh phải minh bạch."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

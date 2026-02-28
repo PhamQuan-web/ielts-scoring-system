@@ -1,0 +1,258 @@
+{
+    "id": "cambridge_10_reading_test_2",
+    "title": "Cam 10 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Reading Test 2, bao gồm các chủ đề về đơn khiếu nại, quy định bưu điện.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "application",
+            "phonetic": "/ˌæplɪˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A formal request to an authority for something.",
+            "translation": "Đơn xin / Hồ sơ",
+            "concept": "Giấy xin xỏ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "request",
+                "claim"
+            ],
+            "collocations": [
+                "application form"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fill out the application form.",
+                    "translation": "Hãy điền vào mẫu đơn xin."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "photocopy",
+            "phonetic": "/ˈfəʊtəʊkɒpi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A photographic copy of a printed or written document.",
+            "translation": "Bản sao",
+            "concept": "Tờ giấy copy.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "copy",
+                "duplicate"
+            ],
+            "collocations": [
+                "submit photocopies"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Photocopies are acceptable.",
+                    "translation": "Các bản sao được chấp nhận."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "processing",
+            "phonetic": "/ˈprəʊsesɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The series of operations performed in the making or treatment of a product.",
+            "translation": "Quá trình xử lý",
+            "concept": "Giải quyết giấy tờ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "handling"
+            ],
+            "collocations": [
+                "processing time"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It will affect processing time.",
+                    "translation": "Nó sẽ ảnh hưởng đến thời gian xử lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "compensation",
+            "phonetic": "/ˌkɒmpenˈseɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Something, typically money, awarded to someone as a recompense for loss, injury, or suffering.",
+            "translation": "Sự bồi thường",
+            "concept": "Đền bù thiệt hại.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "recompense",
+                "damages"
+            ],
+            "collocations": [
+                "claim compensation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You can claim compensation for lost items.",
+                    "translation": "Bạn có thể yêu cầu bồi thường cho các mặt hàng bị mất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "receipt",
+            "phonetic": "/rɪˈsiːt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A written or printed statement acknowledging that something has been paid for or that goods have been received.",
+            "translation": "Biên lai",
+            "concept": "Giấy báo nhận tiền.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "voucher",
+                "slip"
+            ],
+            "collocations": [
+                "keep the receipt"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Send us the original receipt.",
+                    "translation": "Hãy gửi cho chúng tôi biên lai gốc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "evidence",
+            "phonetic": "/ˈevɪdəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+            "translation": "Bằng chứng",
+            "concept": "Chứng cứ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "proof"
+            ],
+            "collocations": [
+                "provide evidence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Provide photographs as evidence.",
+                    "translation": "Cung cấp hình ảnh làm bằng chứng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "retain",
+            "phonetic": "/rɪˈteɪn/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Continue to have (something); keep possession of.",
+            "translation": "Giữ lại",
+            "concept": "Không vứt đi.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "keep",
+                "maintain"
+            ],
+            "collocations": [
+                "retain packaging"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Please retain the original packaging.",
+                    "translation": "Vui lòng giữ lại bao bì gốc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inspect",
+            "phonetic": "/ɪnˈspekt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Look at (someone or something) closely, typically to assess their condition or to discover any shortcomings.",
+            "translation": "Kiểm tra / Thanh tra",
+            "concept": "Xem kỹ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "examine",
+                "check"
+            ],
+            "collocations": [
+                "inspect the damage"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We may need to inspect the items.",
+                    "translation": "Chúng tôi có thể cần phải kiểm tra các mặt hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "restriction",
+            "phonetic": "/rɪˈstrɪkʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A limiting condition or measure, especially a legal one.",
+            "translation": "Sự hạn chế / Quy định giới hạn",
+            "concept": "Sự cấm cản.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "limitation",
+                "constraint"
+            ],
+            "collocations": [
+                "time restriction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are time restrictions on claims.",
+                    "translation": "Có những hạn chế về thời gian đối với các yêu cầu bồi thường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "recipient",
+            "phonetic": "/rɪˈsɪpiənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person or thing that receives or is awarded something.",
+            "translation": "Người nhận",
+            "concept": "Kẻ được cho.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "receiver"
+            ],
+            "collocations": [
+                "recipient of the item"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The claim can be made by the recipient.",
+                    "translation": "Người nhận có thể đưa ra yêu cầu bồi thường."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

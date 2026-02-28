@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_14_reading_test_4",
+    "title": "Cam 14 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Reading Test 4, bao gồm các chủ đề về kiến, sở thú, rác biển.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "senescence",
+            "phonetic": "/sɪˈnesns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Process of deterioration with age.",
+            "translation": "Lão hóa",
+            "concept": "Già đi.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "aging"
+            ],
+            "collocations": [
+                "cellular senescence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Ants do not show senescence.",
+                    "translation": "Kiến không có dấu hiệu lão hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "colony",
+            "phonetic": "/ˈkɒləni/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Community of animals.",
+            "translation": "Đàn / Bầy",
+            "concept": "Nhóm sống chung.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "community"
+            ],
+            "collocations": [
+                "ant colony"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The ant colony is large.",
+                    "translation": "Đàn kiến rất lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conservation",
+            "phonetic": "/ˌkɒnsəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Protection of environment.",
+            "translation": "Bảo tồn",
+            "concept": "Giữ gìn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "preservation"
+            ],
+            "collocations": [
+                "wildlife conservation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Zoos help with conservation.",
+                    "translation": "Vườn thú giúp bảo tồn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "captivity",
+            "phonetic": "/kæpˈtɪvəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Condition of being confined.",
+            "translation": "Giam cầm",
+            "concept": "Nuôi nhốt.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "confinement"
+            ],
+            "collocations": [
+                "in captivity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They breed in captivity.",
+                    "translation": "Chúng sinh sản trong điều kiện nuôi nhốt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "debris",
+            "phonetic": "/ˈdebriː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Scattered pieces of waste.",
+            "translation": "Mảnh vụn / Rác",
+            "concept": "Rác.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "waste"
+            ],
+            "collocations": [
+                "marine debris"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Marine debris is dangerous.",
+                    "translation": "Rác thải biển rất nguy hiểm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ingestion",
+            "phonetic": "/ɪnˈdʒestʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Process of taking food into the body.",
+            "translation": "Sự nuốt vào",
+            "concept": "Ăn phải.",
+            "register": "Medical",
+            "grammar_note": "",
+            "synonyms": [
+                "swallowing"
+            ],
+            "collocations": [
+                "plastic ingestion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Ingestion of plastic kills animals.",
+                    "translation": "Nuốt phải nhựa giết chết động vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "toxic",
+            "phonetic": "/ˈtɒksɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Poisonous.",
+            "translation": "Độc hại",
+            "concept": "Có độc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "poisonous"
+            ],
+            "collocations": [
+                "toxic waste"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The chemicals are toxic.",
+                    "translation": "Hóa chất rất độc hại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "accumulate",
+            "phonetic": "/əˈkjuːmjəleɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Gather together.",
+            "translation": "Tích tụ",
+            "concept": "Gom lại.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "gather"
+            ],
+            "collocations": [
+                "accumulate wealth"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Toxins accumulate.",
+                    "translation": "Chất độc tích tụ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "welfare",
+            "phonetic": "/ˈwelfeə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Health and happiness.",
+            "translation": "Phúc lợi",
+            "concept": "Sống tốt.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "well-being"
+            ],
+            "collocations": [
+                "animal welfare"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They care about animal welfare.",
+                    "translation": "Họ quan tâm đến phúc lợi động vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪtɪɡeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Make less severe.",
+            "translation": "Giảm nhẹ",
+            "concept": "Đỡ tệ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "alleviate"
+            ],
+            "collocations": [
+                "mitigate effects"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We must mitigate the damage.",
+                    "translation": "Chúng ta phải giảm nhẹ thiệt hại."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

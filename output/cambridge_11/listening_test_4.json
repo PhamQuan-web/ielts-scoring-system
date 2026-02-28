@@ -1,0 +1,246 @@
+{
+    "id": "cambridge_11_listening_test_4",
+    "title": "Cam 11 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Listening Test 4, bao gồm các chủ đề về đa dạng sinh học, điểm nóng.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The variety of life.",
+            "translation": "Đa dạng sinh học",
+            "concept": "Nhiều loài.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "ocean biodiversity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Ocean biodiversity is threatened.",
+                    "translation": "Đa dạng sinh học đại dương đang bị đe dọa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hotspot",
+            "phonetic": "/ˈhɒtspɒt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A place of significant activity or danger.",
+            "translation": "Điểm nóng",
+            "concept": "Khu vực quan trọng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "biodiversity hotspot"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They identified marine hotspots.",
+                    "translation": "Họ đã xác định các điểm nóng trên biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "predator",
+            "phonetic": "/ˈpredətə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An animal that naturally preys on others.",
+            "translation": "Thú săn mồi",
+            "concept": "Kẻ ăn thịt.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "hunter"
+            ],
+            "collocations": [
+                "large predator"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Sharks are large ocean predators.",
+                    "translation": "Cá mập là động vật săn mồi lớn ở đại dương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "distribution",
+            "phonetic": "/ˌdɪstrɪˈbjuːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The way in which something is shared out among a group.",
+            "translation": "Sự phân bố",
+            "concept": "Cách trải rộng.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "spread"
+            ],
+            "collocations": [
+                "geographical distribution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They study the geographical distribution.",
+                    "translation": "Họ nghiên cứu sự phân bố địa lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "current",
+            "phonetic": "/ˈkʌrənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A body of water or air moving in a definite direction.",
+            "translation": "Dòng chảy",
+            "concept": "Dòng nước.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "flow",
+                "stream"
+            ],
+            "collocations": [
+                "ocean current"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Hotspots are located where ocean currents meet.",
+                    "translation": "Các điểm nóng nằm ở nơi các dòng hải lưu giao nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "volcano",
+            "phonetic": "/vɒlˈkeɪnəʊ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A mountain or hill with a crater or vent.",
+            "translation": "Núi lửa",
+            "concept": "Núi phun lửa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "active volcano"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Species live near volcanoes.",
+                    "translation": "Các loài sống gần núi lửa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "endangered",
+            "phonetic": "/ɪnˈdeɪndʒəd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "At risk of extinction.",
+            "translation": "Bị đe dọa tuyệt chủng",
+            "concept": "Sắp chết hết.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "threatened"
+            ],
+            "collocations": [
+                "endangered species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They list endangered ocean species.",
+                    "translation": "Họ liệt kê các loài sinh vật biển có nguy cơ tuyệt chủng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "assess",
+            "phonetic": "/əˈses/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Evaluate or estimate the nature, ability, or quality of.",
+            "translation": "Đánh giá",
+            "concept": "Kiểm tra xem xét.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "evaluate"
+            ],
+            "collocations": [
+                "assess the impact"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The aim is to assess 20,000 species.",
+                    "translation": "Mục tiêu là đánh giá 20.000 loài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reserve",
+            "phonetic": "/rɪˈzɜːv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A protected area for wildlife.",
+            "translation": "Khu bảo tồn",
+            "concept": "Nơi cấm săn bắt.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "sanctuary"
+            ],
+            "collocations": [
+                "nature reserve"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need more ocean reserves.",
+                    "translation": "Chúng ta cần nhiều khu bảo tồn đại dương hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "quota",
+            "phonetic": "/ˈkwəʊtə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A fixed share of something that a person or group is entitled to receive or is bound to contribute.",
+            "translation": "Chỉ tiêu / Hạn ngạch",
+            "concept": "Mức quy định.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "allowance"
+            ],
+            "collocations": [
+                "fishing quota"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We should reduce fishing quotas.",
+                    "translation": "Chúng ta nên giảm hạn ngạch đánh bắt cá."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

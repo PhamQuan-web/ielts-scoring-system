@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_12_listening_test_3",
+    "title": "Cam 12 - Listening Test 3",
+    "description": "Từ vựng về ảnh hưởng thủy ngân, động vật.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "migratory",
+            "phonetic": "/maɪˈɡreɪtəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the regular seasonal movement of animals.",
+            "translation": "Di cư",
+            "concept": "Chuyển chỗ theo mùa.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "nomadic"
+            ],
+            "collocations": [
+                "migratory birds"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Many birds are migratory.",
+                    "translation": "Nhiều loài chim là loài di cư."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mercury",
+            "phonetic": "/ˈmɜːkjəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A heavy silvery-white metal that is liquid at ordinary temperatures.",
+            "translation": "Thủy ngân",
+            "concept": "Kim loại lỏng độc.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "quicksilver"
+            ],
+            "collocations": [
+                "mercury poisoning"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Mercury is highly toxic.",
+                    "translation": "Thủy ngân rất độc hại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "contaminated",
+            "phonetic": "/kənˈtæmɪneɪtɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Having been made impure by exposure to or addition of a poisonous or polluting substance.",
+            "translation": "Bị ô nhiễm",
+            "concept": "Nhiễm bẩn.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "polluted"
+            ],
+            "collocations": [
+                "contaminated site"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The birds fed at a contaminated site.",
+                    "translation": "Lũ chim đã ăn ở một địa điểm bị ô nhiễm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "implication",
+            "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The conclusion that can be drawn from something.",
+            "translation": "Hệ quả / Ý nghĩa",
+            "concept": "Điều sẽ xảy ra.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "consequence"
+            ],
+            "collocations": [
+                "important implication"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What are the implications for humans?",
+                    "translation": "Những hệ quả đối với con người là gì?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "substantial",
+            "phonetic": "/səbˈstænʃl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Of considerable importance, size, or worth.",
+            "translation": "Đáng kể",
+            "concept": "Nhiều, lớn.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "significant"
+            ],
+            "collocations": [
+                "substantial amount"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The effects can be quite substantial.",
+                    "translation": "Các tác động có thể khá đáng kể."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "emission",
+            "phonetic": "/ɪˈmɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The production and discharge of something, especially gas or radiation.",
+            "translation": "Sự phát thải",
+            "concept": "Xả khí ra.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "discharge"
+            ],
+            "collocations": [
+                "carbon emission"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are new regulations for mercury emissions.",
+                    "translation": "Có những quy định mới về phát thải thủy ngân."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "implement",
+            "phonetic": "/ˈɪmplɪment/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Put (a decision, plan, agreement, etc.) into effect.",
+            "translation": "Thực hiện / Áp dụng",
+            "concept": "Làm theo kế hoạch.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "execute"
+            ],
+            "collocations": [
+                "implement a policy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It will cost billions to implement.",
+                    "translation": "Sẽ tốn hàng tỷ đô la để thực hiện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "wildlife",
+            "phonetic": "/ˈwaɪldlaɪf/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Wild animals collectively.",
+            "translation": "Động vật hoang dã",
+            "concept": "Thú rừng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "fauna"
+            ],
+            "collocations": [
+                "protect wildlife"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Some argue it's too much to pay to protect wildlife.",
+                    "translation": "Một số người lập luận rằng trả quá nhiều tiền để bảo vệ động vật hoang dã là không đáng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "magazine",
+            "phonetic": "/ˌmæɡəˈziːn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A periodical publication containing articles and illustrations.",
+            "translation": "Tạp chí",
+            "concept": "Báo nhiều trang.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "journal"
+            ],
+            "collocations": [
+                "read a magazine"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is a seating area with magazines.",
+                    "translation": "Có một khu vực ghế ngồi với các tạp chí."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "community",
+            "phonetic": "/kəˈmjuːnəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A group of people living in the same place or having a particular characteristic in common.",
+            "translation": "Cộng đồng",
+            "concept": "Người cùng khu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "society"
+            ],
+            "collocations": [
+                "community room"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is a community room for meetings.",
+                    "translation": "Có một phòng sinh hoạt cộng đồng để họp."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

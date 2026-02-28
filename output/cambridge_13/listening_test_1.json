@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_13_listening_test_1",
+    "title": "Cam 13 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Listening Test 1, bao gồm các chủ đề về nấu ăn, giao thông, nảy mầm.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "cookery",
+            "phonetic": "/ˈkʊkəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The practice or skill of preparing and cooking food.",
+            "translation": "Nghệ thuật nấu ăn",
+            "concept": "Kỹ năng nấu nướng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "cooking"
+            ],
+            "collocations": [
+                "cookery class"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I signed up for a cookery class.",
+                    "translation": "Tôi đã đăng ký một lớp học nấu ăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "seasonal",
+            "phonetic": "/ˈsiːzənl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to or characteristic of a particular season.",
+            "translation": "Theo mùa",
+            "concept": "Mùa nào thức nấy.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "seasonal products"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They focus on seasonal products.",
+                    "translation": "Họ tập trung vào các sản phẩm theo mùa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "congestion",
+            "phonetic": "/kənˈdʒestʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The state of being congested.",
+            "translation": "Sự tắc nghẽn",
+            "concept": "Đông đúc chật chội.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "crowding"
+            ],
+            "collocations": [
+                "traffic congestion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Traffic congestion is a problem.",
+                    "translation": "Tắc nghẽn giao thông là một vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pedestrian",
+            "phonetic": "/pəˈdestriən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person walking along a road.",
+            "translation": "Người đi bộ",
+            "concept": "Đi bằng chân.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "walker"
+            ],
+            "collocations": [
+                "pedestrian crossing"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Use the pedestrian crossing.",
+                    "translation": "Hãy sử dụng vạch qua đường cho người đi bộ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "germination",
+            "phonetic": "/ˌdʒɜːmɪˈneɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The development of a plant from a seed.",
+            "translation": "Sự nảy mầm",
+            "concept": "Hạt mọc thành cây.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "sprouting"
+            ],
+            "collocations": [
+                "seed germination"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We studied seed germination.",
+                    "translation": "Chúng tôi đã nghiên cứu sự nảy mầm của hạt giống."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dissertation",
+            "phonetic": "/ˌdɪsəˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A long essay on a particular subject.",
+            "translation": "Luận văn",
+            "concept": "Bài nghiên cứu.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "thesis"
+            ],
+            "collocations": [
+                "write a dissertation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It will be useful for my dissertation.",
+                    "translation": "Nó sẽ hữu ích cho luận văn của tôi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "urban",
+            "phonetic": "/ˈɜːbən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to a town or city.",
+            "translation": "Thuộc đô thị",
+            "concept": "Thành phố.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "city"
+            ],
+            "collocations": [
+                "urban environment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Animals adapt to the urban environment.",
+                    "translation": "Động vật thích nghi với môi trường đô thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "predator",
+            "phonetic": "/ˈpredətə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An animal that naturally preys on others.",
+            "translation": "Kẻ săn mồi",
+            "concept": "Con ăn thịt con khác.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "hunter"
+            ],
+            "collocations": [
+                "natural predator"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are fewer predators in cities.",
+                    "translation": "Có ít loài săn mồi hơn ở các thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nocturnal",
+            "phonetic": "/nɒkˈtɜːnl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Done, occurring, or active at night.",
+            "translation": "Hoạt động về đêm",
+            "concept": "Ngủ ngày cày đêm.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "nocturnal animal"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Some animals become nocturnal.",
+                    "translation": "Một số động vật trở nên hoạt động về đêm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resilience",
+            "phonetic": "/rɪˈzɪliəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The capacity to recover quickly from difficulties.",
+            "translation": "Sự kiên cường",
+            "concept": "Vượt qua khó khăn.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "toughness"
+            ],
+            "collocations": [
+                "show resilience"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Wildlife shows resilience.",
+                    "translation": "Động vật hoang dã thể hiện sự kiên cường."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

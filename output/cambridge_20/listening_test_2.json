@@ -1,0 +1,978 @@
+{
+    "id": "cambridge_20_listening_test_2",
+    "title": "Cam 20 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 2, tập trung vào chủ đề chăm sóc người cao tuổi, công tác tình nguyện, địa lý đô thị và xu hướng thực phẩm.",
+    "wordCount": 37,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "colleague",
+            "phonetic": "/ˈkɒliːɡ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person with whom one works, especially in a profession or business.",
+            "translation": "Đồng nghiệp",
+            "concept": "Người làm cùng cơ quan.",
+            "register": "General / Business",
+            "grammar_note": "Work colleagues.",
+            "synonyms": [
+                "coworker",
+                "associate",
+                "partner"
+            ],
+            "collocations": [
+                "work colleague",
+                "senior colleague",
+                "former colleague"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I feel I’m losing touch with my friends and colleagues.",
+                    "translation": "Tôi cảm thấy mình đang mất liên lạc với bạn bè và đồng nghiệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "assessment",
+            "phonetic": "/əˈsesmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+            "translation": "Sự đánh giá / Sự thẩm định",
+            "concept": "Kiểm tra để biết tình trạng.",
+            "register": "Formal / Academic",
+            "grammar_note": "Carry out an assessment.",
+            "synonyms": [
+                "evaluation",
+                "appraisal",
+                "estimation"
+            ],
+            "collocations": [
+                "needs assessment",
+                "risk assessment",
+                "carry out an assessment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Well, you’d have to have an assessment of your mother’s needs.",
+                    "translation": "Chà, bạn sẽ phải đánh giá các nhu cầu của mẹ bạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "eligible",
+            "phonetic": "/ˈelɪdʒəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Having the right to do or obtain something; satisfying the appropriate conditions.",
+            "translation": "Đủ điều kiện / Đủ tư cách",
+            "concept": "Được phép nhận quyền lợi gì đó.",
+            "register": "Formal",
+            "grammar_note": "Eligible for something.",
+            "synonyms": [
+                "entitled",
+                "qualified",
+                "permitted"
+            ],
+            "collocations": [
+                "eligible for support",
+                "eligible to vote"
+            ],
+            "contexts": [
+                {
+                    "sentence": "So once they’ve done this assessment, if I’m eligible, what happens next?",
+                    "translation": "Vậy khi họ đã đánh giá xong, nếu tôi đủ điều kiện, chuyện gì sẽ xảy ra tiếp theo?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "volunteer",
+            "phonetic": "/ˌvɒlənˈtɪər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person who freely offers to take part in an enterprise or undertake a task.",
+            "translation": "Tình nguyện viên",
+            "concept": "Làm việc không lương vì mục đích tốt.",
+            "register": "General",
+            "grammar_note": "Work as a volunteer.",
+            "synonyms": [],
+            "collocations": [
+                "volunteer work",
+                "volunteer scheme",
+                "become a volunteer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Our volunteers help to create a sense of community.",
+                    "translation": "Các tình nguyện viên của chúng tôi giúp tạo ra ý thức cộng đồng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "community",
+            "phonetic": "/kəˈmjuːnəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A group of people living in the same place or having a particular characteristic in common.",
+            "translation": "Cộng đồng",
+            "concept": "Nhóm người sống cùng nhau hoặc có chung sở thích.",
+            "register": "General",
+            "grammar_note": "Local community.",
+            "synonyms": [
+                "society",
+                "group"
+            ],
+            "collocations": [
+                "local community",
+                "sense of community",
+                "community service"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Our volunteers help to create a sense of community among the many people who live in our historic town.",
+                    "translation": "Các tình nguyện viên của chúng tôi giúp tạo ra ý thức cộng đồng giữa nhiều người sống trong thị trấn lịch sử của chúng tôi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "recommendation",
+            "phonetic": "/ˌrekəmenˈdeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A suggestion or proposal as to the best course of action, especially one put forward by an authoritative body.",
+            "translation": "Sự giới thiệu / Lời khuyên",
+            "concept": "Lời khuyên nên chọn cái gì.",
+            "register": "General",
+            "grammar_note": "Make a recommendation.",
+            "synonyms": [
+                "suggestion",
+                "advice",
+                "proposal"
+            ],
+            "collocations": [
+                "make a recommendation",
+                "follow a recommendation",
+                "personal recommendation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They might also be grateful for recommendations about what to visit.",
+                    "translation": "Họ cũng có thể biết ơn những lời giới thiệu về những nơi nên ghé thăm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "flexible",
+            "phonetic": "/ˈfleksəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be easily modified to respond to altered circumstances or conditions.",
+            "translation": "Linh hoạt",
+            "concept": "Dễ thích nghi, không cứng nhắc.",
+            "register": "General",
+            "grammar_note": "Flexible hours/schedule.",
+            "synonyms": [
+                "adaptable",
+                "versatile",
+                "adjustable"
+            ],
+            "collocations": [
+                "flexible approach",
+                "flexible working hours",
+                "be flexible"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We try to use volunteers who are flexible, though, because some festival events are held outdoors.",
+                    "translation": "Tuy nhiên, chúng tôi cố gắng sử dụng những tình nguyện viên linh hoạt vì một số sự kiện lễ hội được tổ chức ngoài trời."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "migration",
+            "phonetic": "/maɪˈɡreɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Movement of people to a new area or country in order to find work or better living conditions.",
+            "translation": "Sự di cư",
+            "concept": "Di chuyển chỗ ở số lượng lớn (người hoặc động vật).",
+            "register": "Academic",
+            "grammar_note": "Mass migration.",
+            "synonyms": [
+                "movement",
+                "relocation"
+            ],
+            "collocations": [
+                "mass migration",
+                "rural-urban migration",
+                "bird migration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "That would be all about population density and migration and so on.",
+                    "translation": "Đó sẽ là tất cả về mật độ dân số và sự di cư, v.v."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "epidemic",
+            "phonetic": "/ˌepɪˈdemɪk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A widespread occurrence of an infectious disease in a community at a particular time.",
+            "translation": "Dịch bệnh",
+            "concept": "Bệnh lây lan nhanh trong cộng đồng.",
+            "register": "Medical",
+            "grammar_note": "Cholera epidemic.",
+            "synonyms": [
+                "outbreak",
+                "plague"
+            ],
+            "collocations": [
+                "flu epidemic",
+                "cholera epidemic",
+                "global epidemic"
+            ],
+            "contexts": [
+                {
+                    "sentence": "How in the 19th century, a physician used street plans to find the source of a cholera epidemic.",
+                    "translation": "Vào thế kỷ 19, một bác sĩ đã sử dụng bản đồ đường phố như thế nào để tìm ra nguồn gốc của dịch tả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "manipulate",
+            "phonetic": "/məˈnɪpjʊleɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Control or influence (a person or situation) cleverly, unfairly, or unscrupulously.",
+            "translation": "Thao túng / Điều khiển",
+            "concept": "Điều khiển theo ý mình (thường là tiêu cực).",
+            "register": "Formal",
+            "grammar_note": "Manipulate data/people.",
+            "synonyms": [
+                "control",
+                "influence",
+                "exploit"
+            ],
+            "collocations": [
+                "manipulate figures",
+                "manipulate people",
+                "deliberately manipulate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They’re sometimes deliberately manipulated.",
+                    "translation": "Đôi khi chúng bị thao túng một cách cố ý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "urbanisation",
+            "phonetic": "/ˌɜːbənaɪˈzeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The process of making an area more urban.",
+            "translation": "Đô thị hóa",
+            "concept": "Sự phát triển của thành phố, người dân đổ về thành thị.",
+            "register": "Academic",
+            "grammar_note": "Rapid urbanisation.",
+            "synonyms": [],
+            "collocations": [
+                "rapid urbanisation",
+                "process of urbanisation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One of the possibilities we have discussed is urbanisation.",
+                    "translation": "Một trong những khả năng chúng ta đã thảo luận là đô thị hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "outskirts",
+            "phonetic": "/ˈaʊtskɜːts/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The outer parts of a town or city.",
+            "translation": "Vùng ngoại ô",
+            "concept": "Rìa thành phố.",
+            "register": "General",
+            "grammar_note": "On the outskirts.",
+            "synonyms": [
+                "suburbs",
+                "fringes"
+            ],
+            "collocations": [
+                "on the outskirts",
+                "city outskirts"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It would be nice to talk about some positive developments, like some of the new developments on the outskirts of cities.",
+                    "translation": "Sẽ thật tuyệt khi nói về một số phát triển tích cực, như một số khu phát triển mới ở ngoại ô thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "architecturally",
+            "phonetic": "/ˌɑːkɪˈtektʃərəli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C1",
+            "meaning": "In terms of architecture.",
+            "translation": "Về mặt kiến trúc",
+            "concept": "Liên quan đến thiết kế xây dựng.",
+            "register": "Academic / Formal",
+            "grammar_note": "Architecturally significant.",
+            "synonyms": [],
+            "collocations": [
+                "architecturally significant",
+                "architecturally designed"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Yeah, but aren’t the buildings architecturally significant?",
+                    "translation": "Vâng, nhưng những tòa nhà đó không có ý nghĩa về mặt kiến trúc sao?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪnəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "translation": "Sự bền vững",
+            "concept": "Khả năng duy trì lâu dài mà không làm hại môi trường.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Environmental sustainability.",
+            "synonyms": [
+                "viability",
+                "durability"
+            ],
+            "collocations": [
+                "promote sustainability",
+                "long-term sustainability"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It set out to conform to the usual principles, sustainability and so on.",
+                    "translation": "Nó đặt ra mục tiêu tuân thủ các nguyên tắc thông thường, sự bền vững và vân vân."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "obsessed",
+            "phonetic": "/əbˈsest/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Preoccupy or fill the mind of (someone) continually, intrusively, and to a troubling extent.",
+            "translation": "Ám ảnh / Mê mẩn",
+            "concept": "Nghĩ về cái gì quá nhiều.",
+            "register": "General",
+            "grammar_note": "Obsessed with something.",
+            "synonyms": [
+                "fixated",
+                "preoccupied"
+            ],
+            "collocations": [
+                "obsessed with",
+                "become obsessed"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The food industry in the UK in particular is obsessed with finding and exploiting the next big food trend.",
+                    "translation": "Ngành công nghiệp thực phẩm ở Anh đặc biệt bị ám ảnh bởi việc tìm kiếm và khai thác xu hướng thực phẩm lớn tiếp theo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "influencer",
+            "phonetic": "/ˈɪnfluənsər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person with the ability to influence potential buyers of a product or service by promoting or recommending the items on social media.",
+            "translation": "Người có sức ảnh hưởng (KOL)",
+            "concept": "Người nổi tiếng trên mạng xã hội quảng cáo sản phẩm.",
+            "register": "Business / Social Media",
+            "grammar_note": "Social media influencer.",
+            "synonyms": [],
+            "collocations": [
+                "social media influencer",
+                "fashion influencer",
+                "top influencer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One of the most effective ways of promoting a new food product is by using social media influencers.",
+                    "translation": "Một trong những cách hiệu quả nhất để quảng bá sản phẩm thực phẩm mới là sử dụng những người có sức ảnh hưởng trên mạng xã hội."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ambassador",
+            "phonetic": "/æmˈbæsədər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A representative or promoter of a specified activity.",
+            "translation": "Đại sứ",
+            "concept": "Người đại diện cho thương hiệu (brand ambassador).",
+            "register": "Formal / Business",
+            "grammar_note": "Brand ambassador.",
+            "synonyms": [
+                "representative",
+                "envoy"
+            ],
+            "collocations": [
+                "brand ambassador",
+                "goodwill ambassador"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Using social media influencers as brand ambassadors.",
+                    "translation": "Sử dụng những người có sức ảnh hưởng trên mạng xã hội làm đại sứ thương hiệu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pioneer",
+            "phonetic": "/ˌpaɪəˈnɪər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person who is among the first to research and develop a new area of knowledge or activity.",
+            "translation": "Người tiên phong",
+            "concept": "Người đi đầu trong lĩnh vực gì.",
+            "register": "General",
+            "grammar_note": "A pioneer in...",
+            "synonyms": [
+                "innovator",
+                "trailblazer"
+            ],
+            "collocations": [
+                "pioneer in the field",
+                "early pioneer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Companies which sell vegan produce were pioneers in being able to increase sales really quickly in this way.",
+                    "translation": "Các công ty bán sản phẩm thuần chay là những người tiên phong trong khả năng tăng doanh số rất nhanh theo cách này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "provocation",
+            "phonetic": "/ˌprɒvəˈkeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Action or speech that makes someone annoyed or angry, especially deliberately.",
+            "translation": "Sự khiêu khích",
+            "concept": "Hành động chọc tức hoặc gây tranh cãi để gây chú ý.",
+            "register": "Formal",
+            "grammar_note": "Without provocation.",
+            "synonyms": [
+                "incitement",
+                "goading"
+            ],
+            "collocations": [
+                "deliberate provocation",
+                "act of provocation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They attracted a lot of attention with a media campaign which used provocation as a way of getting their message across.",
+                    "translation": "Họ đã thu hút rất nhiều sự chú ý bằng một chiến dịch truyền thông sử dụng sự khiêu khích như một cách để truyền tải thông điệp của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aggravate",
+            "phonetic": "/ˈæɡrəveɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Make (a problem, injury, or offence) worse or more serious; annoy or exasperate.",
+            "translation": "Làm trầm trọng thêm / Chọc tức",
+            "concept": "Làm ai đó bực mình hoặc làm tình hình tệ hơn.",
+            "register": "Formal",
+            "grammar_note": "Aggravate the situation.",
+            "synonyms": [
+                "worsen",
+                "exacerbate",
+                "annoy"
+            ],
+            "collocations": [
+                "aggravate the problem",
+                "aggravate the situation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The fact that this campaign aggravated competitors producing milk from dairy cows was seen as a plus.",
+                    "translation": "Việc chiến dịch này chọc tức các đối thủ sản xuất sữa bò được coi là một điểm cộng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "staple",
+            "phonetic": "/ˈsteɪpəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A main or important element of something, especially of a diet.",
+            "translation": "Món chính / Nhu yếu phẩm",
+            "concept": "Thực phẩm cơ bản ăn hàng ngày (gạo, bánh mì).",
+            "register": "General",
+            "grammar_note": "Staple diet/food.",
+            "synonyms": [
+                "essential",
+                "basis"
+            ],
+            "collocations": [
+                "staple food",
+                "staple diet",
+                "daily staple"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The avocado, which at this time was certainly not the daily staple it’s since become.",
+                    "translation": "Quả bơ, thứ mà vào thời điểm này chắc chắn không phải là món ăn hàng ngày như bây giờ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "delicacy",
+            "phonetic": "/ˈdelɪkəsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A choice or expensive food.",
+            "translation": "Đặc sản / Món ngon",
+            "concept": "Món ăn ngon, hiếm và thường đắt tiền.",
+            "register": "General",
+            "grammar_note": "Local delicacy.",
+            "synonyms": [
+                "treat",
+                "luxury"
+            ],
+            "collocations": [
+                "local delicacy",
+                "rare delicacy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Norwegian scray, a rarely available seasonal fish delicacy.",
+                    "translation": "Cá scray Na Uy, một loại đặc sản cá theo mùa hiếm có."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "desertification",
+            "phonetic": "/dɪˌzɜːtɪfɪˈkeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.",
+            "translation": "Sa mạc hóa",
+            "concept": "Đất đai trở nên khô cằn như sa mạc.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Lead to desertification.",
+            "synonyms": [],
+            "collocations": [
+                "combat desertification",
+                "cause desertification"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One issue has been that the fertility of the soil decreased dramatically, which could potentially lead to desertification.",
+                    "translation": "Một vấn đề là độ phì nhiêu của đất giảm mạnh, điều này có khả năng dẫn đến sa mạc hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fertility",
+            "phonetic": "/fəˈtɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The quality of being fertile; productiveness.",
+            "translation": "Độ phì nhiêu / Khả năng sinh sản",
+            "concept": "Đất tốt trồng trọt được, hoặc khả năng sinh con.",
+            "register": "General / Scientific",
+            "grammar_note": "Soil fertility.",
+            "synonyms": [
+                "richness",
+                "fruitfulness"
+            ],
+            "collocations": [
+                "soil fertility",
+                "decline in fertility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The fertility of the soil decreased dramatically.",
+                    "translation": "Độ phì nhiêu của đất giảm mạnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "council",
+            "phonetic": "/ˈkaʊnsəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An advisory, deliberative, or legislative body of people formally constituted and meeting regularly.",
+            "translation": "Hội đồng (thành phố/địa phương)",
+            "concept": "Cơ quan quản lý địa phương.",
+            "register": "Formal",
+            "grammar_note": "Town council.",
+            "synonyms": [
+                "board",
+                "committee",
+                "authority"
+            ],
+            "collocations": [
+                "local council",
+                "town council",
+                "city council"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Have you tried to get any support from the local council?",
+                    "translation": "Bạn đã thử tìm kiếm sự hỗ trợ nào từ hội đồng địa phương chưa?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "carer",
+            "phonetic": "/ˈkeərər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A family member or paid helper who regularly looks after a child or a sick, elderly, or disabled person.",
+            "translation": "Người chăm sóc (bệnh nhân/người già)",
+            "concept": "Người chăm sóc người ốm yếu (thường là người nhà).",
+            "register": "General / Medical",
+            "grammar_note": "Full-time carer.",
+            "synonyms": [
+                "caregiver",
+                "attendant"
+            ],
+            "collocations": [
+                "primary carer",
+                "full-time carer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They realise that carers sometimes need time for all the other responsibilities they have.",
+                    "translation": "Họ nhận ra rằng những người chăm sóc đôi khi cần thời gian cho tất cả các trách nhiệm khác mà họ có."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "physician",
+            "phonetic": "/fɪˈzɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person qualified to practice medicine.",
+            "translation": "Bác sĩ / Thầy thuốc",
+            "concept": "Từ trang trọng chỉ bác sĩ.",
+            "register": "Formal / Medical",
+            "grammar_note": "Consult a physician.",
+            "synonyms": [
+                "doctor",
+                "medic"
+            ],
+            "collocations": [
+                "consult a physician",
+                "qualified physician"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A physician used street plans and plans of water supplies to find the source of a cholera epidemic.",
+                    "translation": "Một bác sĩ đã sử dụng bản đồ đường phố và bản đồ cấp nước để tìm ra nguồn gốc của dịch tả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "syllabus",
+            "phonetic": "/ˈsɪləbəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An outline of the subjects in a course of study or teaching.",
+            "translation": "Đề cương khóa học / Giáo trình",
+            "concept": "Danh sách các môn/bài sẽ học.",
+            "register": "Academic",
+            "grammar_note": "On the syllabus.",
+            "synonyms": [
+                "curriculum",
+                "course outline"
+            ],
+            "collocations": [
+                "course syllabus",
+                "exam syllabus"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I thought that had been taken off the syllabus for this year.",
+                    "translation": "Tôi nghĩ rằng cái đó đã được loại khỏi giáo trình cho năm nay."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "renewable",
+            "phonetic": "/rɪˈnjuːəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "(of a natural resource or source of energy) not depleted when used.",
+            "translation": "Có thể tái tạo (năng lượng)",
+            "concept": "Năng lượng sạch, không cạn kiệt (gió, mặt trời).",
+            "register": "Academic / Environmental",
+            "grammar_note": "Renewable energy.",
+            "synonyms": [
+                "sustainable"
+            ],
+            "collocations": [
+                "renewable energy",
+                "renewable resources",
+                "renewable power"
+            ],
+            "contexts": [
+                {
+                    "sentence": "That might be a good example of a city which set out to depend entirely on renewable energy.",
+                    "translation": "Đó có thể là một ví dụ điển hình về một thành phố đặt mục tiêu phụ thuộc hoàn toàn vào năng lượng tái tạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nutrients",
+            "phonetic": "/ˈnjuːtriənts/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Substances that provide nourishment essential for growth and the maintenance of life.",
+            "translation": "Chất dinh dưỡng",
+            "concept": "Chất bổ trong thức ăn.",
+            "register": "Scientific / General",
+            "grammar_note": "Rich in nutrients.",
+            "synonyms": [],
+            "collocations": [
+                "essential nutrients",
+                "rich in nutrients",
+                "lack of nutrients"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Advertisements were designed to promote the avocado as a superfood, rich in nutrients.",
+                    "translation": "Các quảng cáo được thiết kế để quảng bá bơ như một siêu thực phẩm, giàu chất dinh dưỡng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "footprint",
+            "phonetic": "/ˈfʊtprɪnt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The impact on the environment of human activity.",
+            "translation": "Dấu chân (sinh thái)",
+            "concept": "Tác động môi trường (carbon footprint).",
+            "register": "Environmental",
+            "grammar_note": "Carbon footprint.",
+            "synonyms": [
+                "impact"
+            ],
+            "collocations": [
+                "carbon footprint",
+                "environmental footprint",
+                "reduce footprint"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It also has a relatively low carbon footprint.",
+                    "translation": "Nó cũng có dấu chân carbon tương đối thấp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ethical",
+            "phonetic": "/ˈeθɪkəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to moral principles or the branch of knowledge dealing with these.",
+            "translation": "Thuộc đạo đức / Có đạo đức",
+            "concept": "Đúng sai về mặt đạo đức.",
+            "register": "Formal",
+            "grammar_note": "Ethical issues/concerns.",
+            "synonyms": [
+                "moral",
+                "principled"
+            ],
+            "collocations": [
+                "ethical issues",
+                "ethical concerns",
+                "ethical standards"
+            ],
+            "contexts": [
+                {
+                    "sentence": "But ethical concerns have been raised about the effects a surge in demand can cause.",
+                    "translation": "Nhưng những lo ngại về đạo đức đã được nêu ra về những tác động mà sự gia tăng nhu cầu có thể gây ra."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "surge",
+            "phonetic": "/sɜːdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A sudden powerful forward or upward movement.",
+            "translation": "Sự trào dâng / Sự tăng vọt",
+            "concept": "Tăng nhanh đột ngột.",
+            "register": "General / Business",
+            "grammar_note": "Surge in something.",
+            "synonyms": [
+                "rush",
+                "upsurge",
+                "boost"
+            ],
+            "collocations": [
+                "surge in demand",
+                "surge in prices",
+                "power surge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Ethical concerns have been raised about the effects a surge in demand can cause.",
+                    "translation": "Những lo ngại về đạo đức đã được nêu ra về những tác động mà sự gia tăng nhu cầu có thể gây ra."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "poverty",
+            "phonetic": "/ˈpɒvəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The state of being extremely poor.",
+            "translation": "Sự nghèo đói",
+            "concept": "Tình trạng không có tiền.",
+            "register": "General",
+            "grammar_note": "Live in poverty.",
+            "synonyms": [
+                "destitution",
+                "penury"
+            ],
+            "collocations": [
+                "extreme poverty",
+                "live in poverty",
+                "poverty line"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We could focus on poverty. That’s something that’s a global problem.",
+                    "translation": "Chúng ta có thể tập trung vào sự nghèo đói. Đó là một vấn đề toàn cầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cholera",
+            "phonetic": "/ˈkɒlərə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "An infectious and often fatal bacterial disease of the small intestine, typically contracted from infected water supplies.",
+            "translation": "Bệnh tả",
+            "concept": "Bệnh lây qua đường nước, gây tiêu chảy cấp.",
+            "register": "Medical",
+            "grammar_note": "Cholera outbreak.",
+            "synonyms": [],
+            "collocations": [
+                "cholera epidemic",
+                "contract cholera"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Professor Lee gave us that lecture on cholera.",
+                    "translation": "Giáo sư Lee đã giảng cho chúng tôi bài đó về bệnh tả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pedestrian",
+            "phonetic": "/pəˈdestriən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person walking along a road or in a developed area.",
+            "translation": "Người đi bộ",
+            "concept": "Người đi bằng chân trên đường.",
+            "register": "General",
+            "grammar_note": "Pedestrian crossing.",
+            "synonyms": [
+                "walker"
+            ],
+            "collocations": [
+                "pedestrian crossing",
+                "pedestrian zone",
+                "hit by a car"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It was designed to be totally pedestrianised too wasn’t it?",
+                    "translation": "Nó cũng được thiết kế để hoàn toàn dành cho người đi bộ phải không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪnəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be maintained at a certain rate or level.",
+            "translation": "Bền vững",
+            "concept": "Có thể duy trì lâu dài.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Sustainable development.",
+            "synonyms": [
+                "viable",
+                "continuous"
+            ],
+            "collocations": [
+                "sustainable development",
+                "sustainable energy",
+                "sustainable growth"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The public can also be encouraged to buy things which are more sustainably produced.",
+                    "translation": "Công chúng cũng có thể được khuyến khích mua những thứ được sản xuất bền vững hơn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "id": "cambridge_12_reading_test_4",
+    "title": "Cam 12 - Reading Test 4",
+    "description": "Từ vựng về lịch sử thủy tinh.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "archaeologist",
+            "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person who studies human history through excavation.",
+            "translation": "Nhà khảo cổ học",
+            "concept": "Người đào đồ cổ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "famous archaeologist"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Archaeologists found ancient glass.",
+                    "translation": "Các nhà khảo cổ đã tìm thấy thủy tinh cổ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "glaze",
+            "phonetic": "/ɡleɪz/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A vitreous substance fused on to the surface of pottery.",
+            "translation": "Lớp men",
+            "concept": "Lớp phủ bóng ngoài.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "coating"
+            ],
+            "collocations": [
+                "glass glaze"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Glass took the form of glazes.",
+                    "translation": "Thủy tinh có dạng như lớp men."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "impurity",
+            "phonetic": "/ɪmˈpjʊərəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The quality or condition of being impure.",
+            "translation": "Tạp chất",
+            "concept": "Chất bẩn lẫn vào.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "contaminant"
+            ],
+            "collocations": [
+                "remove impurities"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The colour was due to impurities in the material.",
+                    "translation": "Màu sắc là do các tạp chất trong vật liệu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "/sɪnˈθetɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Made by chemical synthesis.",
+            "translation": "Tổng hợp / Nhân tạo",
+            "concept": "Làm bằng hóa chất.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "artificial"
+            ],
+            "collocations": [
+                "synthetic material"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They created synthetic colors.",
+                    "translation": "Họ đã tạo ra các màu sắc tổng hợp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "automated",
+            "phonetic": "/ˈɔːtəmeɪtɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Operated by largely automatic equipment.",
+            "translation": "Được tự động hóa",
+            "concept": "Chạy bằng máy.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "automatic"
+            ],
+            "collocations": [
+                "automated process"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It became a fully automated process.",
+                    "translation": "Nó đã trở thành một quá trình hoàn toàn tự động."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "refractive",
+            "phonetic": "/rɪˈfræktɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to the bending of light.",
+            "translation": "Khúc xạ",
+            "concept": "Bẻ cong ánh sáng.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "refractive index"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They studied the refractive index of glass.",
+                    "translation": "Họ nghiên cứu chỉ số khúc xạ của thủy tinh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "milestone",
+            "phonetic": "/ˈmaɪlstəʊn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A significant event or stage in the life, progress, or development of a person, nation, etc.",
+            "translation": "Cột mốc quan trọng",
+            "concept": "Dấu mốc đáng nhớ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "landmark"
+            ],
+            "collocations": [
+                "major milestone"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This invention was a milestone.",
+                    "translation": "Phát minh này là một cột mốc quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "collapse",
+            "phonetic": "/kəˈlæps/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Fall down or in; give way.",
+            "translation": "Sụp đổ",
+            "concept": "Đổ sụp.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "fall down"
+            ],
+            "collocations": [
+                "economic collapse"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The glass industry collapsed.",
+                    "translation": "Ngành công nghiệp thủy tinh đã sụp đổ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "craftsman",
+            "phonetic": "/ˈkrɑːftsmən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A worker skilled in a particular craft.",
+            "translation": "Thợ thủ công",
+            "concept": "Người làm đồ tay.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "artisan"
+            ],
+            "collocations": [
+                "skilled craftsman"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Venetian craftsmen were highly skilled.",
+                    "translation": "Những thợ thủ công Venice có tay nghề rất cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "widespread",
+            "phonetic": "/ˈwaɪdspred/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Found or distributed over a large area or number of people.",
+            "translation": "Rộng khắp / Phổ biến",
+            "concept": "Lan rộng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "extensive",
+                "common"
+            ],
+            "collocations": [
+                "widespread use"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Glass became widespread in Europe.",
+                    "translation": "Thủy tinh trở nên phổ biến ở châu Âu."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

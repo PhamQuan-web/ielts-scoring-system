@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_10_reading_test_1",
+    "title": "Cam 10 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Reading Test 1, bao gồm các chủ đề về giếng bậc thang, tâm lý đổi mới.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "stepwell",
+            "phonetic": "/ˈstepwel/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A well or pond in which the water is reached by descending a set of steps.",
+            "translation": "Giếng bậc thang",
+            "concept": "Giếng có bậc thang xuống.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "ancient stepwell"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Stepwells are unique to India.",
+                    "translation": "Giếng bậc thang là độc nhất ở Ấn Độ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "groundwater",
+            "phonetic": "/ˈɡraʊndwɔːtə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Water held underground in the soil or in pores and crevices in rock.",
+            "translation": "Nước ngầm",
+            "concept": "Nước dưới đất.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "access groundwater"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They needed access to clean groundwater.",
+                    "translation": "Họ cần tiếp cận nguồn nước ngầm sạch."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "irrigation",
+            "phonetic": "/ˌɪrɪˈɡeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The supply of water to land or crops to help growth.",
+            "translation": "Sự tưới tiêu",
+            "concept": "Dẫn nước vào ruộng.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "watering"
+            ],
+            "collocations": [
+                "irrigation system"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Water was used for irrigation.",
+                    "translation": "Nước được dùng để tưới tiêu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "utilitarian",
+            "phonetic": "/ˌjuːtɪlɪˈteəriən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Designed to be useful or practical rather than attractive.",
+            "translation": "Thực dụng",
+            "concept": "Có ích là chính.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "practical",
+                "functional"
+            ],
+            "collocations": [
+                "utilitarian application"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Its significance goes beyond its utilitarian application.",
+                    "translation": "Ý nghĩa của nó vượt xa ứng dụng thực dụng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "architecturally",
+            "phonetic": "/ˌɑːkɪˈtektʃərəli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C1",
+            "meaning": "In terms of architecture or the design of buildings.",
+            "translation": "Về mặt kiến trúc",
+            "concept": "Liên quan đến thiết kế.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "structurally"
+            ],
+            "collocations": [
+                "architecturally complex"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They are architecturally complex.",
+                    "translation": "Chúng phức tạp về mặt kiến trúc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monument",
+            "phonetic": "/ˈmɒnjumənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A statue, building, or other structure erected to commemorate a notable person or event.",
+            "translation": "Đài kỷ niệm / Di tích",
+            "concept": "Công trình ghi nhớ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "memorial"
+            ],
+            "collocations": [
+                "ancient monument"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Many of these monuments have been saved.",
+                    "translation": "Nhiều di tích này đã được cứu vãn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ingenuity",
+            "phonetic": "/ˌɪndʒəˈnjuːəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The quality of being clever, original, and inventive.",
+            "translation": "Sự khéo léo / Tài tình",
+            "concept": "Trí thông minh sáng tạo.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "inventiveness",
+                "creativity"
+            ],
+            "collocations": [
+                "human ingenuity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They serve as a reminder of human ingenuity.",
+                    "translation": "Chúng đóng vai trò như một lời nhắc nhở về sự khéo léo của con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "overbearing",
+            "phonetic": "/ˌəʊvəˈbeərɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Unpleasantly or arrogantly domineering.",
+            "translation": "Hống hách / Độc đoán",
+            "concept": "Bắt người khác nghe theo.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "domineering",
+                "bossy"
+            ],
+            "collocations": [
+                "overbearing leader"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It can happen when the leader is overbearing.",
+                    "translation": "Nó có thể xảy ra khi người lãnh đạo hống hách."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interchange",
+            "phonetic": "/ˈɪntətʃeɪndʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of sharing or exchanging ideas or information.",
+            "translation": "Sự trao đổi",
+            "concept": "Trao đổi ý kiến.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "exchange",
+                "sharing"
+            ],
+            "collocations": [
+                "free interchange of ideas"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It encouraged a free interchange of ideas.",
+                    "translation": "Nó khuyến khích sự trao đổi ý tưởng tự do."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revolutionise",
+            "phonetic": "/ˌrevəˈluːʃənaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Change (something) radically or fundamentally.",
+            "translation": "Cách mạng hóa",
+            "concept": "Thay đổi hoàn toàn.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "transform"
+            ],
+            "collocations": [
+                "revolutionise an industry"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They revolutionised attitudes to design.",
+                    "translation": "Họ đã cách mạng hóa thái độ đối với thiết kế."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

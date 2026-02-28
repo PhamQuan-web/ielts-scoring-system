@@ -1,0 +1,1003 @@
+{
+    "id": "cambridge_20_listening_test_1",
+    "title": "Cam 20 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Listening Test 1, tập trung vào chủ đề nhà hàng, gốm sứ, sự cô đơn và quy hoạch đô thị.",
+    "wordCount": 37,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "atmosphere",
+            "phonetic": "/ˈætməsfɪər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The character, feeling, or mood of a place or situation.",
+            "translation": "Bầu không khí",
+            "concept": "Cảm giác mà một nơi mang lại (lãng mạn, căng thẳng, sôi động).",
+            "register": "General",
+            "grammar_note": "Friendly/relaxing atmosphere.",
+            "synonyms": [
+                "ambience",
+                "mood",
+                "environment"
+            ],
+            "collocations": [
+                "lively atmosphere",
+                "tense atmosphere",
+                "create an atmosphere"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s got a great atmosphere and before dinner you can go up on the roof.",
+                    "translation": "Nơi đó có bầu không khí tuyệt vời và trước bữa tối bạn có thể lên sân thượng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reputation",
+            "phonetic": "/ˌrepjuˈteɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The beliefs or opinions that are generally held about someone or something.",
+            "translation": "Danh tiếng",
+            "concept": "Những gì mọi người nghĩ về một người/nơi chốn (tốt hoặc xấu).",
+            "register": "General",
+            "grammar_note": "Have a reputation for...",
+            "synonyms": [
+                "standing",
+                "status",
+                "renown"
+            ],
+            "collocations": [
+                "good reputation",
+                "earn a reputation",
+                "reputation for quality"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s quite new but it’s got a great reputation already.",
+                    "translation": "Nó khá mới nhưng đã có danh tiếng rất tốt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "spectacular",
+            "phonetic": "/spekˈtækjələr/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Beautiful in a dramatic and eye-catching way.",
+            "translation": "Ngoạn mục / Hùng vĩ",
+            "concept": "Rất đẹp, ấn tượng mạnh về thị giác.",
+            "register": "General",
+            "grammar_note": "Spectacular view/scenery.",
+            "synonyms": [
+                "breathtaking",
+                "stunning",
+                "striking"
+            ],
+            "collocations": [
+                "spectacular view",
+                "spectacular success"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s very popular as the views are spectacular.",
+                    "translation": "Nó rất phổ biến vì tầm nhìn rất ngoạn mục."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pottery",
+            "phonetic": "/ˈpɒtəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Pots, dishes, and other articles made of earthenware or baked clay.",
+            "translation": "Đồ gốm / Nghề gốm",
+            "concept": "Làm đồ vật từ đất sét nung.",
+            "register": "General",
+            "grammar_note": "Pottery class, pottery wheel.",
+            "synonyms": [
+                "ceramics",
+                "earthenware"
+            ],
+            "collocations": [
+                "pottery class",
+                "make pottery",
+                "pottery studio"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I just want to say a bit about the craft of pottery.",
+                    "translation": "Tôi chỉ muốn nói một chút về nghề gốm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archaeologist",
+            "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+            "translation": "Nhà khảo cổ học",
+            "concept": "Người nghiên cứu quá khứ qua việc đào bới di chỉ.",
+            "register": "Academic",
+            "grammar_note": "Work as an archaeologist.",
+            "synonyms": [],
+            "collocations": [
+                "leading archaeologist",
+                "marine archaeologist"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pottery has given archaeologists a fascinating insight into how ancient people lived.",
+                    "translation": "Đồ gốm đã mang lại cho các nhà khảo cổ cái nhìn sâu sắc thú vị về cách người xưa sinh sống."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "insight",
+            "phonetic": "/ˈɪnsaɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A deep understanding of a person or thing.",
+            "translation": "Cái nhìn sâu sắc / Sự thấu hiểu",
+            "concept": "Hiểu rõ bản chất bên trong của vấn đề.",
+            "register": "Formal / Academic",
+            "grammar_note": "Insight into something.",
+            "synonyms": [
+                "understanding",
+                "perception",
+                "vision"
+            ],
+            "collocations": [
+                "fascinating insight",
+                "gain insight",
+                "provide insight"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pottery has given archaeologists a fascinating insight into how ancient people lived.",
+                    "translation": "Đồ gốm đã mang lại cho các nhà khảo cổ cái nhìn sâu sắc thú vị về cách người xưa sinh sống."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "artefact",
+            "phonetic": "/ˈɑːtɪfækt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An object made by a human being, typically an item of cultural or historical interest.",
+            "translation": "Cổ vật / Tạo tác",
+            "concept": "Đồ vật do người xưa làm ra, có giá trị lịch sử.",
+            "register": "Academic",
+            "grammar_note": "Ancient artefact.",
+            "synonyms": [
+                "relic",
+                "item",
+                "article"
+            ],
+            "collocations": [
+                "historical artefact",
+                "ancient artefact",
+                "cultural artefact"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The shape of an artefact may have been lost but archaeologists can tell what it was for.",
+                    "translation": "Hình dạng của cổ vật có thể đã mất nhưng các nhà khảo cổ vẫn biết nó dùng để làm gì."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "kiln",
+            "phonetic": "/kɪln/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A furnace or oven for burning, baking, or drying, especially one for calcining lime or firing pottery.",
+            "translation": "Lò nung",
+            "concept": "Lò chuyên dụng nhiệt độ cao để nung gốm.",
+            "register": "Technical",
+            "grammar_note": "Fire in a kiln.",
+            "synonyms": [
+                "oven",
+                "furnace"
+            ],
+            "collocations": [
+                "electric kiln",
+                "fire a kiln"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Basically, a kiln removes the water from clay at temperatures of around 1000 degrees Celsius.",
+                    "translation": "Về cơ bản, lò nung loại bỏ nước khỏi đất sét ở nhiệt độ khoảng 1000 độ C."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revolutionise",
+            "phonetic": "/ˌrevəˈluːʃənaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Change (something) radically or fundamentally.",
+            "translation": "Cách mạng hóa",
+            "concept": "Thay đổi hoàn toàn cách làm việc gì đó.",
+            "register": "Formal",
+            "grammar_note": "Revolutionise the industry.",
+            "synonyms": [
+                "transform",
+                "modernize",
+                "reshape"
+            ],
+            "collocations": [
+                "revolutionise the way",
+                "revolutionise the industry"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Its invention revolutionised the pottery industry.",
+                    "translation": "Phát minh của nó đã cách mạng hóa ngành công nghiệp gốm sứ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "loneliness",
+            "phonetic": "/ˈləʊnlinəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Sadness because one has no friends or company.",
+            "translation": "Sự cô đơn",
+            "concept": "Cảm giác buồn chán vì ở một mình hoặc không kết nối được.",
+            "register": "General",
+            "grammar_note": "Suffer from loneliness.",
+            "synonyms": [
+                "isolation",
+                "solitude"
+            ],
+            "collocations": [
+                "combat loneliness",
+                "feelings of loneliness",
+                "chronic loneliness"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Looking at the studies on health risks and loneliness, there are claims that loneliness has as much impact as smoking.",
+                    "translation": "Nhìn vào các nghiên cứu về rủi ro sức khỏe và sự cô đơn, có những tuyên bố rằng sự cô đơn có tác động ngang với hút thuốc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "isolation",
+            "phonetic": "/ˌaɪsəˈleɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The process or fact of isolating or being isolated.",
+            "translation": "Sự cô lập / Sự cách ly",
+            "concept": "Tình trạng bị tách biệt khỏi người khác.",
+            "register": "Academic / Formal",
+            "grammar_note": "Social isolation.",
+            "synonyms": [
+                "seclusion",
+                "segregation"
+            ],
+            "collocations": [
+                "social isolation",
+                "sense of isolation",
+                "feel isolation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "In my case, far from making me feel isolated, social media actually does the opposite.",
+                    "translation": "Trong trường hợp của tôi, thay vì làm tôi cảm thấy bị cô lập, mạng xã hội thực sự làm điều ngược lại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lifespan",
+            "phonetic": "/ˈlaɪfspæn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The length of time for which a person or animal lives or a thing functions.",
+            "translation": "Tuổi thọ / Vòng đời",
+            "concept": "Khoảng thời gian sống.",
+            "register": "Academic",
+            "grammar_note": "Average lifespan.",
+            "synonyms": [
+                "life expectancy",
+                "lifetime"
+            ],
+            "collocations": [
+                "increase lifespan",
+                "average lifespan",
+                "human lifespan"
+            ],
+            "contexts": [
+                {
+                    "sentence": "So nothing really to do with longer lifespans.",
+                    "translation": "Vì vậy, thực sự không liên quan gì đến tuổi thọ dài hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "plausible",
+            "phonetic": "/ˈplɔːzəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of an argument or statement) seeming reasonable or probable.",
+            "translation": "Hợp lý / Có vẻ đúng",
+            "concept": "Nghe có lý, có thể tin được.",
+            "register": "Formal",
+            "grammar_note": "A plausible explanation.",
+            "synonyms": [
+                "reasonable",
+                "credible",
+                "believable"
+            ],
+            "collocations": [
+                "plausible explanation",
+                "plausible reason",
+                "seem plausible"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A more plausible explanation is that people are having to move around for work.",
+                    "translation": "Một lời giải thích hợp lý hơn là mọi người phải di chuyển vì công việc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cardiovascular",
+            "phonetic": "/ˌkɑːdiəʊˈvæskjələr/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the heart and blood vessels.",
+            "translation": "Thuộc tim mạch",
+            "concept": "Liên quan đến tim và mạch máu.",
+            "register": "Medical",
+            "grammar_note": "Cardiovascular disease.",
+            "synonyms": [],
+            "collocations": [
+                "cardiovascular disease",
+                "cardiovascular health",
+                "cardiovascular system"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There’s been a lot of research on cardiovascular disease and whether loneliness contributes to that.",
+                    "translation": "Đã có nhiều nghiên cứu về bệnh tim mạch và liệu sự cô đơn có góp phần vào đó không."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "subjective",
+            "phonetic": "/səbˈdʒektɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Based on or influenced by personal feelings, tastes, or opinions.",
+            "translation": "Chủ quan",
+            "concept": "Dựa trên ý kiến cá nhân thay vì sự thật khách quan.",
+            "register": "Academic / Formal",
+            "grammar_note": "Highly subjective.",
+            "synonyms": [
+                "personal",
+                "biased"
+            ],
+            "collocations": [
+                "subjective opinion",
+                "subjective experience",
+                "too subjective"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The responses from participants were too subjective.",
+                    "translation": "Phản hồi từ những người tham gia quá chủ quan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bustle",
+            "phonetic": "/ˈbʌsəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Excited activity and movement.",
+            "translation": "Sự hối hả / Nhộn nhịp",
+            "concept": "Sự ồn ào, náo nhiệt của nơi đông người.",
+            "register": "Literary / General",
+            "grammar_note": "Hustle and bustle.",
+            "synonyms": [
+                "commotion",
+                "activity",
+                "tumult"
+            ],
+            "collocations": [
+                "hustle and bustle",
+                "noise and bustle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A relaxing escape from the noise and bustle of the city streets.",
+                    "translation": "Một lối thoát thư giãn khỏi sự ồn ào và hối hả của đường phố thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sewage",
+            "phonetic": "/ˈsuːɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Waste water and excrement conveyed in sewers.",
+            "translation": "Nước thải / Chất thải",
+            "concept": "Nước bẩn từ cống rãnh.",
+            "register": "General / Technical",
+            "grammar_note": "Discharge sewage.",
+            "synonyms": [
+                "waste water",
+                "effluent"
+            ],
+            "collocations": [
+                "raw sewage",
+                "sewage treatment",
+                "sewage system"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There was a huge increase in the amount of sewage discharged into the rivers.",
+                    "translation": "Có một sự gia tăng lớn về lượng nước thải xả ra sông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "discharge",
+            "phonetic": "/dɪsˈtʃɑːdʒ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Allow (a liquid, gas, or other substance) to flow out from where it has been confined.",
+            "translation": "Xả ra / Thải ra",
+            "concept": "Thả chất lỏng/khí ra môi trường.",
+            "register": "Formal / Technical",
+            "grammar_note": "Discharge into...",
+            "synonyms": [
+                "release",
+                "emit",
+                "eject"
+            ],
+            "collocations": [
+                "discharge waste",
+                "accidental discharge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Factories were built beside the river and discharged their waste materials into the water.",
+                    "translation": "Các nhà máy được xây dựng bên sông và xả chất thải của họ xuống nước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revitalise",
+            "phonetic": "/riːˈvaɪtəlaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Imbue (something) with new life and vitality.",
+            "translation": "Tái sinh / Đem lại sức sống mới",
+            "concept": "Làm cho cái gì đó hoạt động mạnh mẽ trở lại (thành phố, nền kinh tế).",
+            "register": "Formal",
+            "grammar_note": "Revitalise the economy/area.",
+            "synonyms": [
+                "regenerate",
+                "rejuvenate",
+                "refresh"
+            ],
+            "collocations": [
+                "revitalise the city",
+                "revitalise the economy",
+                "revitalise the area"
+            ],
+            "contexts": [
+                {
+                    "sentence": "An architect has plans to revitalise the banks of the river and to make a park there.",
+                    "translation": "Một kiến trúc sư có kế hoạch tái sinh bờ sông và làm một công viên ở đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pedestrianised",
+            "phonetic": "/pəˈdestriənaɪzd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Converted into a zone for the use of pedestrians only.",
+            "translation": "Dành riêng cho người đi bộ",
+            "concept": "Khu vực cấm xe cộ, chỉ đi bộ.",
+            "register": "Urban Planning",
+            "grammar_note": "Pedestrianised zone/street.",
+            "synonyms": [
+                "car-free"
+            ],
+            "collocations": [
+                "pedestrianised street",
+                "pedestrianised area",
+                "fully pedestrianised"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It was designed to be totally pedestrianised too wasn’t it?",
+                    "translation": "Nó cũng được thiết kế để hoàn toàn dành cho người đi bộ phải không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "freight",
+            "phonetic": "/freɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Goods transported in bulk by truck, train, ship, or aircraft.",
+            "translation": "Hàng hóa (vận chuyển)",
+            "concept": "Hàng hóa chở số lượng lớn.",
+            "register": "Business / Logistics",
+            "grammar_note": "Freight train, freight transport.",
+            "synonyms": [
+                "cargo",
+                "goods",
+                "load"
+            ],
+            "collocations": [
+                "freight train",
+                "freight transport",
+                "air freight"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One freight barge can replace 44 large trucks.",
+                    "translation": "Một sà lan chở hàng có thể thay thế 44 xe tải lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "immense",
+            "phonetic": "/ɪˈmens/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Extremely large or great, especially in scale or degree.",
+            "translation": "Bao la / Rất lớn",
+            "concept": "Kích thước hoặc mức độ khổng lồ.",
+            "register": "General",
+            "grammar_note": "Immense pressure/value.",
+            "synonyms": [
+                "huge",
+                "vast",
+                "enormous"
+            ],
+            "collocations": [
+                "immense pressure",
+                "immense value",
+                "immense capacity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Imagine using the immense capacity of shipping to take these trucks off the road.",
+                    "translation": "Hãy tưởng tượng việc sử dụng năng lực to lớn của vận tải thủy để đưa những chiếc xe tải này ra khỏi đường bộ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ancestor",
+            "phonetic": "/ˈænsestər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person, typically one more remote than a grandparent, from whom one is descended.",
+            "translation": "Tổ tiên",
+            "concept": "Người trong dòng họ sống trước mình rất lâu.",
+            "register": "General",
+            "grammar_note": "Our ancestors.",
+            "synonyms": [
+                "forefather",
+                "predecessor"
+            ],
+            "collocations": [
+                "common ancestor",
+                "worship ancestors"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Like our ancestors, they hope that something they create will also last longer than they do.",
+                    "translation": "Giống như tổ tiên của chúng ta, họ hy vọng rằng thứ họ tạo ra cũng sẽ tồn tại lâu hơn chính họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "concentration",
+            "phonetic": "/ˌkɒnsənˈtreɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action or power of focusing one's attention or mental effort.",
+            "translation": "Sự tập trung",
+            "concept": "Khả năng chú ý vào một việc.",
+            "register": "General",
+            "grammar_note": "Lose concentration.",
+            "synonyms": [
+                "focus",
+                "attention"
+            ],
+            "collocations": [
+                "deep concentration",
+                "lose concentration",
+                "require concentration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What I love most is the concentration you need to make a good pot.",
+                    "translation": "Điều tôi thích nhất là sự tập trung bạn cần để làm ra một chiếc bình đẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "arthritis",
+            "phonetic": "/ɑːˈθraɪtɪs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A painful inflammation and stiffness of the joints.",
+            "translation": "Viêm khớp",
+            "concept": "Bệnh đau khớp, thường gặp ở người già.",
+            "register": "Medical",
+            "grammar_note": "Suffer from arthritis.",
+            "synonyms": [],
+            "collocations": [
+                "rheumatoid arthritis",
+                "suffer from arthritis"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s also good exercise for hands and wrists and helps with arthritis.",
+                    "translation": "Nó cũng là bài tập tốt cho bàn tay và cổ tay và giúp giảm viêm khớp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "depression",
+            "phonetic": "/dɪˈpreʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A mental condition characterized by feelings of severe despondency and dejection.",
+            "translation": "Trầm cảm / Sự chán nản",
+            "concept": "Bệnh tâm lý buồn chán kéo dài.",
+            "register": "General / Medical",
+            "grammar_note": "Suffer from depression.",
+            "synonyms": [
+                "misery",
+                "sadness",
+                "despair"
+            ],
+            "collocations": [
+                "severe depression",
+                "clinical depression",
+                "suffer from depression"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Loneliness and depression are clearly related.",
+                    "translation": "Sự cô đơn và trầm cảm rõ ràng có liên quan đến nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "solitude",
+            "phonetic": "/ˈsɒlɪtjuːd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The state or situation of being alone.",
+            "translation": "Sự tĩnh lặng / Sự ở một mình (tích cực)",
+            "concept": "Ở một mình nhưng cảm thấy bình yên, không phải cô đơn.",
+            "register": "Literary",
+            "grammar_note": "Enjoy solitude.",
+            "synonyms": [
+                "aloneness",
+                "privacy",
+                "seclusion"
+            ],
+            "collocations": [
+                "enjoy solitude",
+                "moments of solitude",
+                "seek solitude"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We should say something about solitude and how being alone and being lonely aren’t the same thing.",
+                    "translation": "Chúng ta nên nói điều gì đó về sự tĩnh lặng và việc ở một mình và cô đơn không giống nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inhabitant",
+            "phonetic": "/ɪnˈhæbɪtənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person or animal that lives in or occupies a place.",
+            "translation": "Cư dân",
+            "concept": "Người sống ở một nơi cụ thể.",
+            "register": "Formal",
+            "grammar_note": "Local inhabitants.",
+            "synonyms": [
+                "resident",
+                "dweller",
+                "occupant"
+            ],
+            "collocations": [
+                "local inhabitant",
+                "city inhabitant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "As cities grew to over a million inhabitants, the impact on the rivers became more serious.",
+                    "translation": "Khi các thành phố phát triển tới hơn một triệu cư dân, tác động lên các dòng sông trở nên nghiêm trọng hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biological",
+            "phonetic": "/ˌbaɪəˈlɒdʒɪkəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to biology or living organisms.",
+            "translation": "Thuộc sinh học",
+            "concept": "Liên quan đến sự sống.",
+            "register": "Scientific",
+            "grammar_note": "Biological diversity.",
+            "synonyms": [
+                "organic",
+                "living"
+            ],
+            "collocations": [
+                "biological diversity",
+                "biological clock",
+                "biological terms"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Scientists declared that the River Thames was dead in biological terms.",
+                    "translation": "Các nhà khoa học tuyên bố rằng sông Thames đã chết về mặt sinh học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "astronomical",
+            "phonetic": "/ˌæstrəˈnɒmɪkəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of an amount) extremely large.",
+            "translation": "Vô cùng lớn / (Giá) cắt cổ",
+            "concept": "Rất lớn, thường dùng cho giá cả hoặc con số.",
+            "register": "General",
+            "grammar_note": "Astronomical prices/costs.",
+            "synonyms": [
+                "colossal",
+                "huge",
+                "enormous"
+            ],
+            "collocations": [
+                "astronomical prices",
+                "astronomical fees"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Apartments with river views sell for astronomical prices.",
+                    "translation": "Các căn hộ có tầm nhìn ra sông được bán với giá cắt cổ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dementia",
+            "phonetic": "/dɪˈmenʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A chronic or persistent disorder of the mental processes caused by brain disease or injury.",
+            "translation": "Chứng mất trí nhớ",
+            "concept": "Bệnh suy giảm trí nhớ ở người già.",
+            "register": "Medical",
+            "grammar_note": "Suffer from dementia.",
+            "synonyms": [],
+            "collocations": [
+                "develop dementia",
+                "suffer from dementia",
+                "vascular dementia"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I was actually thinking of the studies on dementia.",
+                    "translation": "Thực ra tôi đang nghĩ đến các nghiên cứu về chứng mất trí nhớ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "immune system",
+            "phonetic": "/ɪˈmjuːn ˌsɪstəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The organs and processes of the body that provide resistance to infection and toxins.",
+            "translation": "Hệ miễn dịch",
+            "concept": "Hệ thống bảo vệ cơ thể khỏi bệnh tật.",
+            "register": "Scientific / Medical",
+            "grammar_note": "Weakened immune system.",
+            "synonyms": [],
+            "collocations": [
+                "weakened immune system",
+                "boost immune system",
+                "strong immune system"
+            ],
+            "contexts": [
+                {
+                    "sentence": "But there’s no doubt that loneliness contributes to a weakened immune system.",
+                    "translation": "Nhưng không còn nghi ngờ gì nữa rằng sự cô đơn góp phần làm suy yếu hệ miễn dịch."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "evolutionary",
+            "phonetic": "/ˌiːvəˈluːʃənəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the gradual development of something.",
+            "translation": "Thuộc tiến hóa",
+            "concept": "Liên quan đến sự phát triển dần dần của sinh vật.",
+            "register": "Scientific",
+            "grammar_note": "Evolutionary theory.",
+            "synonyms": [
+                "developmental",
+                "progressive"
+            ],
+            "collocations": [
+                "evolutionary theory",
+                "evolutionary biology",
+                "evolutionary process"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What did you think about the evolutionary theory of loneliness?",
+                    "translation": "Bạn nghĩ gì về lý thuyết tiến hóa của sự cô đơn?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "formal",
+            "phonetic": "/ˈfɔːməl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Done in accordance with rules of convention or etiquette; suitable for or constituting an official or important situation or occasion.",
+            "translation": "Trang trọng / Chính thức",
+            "concept": "Nghiêm túc, theo nghi thức.",
+            "register": "General",
+            "grammar_note": "Formal occasion/dress.",
+            "synonyms": [
+                "official",
+                "ceremonial",
+                "conventional"
+            ],
+            "collocations": [
+                "formal occasion",
+                "formal dress",
+                "formal education"
+            ],
+            "contexts": [
+                {
+                    "sentence": "If you want somewhere a bit less formal, then you could try Paloma.",
+                    "translation": "Nếu bạn muốn một nơi nào đó ít trang trọng hơn một chút, thì bạn có thể thử Paloma."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sculpture",
+            "phonetic": "/ˈskʌlptʃər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster.",
+            "translation": "Điêu khắc / Tác phẩm điêu khắc",
+            "concept": "Nghệ thuật tạc tượng.",
+            "register": "Art",
+            "grammar_note": "Create a sculpture.",
+            "synonyms": [
+                "statue",
+                "carving",
+                "model"
+            ],
+            "collocations": [
+                "modern sculpture",
+                "stone sculpture",
+                "create a sculpture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Your hands can make all kinds of shapes and curves without relying on a sculpting tool.",
+                    "translation": "Tay bạn có thể tạo ra mọi loại hình dạng và đường cong mà không cần dựa vào dụng cụ điêu khắc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "toxic",
+            "phonetic": "/ˈtɒksɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Poisonous.",
+            "translation": "Độc hại",
+            "concept": "Gây hại cho sức khỏe, có độc.",
+            "register": "General",
+            "grammar_note": "Toxic chemicals/fumes.",
+            "synonyms": [
+                "poisonous",
+                "harmful",
+                "venomous"
+            ],
+            "collocations": [
+                "toxic chemicals",
+                "toxic waste",
+                "toxic fumes"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You also need to know about safety procedures for kilns as they release toxic compounds into the air.",
+                    "translation": "Bạn cũng cần biết về các quy trình an toàn cho lò nung vì chúng giải phóng các hợp chất độc hại vào không khí."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "compound",
+            "phonetic": "/ˈkɒmpaʊnd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A thing that is composed of two or more separate elements; a mixture.",
+            "translation": "Hợp chất",
+            "concept": "Chất được tạo thành từ nhiều thành phần.",
+            "register": "Scientific",
+            "grammar_note": "Chemical compound.",
+            "synonyms": [
+                "mixture",
+                "combination",
+                "blend"
+            ],
+            "collocations": [
+                "chemical compound",
+                "organic compound"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They release toxic compounds into the air.",
+                    "translation": "Chúng giải phóng các hợp chất độc hại vào không khí."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

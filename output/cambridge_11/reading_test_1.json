@@ -1,0 +1,250 @@
+{
+    "id": "cambridge_11_reading_test_1",
+    "title": "Cam 11 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Reading Test 1, bao gồm các chủ đề về nông nghiệp thẳng đứng.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "vertical",
+            "phonetic": "/ˈvɜːtɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "At right angles to a horizontal plane.",
+            "translation": "Thẳng đứng",
+            "concept": "Chiều dọc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "upright"
+            ],
+            "collocations": [
+                "vertical farming"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Vertical farming uses skyscrapers.",
+                    "translation": "Nông nghiệp thẳng đứng sử dụng các tòa nhà chọc trời."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "agriculture",
+            "phonetic": "/ˈæɡrɪkʌltʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The science or practice of farming.",
+            "translation": "Nông nghiệp",
+            "concept": "Làm nông.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "farming"
+            ],
+            "collocations": [
+                "modern agriculture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a new form of agriculture.",
+                    "translation": "Đó là một hình thức nông nghiệp mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "population",
+            "phonetic": "/ˌpɒpjuˈleɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "All the inhabitants of a particular town, area, or country.",
+            "translation": "Dân số",
+            "concept": "Số lượng người.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "inhabitants"
+            ],
+            "collocations": [
+                "growing population"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We must feed a growing population.",
+                    "translation": "Chúng ta phải nuôi sống một dân số đang tăng lên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "drastically",
+            "phonetic": "/ˈdræstɪkli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C1",
+            "meaning": "In a way that is likely to have a strong or far-reaching effect.",
+            "translation": "Quyết liệt / Đáng kể",
+            "concept": "Rất nhiều.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "significantly",
+                "severely"
+            ],
+            "collocations": [
+                "reduce drastically"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It would drastically reduce transportation.",
+                    "translation": "Nó sẽ làm giảm đáng kể việc vận chuyển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consume",
+            "phonetic": "/kənˈsjuːm/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Eat, drink, or ingest.",
+            "translation": "Tiêu thụ",
+            "concept": "Dùng hết.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "use up"
+            ],
+            "collocations": [
+                "consume energy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The system would consume energy.",
+                    "translation": "Hệ thống sẽ tiêu thụ năng lượng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "generate",
+            "phonetic": "/ˈdʒenəreɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Produce or create.",
+            "translation": "Tạo ra",
+            "concept": "Sản sinh.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "produce"
+            ],
+            "collocations": [
+                "generate electricity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It can generate methane.",
+                    "translation": "Nó có thể tạo ra khí metan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "compost",
+            "phonetic": "/ˈkɒmpɒst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Decayed organic material used as a plant fertilizer.",
+            "translation": "Phân xanh / Phân hữu cơ",
+            "concept": "Phân từ lá cây.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "fertilizer"
+            ],
+            "collocations": [
+                "make compost"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They compost non-edible parts.",
+                    "translation": "Họ ủ phân các phần không ăn được."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "edible",
+            "phonetic": "/ˈedɪbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Fit to be eaten.",
+            "translation": "Có thể ăn được",
+            "concept": "Ăn được.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "safe to eat"
+            ],
+            "collocations": [
+                "edible plants"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Not all parts are edible.",
+                    "translation": "Không phải tất cả các phần đều có thể ăn được."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "transportation",
+            "phonetic": "/ˌtrænspɔːˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The action of transporting someone or something.",
+            "translation": "Sự vận chuyển",
+            "concept": "Chở đi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "transit"
+            ],
+            "collocations": [
+                "public transportation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It reduces the need for transportation.",
+                    "translation": "Nó làm giảm nhu cầu vận chuyển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fossil",
+            "phonetic": "/ˈfɒsl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The remains of a prehistoric organism.",
+            "translation": "Hóa thạch",
+            "concept": "Đá cổ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "fossil fuels"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It would reduce fossil fuel use.",
+                    "translation": "Nó sẽ làm giảm việc sử dụng nhiên liệu hóa thạch."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

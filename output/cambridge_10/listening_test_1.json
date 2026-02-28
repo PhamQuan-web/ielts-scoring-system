@@ -1,0 +1,252 @@
+{
+    "id": "cambridge_10_listening_test_1",
+    "title": "Cam 10 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Listening Test 1, bao gồm các chủ đề về tự lái xe ở Mỹ, câu lạc bộ giải trí, loài gấu.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "accommodation",
+            "phonetic": "/əˌkɒməˈdeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A room, group of rooms, or building in which someone may live or stay.",
+            "translation": "Chỗ ở",
+            "concept": "Nơi để ngủ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "housing",
+                "lodging"
+            ],
+            "collocations": [
+                "book accommodation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The price includes accommodation.",
+                    "translation": "Giá bao gồm chỗ ở."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "leisure",
+            "phonetic": "/ˈleʒə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Free time.",
+            "translation": "Thời gian rảnh / Giải trí",
+            "concept": "Lúc rảnh.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "recreation"
+            ],
+            "collocations": [
+                "leisure club"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They are improving the leisure club.",
+                    "translation": "Họ đang cải thiện câu lạc bộ giải trí."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "facility",
+            "phonetic": "/fəˈsɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+            "translation": "Cơ sở vật chất",
+            "concept": "Đồ dùng phục vụ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "amenity"
+            ],
+            "collocations": [
+                "sports facility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The facilities have been improved.",
+                    "translation": "Các cơ sở vật chất đã được cải thiện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "membership",
+            "phonetic": "/ˈmembəʃɪp/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The state of being a member.",
+            "translation": "Thẻ thành viên",
+            "concept": "Tham gia hội.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "affiliation"
+            ],
+            "collocations": [
+                "types of membership"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are different types of membership.",
+                    "translation": "Có các loại thẻ thành viên khác nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "competition",
+            "phonetic": "/ˌkɒmpəˈtɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "The activity or condition of competing.",
+            "translation": "Cuộc thi",
+            "concept": "Đấu tài.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "contest"
+            ],
+            "collocations": [
+                "design competition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's a global design competition.",
+                    "translation": "Đó là một cuộc thi thiết kế toàn cầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪnəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action or process of innovating.",
+            "translation": "Sự đổi mới",
+            "concept": "Sáng tạo mới.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "novelty"
+            ],
+            "collocations": [
+                "technological innovation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We are looking for innovation.",
+                    "translation": "Chúng tôi đang tìm kiếm sự đổi mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "habitat",
+            "phonetic": "/ˈhæbɪtæt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The natural home or environment of an animal.",
+            "translation": "Môi trường sống",
+            "concept": "Chỗ ở của thú.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "environment"
+            ],
+            "collocations": [
+                "maintain habitat"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We must maintain the bear's habitat.",
+                    "translation": "Chúng ta phải duy trì môi trường sống của gấu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expansion",
+            "phonetic": "/ɪkˈspænʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of becoming larger or more extensive.",
+            "translation": "Sự mở rộng",
+            "concept": "Làm to ra.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "growth"
+            ],
+            "collocations": [
+                "habitat expansion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There needs to be an emphasis on expansion.",
+                    "translation": "Cần phải nhấn mạnh vào sự mở rộng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "survival",
+            "phonetic": "/səˈvaɪvl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The state or fact of continuing to live.",
+            "translation": "Sự sinh tồn",
+            "concept": "Sống sót.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "existence"
+            ],
+            "collocations": [
+                "threat to survival"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Their survival is threatened.",
+                    "translation": "Sự sinh tồn của chúng bị đe dọa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "preserve",
+            "phonetic": "/prɪˈzɜːv/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Maintain something in its original state.",
+            "translation": "Bảo tồn",
+            "concept": "Giữ nguyên.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "conserve"
+            ],
+            "collocations": [
+                "preserve nature"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need to preserve the forest.",
+                    "translation": "Chúng ta cần bảo tồn khu rừng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

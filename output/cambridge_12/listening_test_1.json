@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_12_listening_test_1",
+    "title": "Cam 12 - Listening Test 1",
+    "description": "Từ vựng về trợ lý nhà bếp, leo núi.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "assistant",
+            "phonetic": "/əˈsɪstənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A person who ranks below a senior person.",
+            "translation": "Trợ lý",
+            "concept": "Người giúp việc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "helper"
+            ],
+            "collocations": [
+                "kitchen assistant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I work as a kitchen assistant.",
+                    "translation": "Tôi làm trợ lý nhà bếp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "responsibility",
+            "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The state of having a duty to deal with something.",
+            "translation": "Trách nhiệm",
+            "concept": "Việc phải làm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "duty"
+            ],
+            "collocations": [
+                "take responsibility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We might give you more responsibility.",
+                    "translation": "Chúng tôi có thể giao cho bạn nhiều trách nhiệm hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "footwear",
+            "phonetic": "/ˈfʊtweə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Outer coverings for the feet.",
+            "translation": "Giày dép",
+            "concept": "Đồ đi ở chân.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "shoes"
+            ],
+            "collocations": [
+                "unsuitable footwear"
+            ],
+            "contexts": [
+                {
+                    "sentence": "None of you have unsuitable footwear.",
+                    "translation": "Không ai trong các bạn đi giày dép không phù hợp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "slippery",
+            "phonetic": "/ˈslɪpəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Difficult to hold firmly or stand on.",
+            "translation": "Trơn trượt",
+            "concept": "Dễ ngã.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "slick"
+            ],
+            "collocations": [
+                "slippery floor"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The floors can get very wet and slippery.",
+                    "translation": "Sàn nhà có thể rất ướt và trơn trượt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bracelet",
+            "phonetic": "/ˈbreɪslət/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "An ornamental band, hoop, or chain worn on the wrist.",
+            "translation": "Vòng đeo tay",
+            "concept": "Trang sức cổ tay.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "bangle"
+            ],
+            "collocations": [
+                "gold bracelet"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Some of you'll need to remove your bracelets.",
+                    "translation": "Một số bạn sẽ cần phải tháo vòng tay ra."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hazard",
+            "phonetic": "/ˈhæzəd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A danger or risk.",
+            "translation": "Mối nguy hiểm",
+            "concept": "Cái có thể gây hại.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "danger"
+            ],
+            "collocations": [
+                "safety hazard"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They can be a safety hazard.",
+                    "translation": "Chúng có thể là một mối nguy hiểm về an toàn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "route",
+            "phonetic": "/ruːt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A way or course taken in getting from a starting point to a destination.",
+            "translation": "Tuyến đường",
+            "concept": "Đường đi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "path"
+            ],
+            "collocations": [
+                "bus route"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What is the best route?",
+                    "translation": "Tuyến đường tốt nhất là gì?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "helmet",
+            "phonetic": "/ˈhelmɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A hard or padded protective hat.",
+            "translation": "Mũ bảo hiểm",
+            "concept": "Đội bảo vệ đầu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "headgear"
+            ],
+            "collocations": [
+                "wear a helmet"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You must wear a helmet.",
+                    "translation": "Bạn phải đội mũ bảo hiểm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excursion",
+            "phonetic": "/ɪkˈskɜːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A short journey or trip.",
+            "translation": "Chuyến dã ngoại",
+            "concept": "Đi chơi ngắn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "trip"
+            ],
+            "collocations": [
+                "school excursion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We went on an excursion.",
+                    "translation": "Chúng tôi đã đi dã ngoại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stadium",
+            "phonetic": "/ˈsteɪdiəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A sports arena with tiers of seats for spectators.",
+            "translation": "Sân vận động",
+            "concept": "Chỗ xem thể thao.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "arena"
+            ],
+            "collocations": [
+                "football stadium"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The match is at the stadium.",
+                    "translation": "Trận đấu diễn ra tại sân vận động."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

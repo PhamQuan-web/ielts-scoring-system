@@ -1,0 +1,245 @@
+{
+    "id": "cambridge_13_reading_test_3",
+    "title": "Cam 13 - Reading Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Reading Test 3, bao gồm các chủ đề về dừa, tiếng trẻ em.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "coconut",
+            "phonetic": "/ˈkəʊkənʌt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "The large seed of a tropical palm.",
+            "translation": "Quả dừa",
+            "concept": "Trái dừa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "coconut water"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The coconut has many uses.",
+                    "translation": "Dừa có nhiều công dụng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "timber",
+            "phonetic": "/ˈtɪmbə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Wood prepared for building.",
+            "translation": "Gỗ",
+            "concept": "Gỗ làm nhà.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "lumber"
+            ],
+            "collocations": [
+                "valuable timber"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The trunk provides timber.",
+                    "translation": "Thân cây cung cấp gỗ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "infant",
+            "phonetic": "/ˈɪnfənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A very young child.",
+            "translation": "Trẻ sơ sinh",
+            "concept": "Em bé.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "baby"
+            ],
+            "collocations": [
+                "infant development"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Baby talk helps infants learn.",
+                    "translation": "Tiếng nói trẻ em giúp trẻ sơ sinh học hỏi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vocabulary",
+            "phonetic": "/vəˈkæbjələri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "The body of words used in a language.",
+            "translation": "Từ vựng",
+            "concept": "Vốn từ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "lexicon"
+            ],
+            "collocations": [
+                "expand vocabulary"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It increases their vocabulary.",
+                    "translation": "Nó làm tăng vốn từ vựng của chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mimic",
+            "phonetic": "/ˈmɪmɪk/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Imitate.",
+            "translation": "Bắt chước",
+            "concept": "Làm theo.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "copy"
+            ],
+            "collocations": [
+                "mimic sounds"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Babies try to mimic adults.",
+                    "translation": "Trẻ sơ sinh cố gắng bắt chước người lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "civilization",
+            "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The stage of human social development.",
+            "translation": "Nền văn minh",
+            "concept": "Xã hội tiến bộ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "culture"
+            ],
+            "collocations": [
+                "ancient civilization"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The Harappan civilization collapsed.",
+                    "translation": "Nền văn minh Harappa đã sụp đổ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archaeology",
+            "phonetic": "/ˌɑːkiˈɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The study of human history.",
+            "translation": "Khảo cổ học",
+            "concept": "Đào cổ vật.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "marine archaeology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Archaeology reveals the past.",
+                    "translation": "Khảo cổ học tiết lộ quá khứ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "drought",
+            "phonetic": "/draʊt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A prolonged period of low rainfall.",
+            "translation": "Hạn hán",
+            "concept": "Không mưa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "dry spell"
+            ],
+            "collocations": [
+                "severe drought"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A drought caused the decline.",
+                    "translation": "Một trận hạn hán đã gây ra sự suy tàn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monsoon",
+            "phonetic": "/mɒnˈsuːn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A seasonal prevailing wind bringing rain.",
+            "translation": "Gió mùa",
+            "concept": "Mùa mưa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "monsoon season"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The monsoon failed.",
+                    "translation": "Gió mùa đã thất bại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "settlement",
+            "phonetic": "/ˈsetlmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A place where people establish a community.",
+            "translation": "Khu định cư",
+            "concept": "Nơi sống.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "colony"
+            ],
+            "collocations": [
+                "ancient settlement"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They abandoned the settlements.",
+                    "translation": "Họ đã bỏ hoang các khu định cư."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

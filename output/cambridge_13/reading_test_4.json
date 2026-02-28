@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_13_reading_test_4",
+    "title": "Cam 13 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Reading Test 4, bao gồm các chủ đề về tàu Cutty Sark, đất.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "clipper",
+            "phonetic": "/ˈklɪpə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A fast sailing ship.",
+            "translation": "Tàu buồm siêu tốc",
+            "concept": "Tàu nhanh.",
+            "register": "Historical",
+            "grammar_note": "",
+            "synonyms": [
+                "vessel"
+            ],
+            "collocations": [
+                "tea clipper"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Cutty Sark is a famous clipper.",
+                    "translation": "Cutty Sark là một chiếc tàu buồm nổi tiếng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cargo",
+            "phonetic": "/ˈkɑːɡəʊ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Goods carried on a ship.",
+            "translation": "Hàng hóa",
+            "concept": "Đồ trên tàu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "freight"
+            ],
+            "collocations": [
+                "valuable cargo"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It carried a cargo of tea.",
+                    "translation": "Nó chở một chuyến hàng trà."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "degradation",
+            "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The condition of being degraded.",
+            "translation": "Sự suy thoái",
+            "concept": "Xuống cấp.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "deterioration"
+            ],
+            "collocations": [
+                "soil degradation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Soil degradation is a problem.",
+                    "translation": "Suy thoái đất là một vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "microorganism",
+            "phonetic": "/ˌmaɪkrəʊˈɔːɡənɪzm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A microscopic organism.",
+            "translation": "Vi sinh vật",
+            "concept": "Sinh vật nhỏ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "microbe"
+            ],
+            "collocations": [
+                "soil microorganisms"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Soil contains microorganisms.",
+                    "translation": "Đất chứa các vi sinh vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fertilizer",
+            "phonetic": "/ˈfɜːtəlaɪzə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A substance added to soil to increase fertility.",
+            "translation": "Phân bón",
+            "concept": "Chất cho cây.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "manure"
+            ],
+            "collocations": [
+                "chemical fertilizer"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Farmers use fertilizer.",
+                    "translation": "Nông dân sử dụng phân bón."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪnəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be maintained at a certain rate.",
+            "translation": "Bền vững",
+            "concept": "Dùng lâu.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "eco-friendly"
+            ],
+            "collocations": [
+                "sustainable agriculture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need sustainable farming.",
+                    "translation": "Chúng ta cần canh tác bền vững."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "happiness",
+            "phonetic": "/ˈhæpinəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The state of being happy.",
+            "translation": "Hạnh phúc",
+            "concept": "Niềm vui.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "joy"
+            ],
+            "collocations": [
+                "pursuit of happiness"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Is happiness the goal?",
+                    "translation": "Hạnh phúc có phải là mục tiêu không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consumerism",
+            "phonetic": "/kənˈsjuːmərɪzm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The promotion of the interests of consumers.",
+            "translation": "Chủ nghĩa tiêu dùng",
+            "concept": "Mua sắm.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "rise of consumerism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The book critiques consumerism.",
+                    "translation": "Cuốn sách phê phán chủ nghĩa tiêu dùng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "manipulation",
+            "phonetic": "/məˌnɪpjuˈleɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of manipulating.",
+            "translation": "Sự thao túng",
+            "concept": "Điều khiển.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "control"
+            ],
+            "collocations": [
+                "psychological manipulation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It discusses psychological manipulation.",
+                    "translation": "Nó thảo luận về sự thao túng tâm lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "well-being",
+            "phonetic": "/ˌwel ˈbiːɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The state of being comfortable or happy.",
+            "translation": "Sự an lạc",
+            "concept": "Sống khỏe.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "welfare"
+            ],
+            "collocations": [
+                "emotional well-being"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Governments measure well-being.",
+                    "translation": "Các chính phủ đo lường sự an lạc."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "id": "cambridge_19_listening_test_4",
+    "title": "Cam 19 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Listening Test 4, chủ đề sách, rừng và sinh thái học.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-green-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "spine",
+            "phonetic": "/spaɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The part of a book's cover that encloses the inner pages and faces outward when shelved.",
+            "translation": "Gáy sách",
+            "concept": "Phần gáy của cuốn sách, nơi thường ghi tên sách.",
+            "register": "Specific (Books)",
+            "grammar_note": "Countable.",
+            "synonyms": [
+                "back"
+            ],
+            "collocations": [
+                "cracked spine",
+                "title on the spine"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Even though the book was old, the spine was still intact.",
+                    "translation": "Mặc dù cuốn sách đã cũ nhưng gáy sách vẫn còn nguyên vẹn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deteriorate",
+            "phonetic": "/dɪˈtɪəriəreɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "To become progressively worse.",
+            "translation": "Hư hỏng, xuống cấp",
+            "concept": "Tình trạng trở nên tồi tệ hơn theo thời gian.",
+            "register": "General / Formal",
+            "grammar_note": "Intransitive verb.",
+            "synonyms": [
+                "worsen",
+                "decline",
+                "decay"
+            ],
+            "collocations": [
+                "deteriorate rapidly",
+                "condition deteriorates"
+            ],
+            "contexts": [
+                {
+                    "sentence": "If you don't store the books properly, they will deteriorate over time.",
+                    "translation": "Nếu bạn không lưu trữ sách đúng cách, chúng sẽ xuống cấp theo thời gian."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reforestation",
+            "phonetic": "/ˌriːfɒrɪˈsteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The process of replanting an area with trees.",
+            "translation": "Tái trồng rừng",
+            "concept": "Hành động trồng lại cây để phục hồi rừng.",
+            "register": "Environmental",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "replanting"
+            ],
+            "collocations": [
+                "reforestation project",
+                "massive reforestation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Reforestation helps absorb carbon dioxide from the atmosphere.",
+                    "translation": "Tái trồng rừng giúp hấp thụ khí carbon dioxide từ khí quyển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "invasive",
+            "phonetic": "/ɪnˈveɪsɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(Of plants or animals) tending to spread very quickly and undesirably or harmfully.",
+            "translation": "Xâm lấn (loài)",
+            "concept": "Loài sinh vật lạ phát triển mạnh gây hại cho loài bản địa.",
+            "register": "Scientific / Environmental",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "intrusive",
+                "encroaching"
+            ],
+            "collocations": [
+                "invasive species",
+                "invasive plant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Removing invasive species is essential for restoring the native ecosystem.",
+                    "translation": "Loại bỏ các loài xâm lấn là điều cần thiết để khôi phục hệ sinh thái bản địa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "translation": "Đa dạng sinh học",
+            "concept": "Sự phong phú của các loài sinh vật.",
+            "register": "Scientific",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "biological diversity"
+            ],
+            "collocations": [
+                "loss of biodiversity",
+                "rich biodiversity",
+                "conserve biodiversity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The rainforest is famous for its incredible biodiversity.",
+                    "translation": "Rừng nhiệt đới nổi tiếng với sự đa dạng sinh học đáng kinh ngạc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "phenology",
+            "phonetic": "/fɪˈnɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The study of cyclic and seasonal natural phenomena.",
+            "translation": "Hiện tượng học (sinh học)",
+            "concept": "Nghiên cứu về chu kỳ sinh học theo mùa (nở hoa, di cư).",
+            "register": "Scientific",
+            "grammar_note": "Uncountable.",
+            "synonyms": [],
+            "collocations": [
+                "plant phenology",
+                "phenology records"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Changes in phenology are often early indicators of climate change.",
+                    "translation": "Những thay đổi trong hiện tượng học thường là những chỉ số sớm của biến đổi khí hậu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "citizen science",
+            "phonetic": "/ˌsɪtɪzn ˈsaɪəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Scientific research conducted by amateur scientists.",
+            "translation": "Khoa học công dân",
+            "concept": "Người dân bình thường tham gia thu thập dữ liệu khoa học.",
+            "register": "Academic",
+            "grammar_note": "Uncountable.",
+            "synonyms": [
+                "community science"
+            ],
+            "collocations": [
+                "citizen science project",
+                "participate in citizen science"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Citizen science allows thousands of people to contribute to bird watching data.",
+                    "translation": "Khoa học công dân cho phép hàng ngàn người đóng góp vào dữ liệu quan sát chim."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mangrove",
+            "phonetic": "/ˈmæŋɡrəʊv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A tree or shrub that grows in chiefly tropical coastal swamps.",
+            "translation": "Cây đước / Rừng ngập mặn",
+            "concept": "Loại cây mọc ở vùng nước mặn ven biển, rễ nổi.",
+            "register": "Botanical / Geography",
+            "grammar_note": "Countable.",
+            "synonyms": [],
+            "collocations": [
+                "mangrove forest",
+                "mangrove swamp"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Mangrove forests are vital for protecting the coastline from erosion.",
+                    "translation": "Rừng ngập mặn rất quan trọng để bảo vệ bờ biển khỏi xói mòn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪnəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be maintained at a certain rate or level.",
+            "translation": "Bền vững",
+            "concept": "Phát triển mà không làm hại môi trường tương lai.",
+            "register": "General",
+            "grammar_note": "N/A",
+            "synonyms": [
+                "viable",
+                "continuous"
+            ],
+            "collocations": [
+                "sustainable development",
+                "sustainable future"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The project aims to create sustainable employment for the local community.",
+                    "translation": "Dự án nhằm tạo ra việc làm bền vững cho cộng đồng địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "livelihood",
+            "phonetic": "/ˈlaɪvlihʊd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A means of securing the necessities of life.",
+            "translation": "Kế sinh nhai",
+            "concept": "Công việc hoặc nguồn thu nhập để sống.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": [
+                "living",
+                "income",
+                "subsistence"
+            ],
+            "collocations": [
+                "earn a livelihood",
+                "threaten livelihoods"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fishing is the main source of livelihood for the villagers.",
+                    "translation": "Đánh cá là nguồn sinh kế chính của dân làng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

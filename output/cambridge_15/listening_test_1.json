@@ -1,0 +1,250 @@
+{
+    "id": "cambridge_15_listening_test_1",
+    "title": "Cam 15 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Listening Test 1, bao gồm các chủ đề về tuyển dụng, bạch đàn.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "recruitment",
+            "phonetic": "/rɪˈkruːtmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Action of finding new people to join.",
+            "translation": "Tuyển dụng",
+            "concept": "Tìm người.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "hiring"
+            ],
+            "collocations": [
+                "recruitment agency"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I work for a recruitment agency.",
+                    "translation": "Tôi làm cho một đại lý tuyển dụng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "clerical",
+            "phonetic": "/ˈklerɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Concerned with office work.",
+            "translation": "Hành chính",
+            "concept": "Làm giấy tờ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "administrative"
+            ],
+            "collocations": [
+                "clerical work"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They offer clerical jobs.",
+                    "translation": "Họ cung cấp các công việc văn thư."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "temporary",
+            "phonetic": "/ˈtemprəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Lasting for a limited time.",
+            "translation": "Tạm thời",
+            "concept": "Không lâu dài.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "provisional"
+            ],
+            "collocations": [
+                "temporary staff"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I need temporary staff.",
+                    "translation": "Tôi cần nhân viên tạm thời."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sibling",
+            "phonetic": "/ˈsɪblɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Brother or sister.",
+            "translation": "Anh chị em ruột",
+            "concept": "Cùng cha mẹ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "brother",
+                "sister"
+            ],
+            "collocations": [
+                "sibling rivalry"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Birth order affects sibling rivalry.",
+                    "translation": "Thứ tự sinh ảnh hưởng đến sự ganh đua giữa anh chị em."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nurture",
+            "phonetic": "/ˈnɜːtʃə/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Care for while growing.",
+            "translation": "Nuôi dưỡng",
+            "concept": "Chăm sóc.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "raise"
+            ],
+            "collocations": [
+                "nature vs nurture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Parents nurture their children.",
+                    "translation": "Cha mẹ nuôi dưỡng con cái."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "eucalyptus",
+            "phonetic": "/ˌjuːkəˈlɪptəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Evergreen tree.",
+            "translation": "Cây bạch đàn",
+            "concept": "Cây gỗ.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "gum tree"
+            ],
+            "collocations": [
+                "eucalyptus oil"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Eucalyptus is common in Australia.",
+                    "translation": "Bạch đàn rất phổ biến ở Úc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Variety of life.",
+            "translation": "Đa dạng sinh học",
+            "concept": "Nhiều loài.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "protect biodiversity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It impacts biodiversity.",
+                    "translation": "Nó ảnh hưởng đến đa dạng sinh học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "indigenous",
+            "phonetic": "/ɪnˈdɪdʒənəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Native.",
+            "translation": "Bản địa",
+            "concept": "Gốc ở đó.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "native"
+            ],
+            "collocations": [
+                "indigenous species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The tree is indigenous.",
+                    "translation": "Loài cây này là bản địa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cultivation",
+            "phonetic": "/ˌkʌltɪˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Action of cultivating land.",
+            "translation": "Sự canh tác",
+            "concept": "Trồng trọt.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "farming"
+            ],
+            "collocations": [
+                "intensive cultivation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Cultivation has spread.",
+                    "translation": "Sự canh tác đã lan rộng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "disinfect",
+            "phonetic": "/ˌdɪsɪnˈfekt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Clean with a chemical.",
+            "translation": "Khử trùng",
+            "concept": "Làm sạch khuẩn.",
+            "register": "Medical",
+            "grammar_note": "",
+            "synonyms": [
+                "sterilize"
+            ],
+            "collocations": [
+                "disinfect a wound"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Leaves are used to disinfect.",
+                    "translation": "Lá được dùng để khử trùng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

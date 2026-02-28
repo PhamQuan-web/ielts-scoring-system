@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_10_reading_test_4",
+    "title": "Cam 10 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Reading Test 4, bao gồm các chủ đề về cháy rừng ở California, sự đảo ngược tiến hóa.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "drought",
+            "phonetic": "/draʊt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A prolonged period of abnormally low rainfall.",
+            "translation": "Hạn hán",
+            "concept": "Trời không mưa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "dry spell"
+            ],
+            "collocations": [
+                "severe drought"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Drought makes fires worse.",
+                    "translation": "Hạn hán làm cho hỏa hoạn tồi tệ hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "menace",
+            "phonetic": "/ˈmenəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person or thing that is likely to cause harm; a threat or danger.",
+            "translation": "Mối đe dọa",
+            "concept": "Cái nguy hiểm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "threat",
+                "danger"
+            ],
+            "collocations": [
+                "increasing menace"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Wildfires are an increasing menace.",
+                    "translation": "Cháy rừng đang là một mối đe dọa ngày càng tăng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "erratically",
+            "phonetic": "/ɪˈrætɪkli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C2",
+            "meaning": "In a manner that is not even or regular in pattern or movement; unpredictably.",
+            "translation": "Một cách thất thường",
+            "concept": "Không theo quy luật.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "unpredictably"
+            ],
+            "collocations": [
+                "spread erratically"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fires spread more erratically now.",
+                    "translation": "Hỏa hoạn lan rộng một cách thất thường hơn bây giờ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "precipitation",
+            "phonetic": "/prɪˌsɪpɪˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Rain, snow, sleet, or hail that falls to the ground.",
+            "translation": "Lượng mưa",
+            "concept": "Nước rơi từ trời xuống.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "rainfall"
+            ],
+            "collocations": [
+                "normal precipitation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The region has below normal precipitation.",
+                    "translation": "Khu vực này có lượng mưa dưới mức bình thường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "eradication",
+            "phonetic": "/ɪˌrædɪˈkeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The complete destruction of something.",
+            "translation": "Sự tiêu diệt / Loại bỏ",
+            "concept": "Phá sạch.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "elimination",
+                "destruction"
+            ],
+            "collocations": [
+                "natural eradication"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They halted the natural eradication of underbrush.",
+                    "translation": "Họ đã ngăn chặn sự loại bỏ tự nhiên của tầng cây bụi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "underbrush",
+            "phonetic": "/ˈʌndəbrʌʃ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Shrubs and small trees forming the undergrowth in a forest.",
+            "translation": "Tầng cây bụi / Cỏ dại",
+            "concept": "Cây thấp trong rừng.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "undergrowth"
+            ],
+            "collocations": [
+                "burn the underbrush"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Underbrush is the primary fuel for fires.",
+                    "translation": "Tầng cây bụi là nhiên liệu chính cho các vụ cháy."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "throwback",
+            "phonetic": "/ˈθrəʊbæk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A reversion to an earlier ancestral characteristic.",
+            "translation": "Sự đảo ngược / Trở lại đặc điểm tổ tiên",
+            "concept": "Giống tổ tiên xa xưa.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "reversion"
+            ],
+            "collocations": [
+                "evolutionary throwback"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Some traits are evolutionary throwbacks.",
+                    "translation": "Một số đặc điểm là sự đảo ngược tiến hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reversible",
+            "phonetic": "/rɪˈvɜːsəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Able to be turned the other way around.",
+            "translation": "Có thể đảo ngược",
+            "concept": "Làm ngược lại được.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "reversible process"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Is evolution reversible?",
+                    "translation": "Tiến hóa có thể đảo ngược không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ancestor",
+            "phonetic": "/ˈænsestə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person, typically one more remote than a grandparent, from whom one is descended.",
+            "translation": "Tổ tiên",
+            "concept": "Người đời trước.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "forefather"
+            ],
+            "collocations": [
+                "human ancestor"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Lizards had toeless ancestors.",
+                    "translation": "Thằn lằn có tổ tiên không có ngón chân."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "embryo",
+            "phonetic": "/ˈembriəʊ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An unborn or unhatched offspring in the process of development.",
+            "translation": "Phôi thai",
+            "concept": "Mầm sống ban đầu.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "human embryo"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Traits appear in embryos.",
+                    "translation": "Các đặc điểm xuất hiện ở phôi thai."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

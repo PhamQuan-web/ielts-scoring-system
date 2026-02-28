@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_11_reading_test_2",
+    "title": "Cam 11 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Reading Test 2, bao gồm các chủ đề về trục vớt tàu Mary Rose.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "wreck",
+            "phonetic": "/rek/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The destruction of a ship at sea.",
+            "translation": "Xác tàu đắm",
+            "concept": "Tàu chìm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "shipwreck"
+            ],
+            "collocations": [
+                "discover a wreck"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They found the wreck of the Mary Rose.",
+                    "translation": "Họ đã tìm thấy xác con tàu Mary Rose."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "salvage",
+            "phonetic": "/ˈsælvɪdʒ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Rescue (a wrecked or disabled ship or its cargo) from loss at sea.",
+            "translation": "Trục vớt",
+            "concept": "Cứu tàu chìm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "rescue",
+                "recover"
+            ],
+            "collocations": [
+                "salvage operation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The decision to salvage the ship was hard.",
+                    "translation": "Quyết định trục vớt con tàu thật khó khăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excavation",
+            "phonetic": "/ˌekskəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of excavating something.",
+            "translation": "Sự khai quật",
+            "concept": "Đào cổ vật.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "digging"
+            ],
+            "collocations": [
+                "archaeological excavation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "An excavation began in 1978.",
+                    "translation": "Một cuộc khai quật bắt đầu vào năm 1978."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hull",
+            "phonetic": "/hʌl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The main body of a ship.",
+            "translation": "Thân tàu",
+            "concept": "Phần dưới tàu.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "ship's hull"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They wanted to raise the hull.",
+                    "translation": "Họ muốn nâng thân tàu lên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "feasible",
+            "phonetic": "/ˈfiːzəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Possible to do easily or conveniently.",
+            "translation": "Khả thi",
+            "concept": "Có thể làm được.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "possible",
+                "viable"
+            ],
+            "collocations": [
+                "commercially feasible"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They checked if it was feasible.",
+                    "translation": "Họ đã kiểm tra xem nó có khả thi hay không."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "artefact",
+            "phonetic": "/ˈɑːtɪfækt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An object made by a human being.",
+            "translation": "Hiện vật",
+            "concept": "Đồ cổ.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "relic"
+            ],
+            "collocations": [
+                "historical artefact"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It housed a treasure trove of artefacts.",
+                    "translation": "Nó chứa một kho báu các hiện vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "preserve",
+            "phonetic": "/prɪˈzɜːv/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Maintain in its original state.",
+            "translation": "Bảo quản",
+            "concept": "Giữ gìn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "conserve"
+            ],
+            "collocations": [
+                "well preserved"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The artefacts were beautifully preserved.",
+                    "translation": "Các hiện vật được bảo quản tuyệt đẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "undamaged",
+            "phonetic": "/ʌnˈdæmɪdʒd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Not harmed or injured.",
+            "translation": "Không bị hư hại",
+            "concept": "Còn nguyên.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "intact"
+            ],
+            "collocations": [
+                "remain undamaged"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One side lay undamaged.",
+                    "translation": "Một bên vẫn không bị hư hại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "valuable",
+            "phonetic": "/ˈvæljuəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Worth a great deal of money.",
+            "translation": "Có giá trị",
+            "concept": "Đắt tiền.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "precious"
+            ],
+            "collocations": [
+                "valuable object"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It contained valuable historical objects.",
+                    "translation": "Nó chứa những đồ vật lịch sử có giá trị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "marine",
+            "phonetic": "/məˈriːn/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to or found in the sea.",
+            "translation": "Thuộc về biển",
+            "concept": "Dưới biển.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "nautical"
+            ],
+            "collocations": [
+                "marine archaeology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Marine archaeology is challenging.",
+                    "translation": "Khảo cổ học biển rất đầy thách thức."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,866 @@
+{
+    "id": "cambridge_18_reading_test_1",
+    "title": "Cambridge 18 - Reading Test 1",
+    "description": "Full B2+ academic vocabulary from Reading Test 1 (Urban Farming, Forest Management, Space Debris).",
+    "wordCount": 45,
+    "category": "Reading",
+    "color": "from-green-500 to-emerald-700",
+    "isPro": true,
+    "words": [
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪ.nə.bəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Able to be maintained at a certain rate or level without depleting natural resources.",
+            "translation": "Bền vững, thân thiện với môi trường",
+            "concept": "Unlike 'durable' (lasting a long time), 'sustainable' emphasizes environmental balance and future viability.",
+            "register": "Academic/Formal",
+            "grammar_note": "Often modifies nouns like 'development', 'energy', 'agriculture'.",
+            "synonyms": ["eco-friendly", "renewable", "viable"],
+            "collocations": ["sustainable development", "sustainable agriculture", "environmentally sustainable"],
+            "contexts": [
+                {
+                    "sentence": "Vertical farming is often cited as a sustainable solution to the growing demand for food in urban areas.",
+                    "translation": "Canh tác thẳng đứng thường được coi là một giải pháp bền vững cho nhu cầu thực phẩm ngày càng tăng ở các khu vực đô thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dismantle",
+            "phonetic": "/dɪˈsmæn.təl/",
+            "partOfSpeech": "Verb",
+            "meaning": "To take a machine or structure to pieces; to gradually cease the functioning of a system.",
+            "translation": "Tháo dỡ (công trình) hoặc giải tán (hệ thống)",
+            "concept": "Implies a deliberate, step-by-step process of taking apart, distinct from 'destroy' or 'demolish'.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb. Often used in passive voice (e.g., 'was dismantled').",
+            "synonyms": ["disassemble", "deconstruct", "take apart"],
+            "collocations": ["dismantle a machine", "dismantle a regime", "dismantle barriers"],
+            "contexts": [
+                {
+                    "sentence": "Critics argue that we should dismantle the old infrastructure before building new eco-friendly systems.",
+                    "translation": "Các nhà phê bình cho rằng chúng ta nên tháo dỡ cơ sở hạ tầng cũ trước khi xây dựng các hệ thống thân thiện với môi trường mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rigorous",
+            "phonetic": "/ˈrɪɡ.ər.əs/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Extremely thorough, exhaustive, or accurate.",
+            "translation": "Nghiêm ngặt, khắt khe",
+            "concept": "Implies strict adherence to standards or methods, often used in scientific contexts.",
+            "register": "Academic",
+            "grammar_note": "Used to describe processes like 'testing', 'analysis', 'standards'.",
+            "synonyms": ["meticulous", "thorough", "stringent"],
+            "collocations": ["rigorous testing", "rigorous standards", "rigorous analysis"],
+            "contexts": [
+                {
+                    "sentence": "The study was subjected to rigorous peer review to ensure the accuracy of its data regarding climate change.",
+                    "translation": "Nghiên cứu đã trải qua quá trình bình duyệt nghiêm ngặt để đảm bảo tính chính xác của dữ liệu về biến đổi khí hậu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "proponent",
+            "phonetic": "/prəˈpəʊ.nənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person who advocates a theory, proposal, or project.",
+            "translation": "Người ủng hộ, người đề xướng",
+            "concept": "Stronger than 'supporter'; implies active advocacy and promotion of an idea.",
+            "register": "Academic/Formal",
+            "grammar_note": "Followed by 'of' (e.g., 'proponent of change').",
+            "synonyms": ["advocate", "supporter", "champion"],
+            "collocations": ["leading proponent", "staunch proponent", "proponent of the idea"],
+            "contexts": [
+                {
+                    "sentence": "Proponents of vertical farming argue that it significantly reduces the need for harmful pesticides.",
+                    "translation": "Những người ủng hộ canh tác thẳng đứng cho rằng nó làm giảm đáng kể nhu cầu sử dụng thuốc trừ sâu độc hại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "debris",
+            "phonetic": "/ˈdeɪ.briː/",
+            "partOfSpeech": "Noun",
+            "meaning": "Scattered pieces of waste or remains.",
+            "translation": "Mảnh vụn, rác thải (đặc biệt sau tai nạn hoặc trong không gian)",
+            "concept": "Specifically refers to broken or scattered remains, often implying danger or mess.",
+            "register": "Formal",
+            "grammar_note": "Uncountable noun. Cannot be pluralized (no 'debrises').",
+            "synonyms": ["rubble", "wreckage", "detritus"],
+            "collocations": ["space debris", "clearing debris", "falling debris"],
+            "contexts": [
+                {
+                    "sentence": "Space debris poses a catastrophic threat to operational satellites orbiting the Earth.",
+                    "translation": "Rác thải không gian gây ra mối đe dọa thảm khốc đối với các vệ tinh đang hoạt động trên quỹ đạo Trái đất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "collision",
+            "phonetic": "/kəˈlɪʒ.ən/",
+            "partOfSpeech": "Noun",
+            "meaning": "An instance of one moving object or person striking violently against another.",
+            "translation": "Sự va chạm, xung đột",
+            "concept": "Implies a violent impact, often accidental.",
+            "register": "General/Formal",
+            "grammar_note": "Followed by 'between' or 'with'.",
+            "synonyms": ["crash", "impact", "accident"],
+            "collocations": ["head-on collision", "avoid a collision", "collision course"],
+            "contexts": [
+                {
+                    "sentence": "Even a minor collision with a small shard of metal can destroy a spacecraft due to the high velocity in orbit.",
+                    "translation": "Ngay cả một va chạm nhỏ với một mảnh kim loại cũng có thể phá hủy tàu vũ trụ do vận tốc lớn trên quỹ đạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "constellation",
+            "phonetic": "/ˌkɒn.stəˈleɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "A group of associated or similar people or things; a group of satellites.",
+            "translation": "Chùm vệ tinh (hoặc chòm sao)",
+            "concept": "In technology context, refers to a coordinated group of satellites working together.",
+            "register": "Technical/Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["array", "cluster", "group"],
+            "collocations": ["satellite constellation", "star constellation", "constellation of symptoms"],
+            "contexts": [
+                {
+                    "sentence": "Companies are deploying vast constellations of satellites to provide global internet coverage.",
+                    "translation": "Các công ty đang triển khai các chùm vệ tinh khổng lồ để cung cấp phủ sóng internet toàn cầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "/ɔːˈtɒn.ə.məs/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Having the freedom to act independently; (of a machine) able to operate without human control.",
+            "translation": "Tự chủ, tự động (không cần can thiệp của con người)",
+            "concept": "Emphasizes self-governance and independence from external control.",
+            "register": "Academic/Technical",
+            "grammar_note": "Often used to describe vehicles, robots, or regions.",
+            "synonyms": ["independent", "self-governing", "automated"],
+            "collocations": ["autonomous vehicle", "autonomous decision", "fully autonomous"],
+            "contexts": [
+                {
+                    "sentence": "Future spacecraft may need autonomous navigation systems to avoid space junk without human intervention.",
+                    "translation": "Tàu vũ trụ trong tương lai có thể cần hệ thống điều hướng tự động để tránh rác thải không gian mà không cần sự can thiệp của con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "orbit",
+            "phonetic": "/ˈɔː.bɪt/",
+            "partOfSpeech": "Noun",
+            "meaning": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+            "translation": "Quỹ đạo",
+            "concept": "Specific astronomical term for a repeating path.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Can be a noun or a verb.",
+            "synonyms": ["path", "trajectory", "circuit"],
+            "collocations": ["low Earth orbit", "put into orbit", "orbital path"],
+            "contexts": [
+                {
+                    "sentence": "The satellite was successfully placed into a stable orbit around the Earth.",
+                    "translation": "Vệ tinh đã được đưa thành công vào quỹ đạo ổn định quanh Trái đất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "devastating",
+            "phonetic": "/ˈdev.ə.steɪ.tɪŋ/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Highly destructive or damaging.",
+            "translation": "Tàn phá, gây thiệt hại lớn",
+            "concept": "Stronger than 'damaging', implies almost total destruction or severe emotional shock.",
+            "register": "General/Formal",
+            "grammar_note": "Used with nouns like 'effect', 'impact', 'consequences'.",
+            "synonyms": ["destructive", "catastrophic", "ruinous"],
+            "collocations": ["devastating effect", "devastating consequences", "potentially devastating"],
+            "contexts": [
+                {
+                    "sentence": "A collision in space could have devastating consequences for global communication networks.",
+                    "translation": "Một vụ va chạm trong không gian có thể gây ra hậu quả tàn khốc cho các mạng lưới liên lạc toàn cầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monitor",
+            "phonetic": "/ˈmɒn.ɪ.tər/",
+            "partOfSpeech": "Verb",
+            "meaning": "To observe and check the progress or quality of something over a period of time.",
+            "translation": "Giám sát, theo dõi",
+            "concept": "Implies continuous, systematic observation.",
+            "register": "General/Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["observe", "track", "surveil"],
+            "collocations": ["monitor progress", "closely monitor", "monitor the situation"],
+            "contexts": [
+                {
+                    "sentence": "Space agencies closely monitor the trajectory of large pieces of space debris to prevent collisions.",
+                    "translation": "Các cơ quan vũ trụ theo dõi chặt chẽ quỹ đạo của các mảnh rác không gian lớn để ngăn chặn va chạm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "accumulation",
+            "phonetic": "/əˌkjuː.mjəˈleɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The acquisition or gradual gathering of something.",
+            "translation": "Sự tích tụ, sự chồng chất",
+            "concept": "Refers to the process of building up over time.",
+            "register": "Academic",
+            "grammar_note": "Uncountable or countable depending on context.",
+            "synonyms": ["buildup", "accretion", "collection"],
+            "collocations": ["accumulation of wealth", "gradual accumulation", "toxic accumulation"],
+            "contexts": [
+                {
+                    "sentence": "The accumulation of plastic waste in the oceans is a pressing environmental issue.",
+                    "translation": "Sự tích tụ rác thải nhựa trong các đại dương là một vấn đề môi trường cấp bách."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "regeneration",
+            "phonetic": "/rɪˌdʒen.əˈreɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action or process of regenerating or being regenerated, in particular the formation of new animal or plant tissue.",
+            "translation": "Sự tái sinh, phục hồi, tái tạo",
+            "concept": "Implies renewal and restoration after damage or decay.",
+            "register": "Academic/Formal",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["renewal", "restoration", "revival"],
+            "collocations": ["urban regeneration", "tissue regeneration", "forest regeneration"],
+            "contexts": [
+                {
+                    "sentence": "The regeneration of the forest will take decades after the devastating fire.",
+                    "translation": "Sự tái sinh của khu rừng sẽ mất hàng thập kỷ sau trận hỏa hoạn tàn khốc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+            "partOfSpeech": "Noun",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "translation": "Đa dạng sinh học",
+            "concept": "Refers to the richness and variety of biological life.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["ecological variety", "biological diversity"],
+            "collocations": ["loss of biodiversity", "rich biodiversity", "preserve biodiversity"],
+            "contexts": [
+                {
+                    "sentence": "Protecting biodiversity is essential for maintaining a healthy and resilient ecosystem.",
+                    "translation": "Bảo vệ đa dạng sinh học là điều cần thiết để duy trì một hệ sinh thái khỏe mạnh và kiên cường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiː.kəʊˌsɪs.təm/",
+            "partOfSpeech": "Noun",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "translation": "Hệ sinh thái",
+            "concept": "Refers to the complex web of interactions between living things and their environment.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["environment", "biosphere"],
+            "collocations": ["fragile ecosystem", "marine ecosystem", "balance of the ecosystem"],
+            "contexts": [
+                {
+                    "sentence": "Pollution can disrupt the delicate balance of the marine ecosystem.",
+                    "translation": "Ô nhiễm có thể phá vỡ sự cân bằng mong manh của hệ sinh thái biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pesticide",
+            "phonetic": "/ˈpes.tɪ.saɪd/",
+            "partOfSpeech": "Noun",
+            "meaning": "A substance used for destroying insects or other organisms harmful to cultivated plants or to animals.",
+            "translation": "Thuốc trừ sâu",
+            "concept": "Specific chemical agent used in agriculture.",
+            "register": "General/Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["insecticide", "herbicide"],
+            "collocations": ["pesticide residue", "use of pesticides", "synthetic pesticides"],
+            "contexts": [
+                {
+                    "sentence": "Organic farming strictly avoids the use of synthetic pesticides to ensure food safety.",
+                    "translation": "Canh tác hữu cơ nghiêm ngặt tránh sử dụng thuốc trừ sâu tổng hợp để đảm bảo an toàn thực phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vertical",
+            "phonetic": "/ˈvɜː.tɪ.kəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "At right angles to a horizontal plane; in a direction, or having an alignment, such that the top is directly above the bottom.",
+            "translation": "Thẳng đứng, dọc",
+            "concept": "Opposite of horizontal.",
+            "register": "General",
+            "grammar_note": "Used in 'vertical farming'.",
+            "synonyms": ["upright", "perpendicular"],
+            "collocations": ["vertical farming", "vertical axis", "vertical integration"],
+            "contexts": [
+                {
+                    "sentence": "Vertical farming allows crops to be grown in stacked layers, saving valuable land space.",
+                    "translation": "Canh tác thẳng đứng cho phép trồng cây theo các lớp xếp chồng lên nhau, tiết kiệm diện tích đất quý giá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "demographic",
+            "phonetic": "/ˌdem.əˈɡræf.ɪk/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Relating to the structure of populations.",
+            "translation": "Thuộc về nhân khẩu học",
+            "concept": "Relates to population statistics like age, gender, income.",
+            "register": "Academic",
+            "grammar_note": "Can be a noun (a particular sector of a population).",
+            "synonyms": ["population-based"],
+            "collocations": ["demographic change", "demographic shift", "demographic trends"],
+            "contexts": [
+                {
+                    "sentence": "Rapid demographic changes are putting pressure on urban infrastructure.",
+                    "translation": "Những thay đổi nhanh chóng về nhân khẩu học đang gây áp lực lên cơ sở hạ tầng đô thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conservative",
+            "phonetic": "/kənˈsɜː.və.tɪv/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Averse to change or innovation and holding traditional values; (of an estimate) purposely low for the sake of caution.",
+            "translation": "Bảo thủ; thận trọng (ước tính)",
+            "concept": "Can mean resistant to change OR cautious in estimation.",
+            "register": "General/Academic",
+            "grammar_note": "Meaning depends on context.",
+            "synonyms": ["traditional", "cautious", "moderate"],
+            "collocations": ["conservative estimate", "conservative view", "conservative approach"],
+            "contexts": [
+                {
+                    "sentence": "Even by conservative estimates, the project will cost millions of dollars.",
+                    "translation": "Ngay cả theo những ước tính thận trọng, dự án sẽ tiêu tốn hàng triệu đô la."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "spoilage",
+            "phonetic": "/ˈspɔɪ.lɪdʒ/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action of spoiling, especially of food deteriorating; waste produced by spoiling.",
+            "translation": "Sự hư hỏng (thực phẩm)",
+            "concept": "Refers specifically to food going bad.",
+            "register": "Formal/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["decay", "rot", "deterioration"],
+            "collocations": ["food spoilage", "reduce spoilage"],
+            "contexts": [
+                {
+                    "sentence": "Improved packaging can significantly reduce food spoilage during transport.",
+                    "translation": "Bao bì cải tiến có thể giảm đáng kể sự hư hỏng thực phẩm trong quá trình vận chuyển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prohibitively",
+            "phonetic": "/prəˈhɪb.ɪ.tɪv.li/",
+            "partOfSpeech": "Adverb",
+            "meaning": "Used to emphasize a cost that is so high as to prevent something being done or bought.",
+            "translation": "Đắt đỏ đến mức không thể chi trả",
+            "concept": "Modifies 'expensive' or 'high' to imply impossibility.",
+            "register": "Formal",
+            "grammar_note": "Usually modifies adjectives like 'expensive', 'high'.",
+            "synonyms": ["exorbitantly", "excessively"],
+            "collocations": ["prohibitively expensive", "prohibitively high cost"],
+            "contexts": [
+                {
+                    "sentence": "The cost of the new technology was prohibitively expensive for most small businesses.",
+                    "translation": "Chi phí của công nghệ mới là quá đắt đỏ đối với hầu hết các doanh nghiệp nhỏ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aspiration",
+            "phonetic": "/ˌæs.pɪˈreɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "A hope or ambition of achieving something.",
+            "translation": "Khát vọng, nguyện vọng",
+            "concept": "Strong desire for achievement.",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["ambition", "goal", "dream"],
+            "collocations": ["career aspiration", "personal aspiration"],
+            "contexts": [
+                {
+                    "sentence": "His aspiration to become a leading scientist drove him to study tirelessly.",
+                    "translation": "Khát vọng trở thành một nhà khoa học hàng đầu đã thúc đẩy anh ấy học tập không mệt mỏi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "address",
+            "phonetic": "/əˈdres/",
+            "partOfSpeech": "Verb",
+            "meaning": "To think about and begin to deal with (an issue or problem).",
+            "translation": "Giải quyết, xử lý (vấn đề)",
+            "concept": "Formal way of saying 'deal with'.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["tackle", "deal with", "confront"],
+            "collocations": ["address the issue", "address the problem", "address concerns"],
+            "contexts": [
+                {
+                    "sentence": "The government must urgently address the issue of climate change.",
+                    "translation": "Chính phủ phải khẩn trương giải quyết vấn đề biến đổi khí hậu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "detrimental",
+            "phonetic": "/ˌdet.rɪˈmen.təl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Tending to cause harm.",
+            "translation": "Có hại, gây bất lợi",
+            "concept": "Formal synonym for harmful.",
+            "register": "Formal/Academic",
+            "grammar_note": "Followed by 'to'.",
+            "synonyms": ["harmful", "damaging", "injurious"],
+            "collocations": ["detrimental effect", "detrimental to health"],
+            "contexts": [
+                {
+                    "sentence": "Smoking is known to be detrimental to lung health.",
+                    "translation": "Hút thuốc được biết là có hại cho sức khỏe phổi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Make less severe, serious, or painful.",
+            "translation": "Giảm nhẹ, làm dịu bớt",
+            "concept": "Often used in risk management or environmental contexts.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["alleviate", "reduce", "diminish"],
+            "collocations": ["mitigate risk", "mitigate the impact", "mitigate climate change"],
+            "contexts": [
+                {
+                    "sentence": "Planting more trees can help mitigate the effects of carbon emissions.",
+                    "translation": "Trồng thêm cây có thể giúp giảm nhẹ tác động của khí thải carbon."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hazardous",
+            "phonetic": "/ˈhæz.ə.dəs/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Risky; dangerous.",
+            "translation": "Nguy hiểm, độc hại",
+            "concept": "Implies risk to safety or health.",
+            "register": "General/Formal",
+            "grammar_note": "Often describes substances or conditions.",
+            "synonyms": ["dangerous", "risky", "unsafe"],
+            "collocations": ["hazardous waste", "hazardous conditions", "hazardous chemicals"],
+            "contexts": [
+                {
+                    "sentence": "The disposal of hazardous waste requires strict adherence to safety protocols.",
+                    "translation": "Việc xử lý chất thải nguy hại đòi hỏi phải tuân thủ nghiêm ngặt các quy trình an toàn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "discard",
+            "phonetic": "/dɪˈskɑːd/",
+            "partOfSpeech": "Verb",
+            "meaning": "Get rid of (someone or something) as no longer useful or desirable.",
+            "translation": "Vứt bỏ, loại bỏ",
+            "concept": "Formal way of saying 'throw away'.",
+            "register": "General/Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["dispose of", "throw away", "reject"],
+            "collocations": ["discard waste", "discarded items"],
+            "contexts": [
+                {
+                    "sentence": "Consumers are encouraged not to discard electronics in regular trash bins.",
+                    "translation": "Người tiêu dùng được khuyến khích không vứt bỏ đồ điện tử vào thùng rác thông thường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commemorate",
+            "phonetic": "/kəˈmem.ə.reɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Recall and show respect for (someone or something).",
+            "translation": "Tưởng nhớ, kỷ niệm",
+            "concept": "Used for honoring memory.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["celebrate", "honor", "memorialize"],
+            "collocations": ["commemorate an anniversary", "commemorate a hero"],
+            "contexts": [
+                {
+                    "sentence": "A statue was erected to commemorate the victims of the disaster.",
+                    "translation": "Một bức tượng đã được dựng lên để tưởng nhớ các nạn nhân của thảm họa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "implement",
+            "phonetic": "/ˈɪm.plɪ.ment/",
+            "partOfSpeech": "Verb",
+            "meaning": "To put a decision, plan, agreement, etc., into effect.",
+            "translation": "Thực hiện, thi hành",
+            "concept": "Formal way of saying 'do' or 'carry out'.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["execute", "enact", "apply"],
+            "collocations": ["implement a plan", "implement a policy"],
+            "contexts": [
+                {
+                    "sentence": "The government plans to implement stricter regulations on carbon emissions by next year.",
+                    "translation": "Chính phủ có kế hoạch thực hiện các quy định nghiêm ngặt hơn về khí thải carbon vào năm tới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conserve",
+            "phonetic": "/kənˈsɜːv/",
+            "partOfSpeech": "Verb",
+            "meaning": "To protect something from harm or destruction.",
+            "translation": "Bảo tồn, gìn giữ",
+            "concept": "Focuses on saving for future use.",
+            "register": "General/Academic",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["preserve", "protect", "save"],
+            "collocations": ["conserve energy", "conserve nature"],
+            "contexts": [
+                {
+                    "sentence": "It is crucial to conserve water resources, especially in regions prone to severe drought.",
+                    "translation": "Việc bảo tồn nguồn nước là vô cùng quan trọng, đặc biệt là ở những khu vực dễ bị hạn hán nghiêm trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "simultaneously",
+            "phonetic": "/ˌsɪm.əlˈteɪ.ni.əs.li/",
+            "partOfSpeech": "Adverb",
+            "meaning": "At the same time.",
+            "translation": "Đồng thời",
+            "concept": "Happening together.",
+            "register": "General/Formal",
+            "grammar_note": "Modifies verbs.",
+            "synonyms": ["at the same time", "concurrently"],
+            "collocations": ["happen simultaneously", "work simultaneously"],
+            "contexts": [
+                {
+                    "sentence": "The software is capable of processing multiple complex tasks simultaneously without lagging.",
+                    "translation": "Phần mềm có khả năng xử lý nhiều tác vụ phức tạp cùng lúc mà không bị giật lag."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monumental",
+            "phonetic": "/ˌmɒn.juˈmen.təl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Great in importance, extent, or size.",
+            "translation": "Vĩ đại, hoành tráng",
+            "concept": "Can refer to physical size or metaphorical significance.",
+            "register": "Formal",
+            "grammar_note": "Often used to describe tasks, errors, or achievements.",
+            "synonyms": ["huge", "massive", "gigantic"],
+            "collocations": ["monumental task", "monumental achievement"],
+            "contexts": [
+                {
+                    "sentence": "The construction of the pyramids was a monumental achievement in engineering for that era.",
+                    "translation": "Việc xây dựng các kim tự tháp là một thành tựu kỹ thuật vĩ đại vào thời đại đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "descendant",
+            "phonetic": "/dɪˈsen.dənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person, plant, or animal that is descended from a particular ancestor.",
+            "translation": "Hậu duệ, con cháu",
+            "concept": "Coming from an ancestor.",
+            "register": "General/Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["offspring", "successor"],
+            "collocations": ["direct descendant", "descendant of"],
+            "contexts": [
+                {
+                    "sentence": "Many modern birds are considered to be direct descendants of prehistoric dinosaurs.",
+                    "translation": "Nhiều loài chim hiện đại được coi là hậu duệ trực tiếp của khủng long thời tiền sử."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "imitate",
+            "phonetic": "/ˈɪm.ɪ.teɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Take or follow as a model.",
+            "translation": "Bắt chước, mô phỏng",
+            "concept": "Copying behavior or appearance.",
+            "register": "General/Academic",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["copy", "emulate", "mimic"],
+            "collocations": ["imitate behavior", "imitate style"],
+            "contexts": [
+                {
+                    "sentence": "Biomimicry involves creating designs that imitate nature to solve complex human problems.",
+                    "translation": "Mô phỏng sinh học liên quan đến việc tạo ra các thiết kế bắt chước tự nhiên để giải quyết các vấn đề phức tạp của con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resilient",
+            "phonetic": "/rɪˈzɪl.i.ənt/",
+            "partOfSpeech": "Adjective",
+            "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
+            "translation": "Kiên cường, có khả năng hồi phục nhanh",
+            "concept": "Bouncing back from trouble.",
+            "register": "General",
+            "grammar_note": "Describes people, economies, materials.",
+            "synonyms": ["strong", "tough", "hardy"],
+            "collocations": ["resilient economy", "highly resilient"],
+            "contexts": [
+                {
+                    "sentence": "Ecosystems that are diverse tend to be more resilient to environmental changes and disasters.",
+                    "translation": "Các hệ sinh thái đa dạng có xu hướng kiên cường hơn trước những thay đổi môi trường và thảm họa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "replenish",
+            "phonetic": "/rɪˈplen.ɪʃ/",
+            "partOfSpeech": "Verb",
+            "meaning": "Fill (something) up again.",
+            "translation": "Làm đầy lại, bổ sung",
+            "concept": "Restoring to full level.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["refill", "restore", "restock"],
+            "collocations": ["replenish supplies", "replenish energy"],
+            "contexts": [
+                {
+                    "sentence": "We need to replenish our water supplies before continuing the journey.",
+                    "translation": "Chúng tôi cần bổ sung nguồn nước dự trữ trước khi tiếp tục hành trình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cultivate",
+            "phonetic": "/ˈkʌl.tɪ.veɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Prepare and use (land) for crops or gardening.",
+            "translation": "Canh tác, trồng trọt; nuôi dưỡng (kỹ năng)",
+            "concept": "Growing plants or skills.",
+            "register": "General/Academic",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["grow", "farm", "foster"],
+            "collocations": ["cultivate crops", "cultivate a relationship"],
+            "contexts": [
+                {
+                    "sentence": "Farmers cultivate the land to produce crops.",
+                    "translation": "Nông dân canh tác đất đai để sản xuất hoa màu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "irrigation",
+            "phonetic": "/ˌɪr.ɪˈɡeɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The supply of water to land or crops to help growth, typically by means of channels.",
+            "translation": "Sự tưới tiêu",
+            "concept": "Watering system.",
+            "register": "Technical/General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["watering"],
+            "collocations": ["irrigation system", "drip irrigation"],
+            "contexts": [
+                {
+                    "sentence": "Effective irrigation is essential for agriculture in dry regions.",
+                    "translation": "Tưới tiêu hiệu quả là điều cần thiết cho nông nghiệp ở các vùng khô hạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "livestock",
+            "phonetic": "/ˈlaɪv.stɒk/",
+            "partOfSpeech": "Noun",
+            "meaning": "Farm animals regarded as an asset.",
+            "translation": "Vật nuôi, gia súc",
+            "concept": "Animals raised for food/profit.",
+            "register": "General/Agricultural",
+            "grammar_note": "Uncountable/Plural noun.",
+            "synonyms": ["farm animals", "cattle"],
+            "collocations": ["raise livestock", "livestock farming"],
+            "contexts": [
+                {
+                    "sentence": "The farmer raises livestock such as cows and sheep.",
+                    "translation": "Người nông dân nuôi gia súc như bò và cừu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "yield",
+            "phonetic": "/jiːld/",
+            "partOfSpeech": "Noun",
+            "meaning": "The full amount of an agricultural or industrial product.",
+            "translation": "Sản lượng, năng suất",
+            "concept": "Output of production.",
+            "register": "General/Technical",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["output", "harvest", "return"],
+            "collocations": ["high yield", "crop yield"],
+            "contexts": [
+                {
+                    "sentence": "The new fertilizer significantly increased the crop yield.",
+                    "translation": "Phân bón mới đã làm tăng đáng kể năng suất cây trồng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "harvest",
+            "phonetic": "/ˈhɑː.vɪst/",
+            "partOfSpeech": "Verb",
+            "meaning": "Gather (a crop) as a harvest.",
+            "translation": "Thu hoạch",
+            "concept": "Collecting crops.",
+            "register": "General",
+            "grammar_note": "Transitive/Intransitive verb.",
+            "synonyms": ["gather", "collect", "reap"],
+            "collocations": ["harvest crops", "bountiful harvest"],
+            "contexts": [
+                {
+                    "sentence": "Farmers harvest the wheat in late summer.",
+                    "translation": "Nông dân thu hoạch lúa mì vào cuối mùa hè."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fertilizer",
+            "phonetic": "/ˈfɜː.tɪ.laɪ.zər/",
+            "partOfSpeech": "Noun",
+            "meaning": "A chemical or natural substance added to soil or land to increase its fertility.",
+            "translation": "Phân bón",
+            "concept": "Plant food.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["manure", "plant food"],
+            "collocations": ["organic fertilizer", "chemical fertilizer"],
+            "contexts": [
+                {
+                    "sentence": "The use of chemical fertilizers can have negative effects on the environment.",
+                    "translation": "Việc sử dụng phân bón hóa học có thể có tác động tiêu cực đến môi trường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nutrient",
+            "phonetic": "/ˈnjuː.tri.ənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A substance that provides nourishment essential for growth and the maintenance of life.",
+            "translation": "Chất dinh dưỡng",
+            "concept": "Essential for life.",
+            "register": "Scientific/General",
+            "grammar_note": "Countable noun.",
+            "synonyms": [],
+            "collocations": ["rich in nutrients", "essential nutrients"],
+            "contexts": [
+                {
+                    "sentence": "Vegetables are a good source of essential nutrients.",
+                    "translation": "Rau là nguồn cung cấp các chất dinh dưỡng thiết yếu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "habitat",
+            "phonetic": "/ˈhæb.ɪ.tæt/",
+            "partOfSpeech": "Noun",
+            "meaning": "The natural home or environment of an animal, plant, or other organism.",
+            "translation": "Môi trường sống",
+            "concept": "Where something lives.",
+            "register": "Scientific/General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["environment", "home", "territory"],
+            "collocations": ["natural habitat", "loss of habitat"],
+            "contexts": [
+                {
+                    "sentence": "Deforestation is destroying the natural habitat of many animals.",
+                    "translation": "Nạn phá rừng đang phá hủy môi trường sống tự nhiên của nhiều loài động vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "emission",
+            "phonetic": "/iˈmɪʃ.ən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The production and discharge of something, especially gas or radiation.",
+            "translation": "Sự phát thải, khí thải",
+            "concept": "Releasing gas.",
+            "register": "Formal/Scientific",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["discharge", "release", "outflow"],
+            "collocations": ["carbon emission", "reduce emissions"],
+            "contexts": [
+                {
+                    "sentence": "The government has set targets to reduce carbon emissions.",
+                    "translation": "Chính phủ đã đặt mục tiêu giảm khí thải carbon."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

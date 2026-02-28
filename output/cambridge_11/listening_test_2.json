@@ -1,0 +1,241 @@
+{
+    "id": "cambridge_11_listening_test_2",
+    "title": "Cam 11 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 11 Listening Test 2, bao gồm các chủ đề về triển lãm nghệ thuật, tiến hóa.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "exhibition",
+            "phonetic": "/ˌeksɪˈbɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A public display of works of art.",
+            "translation": "Cuộc triển lãm",
+            "concept": "Trưng bày.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "display"
+            ],
+            "collocations": [
+                "art exhibition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We went to the art exhibition.",
+                    "translation": "Chúng tôi đã đi xem triển lãm nghệ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sculpture",
+            "phonetic": "/ˈskʌlptʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The art of making two- or three-dimensional forms.",
+            "translation": "Điêu khắc",
+            "concept": "Nghệ thuật tạc tượng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "statue"
+            ],
+            "collocations": [
+                "stone sculpture"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The museum has a collection of sculptures.",
+                    "translation": "Bảo tàng có một bộ sưu tập các tác phẩm điêu khắc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archaeology",
+            "phonetic": "/ˌɑːkiˈɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The study of human history.",
+            "translation": "Khảo cổ học",
+            "concept": "Nghiên cứu đồ cổ.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "marine archaeology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He studies archaeology.",
+                    "translation": "Anh ấy học ngành khảo cổ học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fossil",
+            "phonetic": "/ˈfɒsl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The remains or impression of a prehistoric organism.",
+            "translation": "Hóa thạch",
+            "concept": "Vết tích sinh vật cổ.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "dinosaur fossil"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They found a rare fossil.",
+                    "translation": "Họ đã tìm thấy một hóa thạch quý hiếm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "evolution",
+            "phonetic": "/ˌiːvəˈluːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The gradual development of something.",
+            "translation": "Sự tiến hóa",
+            "concept": "Phát triển dần.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "development"
+            ],
+            "collocations": [
+                "human evolution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The exhibition explains human evolution.",
+                    "translation": "Cuộc triển lãm giải thích sự tiến hóa của loài người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mammal",
+            "phonetic": "/ˈmæml/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A warm-blooded vertebrate animal.",
+            "translation": "Động vật có vú",
+            "concept": "Động vật nuôi con bằng sữa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "marine mammal"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Whales are marine mammals.",
+                    "translation": "Cá voi là động vật có vú ở biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "extinct",
+            "phonetic": "/ɪkˈstɪŋkt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Having no living members.",
+            "translation": "Tuyệt chủng",
+            "concept": "Chết hết.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "vanished"
+            ],
+            "collocations": [
+                "become extinct"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The dinosaur is extinct.",
+                    "translation": "Khủng long đã tuyệt chủng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "preserve",
+            "phonetic": "/prɪˈzɜːv/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Maintain in its original state.",
+            "translation": "Bảo tồn",
+            "concept": "Giữ gìn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "conserve"
+            ],
+            "collocations": [
+                "preserve history"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We must preserve these artifacts.",
+                    "translation": "Chúng ta phải bảo tồn những hiện vật này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "documentary",
+            "phonetic": "/ˌdɒkjuˈmentri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A movie or a television or radio program that provides a factual record.",
+            "translation": "Phim tài liệu",
+            "concept": "Phim thực tế.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "watch a documentary"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We watched a documentary about nature.",
+                    "translation": "Chúng tôi đã xem một bộ phim tài liệu về thiên nhiên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiːkəʊsɪstəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A biological community of interacting organisms.",
+            "translation": "Hệ sinh thái",
+            "concept": "Môi trường sống.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "fragile ecosystem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The reef is a fragile ecosystem.",
+                    "translation": "Rạn san hô là một hệ sinh thái mỏng manh."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

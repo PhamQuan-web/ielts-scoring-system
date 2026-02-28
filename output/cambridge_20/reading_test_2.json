@@ -1,0 +1,571 @@
+{
+    "id": "cambridge_20_reading_test_2",
+    "title": "Cam 20 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Reading Test 2, bao gồm các bài đọc: Manatees, Procrastination, và Invasion of the Robot Umpires.",
+    "wordCount": 35,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "aquatic",
+            "phonetic": "/əˈkwætɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to water.",
+            "translation": "Dưới nước / Thủy sinh",
+            "concept": "Sống hoặc diễn ra dưới nước.",
+            "register": "Scientific",
+            "synonyms": [
+                "marine"
+            ],
+            "collocations": [
+                "aquatic animal",
+                "aquatic plant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Manatees, also known as sea cows, are aquatic mammals.",
+                    "translation": "Lợn biển, còn được gọi là bò biển, là loài động vật có vú dưới nước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "herbivore",
+            "phonetic": "/ˈhɜːbɪvɔː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An animal that feeds on plants.",
+            "translation": "Động vật ăn cỏ",
+            "concept": "Chỉ ăn thực vật.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "strict herbivore"
+            ],
+            "contexts": [
+                {
+                    "sentence": "West Indian and Amazonian manatees are both herbivores.",
+                    "translation": "Lợn biển Tây Ấn và Amazon đều là động vật ăn cỏ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "abrasive",
+            "phonetic": "/əˈbreɪsɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(of a substance or material) capable of polishing or cleaning a hard surface by rubbing or grinding.",
+            "translation": "Thô ráp / Có tính mài mòn",
+            "concept": "Làm mòn răng hoặc bề mặt.",
+            "register": "Formal",
+            "synonyms": [
+                "rough",
+                "grinding"
+            ],
+            "collocations": [
+                "abrasive material",
+                "abrasive diet"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Due to manatees’ abrasive aquatic plant diet, these teeth get worn down.",
+                    "translation": "Do chế độ ăn thực vật thủy sinh thô ráp của lợn biển, những chiếc răng này bị mòn đi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "buoyancy",
+            "phonetic": "/ˈbɔɪənsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The ability or tendency to float in water or air or some other fluid.",
+            "translation": "Sự nổi / Lực đẩy Ác-si-mét",
+            "concept": "Khả năng nổi trên mặt nước.",
+            "register": "Scientific",
+            "synonyms": [
+                "floatability"
+            ],
+            "collocations": [
+                "maintain buoyancy",
+                "neutral buoyancy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’s thought that manatees use their muscular diaphragm and breathing to adjust their buoyancy.",
+                    "translation": "Người ta cho rằng lợn biển sử dụng cơ hoành và hơi thở để điều chỉnh độ nổi của chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "subspecies",
+            "phonetic": "/ˈsʌbˌspiːʃiːz/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A classification below species.",
+            "translation": "Phân loài",
+            "concept": "Nhóm nhỏ hơn trong một loài.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "distinct subspecies"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are two subspecies of West Indian manatee.",
+                    "translation": "Có hai phân loài lợn biển Tây Ấn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ambient",
+            "phonetic": "/ˈæmbiənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to the immediate surroundings of something.",
+            "translation": "Bao quanh / Môi trường xung quanh",
+            "concept": "Nhiệt độ/ánh sáng của môi trường xung quanh.",
+            "register": "Formal",
+            "synonyms": [
+                "surrounding"
+            ],
+            "collocations": [
+                "ambient temperature",
+                "ambient light"
+            ],
+            "contexts": [
+                {
+                    "sentence": "When the ambient water temperature drops below 20°C.",
+                    "translation": "Khi nhiệt độ nước xung quanh giảm xuống dưới 20°C."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "refuge",
+            "phonetic": "/ˈrefjuːdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A condition of being safe or sheltered from pursuit, danger, or trouble.",
+            "translation": "Nơi trú ẩn",
+            "concept": "Chỗ an toàn để trốn.",
+            "register": "General",
+            "synonyms": [
+                "shelter",
+                "sanctuary"
+            ],
+            "collocations": [
+                "take refuge",
+                "seek refuge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It takes refuge in naturally and artificially warmed water.",
+                    "translation": "Nó tìm nơi trú ẩn trong vùng nước ấm tự nhiên và nhân tạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "entanglement",
+            "phonetic": "/ɪnˈtæŋɡlmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The condition of being wrapped or twisted together in a messy or complicated way.",
+            "translation": "Sự mắc lưới / Sự vướng víu",
+            "concept": "Bị kẹt trong lưới hoặc dây.",
+            "register": "Formal",
+            "synonyms": [
+                "snare"
+            ],
+            "collocations": [
+                "risk of entanglement",
+                "accidental entanglement"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A review of almost 1,800 cases of entanglement in fishing nets.",
+                    "translation": "Một đánh giá về gần 1.800 trường hợp mắc vào lưới đánh cá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "procrastination",
+            "phonetic": "/prəˌkræstɪˈneɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of delaying or postponing something.",
+            "translation": "Sự trì hoãn",
+            "concept": "Thói quen để mai tính.",
+            "register": "General",
+            "synonyms": [
+                "delaying",
+                "postponement"
+            ],
+            "collocations": [
+                "chronic procrastination",
+                "overcome procrastination"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Procrastination is the habit of delaying a necessary task.",
+                    "translation": "Trì hoãn là thói quen làm chậm trễ một nhiệm vụ cần thiết."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "chronic",
+            "phonetic": "/ˈkrɒnɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of an illness) persisting for a long time or constantly recurring.",
+            "translation": "Mãn tính / Kinh niên",
+            "concept": "Kéo dài, khó chữa.",
+            "register": "Medical",
+            "synonyms": [
+                "persistent",
+                "long-standing"
+            ],
+            "collocations": [
+                "chronic pain",
+                "chronic procrastination"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Different in people who chronically procrastinate.",
+                    "translation": "Khác biệt ở những người trì hoãn kinh niên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fraudulent",
+            "phonetic": "/ˈfrɔːdʒələnt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Obtained, done by, or involving deception, especially criminal deception.",
+            "translation": "Gian lận / Lừa đảo",
+            "concept": "Dối trá để đạt mục đích.",
+            "register": "Formal",
+            "synonyms": [
+                "dishonest",
+                "deceitful"
+            ],
+            "collocations": [
+                "fraudulent activity",
+                "fraudulent claims"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Using fraudulent excuses to get deadline extensions.",
+                    "translation": "Sử dụng những lý do gian lận để được gia hạn thời hạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "misconduct",
+            "phonetic": "/ˌmɪsˈkɒndʌkt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Unacceptable or improper behavior.",
+            "translation": "Hành vi sai trái",
+            "concept": "Làm điều xấu, vi phạm quy tắc.",
+            "register": "Formal",
+            "synonyms": [
+                "wrongdoing",
+                "misbehavior"
+            ],
+            "collocations": [
+                "professional misconduct",
+                "gross misconduct"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Engage in study-related misconduct, such as cheating and plagiarism.",
+                    "translation": "Tham gia vào các hành vi sai trái liên quan đến học tập, chẳng hạn như gian lận và đạo văn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "correlate",
+            "phonetic": "/ˈkɒrəleɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Have a mutual relationship or connection, in which one thing affects or depends on another.",
+            "translation": "Tương quan",
+            "concept": "Có liên hệ với nhau.",
+            "register": "Academic",
+            "synonyms": [
+                "connect",
+                "associate"
+            ],
+            "collocations": [
+                "correlate with",
+                "positively correlate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Procrastination also correlates with serious health and well-being problems.",
+                    "translation": "Sự trì hoãn cũng tương quan với các vấn đề nghiêm trọng về sức khỏe và tinh thần."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vicious",
+            "phonetic": "/ˈvɪʃəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Deliberately cruel or violent.",
+            "translation": "Luẩn quẩn (vòng tròn) / Ác độc",
+            "concept": "Vicious cycle (vòng luẩn quẩn xấu).",
+            "register": "General",
+            "synonyms": [
+                "cruel",
+                "savage"
+            ],
+            "collocations": [
+                "vicious cycle",
+                "vicious circle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "One route out of the vicious cycle of procrastination.",
+                    "translation": "Một lối thoát khỏi vòng luẩn quẩn của sự trì hoãn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "compassion",
+            "phonetic": "/kəmˈpæʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+            "translation": "Lòng trắc ẩn / Sự thương cảm",
+            "concept": "Hiểu và thương cảm cho nỗi khổ (của mình hoặc người khác).",
+            "register": "General",
+            "synonyms": [
+                "empathy",
+                "sympathy"
+            ],
+            "collocations": [
+                "show compassion",
+                "self-compassion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Forgiving ourselves and feeling compassion when we procrastinate.",
+                    "translation": "Tha thứ cho bản thân và cảm thấy thương cảm khi chúng ta trì hoãn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "umpire",
+            "phonetic": "/ˈʌmpaɪə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "(in some sports) an official who watches a game or match closely to enforce the rules and arbitrate on matters arising from the play.",
+            "translation": "Trọng tài (tennis/bóng chày)",
+            "concept": "Người phân xử trận đấu.",
+            "register": "Sports",
+            "synonyms": [
+                "referee",
+                "judge"
+            ],
+            "collocations": [
+                "tennis umpire",
+                "baseball umpire"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fred DeJesus became the first umpire in a minor league baseball game to use ABS.",
+                    "translation": "Fred DeJesus đã trở thành trọng tài đầu tiên trong một trận đấu bóng chày giải hạng nhỏ sử dụng ABS."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "contraption",
+            "phonetic": "/kənˈtræpʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A machine or device that appears strange or unnecessarily complicated, and often badly made or unsafe.",
+            "translation": "Cỗ máy kỳ cục / Dụng cụ lạ mắt",
+            "concept": "Máy móc nhìn lạ lùng.",
+            "register": "Informal",
+            "synonyms": [
+                "gadget",
+                "device"
+            ],
+            "collocations": [
+                "strange contraption",
+                "weird contraption"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The contraption looked like a large black pizza box with one glowing green eye.",
+                    "translation": "Cỗ máy kỳ cục trông giống như một hộp pizza đen lớn với một con mắt màu xanh lá cây phát sáng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "controversy",
+            "phonetic": "/ˈkɒntrəvɜːsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Disagreement, typically when prolonged, public, and heated.",
+            "translation": "Sự tranh cãi",
+            "concept": "Vấn đề gây tranh luận nhiều chiều.",
+            "register": "General",
+            "synonyms": [
+                "dispute",
+                "debate"
+            ],
+            "collocations": [
+                "cause controversy",
+                "public controversy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It’ll reduce controversy in the game.",
+                    "translation": "Nó sẽ làm giảm sự tranh cãi trong trận đấu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pedantic",
+            "phonetic": "/pɪˈdæntɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Excessively concerned with minor details and rules or with displaying academic learning.",
+            "translation": "Câu nệ chi tiết / Sách vở",
+            "concept": "Quá chú trọng tiểu tiết cứng nhắc.",
+            "register": "Formal",
+            "synonyms": [
+                "fussy",
+                "fastidious"
+            ],
+            "collocations": [
+                "pedantic approach",
+                "pedantic obsession"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It was also unforgiving and pedantic, almost legalistic.",
+                    "translation": "Nó cũng không khoan nhượng và câu nệ chi tiết, gần như mang tính pháp lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consensus",
+            "phonetic": "/kənˈsensəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A general agreement.",
+            "translation": "Sự đồng thuận",
+            "concept": "Mọi người cùng đồng ý.",
+            "register": "Formal",
+            "synonyms": [
+                "agreement",
+                "accord"
+            ],
+            "collocations": [
+                "reach a consensus",
+                "general consensus"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The consensus was that ABS is profoundly consistent.",
+                    "translation": "Sự đồng thuận là ABS vô cùng nhất quán."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "algorithm",
+            "phonetic": "/ˈælɡərɪðəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+            "translation": "Thuật toán",
+            "concept": "Quy trình tính toán của máy tính.",
+            "register": "Technical",
+            "synonyms": [],
+            "collocations": [
+                "computer algorithm",
+                "complex algorithm"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This is part of a movement to use algorithms to take the hard choices of living out of life.",
+                    "translation": "Đây là một phần của phong trào sử dụng thuật toán để loại bỏ những lựa chọn khó khăn trong cuộc sống."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "discretion",
+            "phonetic": "/dɪˈskreʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The freedom to decide what should be done in a particular situation.",
+            "translation": "Sự tùy ý định đoạt / Quyền tự quyết",
+            "concept": "Được phép quyết định linh hoạt.",
+            "register": "Formal",
+            "synonyms": [
+                "judgment",
+                "choice"
+            ],
+            "collocations": [
+                "use discretion",
+                "at your discretion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Historically, a certain discretion has been appreciated.",
+                    "translation": "Về mặt lịch sử, một sự tùy ý nhất định đã được đánh giá cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dissenting",
+            "phonetic": "/dɪˈsentɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Holding or expressing opinions that are at variance with those previously, commonly, or officially held.",
+            "translation": "Bất đồng / Phản đối",
+            "concept": "Có ý kiến trái ngược số đông.",
+            "register": "Formal",
+            "synonyms": [
+                "disagreeing",
+                "opposing"
+            ],
+            "collocations": [
+                "dissenting voice",
+                "dissenting opinion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Some players I have met take a dissenting stance toward the robots too.",
+                    "translation": "Một số người chơi tôi gặp cũng có quan điểm bất đồng đối với robot."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

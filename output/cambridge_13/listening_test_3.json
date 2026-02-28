@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_13_listening_test_3",
+    "title": "Cam 13 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Listening Test 3, bao gồm các chủ đề về thuê nhà, nhuộm.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "rent",
+            "phonetic": "/rent/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A tenant's regular payment to a landlord.",
+            "translation": "Tiền thuê nhà",
+            "concept": "Tiền trả hàng tháng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "lease"
+            ],
+            "collocations": [
+                "pay rent"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The rent is 850 pounds.",
+                    "translation": "Tiền thuê nhà là 850 bảng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commute",
+            "phonetic": "/kəˈmjuːt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Travel some distance between home and work.",
+            "translation": "Đi làm xa",
+            "concept": "Đi lại hàng ngày.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "travel"
+            ],
+            "collocations": [
+                "daily commute"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It's an easy commute.",
+                    "translation": "Đó là một chuyến đi làm dễ dàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "campus",
+            "phonetic": "/ˈkæmpəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The grounds and buildings of a university.",
+            "translation": "Khuôn viên trường",
+            "concept": "Sân trường ĐH.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "university campus"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The new campus was built in 1961.",
+                    "translation": "Khuôn viên mới được xây dựng năm 1961."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "archive",
+            "phonetic": "/ˈɑːkaɪv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A collection of historical documents.",
+            "translation": "Lưu trữ",
+            "concept": "Kho tài liệu.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "records"
+            ],
+            "collocations": [
+                "digital archive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They used the library archive.",
+                    "translation": "Họ đã sử dụng kho lưu trữ của thư viện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "textile",
+            "phonetic": "/ˈtekstaɪl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A type of cloth or woven fabric.",
+            "translation": "Dệt may",
+            "concept": "Vải vóc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "fabric"
+            ],
+            "collocations": [
+                "textile exhibition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I saw an exhibition of textiles.",
+                    "translation": "Tôi đã xem một cuộc triển lãm dệt may."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dye",
+            "phonetic": "/daɪ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A natural or synthetic substance used to add color.",
+            "translation": "Thuốc nhuộm",
+            "concept": "Chất làm màu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "pigment"
+            ],
+            "collocations": [
+                "natural dye"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They used natural dyes.",
+                    "translation": "Họ đã sử dụng thuốc nhuộm tự nhiên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pigment",
+            "phonetic": "/ˈpɪɡmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The natural coloring matter.",
+            "translation": "Sắc tố",
+            "concept": "Màu tự nhiên.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "colorant"
+            ],
+            "collocations": [
+                "natural pigment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Insects provide a red pigment.",
+                    "translation": "Côn trùng cung cấp một sắc tố màu đỏ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lizard",
+            "phonetic": "/ˈlɪzəd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A reptile with a long body and tail.",
+            "translation": "Thằn lằn",
+            "concept": "Bò sát nhỏ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "reptile"
+            ],
+            "collocations": [
+                "sleepy lizard"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The sleepy lizard has a blue tongue.",
+                    "translation": "Thằn lằn Sleepy có cái lưỡi màu xanh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monogamous",
+            "phonetic": "/məˈnɒɡəməs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Having only one mate at a time.",
+            "translation": "Chung thủy",
+            "concept": "Một vợ một chồng.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "faithful"
+            ],
+            "collocations": [
+                "monogamous relationship"
+            ],
+            "contexts": [
+                {
+                    "sentence": "These lizards are monogamous.",
+                    "translation": "Loài thằn lằn này rất chung thủy."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "navigate",
+            "phonetic": "/ˈnævɪɡeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Plan and direct the route.",
+            "translation": "Định hướng",
+            "concept": "Tìm đường đi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "steer"
+            ],
+            "collocations": [
+                "navigate back"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They navigate back to their partners.",
+                    "translation": "Chúng tìm đường quay lại với bạn đời."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

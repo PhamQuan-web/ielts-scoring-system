@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_13_reading_test_1",
+    "title": "Cam 13 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Reading Test 1, bao gồm các chủ đề về du lịch, nhàm chán, AI.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "database",
+            "phonetic": "/ˈdeɪtəbeɪs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A structured set of data held in a computer.",
+            "translation": "Cơ sở dữ liệu",
+            "concept": "Kho thông tin.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "repository"
+            ],
+            "collocations": [
+                "search the database"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The website uses a large database.",
+                    "translation": "Trang web sử dụng một cơ sở dữ liệu lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interactive",
+            "phonetic": "/ˌɪntərˈæktɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Allowing a two-way flow of information.",
+            "translation": "Tương tác",
+            "concept": "Máy móc và người dùng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "responsive"
+            ],
+            "collocations": [
+                "interactive map"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The map is highly interactive.",
+                    "translation": "Bản đồ có tính tương tác cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "itinerary",
+            "phonetic": "/aɪˈtɪnərəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A planned route or journey.",
+            "translation": "Lịch trình",
+            "concept": "Kế hoạch đi chơi.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "schedule"
+            ],
+            "collocations": [
+                "travel itinerary"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You can create a custom itinerary.",
+                    "translation": "Bạn có thể tạo một lịch trình tùy chỉnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "boredom",
+            "phonetic": "/ˈbɔːdəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The state of feeling weary and restless through lack of interest.",
+            "translation": "Sự nhàm chán",
+            "concept": "Chán nản.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "tedium"
+            ],
+            "collocations": [
+                "relieve boredom"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Boredom can actually be useful.",
+                    "translation": "Sự nhàm chán thực ra có thể hữu ích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stimulating",
+            "phonetic": "/ˈstɪmjuleɪtɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Encouraging or arousing interest.",
+            "translation": "Kích thích",
+            "concept": "Thú vị.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "exciting"
+            ],
+            "collocations": [
+                "stimulating activity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Boredom is stimulating.",
+                    "translation": "Sự nhàm chán có tính kích thích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "creativity",
+            "phonetic": "/ˌkriːeɪˈtɪvəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The use of the imagination or original ideas.",
+            "translation": "Sự sáng tạo",
+            "concept": "Làm ra cái mới.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "imagination"
+            ],
+            "collocations": [
+                "spark creativity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It can spark creativity.",
+                    "translation": "Nó có thể khơi dậy sự sáng tạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "artificial",
+            "phonetic": "/ˌɑːtɪˈfɪʃl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Made or produced by human beings.",
+            "translation": "Nhân tạo",
+            "concept": "Do máy làm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "synthetic"
+            ],
+            "collocations": [
+                "artificial intelligence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Artificial intelligence creates art.",
+                    "translation": "Trí tuệ nhân tạo tạo ra nghệ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "algorithm",
+            "phonetic": "/ˈælɡərɪðəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A set of rules for calculations.",
+            "translation": "Thuật toán",
+            "concept": "Công thức máy tính.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "formula"
+            ],
+            "collocations": [
+                "complex algorithm"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The program uses an algorithm.",
+                    "translation": "Chương trình sử dụng một thuật toán."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "originality",
+            "phonetic": "/əˌrɪdʒəˈnæləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The ability to think independently and creatively.",
+            "translation": "Tính độc đáo",
+            "concept": "Không sao chép.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "novelty"
+            ],
+            "collocations": [
+                "lack of originality"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They question the originality of the art.",
+                    "translation": "Họ đặt câu hỏi về tính độc đáo của nghệ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aesthetic",
+            "phonetic": "/iːsˈθetɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Concerned with beauty.",
+            "translation": "Thẩm mỹ",
+            "concept": "Về cái đẹp.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "artistic"
+            ],
+            "collocations": [
+                "aesthetic appeal"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Does the painting have aesthetic value?",
+                    "translation": "Bức tranh có giá trị thẩm mỹ không?"
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_12_reading_test_1",
+    "title": "Cam 12 - Reading Test 1",
+    "description": "Từ vựng về sồi bần, sở thích sưu tập.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "bark",
+            "phonetic": "/bɑːk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The tough protective outer sheath of the trunk.",
+            "translation": "Vỏ cây",
+            "concept": "Lớp ngoài của cây.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "covering"
+            ],
+            "collocations": [
+                "tree bark"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The cork oak has thick bark.",
+                    "translation": "Cây sồi bần có vỏ dày."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "synthetic",
+            "phonetic": "/sɪnˈθetɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Made by chemical synthesis.",
+            "translation": "Tổng hợp / Nhân tạo",
+            "concept": "Do con người làm ra.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "artificial"
+            ],
+            "collocations": [
+                "synthetic cork"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Scientists developed a synthetic cork.",
+                    "translation": "Các nhà khoa học đã phát triển một loại nút bần tổng hợp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cellular",
+            "phonetic": "/ˈseljələ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Consisting of living cells.",
+            "translation": "Thuộc tế bào",
+            "concept": "Cấu tạo từ tế bào.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "cellular structure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It has the same cellular structure.",
+                    "translation": "Nó có cùng cấu trúc tế bào."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "harvest",
+            "phonetic": "/ˈhɑːvɪst/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Gather a crop.",
+            "translation": "Thu hoạch",
+            "concept": "Gặt hái.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "reap"
+            ],
+            "collocations": [
+                "annual harvest"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Trees must be left for 25 years before the second harvest.",
+                    "translation": "Cây phải được để yên 25 năm trước lần thu hoạch thứ hai."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "atmospheric",
+            "phonetic": "/ˌætməsˈferɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the atmosphere of the earth.",
+            "translation": "Thuộc khí quyển",
+            "concept": "Liên quan đến không khí.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "atmospheric pressure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Bark should be stripped in dry atmospheric conditions.",
+                    "translation": "Vỏ cây nên được tước trong điều kiện khí quyển khô ráo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fascinating",
+            "phonetic": "/ˈfæsɪneɪtɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Extremely interesting.",
+            "translation": "Hấp dẫn / Lôi cuốn",
+            "concept": "Rất hay.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "captivating"
+            ],
+            "collocations": [
+                "find it fascinating"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Psychologists find collecting fascinating.",
+                    "translation": "Các nhà tâm lý học thấy việc sưu tập rất hấp dẫn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "variety",
+            "phonetic": "/vəˈraɪəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The quality or state of being different.",
+            "translation": "Sự đa dạng",
+            "concept": "Nhiều loại khác nhau.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "diversity"
+            ],
+            "collocations": [
+                "wide variety"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is one of the most varied activities.",
+                    "translation": "Nó là một trong những hoạt động đa dạng nhất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "purpose",
+            "phonetic": "/ˈpɜːpəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The reason for which something is done.",
+            "translation": "Mục đích",
+            "concept": "Lý do làm việc gì.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "aim"
+            ],
+            "collocations": [
+                "main purpose"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What is the purpose of gaining knowledge?",
+                    "translation": "Mục đích của việc tiếp thu kiến thức là gì?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "knowledge",
+            "phonetic": "/ˈnɒlɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "Facts, information, and skills acquired through experience.",
+            "translation": "Kiến thức",
+            "concept": "Sự hiểu biết.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "understanding"
+            ],
+            "collocations": [
+                "gain knowledge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Gaining knowledge is important.",
+                    "translation": "Tiếp thu kiến thức là điều quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "advantage",
+            "phonetic": "/ədˈvɑːntɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A condition or circumstance that puts one in a favorable position.",
+            "translation": "Lợi thế",
+            "concept": "Điểm mạnh.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "benefit"
+            ],
+            "collocations": [
+                "distinct advantage"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What are the advantages of cork?",
+                    "translation": "Những lợi thế của nút bần là gì?"
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

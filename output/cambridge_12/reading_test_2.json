@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_12_reading_test_2",
+    "title": "Cam 12 - Reading Test 2",
+    "description": "Từ vựng về nông nghiệp, quản trị, tái hoang dã.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "vulnerable",
+            "phonetic": "/ˈvʌlnərəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Susceptible to physical or emotional attack or harm.",
+            "translation": "Dễ bị tổn thương",
+            "concept": "Dễ bị hại.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "susceptible"
+            ],
+            "collocations": [
+                "highly vulnerable"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Food production is highly vulnerable.",
+                    "translation": "Sản xuất thực phẩm rất dễ bị tổn thương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "volatility",
+            "phonetic": "/ˌvɒləˈtɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Liability to change rapidly and unpredictably.",
+            "translation": "Sự biến động / Dễ thay đổi",
+            "concept": "Lên xuống thất thường.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "instability"
+            ],
+            "collocations": [
+                "price volatility"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Farmers face price volatility.",
+                    "translation": "Nông dân phải đối mặt với sự biến động giá cả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪtɪɡeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Make less severe.",
+            "translation": "Giảm nhẹ",
+            "concept": "Làm cho đỡ tồi tệ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "alleviate"
+            ],
+            "collocations": [
+                "mitigate risk"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Governments can help mitigate risks.",
+                    "translation": "Chính phủ có thể giúp giảm nhẹ rủi ro."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "procurement",
+            "phonetic": "/prəˈkjʊəmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The action of obtaining equipment or supplies.",
+            "translation": "Sự thu mua / Mua sắm",
+            "concept": "Mua hàng hóa.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "purchasing"
+            ],
+            "collocations": [
+                "procurement of stock"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The procurement of stocks can help.",
+                    "translation": "Việc thu mua hàng dự trữ có thể giúp ích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiːkəʊsɪstəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A biological community.",
+            "translation": "Hệ sinh thái",
+            "concept": "Môi trường sống.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "damaged ecosystem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Rewilding means restoring ecosystems.",
+                    "translation": "Tái hoang dã có nghĩa là khôi phục các hệ sinh thái."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "restoration",
+            "phonetic": "/ˌrestəˈreɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Returning something to a former condition.",
+            "translation": "Sự phục hồi",
+            "concept": "Sửa lại như cũ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "recovery"
+            ],
+            "collocations": [
+                "mass restoration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It involves the restoration of damaged land.",
+                    "translation": "Nó liên quan đến việc phục hồi vùng đất bị hư hại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "predator",
+            "phonetic": "/ˈpredətə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An animal that preys on others.",
+            "translation": "Thú săn mồi",
+            "concept": "Con ăn thịt.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "hunter"
+            ],
+            "collocations": [
+                "large predator"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Ecosystems without large predators behave differently.",
+                    "translation": "Các hệ sinh thái không có loài săn mồi lớn cư xử khác biệt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "governance",
+            "phonetic": "/ˈɡʌvənəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or manner of governing.",
+            "translation": "Sự quản trị",
+            "concept": "Cách quản lý công ty/đất nước.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "administration"
+            ],
+            "collocations": [
+                "corporate governance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There were failures of corporate governance.",
+                    "translation": "Đã có những thất bại trong quản trị doanh nghiệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "meltdown",
+            "phonetic": "/ˈmeltdaʊn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A disastrous collapse or breakdown.",
+            "translation": "Sự sụp đổ",
+            "concept": "Hỏng bét.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "collapse"
+            ],
+            "collocations": [
+                "financial meltdown"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The 2008 financial meltdown caused problems.",
+                    "translation": "Sự sụp đổ tài chính năm 2008 đã gây ra nhiều vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scrutiny",
+            "phonetic": "/ˈskruːtəni/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Critical observation or examination.",
+            "translation": "Sự giám sát kỹ lưỡng",
+            "concept": "Nhìn rất kỹ.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "inspection"
+            ],
+            "collocations": [
+                "intense scrutiny"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Companies are under intense scrutiny.",
+                    "translation": "Các công ty đang bị giám sát chặt chẽ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,518 @@
+{
+    "id": "cambridge_20_reading_test_4",
+    "title": "Cam 20 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Reading Test 4, bao gồm các bài đọc: Georgia O’Keeffe, Adapting to the effects of climate change, và A new role for livestock guard dogs.",
+    "wordCount": 35,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "abstract",
+            "phonetic": "/ˈæbstrækt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Existing in thought or as an idea but not having a physical or concrete existence; (of art) using shapes and colors rather than realistic depictions.",
+            "translation": "Trừu tượng",
+            "concept": "Nghệ thuật không tả thực.",
+            "register": "General",
+            "synonyms": [
+                "conceptual",
+                "theoretical"
+            ],
+            "collocations": [
+                "abstract art",
+                "abstract concept"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Based on finding the essential, abstract forms in nature.",
+                    "translation": "Dựa trên việc tìm kiếm các hình thức trừu tượng, cốt yếu trong tự nhiên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nuance",
+            "phonetic": "/ˈnjuːɑːns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A subtle difference in or shade of meaning, expression, or sound.",
+            "translation": "Sắc thái",
+            "concept": "Sự khác biệt tinh tế.",
+            "register": "Formal",
+            "synonyms": [
+                "subtlety",
+                "shade"
+            ],
+            "collocations": [
+                "subtle nuance",
+                "capture the nuance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She recorded subtle nuances of colour, shape, and light.",
+                    "translation": "Bà đã ghi lại những sắc thái tinh tế của màu sắc, hình dáng và ánh sáng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovative",
+            "phonetic": "/ˈɪnəvətɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of a product, idea, etc.) featuring new methods; advanced and original.",
+            "translation": "Đổi mới / Sáng tạo",
+            "concept": "Có tính cách tân.",
+            "register": "General",
+            "synonyms": [
+                "groundbreaking",
+                "pioneering"
+            ],
+            "collocations": [
+                "innovative design",
+                "innovative approach"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Produced a series of innovative drawings.",
+                    "translation": "Đã sản xuất một loạt các bản vẽ sáng tạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "botanical",
+            "phonetic": "/bəˈtænɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to plants.",
+            "translation": "Thuộc thực vật học",
+            "concept": "Liên quan đến cây cỏ.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "botanical garden",
+                "botanical illustration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She painted botanical subjects.",
+                    "translation": "Bà đã vẽ các chủ đề thực vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exquisite",
+            "phonetic": "/ɪkˈskwɪzɪt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Extremely beautiful and, typically, delicate.",
+            "translation": "Tinh xảo / Tuyệt đẹp",
+            "concept": "Đẹp một cách tinh tế.",
+            "register": "Formal",
+            "synonyms": [
+                "beautiful",
+                "delicate"
+            ],
+            "collocations": [
+                "exquisite beauty",
+                "exquisite workmanship"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Exquisitely reproduce a cow skull’s weathered surfaces.",
+                    "translation": "Tái tạo một cách tinh xảo các bề mặt phong hóa của hộp sọ bò."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "monumental",
+            "phonetic": "/ˌmɒnjuˈmentl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Great in importance, extent, or size.",
+            "translation": "Vĩ đại / Hoành tráng",
+            "concept": "Rất lớn hoặc quan trọng.",
+            "register": "Formal",
+            "synonyms": [
+                "huge",
+                "enormous"
+            ],
+            "collocations": [
+                "monumental scale",
+                "monumental task"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A monumental canvas measuring 6 metres in length.",
+                    "translation": "Một bức tranh sơn dầu hoành tráng dài 6 mét."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "legacy",
+            "phonetic": "/ˈleɡəsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Something left or handed down by a predecessor.",
+            "translation": "Di sản",
+            "concept": "Cái để lại cho đời sau.",
+            "register": "General",
+            "synonyms": [
+                "heritage",
+                "bequest"
+            ],
+            "collocations": [
+                "lasting legacy",
+                "leave a legacy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Her rich legacy of some 900 paintings.",
+                    "translation": "Di sản phong phú của bà gồm khoảng 900 bức tranh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mitigation",
+            "phonetic": "/ˌmɪtɪˈɡeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
+            "translation": "Sự giảm nhẹ",
+            "concept": "Làm giảm tác hại.",
+            "register": "Formal",
+            "synonyms": [
+                "reduction",
+                "alleviation"
+            ],
+            "collocations": [
+                "risk mitigation",
+                "climate change mitigation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Climate-mitigation strategies have often been overlooked.",
+                    "translation": "Các chiến lược giảm nhẹ biến đổi khí hậu thường bị bỏ qua."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "infrastructure",
+            "phonetic": "/ˈɪnfrəstrʌktʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+            "translation": "Cơ sở hạ tầng",
+            "concept": "Đường sá, điện nước, công trình.",
+            "register": "General",
+            "synonyms": [],
+            "collocations": [
+                "transport infrastructure",
+                "critical infrastructure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Unfortunately, traditional infrastructure is often single-solution focused.",
+                    "translation": "Thật không may, cơ sở hạ tầng truyền thống thường tập trung vào giải pháp đơn lẻ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "amphibious",
+            "phonetic": "/æmˈfɪbiəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to, living in, or suited for both land and water.",
+            "translation": "Lưỡng cư / Vừa ở cạn vừa ở nước",
+            "concept": "Nhà/xe hoạt động được cả trên nước và cạn.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "amphibious vehicle",
+                "amphibious house"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Retrofitting amphibious houses since 2006.",
+                    "translation": "Cải tạo nhà lưỡng cư từ năm 2006."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "saline",
+            "phonetic": "/ˈseɪlaɪn/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Containing or impregnated with salt.",
+            "translation": "Mặn / Nhiễm mặn",
+            "concept": "Có muối.",
+            "register": "Scientific",
+            "synonyms": [
+                "salty"
+            ],
+            "collocations": [
+                "saline solution",
+                "saline soil"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Affected by soil and water salinity.",
+                    "translation": "Bị ảnh hưởng bởi độ mặn của đất và nước."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cultivate",
+            "phonetic": "/ˈkʌltɪveɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Prepare and use (land) for crops or gardening.",
+            "translation": "Canh tác / Trồng trọt",
+            "concept": "Trồng cây.",
+            "register": "General",
+            "synonyms": [
+                "grow",
+                "farm"
+            ],
+            "collocations": [
+                "cultivate land",
+                "cultivate crops"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Start cultivating naturally salt-tolerant crops.",
+                    "translation": "Bắt đầu canh tác các loại cây trồng chịu mặn tự nhiên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "barren",
+            "phonetic": "/ˈbærən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "(of land) too poor to produce much or any vegetation.",
+            "translation": "Cằn cỗi",
+            "concept": "Đất đai khô cằn, không trồng trọt được.",
+            "register": "General",
+            "synonyms": [
+                "infertile",
+                "unproductive"
+            ],
+            "collocations": [
+                "barren landscape",
+                "barren land"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Comparing a barren plot of land to the ‘beautiful, lush green vegetable garden’.",
+                    "translation": "So sánh một mảnh đất cằn cỗi với 'vườn rau xanh tốt xinh đẹp'."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "thermal",
+            "phonetic": "/ˈθɜːml/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to heat.",
+            "translation": "Thuộc nhiệt",
+            "concept": "Liên quan đến sức nóng.",
+            "register": "Scientific",
+            "synonyms": [
+                "heat"
+            ],
+            "collocations": [
+                "thermal energy",
+                "thermal imaging"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The only cool spot on an otherwise red thermal image.",
+                    "translation": "Điểm mát duy nhất trên một hình ảnh nhiệt màu đỏ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "livestock",
+            "phonetic": "/ˈlaɪvstɒk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Farm animals regarded as an asset.",
+            "translation": "Vật nuôi (gia súc)",
+            "concept": "Trâu bò, cừu dê nuôi ở trại.",
+            "register": "Agricultural",
+            "synonyms": [
+                "cattle",
+                "farm animals"
+            ],
+            "collocations": [
+                "livestock farming",
+                "protect livestock"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Livestock guard dogs, traditionally used to protect farm animals.",
+                    "translation": "Chó bảo vệ gia súc, theo truyền thống được sử dụng để bảo vệ động vật trang trại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revival",
+            "phonetic": "/rɪˈvaɪvl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An improvement in the condition or strength of something.",
+            "translation": "Sự hồi sinh / Sự phục hưng",
+            "concept": "Trở nên phổ biến trở lại.",
+            "register": "General",
+            "synonyms": [
+                "resurgence",
+                "comeback"
+            ],
+            "collocations": [
+                "enjoy a revival",
+                "cultural revival"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Guard dogs are enjoying an unexpected revival.",
+                    "translation": "Chó bảo vệ đang tận hưởng một sự hồi sinh bất ngờ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "harmonious",
+            "phonetic": "/hɑːˈməʊniəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Free from disagreement or dissent.",
+            "translation": "Hài hòa / Hòa thuận",
+            "concept": "Sống chung hòa bình.",
+            "register": "Formal",
+            "synonyms": [
+                "peaceful",
+                "concordant"
+            ],
+            "collocations": [
+                "harmonious relationship",
+                "harmonious coexistence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Promoting harmonious coexistence between humans and wildlife.",
+                    "translation": "Thúc đẩy sự chung sống hài hòa giữa con người và động vật hoang dã."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "coexistence",
+            "phonetic": "/ˌkəʊɪɡˈzɪstəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The state or fact of living or existing at the same time or in the same place.",
+            "translation": "Sự chung sống",
+            "concept": "Sống cùng nhau.",
+            "register": "Formal",
+            "synonyms": [],
+            "collocations": [
+                "peaceful coexistence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Promoting harmonious coexistence between humans and wildlife.",
+                    "translation": "Thúc đẩy sự chung sống hài hòa giữa con người và động vật hoang dã."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "displace",
+            "phonetic": "/dɪsˈpleɪs/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Take over the place, position, or role of.",
+            "translation": "Đẩy ra khỏi chỗ / Thay thế",
+            "concept": "Làm cho phải di chuyển đi chỗ khác.",
+            "register": "Formal",
+            "synonyms": [
+                "replace",
+                "supplant"
+            ],
+            "collocations": [
+                "displace people",
+                "displace predators"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Livestock guard dogs merely displace predators to unprotected neighbouring properties.",
+                    "translation": "Chó bảo vệ gia súc chỉ đơn thuần đẩy những kẻ săn mồi sang các khu đất lân cận không được bảo vệ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "tolerance",
+            "phonetic": "/ˈtɒlərəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The ability or willingness to tolerate something.",
+            "translation": "Sự khoan dung / Sức chịu đựng",
+            "concept": "Chấp nhận sự tồn tại của cái gì đó.",
+            "register": "General",
+            "synonyms": [
+                "acceptance",
+                "endurance"
+            ],
+            "collocations": [
+                "tolerance level",
+                "build tolerance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Make farmers more tolerant of predators.",
+                    "translation": "Làm cho nông dân khoan dung hơn với những kẻ săn mồi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "translation": "Đa dạng sinh học",
+            "concept": "Sự phong phú của các loài sinh vật.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "conserve biodiversity",
+                "loss of biodiversity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Using dogs to enhance biodiversity.",
+                    "translation": "Sử dụng chó để tăng cường đa dạng sinh học."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

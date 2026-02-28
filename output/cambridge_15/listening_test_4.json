@@ -1,0 +1,248 @@
+{
+    "id": "cambridge_15_listening_test_4",
+    "title": "Cam 15 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Listening Test 4, bao gồm các chủ đề về công viên, tủ lạnh.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "satisfaction",
+            "phonetic": "/ˌsætɪsˈfækʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Fulfillment of wishes.",
+            "translation": "Sự hài lòng",
+            "concept": "Vui vẻ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "contentment"
+            ],
+            "collocations": [
+                "customer satisfaction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We measure customer satisfaction.",
+                    "translation": "Chúng tôi đo lường sự hài lòng của khách hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "occupation",
+            "phonetic": "/ˌɒkjuˈpeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A job.",
+            "translation": "Nghề nghiệp",
+            "concept": "Việc làm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "job",
+                "profession"
+            ],
+            "collocations": [
+                "state your occupation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What is your occupation?",
+                    "translation": "Nghề nghiệp của bạn là gì?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "upgrade",
+            "phonetic": "/ˌʌpˈɡreɪd/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Raise to a higher standard.",
+            "translation": "Nâng cấp",
+            "concept": "Làm tốt hơn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "improve"
+            ],
+            "collocations": [
+                "upgrade facilities"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They will upgrade the park.",
+                    "translation": "Họ sẽ nâng cấp công viên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "invasive",
+            "phonetic": "/ɪnˈveɪsɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Tending to spread harmfully.",
+            "translation": "Xâm lấn",
+            "concept": "Lan tràn.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "intrusive"
+            ],
+            "collocations": [
+                "invasive species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Invasive species cause problems.",
+                    "translation": "Loài xâm lấn gây ra các vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "refrigeration",
+            "phonetic": "/rɪˌfrɪdʒəˈreɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Process of cooling.",
+            "translation": "Sự làm lạnh",
+            "concept": "Giữ lạnh.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "cooling"
+            ],
+            "collocations": [
+                "domestic refrigeration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Refrigeration changed our diet.",
+                    "translation": "Việc làm lạnh đã thay đổi chế độ ăn của chúng ta."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "perishable",
+            "phonetic": "/ˈperɪʃəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Likely to decay quickly.",
+            "translation": "Dễ hỏng",
+            "concept": "Thiu nhanh.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "decomposable"
+            ],
+            "collocations": [
+                "perishable goods"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Meat is perishable.",
+                    "translation": "Thịt là hàng hóa dễ hỏng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consumerism",
+            "phonetic": "/kənˈsjuːmərɪzm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Promotion of consumers' interests.",
+            "translation": "Chủ nghĩa tiêu dùng",
+            "concept": "Mua sắm.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "rise of consumerism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Consumerism increased.",
+                    "translation": "Chủ nghĩa tiêu dùng gia tăng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revolution",
+            "phonetic": "/ˌrevəˈluːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Overthrow of social order.",
+            "translation": "Cách mạng",
+            "concept": "Thay đổi lớn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "transformation"
+            ],
+            "collocations": [
+                "industrial revolution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The industrial revolution changed everything.",
+                    "translation": "Cách mạng công nghiệp đã thay đổi mọi thứ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "urbanisation",
+            "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Making area urban.",
+            "translation": "Đô thị hóa",
+            "concept": "Biến thành phố.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "rapid urbanisation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Urbanisation is happening.",
+                    "translation": "Đô thị hóa đang diễn ra."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "disposable",
+            "phonetic": "/dɪˈspəʊzəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Intended to be thrown away.",
+            "translation": "Dùng một lần",
+            "concept": "Vứt đi.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "throwaway"
+            ],
+            "collocations": [
+                "disposable income"
+            ],
+            "contexts": [
+                {
+                    "sentence": "People had more disposable income.",
+                    "translation": "Mọi người có nhiều thu nhập khả dụng hơn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

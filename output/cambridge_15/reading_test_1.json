@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_15_reading_test_1",
+    "title": "Cam 15 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Reading Test 1, bao gồm các chủ đề về nhục đậu khấu, xe tự lái.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "monopoly",
+            "phonetic": "/məˈnɒpəli/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Exclusive control.",
+            "translation": "Sự độc quyền",
+            "concept": "Một mình.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "domination"
+            ],
+            "collocations": [
+                "hold a monopoly"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The Dutch wanted a monopoly.",
+                    "translation": "Hà Lan muốn sự độc quyền."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lucrative",
+            "phonetic": "/ˈluːkrətɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Producing profit.",
+            "translation": "Có lợi nhuận cao",
+            "concept": "Béo bở.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "profitable"
+            ],
+            "collocations": [
+                "lucrative trade"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The spice trade was lucrative.",
+                    "translation": "Buôn bán gia vị rất béo bở."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commodity",
+            "phonetic": "/kəˈmɒdəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A raw material.",
+            "translation": "Hàng hóa",
+            "concept": "Đồ bán.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "goods"
+            ],
+            "collocations": [
+                "valuable commodity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Spices were a commodity.",
+                    "translation": "Gia vị là một mặt hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "autonomous",
+            "phonetic": "/ɔːˈtɒnəməs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Navigated by a computer.",
+            "translation": "Tự hành",
+            "concept": "Tự chạy.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "self-driving"
+            ],
+            "collocations": [
+                "autonomous vehicle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Autonomous vehicles are coming.",
+                    "translation": "Xe tự hành đang đến."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "collision",
+            "phonetic": "/kəˈlɪʒn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Striking violently.",
+            "translation": "Sự va chạm",
+            "concept": "Tai nạn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "crash"
+            ],
+            "collocations": [
+                "avoid collision"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Cars can avoid collisions.",
+                    "translation": "Xe hơi có thể tránh va chạm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "instinct",
+            "phonetic": "/ˈɪnstɪŋkt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Innate pattern of behavior.",
+            "translation": "Bản năng",
+            "concept": "Sinh ra đã có.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "intuition"
+            ],
+            "collocations": [
+                "human instinct"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Exploration is an instinct.",
+                    "translation": "Khám phá là một bản năng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "frontier",
+            "phonetic": "/ˈfrʌntɪə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Extreme limit of understanding.",
+            "translation": "Biên giới",
+            "concept": "Nơi mới.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "boundary"
+            ],
+            "collocations": [
+                "new frontier"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Space is a new frontier.",
+                    "translation": "Vũ trụ là một biên giới mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "intrinsic",
+            "phonetic": "/ɪnˈtrɪnzɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Belonging naturally.",
+            "translation": "Bản chất / Cốt lõi",
+            "concept": "Vốn có.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "inherent"
+            ],
+            "collocations": [
+                "intrinsic value"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is intrinsic to humans.",
+                    "translation": "Nó là bản chất cốt lõi của con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bias",
+            "phonetic": "/ˈbaɪəs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Prejudice.",
+            "translation": "Thiên kiến",
+            "concept": "Thiên vị.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "prejudice"
+            ],
+            "collocations": [
+                "cultural bias"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Explorers had cultural bias.",
+                    "translation": "Các nhà thám hiểm có thiên kiến văn hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "alien",
+            "phonetic": "/ˈeɪliən/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Belonging to a foreign place.",
+            "translation": "Xa lạ",
+            "concept": "Lạ lẫm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "foreign"
+            ],
+            "collocations": [
+                "alien environment"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The environment was alien.",
+                    "translation": "Môi trường thật xa lạ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

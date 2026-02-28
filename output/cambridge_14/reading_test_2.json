@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_14_reading_test_2",
+    "title": "Cam 14 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Reading Test 2, bao gồm các chủ đề về nhiếp ảnh, nhà chọc trời, quản lý.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "landscape",
+            "phonetic": "/ˈlændskeɪp/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Visible features of an area.",
+            "translation": "Phong cảnh",
+            "concept": "Cảnh vật.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "scenery"
+            ],
+            "collocations": [
+                "landscape photography"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He took landscape photos.",
+                    "translation": "Ông ấy đã chụp ảnh phong cảnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expedition",
+            "phonetic": "/ˌekspəˈdɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A journey for a purpose.",
+            "translation": "Cuộc thám hiểm",
+            "concept": "Đi xa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "journey"
+            ],
+            "collocations": [
+                "photographic expedition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He went on an expedition.",
+                    "translation": "Ông ấy đã đi thám hiểm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "skyscraper",
+            "phonetic": "/ˈskaɪskreɪpə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A very tall building.",
+            "translation": "Nhà chọc trời",
+            "concept": "Nhà cao.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "high-rise"
+            ],
+            "collocations": [
+                "build a skyscraper"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They built a skyscraper.",
+                    "translation": "Họ đã xây một tòa nhà chọc trời."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "timber",
+            "phonetic": "/ˈtɪmbə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Wood for building.",
+            "translation": "Gỗ",
+            "concept": "Làm nhà.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "wood"
+            ],
+            "collocations": [
+                "timber frame"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They use timber.",
+                    "translation": "Họ sử dụng gỗ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainable",
+            "phonetic": "/səˈsteɪnəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Able to be maintained.",
+            "translation": "Bền vững",
+            "concept": "Dùng lâu.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "eco-friendly"
+            ],
+            "collocations": [
+                "sustainable design"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a sustainable design.",
+                    "translation": "Đó là một thiết kế bền vững."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "disorder",
+            "phonetic": "/dɪsˈɔːdə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "State of confusion.",
+            "translation": "Sự lộn xộn",
+            "concept": "Rối rắm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "chaos"
+            ],
+            "collocations": [
+                "embrace disorder"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Companies should embrace disorder.",
+                    "translation": "Các công ty nên đón nhận sự lộn xộn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bureaucracy",
+            "phonetic": "/bjʊəˈrɒkrəsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Complicated administrative procedure.",
+            "translation": "Quan liêu",
+            "concept": "Thủ tục dài.",
+            "register": "Negative",
+            "grammar_note": "",
+            "synonyms": [
+                "red tape"
+            ],
+            "collocations": [
+                "reduce bureaucracy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Bureaucracy slows things down.",
+                    "translation": "Quan liêu làm mọi thứ chậm lại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rigid",
+            "phonetic": "/ˈrɪdʒɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Unable to bend or be forced.",
+            "translation": "Cứng nhắc",
+            "concept": "Không linh hoạt.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "inflexible"
+            ],
+            "collocations": [
+                "rigid rules"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The rules are rigid.",
+                    "translation": "Các quy tắc rất cứng nhắc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "efficiency",
+            "phonetic": "/ɪˈfɪʃnsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Quality of being efficient.",
+            "translation": "Hiệu suất",
+            "concept": "Làm tốt.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "productivity"
+            ],
+            "collocations": [
+                "improve efficiency"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They want to improve efficiency.",
+                    "translation": "Họ muốn cải thiện hiệu suất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innovation",
+            "phonetic": "/ˌɪnəˈveɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Process of innovating.",
+            "translation": "Đổi mới",
+            "concept": "Làm mới.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "novelty"
+            ],
+            "collocations": [
+                "technological innovation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Innovation is important.",
+                    "translation": "Sự đổi mới là quan trọng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_15_reading_test_2",
+    "title": "Cam 15 - Reading Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Reading Test 2, bao gồm các chủ đề về voi ma mút, tiếng cười.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "choreography",
+            "phonetic": "/ˌkɒriˈɒɡrəfi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Sequence of dance steps.",
+            "translation": "Biên đạo múa",
+            "concept": "Sắp xếp múa.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "dance choreography"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Urban engineers study choreography.",
+                    "translation": "Các kỹ sư đô thị nghiên cứu biên đạo múa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "synchronization",
+            "phonetic": "/ˌsɪŋkrənaɪˈzeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Operation at the same time.",
+            "translation": "Đồng bộ hóa",
+            "concept": "Làm cùng lúc.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "coordination"
+            ],
+            "collocations": [
+                "perfect synchronization"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Traffic needs synchronization.",
+                    "translation": "Giao thông cần sự đồng bộ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "improvisation",
+            "phonetic": "/ˌɪmprəvaɪˈzeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Action of improvising.",
+            "translation": "Sự ứng biến",
+            "concept": "Ngẫu hứng.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "spontaneity"
+            ],
+            "collocations": [
+                "skillful improvisation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pedestrians use improvisation.",
+                    "translation": "Người đi bộ sử dụng sự ứng biến."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "revival",
+            "phonetic": "/rɪˈvaɪvl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Improvement in condition.",
+            "translation": "Sự hồi sinh",
+            "concept": "Sống lại.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "resurgence"
+            ],
+            "collocations": [
+                "revival project"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a revival project.",
+                    "translation": "Đó là một dự án hồi sinh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "clone",
+            "phonetic": "/kləʊn/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Propagate as a clone.",
+            "translation": "Nhân bản",
+            "concept": "Tạo bản sao.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [
+                "replicate"
+            ],
+            "collocations": [
+                "clone an animal"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They want to clone it.",
+                    "translation": "Họ muốn nhân bản nó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "permafrost",
+            "phonetic": "/ˈpɜːməfrɒst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Subsurface layer of soil frozen.",
+            "translation": "Băng vĩnh cửu",
+            "concept": "Đất đóng băng.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "melting permafrost"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Permafrost is melting.",
+                    "translation": "Băng vĩnh cửu đang tan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ethical",
+            "phonetic": "/ˈeθɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to moral principles.",
+            "translation": "Thuộc đạo đức",
+            "concept": "Đúng sai.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "moral"
+            ],
+            "collocations": [
+                "ethical concerns"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There are ethical concerns.",
+                    "translation": "Có những lo ngại về đạo đức."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "incongruity",
+            "phonetic": "/ˌɪnkɒŋˈɡruːəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "State of being incongruous.",
+            "translation": "Sự phi lý",
+            "concept": "Không khớp.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "incompatibility"
+            ],
+            "collocations": [
+                "sense of incongruity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Humor relies on incongruity.",
+                    "translation": "Hài hước dựa trên sự phi lý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "contagious",
+            "phonetic": "/kənˈteɪdʒəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Spread from one to another.",
+            "translation": "Dễ lây",
+            "concept": "Lan truyền.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "infectious"
+            ],
+            "collocations": [
+                "contagious laughter"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Laughter is contagious.",
+                    "translation": "Tiếng cười dễ lây lan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "superiority",
+            "phonetic": "/suːˌpɪəriˈɒrəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "State of being superior.",
+            "translation": "Sự ưu việt",
+            "concept": "Hơn người.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "supremacy"
+            ],
+            "collocations": [
+                "feeling of superiority"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Jokes create superiority.",
+                    "translation": "Những câu chuyện cười tạo ra cảm giác ưu việt."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

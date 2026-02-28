@@ -1,0 +1,654 @@
+{
+    "id": "cambridge_20_reading_test_1",
+    "title": "Cam 20 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 20 Reading Test 1, bao gồm các bài đọc: The Kākāpō, Reintroducing Elms to Britain, và How Stress Affects Our Judgement.",
+    "wordCount": 35,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "nocturnal",
+            "phonetic": "/nɒkˈtɜːnl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Active at night.",
+            "translation": "Hoạt động về đêm",
+            "concept": "Thú/chim ngủ ngày cày đêm.",
+            "register": "Scientific",
+            "synonyms": [
+                "night-loving"
+            ],
+            "collocations": [
+                "nocturnal animal",
+                "nocturnal habits"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The kakapo is a nocturnal, flightless parrot.",
+                    "translation": "Kakapo là loài vẹt không biết bay và hoạt động về đêm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "endangered",
+            "phonetic": "/ɪnˈdeɪndʒəd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Seriously at risk of extinction.",
+            "translation": "Có nguy cơ tuyệt chủng",
+            "concept": "Sắp biến mất khỏi trái đất.",
+            "register": "General",
+            "synonyms": [
+                "threatened"
+            ],
+            "collocations": [
+                "critically endangered",
+                "endangered species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is critically endangered and one of New Zealand's unique treasures.",
+                    "translation": "Nó đang cực kỳ nguy cấp và là một trong những báu vật độc đáo của New Zealand."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "solitary",
+            "phonetic": "/ˈsɒlɪtri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Done or existing alone.",
+            "translation": "Sống đơn độc",
+            "concept": "Thích ở một mình, không theo bầy đàn.",
+            "register": "General",
+            "synonyms": [
+                "lone",
+                "antisocial"
+            ],
+            "collocations": [
+                "solitary life",
+                "solitary bird"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Kakapo are solitary birds and tend to occupy the same home range for many years.",
+                    "translation": "Kakapo là loài chim sống đơn độc và có xu hướng chiếm giữ cùng một phạm vi lãnh thổ trong nhiều năm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "forage",
+            "phonetic": "/ˈfɒrɪdʒ/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "(of a person or animal) search widely for food or provisions.",
+            "translation": "Kiếm ăn / Tìm thức ăn",
+            "concept": "Đi lùng sục tìm đồ ăn.",
+            "register": "General",
+            "synonyms": [
+                "hunt",
+                "scavenge"
+            ],
+            "collocations": [
+                "forage for food",
+                "forage in the forest"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They forage on the ground and climb high into trees.",
+                    "translation": "Chúng kiếm ăn trên mặt đất và leo cao lên cây."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "incubation",
+            "phonetic": "/ˌɪŋkjʊˈbeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The process of incubating eggs, cells, bacteria, a disease, etc.",
+            "translation": "Sự ấp trứng / Thời kỳ ủ bệnh",
+            "concept": "Giữ ấm để trứng nở.",
+            "register": "Scientific",
+            "synonyms": [
+                "hatching"
+            ],
+            "collocations": [
+                "incubation period",
+                "artificial incubation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Males play no part in incubation or chick-rearing.",
+                    "translation": "Con đực không tham gia vào việc ấp trứng hay nuôi con."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vulnerable",
+            "phonetic": "/ˈvʌlnərəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+            "translation": "Dễ bị tổn thương / Yếu đuối",
+            "concept": "Dễ bị tấn công, không có khả năng tự vệ.",
+            "register": "General",
+            "synonyms": [
+                "susceptible",
+                "defenseless"
+            ],
+            "collocations": [
+                "vulnerable to attack",
+                "highly vulnerable"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Leaving the unattended eggs and chicks particularly vulnerable to predators.",
+                    "translation": "Để lại trứng và gà con không được trông coi đặc biệt dễ bị kẻ săn mồi tấn công."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deplete",
+            "phonetic": "/dɪˈpliːt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Use up the supply or resources of.",
+            "translation": "Làm cạn kiệt / Suy giảm",
+            "concept": "Dùng hết sạch nguồn lực.",
+            "register": "Formal",
+            "synonyms": [
+                "exhaust",
+                "drain"
+            ],
+            "collocations": [
+                "deplete resources",
+                "ozone depletion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Introduced species such as deer depleted the remaining forests of food.",
+                    "translation": "Các loài du nhập như hươu đã làm cạn kiệt nguồn thức ăn còn lại trong rừng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "eradicate",
+            "phonetic": "/ɪˈrædɪkeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Destroy completely; put an end to.",
+            "translation": "Diệt trừ / Xóa sổ",
+            "concept": "Nhổ tận gốc (thường dùng cho bệnh dịch, sâu bọ).",
+            "register": "Formal",
+            "synonyms": [
+                "eliminate",
+                "wipe out"
+            ],
+            "collocations": [
+                "eradicate disease",
+                "totally eradicate"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Possums were eradicated from Codfish Island by 1986.",
+                    "translation": "Thú có túi possum đã bị tiêu diệt khỏi Đảo Codfish vào năm 1986."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aftermath",
+            "phonetic": "/ˈɑːftəmɑːθ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The consequences or aftereffects of a significant unpleasant event.",
+            "translation": "Hậu quả / Giai đoạn sau (thảm họa)",
+            "concept": "Những gì còn lại sau một biến cố lớn.",
+            "register": "Formal",
+            "synonyms": [
+                "repercussions",
+                "wake"
+            ],
+            "collocations": [
+                "in the aftermath",
+                "dealing with the aftermath"
+            ],
+            "contexts": [
+                {
+                    "sentence": "In the aftermath, the elm was largely forgotten.",
+                    "translation": "Trong giai đoạn sau đó, cây du đã bị lãng quên phần lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vascular",
+            "phonetic": "/ˈvæskjələ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Relating to, affecting, or consisting of a vessel or vessels, especially those which carry blood.",
+            "translation": "Thuộc mạch (máu/nhựa cây)",
+            "concept": "Hệ thống ống dẫn dinh dưỡng trong cây hoặc cơ thể.",
+            "register": "Scientific",
+            "synonyms": [],
+            "collocations": [
+                "vascular system",
+                "vascular disease"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The disease is caused by a fungus that blocks the elms’ vascular system.",
+                    "translation": "Bệnh do một loại nấm làm tắc nghẽn hệ thống mạch dẫn của cây du gây ra."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "epidemic",
+            "phonetic": "/ˌepɪˈdemɪk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A widespread occurrence of an infectious disease in a community at a particular time.",
+            "translation": "Dịch bệnh",
+            "concept": "Bệnh lây lan nhanh diện rộng.",
+            "register": "Medical",
+            "synonyms": [
+                "outbreak",
+                "plague"
+            ],
+            "collocations": [
+                "flu epidemic",
+                "global epidemic"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A first epidemic, which occurred in the 1920s, gradually died down.",
+                    "translation": "Đợt dịch đầu tiên, xảy ra vào những năm 1920, dần dần lắng xuống."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "virulent",
+            "phonetic": "/ˈvɪrʊlənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(of a disease or poison) extremely severe or harmful in its effects.",
+            "translation": "Độc hại / Hiểm nghèo",
+            "concept": "Bệnh hoặc chất độc cực mạnh.",
+            "register": "Scientific",
+            "synonyms": [
+                "toxic",
+                "deadly"
+            ],
+            "collocations": [
+                "virulent strain",
+                "virulent disease"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The beetles carried a much more virulent strain that destroyed the vast majority of British elms.",
+                    "translation": "Những con bọ cánh cứng mang theo một chủng độc hại hơn nhiều đã phá hủy phần lớn cây du của Anh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "succumb",
+            "phonetic": "/səˈkʌm/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Fail to resist pressure, temptation, or some other negative force; die from the effect of a disease or injury.",
+            "translation": "Khuất phục / Chết (vì bệnh)",
+            "concept": "Không chịu nổi và gục ngã.",
+            "register": "Formal",
+            "synonyms": [
+                "yield",
+                "die"
+            ],
+            "collocations": [
+                "succumb to illness",
+                "succumb to pressure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Why they stood tall when millions of others succumbed.",
+                    "translation": "Tại sao chúng vẫn đứng vững khi hàng triệu cây khác đã gục ngã."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prominent",
+            "phonetic": "/ˈprɒmɪnənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Important; famous; projecting from something; protuberant.",
+            "translation": "Nổi bật / Quan trọng",
+            "concept": "Dễ thấy, hoặc có vị trí quan trọng.",
+            "register": "General",
+            "synonyms": [
+                "notable",
+                "conspicuous"
+            ],
+            "collocations": [
+                "prominent figure",
+                "prominent feature"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Elm was in many instances the most prominent tree in the landscape.",
+                    "translation": "Cây du trong nhiều trường hợp là loài cây nổi bật nhất trong cảnh quan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "precarious",
+            "phonetic": "/prɪˈkeəriəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
+            "translation": "Bấp bênh / Hiểm nghèo",
+            "concept": "Không an toàn, dễ sụp đổ.",
+            "register": "Formal",
+            "synonyms": [
+                "unstable",
+                "risky"
+            ],
+            "collocations": [
+                "precarious situation",
+                "precarious position"
+            ],
+            "contexts": [
+                {
+                    "sentence": "However, the situation is precarious.",
+                    "translation": "Tuy nhiên, tình hình rất bấp bênh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resistance",
+            "phonetic": "/rɪˈzɪstəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The ability not to be affected by something, especially adversely.",
+            "translation": "Sự đề kháng / Khả năng chống chịu",
+            "concept": "Chống lại được bệnh tật hoặc áp lực.",
+            "register": "General",
+            "synonyms": [
+                "immunity",
+                "resilience"
+            ],
+            "collocations": [
+                "build resistance",
+                "disease resistance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You might get resistance if you give nature time.",
+                    "translation": "Bạn có thể có được sự đề kháng nếu cho thiên nhiên thời gian."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hectic",
+            "phonetic": "/ˈhektɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Full of incessant or frantic activity.",
+            "translation": "Tất bật / Bận rộn điên cuồng",
+            "concept": "Rất bận rộn, hối hả.",
+            "register": "General",
+            "synonyms": [
+                "frantic",
+                "frenetic"
+            ],
+            "collocations": [
+                "hectic schedule",
+                "hectic pace"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Other days can be hectic, with numerous life-threatening incidents to attend to.",
+                    "translation": "Những ngày khác có thể rất tất bật, với vô số sự cố đe dọa tính mạng cần giải quyết."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hyper-vigilant",
+            "phonetic": "/ˌhaɪpəˈvɪdʒɪlənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Extremely alert to potential danger or threat.",
+            "translation": "Cảnh giác cao độ",
+            "concept": "Luôn căng mắt canh chừng nguy hiểm.",
+            "register": "Formal",
+            "synonyms": [
+                "alert",
+                "watchful"
+            ],
+            "collocations": [
+                "become hyper-vigilant",
+                "hyper-vigilant state"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They became hyper-vigilant to bad news, even when it had nothing to do with their job.",
+                    "translation": "Họ trở nên cảnh giác cao độ với tin xấu, ngay cả khi nó không liên quan gì đến công việc của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "physiological",
+            "phonetic": "/ˌfɪziəˈlɒdʒɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to the branch of biology that deals with the normal functions of living organisms and their parts.",
+            "translation": "Thuộc sinh lý học",
+            "concept": "Liên quan đến chức năng cơ thể.",
+            "register": "Scientific",
+            "synonyms": [
+                "biological"
+            ],
+            "collocations": [
+                "physiological change",
+                "physiological response"
+            ],
+            "contexts": [
+                {
+                    "sentence": "When we experience stressful events, a physiological change is triggered.",
+                    "translation": "Khi chúng ta trải qua các sự kiện căng thẳng, một sự thay đổi sinh lý được kích hoạt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "contagious",
+            "phonetic": "/kənˈteɪdʒəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "(of an emotion, feeling, or attitude) likely to spread to and affect others.",
+            "translation": "Dễ lây lan / Truyền nhiễm",
+            "concept": "Lây từ người này sang người khác (bệnh hoặc cảm xúc).",
+            "register": "General",
+            "synonyms": [
+                "infectious",
+                "spreading"
+            ],
+            "collocations": [
+                "highly contagious",
+                "contagious laughter"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The good news, however, is that positive emotions, such as hope, are contagious too.",
+                    "translation": "Tuy nhiên, tin tốt là những cảm xúc tích cực, chẳng hạn như hy vọng, cũng dễ lây lan."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "conscientious",
+            "phonetic": "/ˌkɒnʃiˈenʃəs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Wishing to do one's work or duty well and thoroughly.",
+            "translation": "Tận tâm / Chu đáo",
+            "concept": "Làm việc có trách nhiệm và kỹ lưỡng.",
+            "register": "Formal",
+            "synonyms": [
+                "diligent",
+                "meticulous"
+            ],
+            "collocations": [
+                "conscientious worker",
+                "conscientious effort"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Become conscientious agents of change.",
+                    "translation": "Trở thành những tác nhân thay đổi tận tâm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hazard",
+            "phonetic": "/ˈhæzəd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A danger or risk.",
+            "translation": "Mối nguy hiểm",
+            "concept": "Thứ có thể gây hại.",
+            "register": "General",
+            "synonyms": [
+                "danger",
+                "peril"
+            ],
+            "collocations": [
+                "safety hazard",
+                "fire hazard"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They would have benefited from an increased ability to learn about hazards.",
+                    "translation": "Họ sẽ được hưởng lợi từ khả năng tìm hiểu về các mối nguy hiểm gia tăng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exaggerate",
+            "phonetic": "/ɪɡˈzædʒəreɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Represent (something) as being larger, better, or worse than it really is.",
+            "translation": "Phóng đại / Thổi phồng",
+            "concept": "Nói quá lên.",
+            "register": "General",
+            "synonyms": [
+                "overstate",
+                "embellish"
+            ],
+            "collocations": [
+                "greatly exaggerate",
+                "exaggerate the problem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "But that has the effect of exaggerating existing danger.",
+                    "translation": "Nhưng điều đó có tác dụng phóng đại mối nguy hiểm hiện có."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "trigger",
+            "phonetic": "/ˈtrɪɡə/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Cause (an event or situation) to happen or exist.",
+            "translation": "Kích hoạt / Gây ra",
+            "concept": "Làm cái gì đó bắt đầu xảy ra.",
+            "register": "General",
+            "synonyms": [
+                "activate",
+                "spark"
+            ],
+            "collocations": [
+                "trigger a reaction",
+                "trigger a memory"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We found that perceived threat acted as a trigger for a stress reaction.",
+                    "translation": "Chúng tôi thấy rằng mối đe dọa được nhận thức đóng vai trò là tác nhân kích hoạt phản ứng căng thẳng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "optimistic",
+            "phonetic": "/ˌɒptɪˈmɪstɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Hopeful and confident about the future.",
+            "translation": "Lạc quan",
+            "concept": "Tin vào điều tốt đẹp.",
+            "register": "General",
+            "synonyms": [
+                "hopeful",
+                "positive"
+            ],
+            "collocations": [
+                "optimistic outlook",
+                "remain optimistic"
+            ],
+            "contexts": [
+                {
+                    "sentence": "People are normally quite optimistic - they will ignore bad news and embrace the good.",
+                    "translation": "Mọi người thường khá lạc quan - họ sẽ phớt lờ tin xấu và đón nhận tin tốt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adverse",
+            "phonetic": "/ˈædvɜːs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Preventing success or development; harmful; unfavorable.",
+            "translation": "Bất lợi / Có hại",
+            "concept": "Gây trở ngại, không tốt.",
+            "register": "Formal",
+            "synonyms": [
+                "unfavorable",
+                "detrimental"
+            ],
+            "collocations": [
+                "adverse effects",
+                "adverse conditions"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We asked the firefighters to estimate their likelihood of experiencing 40 different adverse events.",
+                    "translation": "Chúng tôi yêu cầu những người lính cứu hỏa ước tính khả năng gặp phải 40 sự kiện bất lợi khác nhau."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

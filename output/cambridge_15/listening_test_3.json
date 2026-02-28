@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_15_listening_test_3",
+    "title": "Cam 15 - Listening Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 15 Listening Test 3, bao gồm các chủ đề về việc làm, báo chí.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "initiative",
+            "phonetic": "/ɪˈnɪʃətɪv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A fresh approach.",
+            "translation": "Sáng kiến",
+            "concept": "Ý tưởng mới.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "plan"
+            ],
+            "collocations": [
+                "council initiative"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a new initiative.",
+                    "translation": "Đó là một sáng kiến mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "closure",
+            "phonetic": "/ˈkləʊʒə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Act of closing.",
+            "translation": "Sự đóng cửa",
+            "concept": "Phong tỏa.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "shutdown"
+            ],
+            "collocations": [
+                "road closure"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They planned road closures.",
+                    "translation": "Họ đã lên kế hoạch đóng đường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "headline",
+            "phonetic": "/ˈhedlaɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Heading at the top of an article.",
+            "translation": "Tiêu đề",
+            "concept": "Tít báo.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "title"
+            ],
+            "collocations": [
+                "newspaper headline"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The headline attracts attention.",
+                    "translation": "Tiêu đề thu hút sự chú ý."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "controversy",
+            "phonetic": "/ˈkɒntrəvɜːsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Disagreement.",
+            "translation": "Sự tranh cãi",
+            "concept": "Bất đồng.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "dispute"
+            ],
+            "collocations": [
+                "cause controversy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It created controversy.",
+                    "translation": "Nó tạo ra sự tranh cãi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "patronise",
+            "phonetic": "/ˈpætrənaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Treat with apparent kindness that betrays superiority.",
+            "translation": "Ra vẻ bề trên",
+            "concept": "Coi thường.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "condescend"
+            ],
+            "collocations": [
+                "patronising tone"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Don't patronise the readers.",
+                    "translation": "Đừng tỏ ra bề trên với độc giả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sanitation",
+            "phonetic": "/ˌsænɪˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Conditions relating to public health.",
+            "translation": "Vệ sinh môi trường",
+            "concept": "Hệ thống sạch.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "hygiene"
+            ],
+            "collocations": [
+                "poor sanitation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Sanitation improved health.",
+                    "translation": "Vệ sinh môi trường đã cải thiện sức khỏe."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hygiene",
+            "phonetic": "/ˈhaɪdʒiːn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Practices to maintain health.",
+            "translation": "Vệ sinh cá nhân",
+            "concept": "Giữ sạch sẽ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "cleanliness"
+            ],
+            "collocations": [
+                "personal hygiene"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Hygiene is important.",
+                    "translation": "Vệ sinh cá nhân rất quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "luxury",
+            "phonetic": "/ˈlʌkʃəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "State of great comfort.",
+            "translation": "Sự xa xỉ",
+            "concept": "Đắt tiền.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "opulence"
+            ],
+            "collocations": [
+                "luxury item"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Soap was a luxury.",
+                    "translation": "Xà phòng từng là một sự xa xỉ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "repeal",
+            "phonetic": "/rɪˈpiːl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Revoke a law.",
+            "translation": "Bãi bỏ",
+            "concept": "Hủy luật.",
+            "register": "Legal",
+            "grammar_note": "",
+            "synonyms": [
+                "revoke"
+            ],
+            "collocations": [
+                "repeal a tax"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The tax was repealed.",
+                    "translation": "Thuế đã bị bãi bỏ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ingredient",
+            "phonetic": "/ɪnˈɡriːdiənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Foods combined to make a dish.",
+            "translation": "Thành phần",
+            "concept": "Nguyên liệu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "component"
+            ],
+            "collocations": [
+                "key ingredient"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is a key ingredient.",
+                    "translation": "Đó là một thành phần chính."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

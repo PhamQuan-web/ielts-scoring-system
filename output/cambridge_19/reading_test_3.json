@@ -1,0 +1,806 @@
+{
+    "id": "cambridge_19_reading_test_3",
+    "title": "Cam 19 - Reading Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Reading Test 3, bao gồm chủ đề khảo cổ học, sinh thái đất ngập nước và công nghệ giọng nói.",
+    "wordCount": 28,
+    "category": "Reading",
+    "color": "from-emerald-500 to-teal-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "archeologist",
+            "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person who studies human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.",
+            "translation": "Nhà khảo cổ học",
+            "concept": "Người nghiên cứu về quá khứ loài người thông qua di vật.",
+            "register": "Academic",
+            "grammar_note": "Thường đi với động từ: discover, excavate, study.",
+            "synonyms": [
+                "anthropologist",
+                "historian"
+            ],
+            "collocations": [
+                "marine archeologist",
+                "leading archeologist",
+                "team of archeologists"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Archeologists have uncovered evidence of early human settlements in the region dating back thousands of years.",
+                    "translation": "Các nhà khảo cổ học đã phát hiện ra bằng chứng về các khu định cư của con người sơ khai trong khu vực có niên đại hàng ngàn năm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prehistoric",
+            "phonetic": "/ˌpriːhɪˈstɒrɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to or denoting the period before written records.",
+            "translation": "Tiền sử / Thời tiền sử",
+            "concept": "Giai đoạn lịch sử trước khi con người biết viết.",
+            "register": "Academic",
+            "grammar_note": "Prehistoric times, prehistoric man.",
+            "synonyms": [
+                "primitive",
+                "primeval",
+                "ancient"
+            ],
+            "collocations": [
+                "prehistoric animals",
+                "prehistoric times",
+                "prehistoric art"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Cave paintings provide a fascinating glimpse into the lives of prehistoric people.",
+                    "translation": "Những bức tranh hang động cung cấp một cái nhìn hấp dẫn về cuộc sống của người tiền sử."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adept",
+            "phonetic": "/əˈdept/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Very skilled or proficient at something.",
+            "translation": "Tinh thông / Lão luyện",
+            "concept": "Chỉ trình độ kỹ năng rất cao, làm việc gì đó một cách dễ dàng và hiệu quả.",
+            "register": "Formal",
+            "grammar_note": "Adept at doing something.",
+            "synonyms": [
+                "skilled",
+                "proficient",
+                "expert",
+                "masterful"
+            ],
+            "collocations": [
+                "adept at",
+                "technically adept",
+                "become adept"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She is adept at managing complex projects and keeping the team motivated.",
+                    "translation": "Cô ấy rất tinh thông trong việc quản lý các dự án phức tạp và giữ động lực cho nhóm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "foraging",
+            "phonetic": "/ˈfɒrɪdʒɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The acquisition of food by hunting, fishing, or the gathering of plant matter.",
+            "translation": "Sự tìm kiếm thức ăn",
+            "concept": "Hành động tìm kiếm thức ăn trong tự nhiên (săn bắt hái lượm).",
+            "register": "Academic / Biological",
+            "grammar_note": "Foraging behavior.",
+            "synonyms": [
+                "scavenging",
+                "hunting",
+                "gathering"
+            ],
+            "collocations": [
+                "foraging behavior",
+                "foraging strategy",
+                "go foraging"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Early humans relied on foraging for survival before the development of agriculture.",
+                    "translation": "Con người thời kỳ đầu dựa vào việc tìm kiếm thức ăn để sinh tồn trước khi nông nghiệp phát triển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "excavation",
+            "phonetic": "/ˌekskəˈveɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of excavating something, especially an archaeological site.",
+            "translation": "Sự khai quật",
+            "concept": "Đào bới đất đá để tìm di chỉ khảo cổ.",
+            "register": "Academic",
+            "grammar_note": "Conduct an excavation.",
+            "synonyms": [
+                "digging",
+                "unearthing",
+                "disinterment"
+            ],
+            "collocations": [
+                "archaeological excavation",
+                "excavation site",
+                "carry out excavation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The excavation revealed the foundations of a Roman villa buried for centuries.",
+                    "translation": "Cuộc khai quật đã tiết lộ nền móng của một biệt thự La Mã bị chôn vùi trong nhiều thế kỷ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "disperse",
+            "phonetic": "/dɪˈspɜːs/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Distribute or spread over a wide area.",
+            "translation": "Phân tán / Rải rác",
+            "concept": "Lan ra nhiều hướng khác nhau. Dùng cho đám đông, hạt giống, hoặc dân cư.",
+            "register": "Formal / Academic",
+            "grammar_note": "Disperse throughout, disperse widely.",
+            "synonyms": [
+                "scatter",
+                "spread",
+                "distribute",
+                "disseminate"
+            ],
+            "collocations": [
+                "seeds disperse",
+                "crowd dispersed",
+                "widely dispersed"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Seeds rely on wind and animals to disperse them to new locations for growth.",
+                    "translation": "Hạt giống dựa vào gió và động vật để phân tán chúng đến các địa điểm mới để phát triển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "migration",
+            "phonetic": "/maɪˈɡreɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Seasonal movement of animals from one region to another.",
+            "translation": "Sự di cư",
+            "concept": "Sự di chuyển quy mô lớn của người hoặc động vật.",
+            "register": "General / Academic",
+            "grammar_note": "Mass migration, seasonal migration.",
+            "synonyms": [
+                "movement",
+                "relocation",
+                "resettlement"
+            ],
+            "collocations": [
+                "mass migration",
+                "seasonal migration",
+                "migration pattern"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The annual migration of wildebeest in Africa is one of nature's greatest spectacles.",
+                    "translation": "Cuộc di cư hàng năm của linh dương đầu bò ở châu Phi là một trong những cảnh tượng vĩ đại nhất của thiên nhiên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "voyage",
+            "phonetic": "/ˈvɔɪɪdʒ/",
+            "partOfSpeech": "Noun / Verb",
+            "cefrLevel": "B2",
+            "meaning": "A long journey involving travel by sea or in space.",
+            "translation": "Hành trình dài / Chuyến đi biển",
+            "concept": "Chuyến đi dài ngày, thường là trên biển hoặc vào vũ trụ, mang tính khám phá.",
+            "register": "Literary / General",
+            "grammar_note": "Go on a voyage, maiden voyage.",
+            "synonyms": [
+                "journey",
+                "expedition",
+                "trip",
+                "odyssey"
+            ],
+            "collocations": [
+                "maiden voyage",
+                "ocean voyage",
+                "long voyage"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The explorers embarked on a perilous voyage across the uncharted ocean.",
+                    "translation": "Các nhà thám hiểm bắt đầu một hành trình đầy nguy hiểm băng qua đại dương chưa được khám phá."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reveal",
+            "phonetic": "/rɪˈviːl/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Make (previously unknown or secret information) known to others.",
+            "translation": "Tiết lộ / Hé lộ / Làm lộ ra",
+            "concept": "Đưa ra ánh sáng điều gì đó bị che giấu hoặc chưa biết. Rất hay dùng trong báo cáo nghiên cứu (study reveals...).",
+            "register": "General / Academic",
+            "grammar_note": "Reveal that..., reveal a secret.",
+            "synonyms": [
+                "disclose",
+                "unveil",
+                "uncover",
+                "expose"
+            ],
+            "collocations": [
+                "study reveals",
+                "reveal the truth",
+                "reveal secrets"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The investigation revealed a series of errors that led to the accident.",
+                    "translation": "Cuộc điều tra đã tiết lộ một loạt các sai sót dẫn đến vụ tai nạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "wetland",
+            "phonetic": "/ˈwetlənd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Land consisting of marshes or swamps; saturated land.",
+            "translation": "Vùng đất ngập nước",
+            "concept": "Khu vực đất đai bão hòa nước, quan trọng cho hệ sinh thái.",
+            "register": "Scientific / Geographic",
+            "grammar_note": "Preserve wetlands.",
+            "synonyms": [
+                "marsh",
+                "swamp",
+                "bog"
+            ],
+            "collocations": [
+                "protect wetlands",
+                "wetland conservation",
+                "wetland ecosystem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Wetlands act as natural sponges, absorbing excess water and reducing the risk of flooding.",
+                    "translation": "Vùng đất ngập nước hoạt động như những miếng bọt biển tự nhiên, hấp thụ nước dư thừa và giảm nguy cơ lũ lụt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ecosystem",
+            "phonetic": "/ˈiːkəʊsɪstəm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A biological community of interacting organisms and their physical environment.",
+            "translation": "Hệ sinh thái",
+            "concept": "Mạng lưới phức tạp của các sinh vật sống và môi trường của chúng.",
+            "register": "Scientific",
+            "grammar_note": "Fragile ecosystem, marine ecosystem.",
+            "synonyms": [
+                "environment",
+                "biosphere",
+                "ecology"
+            ],
+            "collocations": [
+                "fragile ecosystem",
+                "balance of the ecosystem",
+                "marine ecosystem"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Pollution can disrupt the delicate balance of the marine ecosystem, harming fish and coral reefs.",
+                    "translation": "Ô nhiễm có thể phá vỡ sự cân bằng mong manh của hệ sinh thái biển, gây hại cho cá và các rạn san hô."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "drainage",
+            "phonetic": "/ˈdreɪnɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or process of draining something.",
+            "translation": "Hệ thống thoát nước / Sự tháo nước",
+            "concept": "Việc rút nước đi để làm khô đất hoặc xử lý nước thải.",
+            "register": "Technical / General",
+            "grammar_note": "Poor drainage, drainage system.",
+            "synonyms": [
+                "sewerage",
+                "waste water system"
+            ],
+            "collocations": [
+                "drainage system",
+                "poor drainage",
+                "improve drainage"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Effective drainage systems are essential in urban areas to prevent street flooding during heavy rains.",
+                    "translation": "Hệ thống thoát nước hiệu quả là rất cần thiết ở các khu vực đô thị để ngăn chặn ngập lụt đường phố trong những trận mưa lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "extraction",
+            "phonetic": "/ɪkˈstrækʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of taking out something, especially using effort or force.",
+            "translation": "Sự khai thác / Sự chiết xuất",
+            "concept": "Lấy tài nguyên từ lòng đất (mineral extraction) hoặc lấy chất từ cây (chemical extraction).",
+            "register": "Academic / Industrial",
+            "grammar_note": "Extraction of something.",
+            "synonyms": [
+                "removal",
+                "withdrawal",
+                "mining"
+            ],
+            "collocations": [
+                "mineral extraction",
+                "oil extraction",
+                "resource extraction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The extraction of fossil fuels has significant environmental consequences, including habitat destruction.",
+                    "translation": "Việc khai thác nhiên liệu hóa thạch gây ra những hậu quả môi trường đáng kể, bao gồm phá hủy môi trường sống."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪtɪɡeɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Make less severe, serious, or painful.",
+            "translation": "Giảm nhẹ / Làm dịu bớt",
+            "concept": "Làm cho hậu quả xấu đỡ nghiêm trọng hơn. Từ khóa quan trọng trong quản lý rủi ro và biến đổi khí hậu.",
+            "register": "Formal / Academic",
+            "grammar_note": "Mitigate risk/damage/effect.",
+            "synonyms": [
+                "alleviate",
+                "reduce",
+                "diminish",
+                "lessen"
+            ],
+            "collocations": [
+                "mitigate the impact",
+                "mitigate risks",
+                "mitigate climate change"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Planting trees can help mitigate the effects of climate change by absorbing carbon dioxide.",
+                    "translation": "Trồng cây có thể giúp giảm nhẹ tác động của biến đổi khí hậu bằng cách hấp thụ carbon dioxide."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pollutant",
+            "phonetic": "/pəˈluːtənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A substance that pollutes something, especially water or the atmosphere.",
+            "translation": "Chất gây ô nhiễm",
+            "concept": "Chất độc hại thải ra môi trường.",
+            "register": "Scientific / Environmental",
+            "grammar_note": "Air/water pollutants.",
+            "synonyms": [
+                "contaminant",
+                "toxin",
+                "impurity"
+            ],
+            "collocations": [
+                "harmful pollutant",
+                "release pollutants",
+                "chemical pollutant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Strict regulations are needed to limit the release of industrial pollutants into rivers.",
+                    "translation": "Cần có các quy định nghiêm ngặt để hạn chế việc thải các chất gây ô nhiễm công nghiệp ra sông ngòi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "livelihood",
+            "phonetic": "/ˈlaɪvlihʊd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A means of securing the necessities of life.",
+            "translation": "Sinh kế / Kế sinh nhai",
+            "concept": "Cách thức kiếm sống để tồn tại.",
+            "register": "General / Formal",
+            "grammar_note": "Earn a livelihood.",
+            "synonyms": [
+                "living",
+                "income",
+                "subsistence"
+            ],
+            "collocations": [
+                "threaten livelihoods",
+                "source of livelihood",
+                "depend on for livelihood"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The destruction of the coral reefs threatens the livelihood of local fishermen who depend on them.",
+                    "translation": "Sự phá hủy các rạn san hô đe dọa sinh kế của các ngư dân địa phương phụ thuộc vào chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adaptation",
+            "phonetic": "/ˌædæpˈteɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or process of adapting or being adapted.",
+            "translation": "Sự thích nghi / Sự điều chỉnh",
+            "concept": "Thay đổi để phù hợp với môi trường mới. Trong sinh học là tiến hóa; trong công việc là thay đổi chiến lược.",
+            "register": "Academic / General",
+            "grammar_note": "Adaptation to something.",
+            "synonyms": [
+                "adjustment",
+                "acclimatization",
+                "modification"
+            ],
+            "collocations": [
+                "adaptation to climate change",
+                "rapid adaptation",
+                "biological adaptation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Successful adaptation to changing market conditions is key to business survival.",
+                    "translation": "Sự thích nghi thành công với các điều kiện thị trường thay đổi là chìa khóa để doanh nghiệp tồn tại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "restore",
+            "phonetic": "/rɪˈstɔːr/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Bring back; reinstate.",
+            "translation": "Khôi phục / Phục hồi",
+            "concept": "Đưa về trạng thái tốt ban đầu (sức khỏe, tòa nhà, trật tự).",
+            "register": "General / Formal",
+            "grammar_note": "Restore something to something.",
+            "synonyms": [
+                "reestablish",
+                "reinstate",
+                "bring back",
+                "renovate"
+            ],
+            "collocations": [
+                "restore order",
+                "restore confidence",
+                "restore to former glory"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Conservationists are working hard to restore the wetland habitat to its original state.",
+                    "translation": "Các nhà bảo tồn đang làm việc chăm chỉ để khôi phục môi trường sống đất ngập nước về trạng thái ban đầu của nó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "chatter",
+            "phonetic": "/ˈtʃætər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Incessant trivial talk.",
+            "translation": "Tiếng huyên thuyên / Tiếng lải nhải",
+            "concept": "Nói chuyện liên tục về những điều không quan trọng. Cũng dùng cho tiếng ồn nền (background chatter).",
+            "register": "General / Literary",
+            "grammar_note": "Constant chatter.",
+            "synonyms": [
+                "babble",
+                "prattle",
+                "gossip"
+            ],
+            "collocations": [
+                "background chatter",
+                "incessant chatter",
+                "nervous chatter"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The constant chatter in the back of the classroom made it difficult to concentrate on the lecture.",
+                    "translation": "Tiếng nói chuyện liên tục ở cuối lớp khiến việc tập trung vào bài giảng trở nên khó khăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "artificial",
+            "phonetic": "/ˌɑːtɪˈfɪʃəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Made or produced by human beings rather than occurring naturally.",
+            "translation": "Nhân tạo",
+            "concept": "Do con người làm ra, không phải tự nhiên (trí tuệ nhân tạo, ánh sáng nhân tạo).",
+            "register": "General / Scientific",
+            "grammar_note": "Artificial intelligence, artificial light.",
+            "synonyms": [
+                "synthetic",
+                "man-made",
+                "fake"
+            ],
+            "collocations": [
+                "artificial intelligence",
+                "artificial sweetener",
+                "artificial limb"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Artificial intelligence is rapidly changing the landscape of many industries, from healthcare to finance.",
+                    "translation": "Trí tuệ nhân tạo đang thay đổi nhanh chóng bối cảnh của nhiều ngành công nghiệp, từ chăm sóc sức khỏe đến tài chính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "practically",
+            "phonetic": "/ˈpræktɪkli/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "B2",
+            "meaning": "Virtually; almost.",
+            "translation": "Hầu như / Gần như",
+            "concept": "Gần như hoàn toàn (practically impossible). Nghĩa khác là 'về mặt thực tế' (practically speaking).",
+            "register": "General",
+            "grammar_note": "Practically impossible/every.",
+            "synonyms": [
+                "virtually",
+                "almost",
+                "nearly",
+                "essentially"
+            ],
+            "collocations": [
+                "practically impossible",
+                "practically nonexistent",
+                "practically speaking"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is practically impossible to predict the exact timing of an earthquake.",
+                    "translation": "Hầu như không thể dự đoán chính xác thời điểm xảy ra động đất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "realizable",
+            "phonetic": "/ˈrɪəlaɪzəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Able to be achieved or made to happen.",
+            "translation": "Có thể thực hiện được / Khả thi",
+            "concept": "Có thể biến thành hiện thực. Từ gốc 'realize' (thực hiện/nhận ra).",
+            "register": "Formal",
+            "grammar_note": "Realizable goal.",
+            "synonyms": [
+                "achievable",
+                "attainable",
+                "feasible",
+                "possible"
+            ],
+            "collocations": [
+                "realizable goal",
+                "easily realizable",
+                "commercially realizable"
+            ],
+            "contexts": [
+                {
+                    "sentence": "With proper planning and funding, the ambitious infrastructure project is entirely realizable.",
+                    "translation": "Với kế hoạch và kinh phí phù hợp, dự án cơ sở hạ tầng đầy tham vọng là hoàn toàn khả thi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "recognize",
+            "phonetic": "/ˈrekəɡnaɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Identify (someone or something) from having encountered them before; know again.",
+            "translation": "Nhận ra / Công nhận",
+            "concept": "Nhận diện người quen. Hoặc công nhận giá trị, sự tồn tại của ai đó (recognize achievement).",
+            "register": "General / Formal",
+            "grammar_note": "Recognize as, recognize that.",
+            "synonyms": [
+                "identify",
+                "acknowledge",
+                "admit",
+                "accept"
+            ],
+            "collocations": [
+                "widely recognized",
+                "fail to recognize",
+                "recognize the importance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It is important to recognize the contributions of all team members to the project's success.",
+                    "translation": "Điều quan trọng là phải công nhận những đóng góp của tất cả các thành viên trong nhóm vào sự thành công của dự án."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "obstacle",
+            "phonetic": "/ˈɒbstəkəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A thing that blocks one's way or prevents or hinders progress.",
+            "translation": "Chướng ngại vật / Trở ngại",
+            "concept": "Vật cản đường hoặc khó khăn cản trở thành công.",
+            "register": "General / Formal",
+            "grammar_note": "Obstacle to something.",
+            "synonyms": [
+                "barrier",
+                "hurdle",
+                "impediment",
+                "hindrance"
+            ],
+            "collocations": [
+                "overcome an obstacle",
+                "major obstacle",
+                "face obstacles"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Fear of failure is often the biggest obstacle to achieving one's dreams.",
+                    "translation": "Nỗi sợ thất bại thường là trở ngại lớn nhất để đạt được ước mơ của một người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "generate",
+            "phonetic": "/ˈdʒenəreɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "To produce or create.",
+            "translation": "Tạo ra / Sản sinh",
+            "concept": "Tạo ra cái gì đó từ một quá trình (generate power, generate ideas, generate text).",
+            "register": "Academic / Scientific",
+            "grammar_note": "Generate something.",
+            "synonyms": [
+                "create",
+                "produce",
+                "make",
+                "form"
+            ],
+            "collocations": [
+                "generate revenue",
+                "generate electricity",
+                "generate discussion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The computer program can generate realistic images based on textual descriptions.",
+                    "translation": "Chương trình máy tính có thể tạo ra những hình ảnh chân thực dựa trên các mô tả văn bản."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "compete",
+            "phonetic": "/kəmˈpiːt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Strive to gain or win something by defeating or establishing superiority over others.",
+            "translation": "Cạnh tranh / Thi đấu",
+            "concept": "Cố gắng giỏi hơn người khác. Dùng trong thể thao, kinh doanh, tự nhiên.",
+            "register": "General",
+            "grammar_note": "Compete with/against, compete for.",
+            "synonyms": [
+                "contend",
+                "vie",
+                "challenge",
+                "rival"
+            ],
+            "collocations": [
+                "compete globally",
+                "compete for attention",
+                "fiercely compete"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Small businesses often struggle to compete with large multinational corporations.",
+                    "translation": "Các doanh nghiệp nhỏ thường chật vật để cạnh tranh với các tập đoàn đa quốc gia lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "laboratory",
+            "phonetic": "/ləˈbɒrətəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A room or building equipped for scientific experiments, research, or teaching.",
+            "translation": "Phòng thí nghiệm",
+            "concept": "Nơi làm nghiên cứu khoa học. Thường gọi tắt là 'lab'.",
+            "register": "Scientific / Educational",
+            "grammar_note": "In the laboratory.",
+            "synonyms": [
+                "lab",
+                "research facility",
+                "testing ground"
+            ],
+            "collocations": [
+                "laboratory test",
+                "research laboratory",
+                "laboratory conditions"
+            ],
+            "contexts": [
+                {
+                    "sentence": "All experiments must be conducted under strict laboratory conditions to ensure accuracy.",
+                    "translation": "Tất cả các thí nghiệm phải được tiến hành trong các điều kiện phòng thí nghiệm nghiêm ngặt để đảm bảo độ chính xác."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "somewhat",
+            "phonetic": "/ˈsʌmwɒt/",
+            "partOfSpeech": "Adverb",
+            "cefrLevel": "C1",
+            "meaning": "To a moderate extent or by a moderate amount.",
+            "translation": "Một chút / Hơi hơi",
+            "concept": "Dùng để giảm nhẹ mức độ (somewhat difficult, somewhat surprised).",
+            "register": "Formal / General",
+            "grammar_note": "Somewhat + adjective/verb.",
+            "synonyms": [
+                "slightly",
+                "a bit",
+                "rather",
+                "moderately"
+            ],
+            "collocations": [
+                "somewhat different",
+                "somewhat surprising",
+                "somewhat limited"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The results were somewhat disappointing, failing to meet the team's high expectations.",
+                    "translation": "Kết quả hơi thất vọng, không đáp ứng được kỳ vọng cao của đội."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

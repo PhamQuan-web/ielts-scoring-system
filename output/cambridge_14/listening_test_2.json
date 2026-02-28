@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_14_listening_test_2",
+    "title": "Cam 14 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Listening Test 2, bao gồm các chủ đề về phòng khám, lâu đài, thời tiết.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "clinic",
+            "phonetic": "/ˈklɪnɪk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Establishment for medical treatment.",
+            "translation": "Phòng khám",
+            "concept": "Chữa bệnh.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "health center"
+            ],
+            "collocations": [
+                "visit the clinic"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She went to the health clinic.",
+                    "translation": "Cô ấy đã đi đến phòng khám sức khỏe."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "insurance",
+            "phonetic": "/ɪnˈʃʊərəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Guarantee of compensation.",
+            "translation": "Bảo hiểm",
+            "concept": "Phí an toàn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "coverage"
+            ],
+            "collocations": [
+                "health insurance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Do you have insurance?",
+                    "translation": "Bạn có bảo hiểm không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "injury",
+            "phonetic": "/ˈɪndʒəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Physical harm.",
+            "translation": "Chấn thương",
+            "concept": "Vết đau.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "wound"
+            ],
+            "collocations": [
+                "knee injury"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She has a leg injury.",
+                    "translation": "Cô ấy bị chấn thương ở chân."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "castle",
+            "phonetic": "/ˈkɑːsl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A large fortified building.",
+            "translation": "Lâu đài",
+            "concept": "Nhà vua chúa.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "fortress"
+            ],
+            "collocations": [
+                "ancient castle"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They visited the castle.",
+                    "translation": "Họ đã đến thăm lâu đài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mammoth",
+            "phonetic": "/ˈmæməθ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A large extinct elephant.",
+            "translation": "Voi ma mút",
+            "concept": "Voi cổ đại.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "woolly mammoth"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Mammoths are extinct.",
+                    "translation": "Voi ma mút đã tuyệt chủng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "extinction",
+            "phonetic": "/ɪkˈstɪŋkʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Process of a species dying out.",
+            "translation": "Sự tuyệt chủng",
+            "concept": "Chết hết.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "vanishment"
+            ],
+            "collocations": [
+                "mass extinction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They face extinction.",
+                    "translation": "Chúng đối mặt với sự tuyệt chủng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "forecast",
+            "phonetic": "/ˈfɔːkɑːst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A prediction of future events.",
+            "translation": "Dự báo",
+            "concept": "Đoán trước.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "prediction"
+            ],
+            "collocations": [
+                "weather forecast"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The forecast says it will rain.",
+                    "translation": "Dự báo nói rằng trời sẽ mưa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "meteorology",
+            "phonetic": "/ˌmiːtiəˈrɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Science of the atmosphere.",
+            "translation": "Khí tượng học",
+            "concept": "Môn thời tiết.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "study meteorology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Meteorology is complex.",
+                    "translation": "Khí tượng học rất phức tạp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prediction",
+            "phonetic": "/prɪˈdɪkʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A forecast.",
+            "translation": "Dự đoán",
+            "concept": "Sự đoán.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "forecast"
+            ],
+            "collocations": [
+                "make a prediction"
+            ],
+            "contexts": [
+                {
+                    "sentence": "His prediction was right.",
+                    "translation": "Dự đoán của anh ấy đã đúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reliable",
+            "phonetic": "/rɪˈlaɪəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Able to be trusted.",
+            "translation": "Đáng tin cậy",
+            "concept": "Tin được.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "trustworthy"
+            ],
+            "collocations": [
+                "reliable source"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The forecast is reliable.",
+                    "translation": "Dự báo rất đáng tin cậy."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

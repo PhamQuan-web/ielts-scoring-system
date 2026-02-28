@@ -1,0 +1,676 @@
+{
+    "id": "cambridge_18_listening_test_3",
+    "title": "Cambridge 18 - Listening Test 3",
+    "description": "Full B2+ spoken vocabulary for Photography Competition, Domestic Life, and Education.",
+    "wordCount": 35,
+    "category": "Listening",
+    "color": "from-purple-500 to-indigo-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "competition",
+            "phonetic": "/ˌkɒm.pəˈtɪʃ.ən/",
+            "partOfSpeech": "Noun",
+            "meaning": "An event or contest in which people take part in order to establish superiority or supremacy in a particular area.",
+            "translation": "Cuộc thi, sự cạnh tranh",
+            "concept": "An event where people try to be the best.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["contest", "tournament", "match", "championship"],
+            "collocations": ["enter a competition", "win a competition", "fierce competition"],
+            "contexts": [
+                {
+                    "sentence": "She decided to enter her photo in the national photography competition.",
+                    "translation": "Cô ấy quyết định gửi bức ảnh của mình tham gia cuộc thi nhiếp ảnh quốc gia."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "theme",
+            "phonetic": "/θiːm/",
+            "partOfSpeech": "Noun",
+            "meaning": "The subject of a talk, piece of writing, exhibition, etc.; a topic.",
+            "translation": "Chủ đề, đề tài",
+            "concept": "The main idea or subject.",
+            "register": "General/Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["topic", "subject", "motif", "idea"],
+            "collocations": ["main theme", "central theme", "recurring theme"],
+            "contexts": [
+                {
+                    "sentence": "The theme of this year's competition is 'Nature in the City'.",
+                    "translation": "Chủ đề của cuộc thi năm nay là 'Thiên nhiên trong thành phố'."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "composition",
+            "phonetic": "/ˌkɒm.pəˈzɪʃ.ən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The artistic arrangement of the parts of a picture.",
+            "translation": "Bố cục (nghệ thuật)",
+            "concept": "How elements are arranged in art.",
+            "register": "Artistic/Technical",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["arrangement", "layout", "configuration", "design"],
+            "collocations": ["balanced composition", "musical composition", "color composition"],
+            "contexts": [
+                {
+                    "sentence": "The judges praised the composition of her photograph.",
+                    "translation": "Các giám khảo đã khen ngợi bố cục của bức ảnh của cô ấy."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interpret",
+            "phonetic": "/ɪnˈtɜː.prɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Understand (an action, mood, or way of behaving) as having a particular meaning or significance.",
+            "translation": "Diễn giải, giải thích, hiểu",
+            "concept": "To explain the meaning of something.",
+            "register": "General/Academic",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["understand", "construe", "take", "explain"],
+            "collocations": ["interpret the rules", "interpret data", "open to interpretation"],
+            "contexts": [
+                {
+                    "sentence": "Participants are free to interpret the theme in their own way.",
+                    "translation": "Người tham gia được tự do diễn giải chủ đề theo cách riêng của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "entitle",
+            "phonetic": "/ɪnˈtaɪ.təl/",
+            "partOfSpeech": "Verb",
+            "meaning": "Give (someone) a legal right or a just claim to receive or do something; give a title to.",
+            "translation": "Đặt tiêu đề; Cho quyền",
+            "concept": "Giving a name or a right.",
+            "register": "Formal",
+            "grammar_note": "Passive: 'be entitled to'.",
+            "synonyms": ["title", "name", "authorize", "empower"],
+            "collocations": ["entitled to", "be entitled"],
+            "contexts": [
+                {
+                    "sentence": "She entitled her winning photograph 'Solitude'.",
+                    "translation": "Cô ấy đặt tiêu đề cho bức ảnh chiến thắng của mình là 'Sự cô độc'."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "socialize",
+            "phonetic": "/ˈsəʊ.ʃəl.aɪz/",
+            "partOfSpeech": "Verb",
+            "meaning": "Mix socially with others.",
+            "translation": "Giao lưu, hòa nhập xã hội",
+            "concept": "Spending time with other people.",
+            "register": "General",
+            "grammar_note": "Intransitive verb.",
+            "synonyms": ["mingle", "fraternize", "mix", "associate"],
+            "collocations": ["socialize with friends", "opportunity to socialize"],
+            "contexts": [
+                {
+                    "sentence": "The club provides a great opportunity to socialize with like-minded people.",
+                    "translation": "Câu lạc bộ cung cấp một cơ hội tuyệt vời để giao lưu với những người cùng chí hướng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "domestic",
+            "phonetic": "/dəˈmes.tɪk/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Relating to the running of a home or to family relations.",
+            "translation": "Thuộc về gia đình, nội trợ",
+            "concept": "Relating to the home.",
+            "register": "General",
+            "grammar_note": "Modifies 'life', 'chores', 'violence'.",
+            "synonyms": ["household", "family", "home"],
+            "collocations": ["domestic chores", "domestic life", "domestic appliance"],
+            "contexts": [
+                {
+                    "sentence": "The painting depicts a peaceful domestic scene.",
+                    "translation": "Bức tranh miêu tả một cảnh sinh hoạt gia đình yên bình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "instruction",
+            "phonetic": "/ɪnˈstrʌk.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "Detailed information telling how something should be done, operated, or assembled.",
+            "translation": "Sự hướng dẫn, chỉ dẫn",
+            "concept": "Directions on how to do something.",
+            "register": "General",
+            "grammar_note": "Countable (usually plural).",
+            "synonyms": ["direction", "guidance", "order", "command"],
+            "collocations": ["follow instructions", "clear instructions", "step-by-step instructions"],
+            "contexts": [
+                {
+                    "sentence": "Please read the instructions carefully before submitting your entry.",
+                    "translation": "Vui lòng đọc kỹ hướng dẫn trước khi gửi bài dự thi của bạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "feedback",
+            "phonetic": "/ˈfiːd.bæk/",
+            "partOfSpeech": "Noun",
+            "meaning": "Information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement.",
+            "translation": "Phản hồi, ý kiến đóng góp",
+            "concept": "Information about how good or useful something is.",
+            "register": "General/Business",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["comment", "criticism", "evaluation", "response"],
+            "collocations": ["constructive feedback", "positive feedback", "give feedback"],
+            "contexts": [
+                {
+                    "sentence": "The judges provided valuable feedback to all the participants.",
+                    "translation": "Các giám khảo đã cung cấp những phản hồi quý giá cho tất cả những người tham gia."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "capture",
+            "phonetic": "/ˈkæp.tʃər/",
+            "partOfSpeech": "Verb",
+            "meaning": "Record or express accurately in words or pictures.",
+            "translation": "Bắt trọn, ghi lại (khoảnh khắc/hình ảnh)",
+            "concept": "To record something accurately.",
+            "register": "General/Artistic",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["record", "immortalize", "catch", "preserve"],
+            "collocations": ["capture the moment", "capture the imagination", "capture the essence"],
+            "contexts": [
+                {
+                    "sentence": "The photographer managed to capture the fleeting expression on the child's face.",
+                    "translation": "Nhiếp ảnh gia đã bắt trọn được biểu cảm thoáng qua trên khuôn mặt đứa trẻ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "timing",
+            "phonetic": "/ˈtaɪ.mɪŋ/",
+            "partOfSpeech": "Noun",
+            "meaning": "The choice, judgment, or control of when something should be done.",
+            "translation": "Việc chọn đúng thời điểm",
+            "concept": "Doing something at exactly the right time.",
+            "register": "General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["scheduling", "synchronization"],
+            "collocations": ["perfect timing", "bad timing", "impeccable timing"],
+            "contexts": [
+                {
+                    "sentence": "Good timing is essential for capturing the perfect action shot.",
+                    "translation": "Chọn đúng thời điểm là điều cần thiết để bắt trọn bức ảnh hành động hoàn hảo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "technical",
+            "phonetic": "/ˈtek.nɪ.kəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Relating to a particular subject, art, or craft, or its techniques.",
+            "translation": "Thuộc về kỹ thuật, chuyên môn",
+            "concept": "Relating to the practical use of machines or methods.",
+            "register": "General",
+            "grammar_note": "Modifies 'skill', 'problem', 'support'.",
+            "synonyms": ["mechanical", "scientific", "specialized"],
+            "collocations": ["technical skill", "technical support", "technical difficulty"],
+            "contexts": [
+                {
+                    "sentence": "While the composition was good, the photo had some technical flaws.",
+                    "translation": "Mặc dù bố cục tốt, bức ảnh vẫn có một số lỗi kỹ thuật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "membership",
+            "phonetic": "/ˈmem.bə.ʃɪp/",
+            "partOfSpeech": "Noun",
+            "meaning": "The fact of being a member of a group.",
+            "translation": "Tư cách thành viên",
+            "concept": "The state of belonging to an organization.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["belonging", "enrollment", "subscription"],
+            "collocations": ["membership fee", "apply for membership", "lifetime membership"],
+            "contexts": [
+                {
+                    "sentence": "Membership is open to anyone interested in photography.",
+                    "translation": "Tư cách thành viên mở cho bất kỳ ai quan tâm đến nhiếp ảnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "category",
+            "phonetic": "/ˈkæt.ə.ɡri/",
+            "partOfSpeech": "Noun",
+            "meaning": "A class or division of people or things regarded as having particular shared characteristics.",
+            "translation": "Hạng mục, thể loại",
+            "concept": "A group of things that are similar.",
+            "register": "General/Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["class", "group", "type", "classification"],
+            "collocations": ["fall into a category", "broad category", "distinct category"],
+            "contexts": [
+                {
+                    "sentence": "There are several categories in the competition, including wildlife and portrait.",
+                    "translation": "Có một số hạng mục trong cuộc thi, bao gồm động vật hoang dã và chân dung."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stunning",
+            "phonetic": "/ˈstʌn.ɪŋ/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Extremely impressive or attractive.",
+            "translation": "Tuyệt đẹp, gây ấn tượng mạnh",
+            "concept": "Very beautiful or surprising.",
+            "register": "General",
+            "grammar_note": "Describes views, photos, looks.",
+            "synonyms": ["breathtaking", "spectacular", "striking", "impressive"],
+            "collocations": ["stunning view", "stunning performance", "absolutely stunning"],
+            "contexts": [
+                {
+                    "sentence": "The view from the top of the mountain was absolutely stunning.",
+                    "translation": "Khung cảnh từ đỉnh núi thực sự tuyệt đẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "participate",
+            "phonetic": "/pɑːˈtɪs.ɪ.peɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Take part in an action or endeavour.",
+            "translation": "Tham gia",
+            "concept": "To take part in something.",
+            "register": "General/Formal",
+            "grammar_note": "Intransitive verb. Followed by 'in'.",
+            "synonyms": ["take part", "join in", "engage", "involve"],
+            "collocations": ["participate in", "actively participate"],
+            "contexts": [
+                {
+                    "sentence": "Students are encouraged to participate in extracurricular activities.",
+                    "translation": "Học sinh được khuyến khích tham gia các hoạt động ngoại khóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "deadline",
+            "phonetic": "/ˈded.laɪn/",
+            "partOfSpeech": "Noun",
+            "meaning": "The latest time or date by which something should be completed.",
+            "translation": "Hạn chót",
+            "concept": "Time limit for finishing something.",
+            "register": "General/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["time limit", "cutoff", "due date"],
+            "collocations": ["meet a deadline", "miss a deadline", "tight deadline"],
+            "contexts": [
+                {
+                    "sentence": "The deadline for submissions is next Friday.",
+                    "translation": "Hạn chót nộp bài là thứ Sáu tới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "original",
+            "phonetic": "/əˈrɪdʒ.ən.əl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Created directly and personally by a particular artist; not a copy or imitation.",
+            "translation": "Gốc, nguyên bản, độc đáo",
+            "concept": "New and interesting.",
+            "register": "General",
+            "grammar_note": "Modifies 'work', 'idea'.",
+            "synonyms": ["authentic", "genuine", "unique", "novel"],
+            "collocations": ["original work", "highly original", "original idea"],
+            "contexts": [
+                {
+                    "sentence": "The judges are looking for original and creative interpretations of the theme.",
+                    "translation": "Các giám khảo đang tìm kiếm những cách diễn giải nguyên bản và sáng tạo về chủ đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "display",
+            "phonetic": "/dɪˈspleɪ/",
+            "partOfSpeech": "Noun",
+            "meaning": "A collection of objects arranged for public viewing.",
+            "translation": "Sự trưng bày, triển lãm",
+            "concept": "Showing things for people to look at.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["exhibition", "show", "array", "presentation"],
+            "collocations": ["on display", "public display", "window display"],
+            "contexts": [
+                {
+                    "sentence": "The winning photographs will be put on display in the town hall.",
+                    "translation": "Những bức ảnh chiến thắng sẽ được trưng bày tại tòa thị chính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "judge",
+            "phonetic": "/dʒʌdʒ/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person who decides the results of a competition.",
+            "translation": "Giám khảo",
+            "concept": "Person who chooses the winner.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["adjudicator", "arbiter", "assessor"],
+            "collocations": ["panel of judges", "impartial judge"],
+            "contexts": [
+                {
+                    "sentence": "A panel of professional photographers will judge the competition.",
+                    "translation": "Một hội đồng các nhiếp ảnh gia chuyên nghiệp sẽ chấm điểm cuộc thi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "entry",
+            "phonetic": "/ˈen.tri/",
+            "partOfSpeech": "Noun",
+            "meaning": "An item or person entered in a competition.",
+            "translation": "Bài dự thi, mục nhập",
+            "concept": "Something submitted to a contest.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["submission", "candidate", "competitor"],
+            "collocations": ["submit an entry", "winning entry"],
+            "contexts": [
+                {
+                    "sentence": "We received over 500 entries for the competition this year.",
+                    "translation": "Chúng tôi đã nhận được hơn 500 bài dự thi cho cuộc thi năm nay."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "amateur",
+            "phonetic": "/ˈæm.ə.tər/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person who engages in a pursuit, especially a sport, on an unpaid basis.",
+            "translation": "Người nghiệp dư",
+            "concept": "Someone who does something for fun, not money.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["non-professional", "layman", "hobbyist"],
+            "collocations": ["amateur photographer", "rank amateur"],
+            "contexts": [
+                {
+                    "sentence": "The competition is open to both amateur and professional photographers.",
+                    "translation": "Cuộc thi mở cho cả nhiếp ảnh gia nghiệp dư và chuyên nghiệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "technicality",
+            "phonetic": "/ˌtek.nɪˈkæl.ə.ti/",
+            "partOfSpeech": "Noun",
+            "meaning": "A point of law or a small detail of a set of rules.",
+            "translation": "Chi tiết kỹ thuật, vấn đề chuyên môn",
+            "concept": "A small detail that is important.",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["detail", "nuance", "fine point"],
+            "collocations": ["mere technicality", "legal technicality"],
+            "contexts": [
+                {
+                    "sentence": "He was disqualified on a technicality regarding the file format.",
+                    "translation": "Anh ấy đã bị loại vì một vấn đề kỹ thuật liên quan đến định dạng tệp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "guideline",
+            "phonetic": "/ˈɡaɪd.laɪn/",
+            "partOfSpeech": "Noun",
+            "meaning": "A general rule, principle, or piece of advice.",
+            "translation": "Nguyên tắc chỉ đạo, hướng dẫn",
+            "concept": "Advice on how to do something.",
+            "register": "Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["recommendation", "instruction", "rule", "direction"],
+            "collocations": ["follow guidelines", "safety guidelines", "strict guidelines"],
+            "contexts": [
+                {
+                    "sentence": "Please ensure your submission follows the competition guidelines.",
+                    "translation": "Vui lòng đảm bảo bài nộp của bạn tuân thủ các hướng dẫn của cuộc thi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "publicity",
+            "phonetic": "/pʌbˈlɪs.ə.ti/",
+            "partOfSpeech": "Noun",
+            "meaning": "Notice or attention given to someone or something by the media.",
+            "translation": "Sự công khai, quảng bá",
+            "concept": "Attention from the public.",
+            "register": "General/Business",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["attention", "promotion", "hype", "exposure"],
+            "collocations": ["bad publicity", "generate publicity", "seek publicity"],
+            "contexts": [
+                {
+                    "sentence": "The competition generated a lot of publicity for the local club.",
+                    "translation": "Cuộc thi đã tạo ra rất nhiều sự chú ý cho câu lạc bộ địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exhibition",
+            "phonetic": "/ˌek.sɪˈbɪʃ.ən/",
+            "partOfSpeech": "Noun",
+            "meaning": "A public display of works of art or items of interest.",
+            "translation": "Cuộc triển lãm",
+            "concept": "A public show of art.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["display", "show", "exposition", "fair"],
+            "collocations": ["art exhibition", "hold an exhibition", "visit an exhibition"],
+            "contexts": [
+                {
+                    "sentence": "An exhibition of the best photos will be held next month.",
+                    "translation": "Một cuộc triển lãm những bức ảnh đẹp nhất sẽ được tổ chức vào tháng tới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "frame",
+            "phonetic": "/freɪm/",
+            "partOfSpeech": "Noun",
+            "meaning": "A rigid structure that surrounds or encloses something.",
+            "translation": "Khung (ảnh, cửa)",
+            "concept": "A border around a picture.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["border", "casing", "mount"],
+            "collocations": ["picture frame", "wooden frame"],
+            "contexts": [
+                {
+                    "sentence": "You can buy a frame for your photo at the shop.",
+                    "translation": "Bạn có thể mua một chiếc khung cho bức ảnh của mình tại cửa hàng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mount",
+            "phonetic": "/maʊnt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Place (an object) in a setting or framework.",
+            "translation": "Gắn vào, đóng khung",
+            "concept": "To attach something to a support.",
+            "register": "General",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["install", "fix", "frame", "display"],
+            "collocations": ["mount a picture", "wall-mounted"],
+            "contexts": [
+                {
+                    "sentence": "The photos should be mounted on stiff card for display.",
+                    "translation": "Các bức ảnh nên được gắn trên bìa cứng để trưng bày."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "preference",
+            "phonetic": "/ˈpref.ər.əns/",
+            "partOfSpeech": "Noun",
+            "meaning": "A greater liking for one alternative over another or others.",
+            "translation": "Sự ưu tiên, sở thích",
+            "concept": "Liking one thing more than another.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["liking", "partiality", "choice", "favor"],
+            "collocations": ["personal preference", "give preference to"],
+            "contexts": [
+                {
+                    "sentence": "Please state your preference for the workshop time.",
+                    "translation": "Vui lòng nêu rõ sở thích của bạn về thời gian hội thảo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "landscape",
+            "phonetic": "/ˈlænd.skeɪp/",
+            "partOfSpeech": "Noun",
+            "meaning": "All the visible features of an area of countryside or land.",
+            "translation": "Phong cảnh",
+            "concept": "A picture of the countryside.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["scenery", "terrain", "view", "vista"],
+            "collocations": ["landscape photography", "beautiful landscape", "urban landscape"],
+            "contexts": [
+                {
+                    "sentence": "He specializes in landscape photography, capturing mountains and lakes.",
+                    "translation": "Anh ấy chuyên về nhiếp ảnh phong cảnh, chụp núi và hồ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "portrait",
+            "phonetic": "/ˈpɔː.trət/",
+            "partOfSpeech": "Noun",
+            "meaning": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders.",
+            "translation": "Chân dung",
+            "concept": "A picture of a person.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["likeness", "image", "picture"],
+            "collocations": ["family portrait", "portrait photography", "paint a portrait"],
+            "contexts": [
+                {
+                    "sentence": "She commissioned a portrait of her children.",
+                    "translation": "Cô ấy đã đặt hàng một bức chân dung của các con mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "angle",
+            "phonetic": "/ˈæŋ.ɡəl/",
+            "partOfSpeech": "Noun",
+            "meaning": "The position from which something is viewed.",
+            "translation": "Góc độ",
+            "concept": "The direction from which you look at something.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["perspective", "viewpoint", "slant"],
+            "collocations": ["camera angle", "from a different angle", "wide angle"],
+            "contexts": [
+                {
+                    "sentence": "Try taking the photo from a low angle to make the subject look more powerful.",
+                    "translation": "Hãy thử chụp ảnh từ góc thấp để làm cho chủ thể trông mạnh mẽ hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "focus",
+            "phonetic": "/ˈfəʊ.kəs/",
+            "partOfSpeech": "Noun",
+            "meaning": "The state or quality of having or producing clear visual definition.",
+            "translation": "Tiêu điểm, sự sắc nét",
+            "concept": "Clear vision.",
+            "register": "General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["sharpness", "clarity"],
+            "collocations": ["in focus", "out of focus", "soft focus"],
+            "contexts": [
+                {
+                    "sentence": "Keep the subject in focus while blurring the background.",
+                    "translation": "Giữ chủ thể sắc nét trong khi làm mờ hậu cảnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "submit",
+            "phonetic": "/səbˈmɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Present (a proposal, application, or other document) to a person or body for consideration or judgment.",
+            "translation": "Nộp, gửi đi",
+            "concept": "To send a document.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["present", "tender", "hand in", "file"],
+            "collocations": ["submit an entry", "submit a report"],
+            "contexts": [
+                {
+                    "sentence": "You must submit your photos by email.",
+                    "translation": "Bạn phải nộp ảnh của mình qua email."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "category",
+            "phonetic": "/ˈkæt.ə.ɡri/",
+            "partOfSpeech": "Noun",
+            "meaning": "A class or division of people or things regarded as having particular shared characteristics.",
+            "translation": "Hạng mục",
+            "concept": "A division of things.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["class", "group", "classification", "type"],
+            "collocations": ["age category", "prize category"],
+            "contexts": [
+                {
+                    "sentence": "There is a special category for photographers under 18.",
+                    "translation": "Có một hạng mục đặc biệt dành cho các nhiếp ảnh gia dưới 18 tuổi."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

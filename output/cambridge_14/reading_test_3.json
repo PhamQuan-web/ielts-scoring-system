@@ -1,0 +1,245 @@
+{
+    "id": "cambridge_14_reading_test_3",
+    "title": "Cam 14 - Reading Test 3",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Reading Test 3, bao gồm các chủ đề về trí thông minh, côn trùng.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "intelligence",
+            "phonetic": "/ɪnˈtelɪdʒəns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Ability to acquire knowledge.",
+            "translation": "Trí thông minh",
+            "concept": "Khả năng học.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "intellect"
+            ],
+            "collocations": [
+                "human intelligence"
+            ],
+            "contexts": [
+                {
+                    "sentence": "What is intelligence?",
+                    "translation": "Trí thông minh là gì?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pharmaceutical",
+            "phonetic": "/ˌfɑːməˈsuːtɪkl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to medicinal drugs.",
+            "translation": "Dược phẩm",
+            "concept": "Làm thuốc.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "medical"
+            ],
+            "collocations": [
+                "pharmaceutical company"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They work for a pharmaceutical company.",
+                    "translation": "Họ làm việc cho một công ty dược phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "antibiotic",
+            "phonetic": "/ˌæntibaɪˈɒtɪk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Medicine that destroys microorganisms.",
+            "translation": "Kháng sinh",
+            "concept": "Thuốc diệt khuẩn.",
+            "register": "Medical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "new antibiotic"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need new antibiotics.",
+                    "translation": "Chúng ta cần kháng sinh mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Variety of life.",
+            "translation": "Đa dạng sinh học",
+            "concept": "Nhiều loài.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "protect biodiversity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Insects show biodiversity.",
+                    "translation": "Côn trùng cho thấy sự đa dạng sinh học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mammal",
+            "phonetic": "/ˈmæml/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Warm-blooded vertebrate.",
+            "translation": "Động vật có vú",
+            "concept": "Thú.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "marine mammal"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Dogs are mammals.",
+                    "translation": "Chó là động vật có vú."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stimulus",
+            "phonetic": "/ˈstɪmjələs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Thing that evokes a reaction.",
+            "translation": "Kích thích",
+            "concept": "Tác nhân.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "incentive"
+            ],
+            "collocations": [
+                "provide a stimulus"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Play is a stimulus.",
+                    "translation": "Vui chơi là một sự kích thích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "plasticity",
+            "phonetic": "/plæˈstɪsəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "Adaptability of an organism.",
+            "translation": "Tính dẻo",
+            "concept": "Khả năng đổi.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "flexibility"
+            ],
+            "collocations": [
+                "brain plasticity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The brain has plasticity.",
+                    "translation": "Não bộ có tính dẻo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "evolution",
+            "phonetic": "/ˌiːvəˈluːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Gradual development.",
+            "translation": "Tiến hóa",
+            "concept": "Phát triển lâu.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "development"
+            ],
+            "collocations": [
+                "human evolution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Play helps in evolution.",
+                    "translation": "Vui chơi giúp ích trong quá trình tiến hóa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "survival",
+            "phonetic": "/səˈvaɪvl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Continuing to live.",
+            "translation": "Sinh tồn",
+            "concept": "Sống sót.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "existence"
+            ],
+            "collocations": [
+                "survival skills"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It teaches survival skills.",
+                    "translation": "Nó dạy các kỹ năng sinh tồn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "therapeutic",
+            "phonetic": "/ˌθerəˈpjuːtɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to healing.",
+            "translation": "Trị liệu",
+            "concept": "Chữa bệnh.",
+            "register": "Medical",
+            "grammar_note": "",
+            "synonyms": [
+                "curative"
+            ],
+            "collocations": [
+                "therapeutic benefits"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Play has therapeutic benefits.",
+                    "translation": "Vui chơi có lợi ích trị liệu."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

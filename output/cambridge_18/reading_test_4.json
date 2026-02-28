@@ -1,0 +1,695 @@
+{
+    "id": "cambridge_18_reading_test_4",
+    "title": "Cambridge 18 - Reading Test 4",
+    "description": "Full B2+ academic vocabulary from Reading Test 4 (Green Roofs, Alfred Wegener, Psychology/Growth Mindset).",
+    "wordCount": 45,
+    "category": "Reading",
+    "color": "from-orange-500 to-red-700",
+    "isPro": true,
+    "words": [
+        {
+            "word": "impediment",
+            "phonetic": "/ɪmˈped.ɪ.mənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A hindrance or obstruction in doing something.",
+            "translation": "Chướng ngại vật, sự cản trở",
+            "concept": "Something that makes progress difficult or impossible.",
+            "register": "Formal",
+            "grammar_note": "Countable noun. Often followed by 'to'.",
+            "synonyms": ["hindrance", "obstruction", "obstacle", "barrier"],
+            "collocations": ["major impediment", "speech impediment", "impediment to progress"],
+            "contexts": [
+                {
+                    "sentence": "A lack of funding is a major impediment to the project's success.",
+                    "translation": "Thiếu kinh phí là một trở ngại lớn cho sự thành công của dự án."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dissonance",
+            "phonetic": "/ˈdɪs.ən.əns/",
+            "partOfSpeech": "Noun",
+            "meaning": "Lack of harmony; tension or clash resulting from the combination of two disharmonious or unsuitable elements.",
+            "translation": "Sự bất hòa, mâu thuẫn (âm thanh hoặc ý kiến)",
+            "concept": "Often used in 'cognitive dissonance' to describe mental discomfort from conflicting beliefs.",
+            "register": "Formal/Academic",
+            "grammar_note": "Uncountable/Countable.",
+            "synonyms": ["discord", "conflict", "disagreement", "incongruity"],
+            "collocations": ["cognitive dissonance", "create dissonance", "resolve dissonance"],
+            "contexts": [
+                {
+                    "sentence": "Cognitive dissonance occurs when a person holds contradictory beliefs, ideas, or values.",
+                    "translation": "Sự bất hòa nhận thức xảy ra khi một người giữ những niềm tin, ý tưởng hoặc giá trị mâu thuẫn nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innate",
+            "phonetic": "/ɪˈneɪt/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Inborn; natural.",
+            "translation": "Bẩm sinh",
+            "concept": "Existing from birth, not learned.",
+            "register": "Academic",
+            "grammar_note": "Modifies 'ability', 'quality', 'knowledge'.",
+            "synonyms": ["inborn", "natural", "inherent", "congenital"],
+            "collocations": ["innate ability", "innate talent", "innate immune system"],
+            "contexts": [
+                {
+                    "sentence": "Chomsky argued that humans have an innate ability to learn language.",
+                    "translation": "Chomsky lập luận rằng con người có khả năng bẩm sinh để học ngôn ngữ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "supplant",
+            "phonetic": "/səˈplɑːnt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Supersede and replace.",
+            "translation": "Thay thế (cái cũ bằng cái mới tốt hơn)",
+            "concept": "Implies taking the place of something that was there before, often by force or superiority.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["replace", "supersede", "displace", "oust"],
+            "collocations": ["supplant a rival", "be supplanted by", "completely supplant"],
+            "contexts": [
+                {
+                    "sentence": "Printed books will soon be supplanted by e-books.",
+                    "translation": "Sách in sẽ sớm bị thay thế bởi sách điện tử."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "inherent",
+            "phonetic": "/ɪnˈher.ənt/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Existing in something as a permanent, essential, or characteristic attribute.",
+            "translation": "Vốn có, cố hữu",
+            "concept": "An inseparable part of the nature of something.",
+            "register": "Formal",
+            "grammar_note": "Followed by 'in'.",
+            "synonyms": ["intrinsic", "innate", "built-in", "immanent"],
+            "collocations": ["inherent risk", "inherent value", "inherent problem"],
+            "contexts": [
+                {
+                    "sentence": "There are inherent risks in driving a car.",
+                    "translation": "Có những rủi ro vốn có khi lái xe ô tô."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "intervention",
+            "phonetic": "/ˌɪn.təˈven.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action or process of intervening.",
+            "translation": "Sự can thiệp",
+            "concept": "Stepping in to help, prevent, or modify a situation.",
+            "register": "Formal/Academic",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["involvement", "intercession", "interference"],
+            "collocations": ["government intervention", "early intervention", "medical intervention"],
+            "contexts": [
+                {
+                    "sentence": "Early intervention is key to treating the disease effectively.",
+                    "translation": "Sự can thiệp sớm là chìa khóa để điều trị bệnh hiệu quả."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "quantify",
+            "phonetic": "/ˈkwɒn.tɪ.faɪ/",
+            "partOfSpeech": "Verb",
+            "meaning": "Express or measure the quantity of.",
+            "translation": "Định lượng, đo lường bằng số",
+            "concept": "To express something in numbers.",
+            "register": "Academic/Scientific",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["measure", "calculate", "compute", "evaluate"],
+            "collocations": ["difficult to quantify", "quantify the impact", "quantify results"],
+            "contexts": [
+                {
+                    "sentence": "It is impossible to quantify the value of a human life.",
+                    "translation": "Không thể định lượng giá trị của một mạng sống con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "instill",
+            "phonetic": "/ɪnˈstɪl/",
+            "partOfSpeech": "Verb",
+            "meaning": "Gradually but firmly establish (an idea or attitude) in a person's mind.",
+            "translation": "Thấm nhuần, làm cho nhiễm",
+            "concept": "Teaching or introducing an idea slowly over time.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb. Followed by 'in' or 'into'.",
+            "synonyms": ["inculcate", "implant", "infuse", "indoctrinate"],
+            "collocations": ["instill confidence", "instill discipline", "instill values"],
+            "contexts": [
+                {
+                    "sentence": "Parents try to instill good manners in their children.",
+                    "translation": "Cha mẹ cố gắng rèn luyện cách cư xử tốt cho con cái."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "continental",
+            "phonetic": "/ˌkɒn.tɪˈnen.təl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Forming or belonging to a continent.",
+            "translation": "Thuộc lục địa",
+            "concept": "Relating to large landmasses.",
+            "register": "General/Scientific",
+            "grammar_note": "Modifies 'shelf', 'drift', 'climate'.",
+            "synonyms": [],
+            "collocations": ["continental drift", "continental shelf", "continental climate"],
+            "contexts": [
+                {
+                    "sentence": "Alfred Wegener proposed the theory of continental drift.",
+                    "translation": "Alfred Wegener đã đề xuất lý thuyết trôi dạt lục địa."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "hypothesis",
+            "phonetic": "/haɪˈpɒθ.ə.sɪs/",
+            "partOfSpeech": "Noun",
+            "meaning": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+            "translation": "Giả thuyết",
+            "concept": "A tentative explanation to be tested.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Countable noun. Plural: hypotheses.",
+            "synonyms": ["theory", "proposition", "premise", "conjecture"],
+            "collocations": ["test a hypothesis", "formulate a hypothesis", "working hypothesis"],
+            "contexts": [
+                {
+                    "sentence": "The scientist tested his hypothesis with a series of experiments.",
+                    "translation": "Nhà khoa học đã kiểm tra giả thuyết của mình bằng một loạt các thí nghiệm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "skepticism",
+            "phonetic": "/ˈskep.tɪ.sɪ.zəm/",
+            "partOfSpeech": "Noun",
+            "meaning": "A skeptical attitude; doubt as to the truth of something.",
+            "translation": "Thái độ hoài nghi",
+            "concept": "Doubt or disbelief, often requiring proof.",
+            "register": "Formal",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["doubt", "disbelief", "cynicism", "distrust"],
+            "collocations": ["deep skepticism", "view with skepticism", "growing skepticism"],
+            "contexts": [
+                {
+                    "sentence": "The new policy was met with skepticism by the public.",
+                    "translation": "Chính sách mới đã gặp phải sự hoài nghi từ công chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "plausible",
+            "phonetic": "/ˈplɔː.zə.bəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "(of an argument or statement) seeming reasonable or probable.",
+            "translation": "Hợp lý, đáng tin cậy",
+            "concept": "Believable and possibly true.",
+            "register": "General/Formal",
+            "grammar_note": "Modifies 'explanation', 'excuse', 'theory'.",
+            "synonyms": ["credible", "reasonable", "believable", "conceivable"],
+            "collocations": ["plausible explanation", "sound plausible", "entirely plausible"],
+            "contexts": [
+                {
+                    "sentence": "She gave a plausible excuse for being late.",
+                    "translation": "Cô ấy đã đưa ra một lý do hợp lý cho việc đến trễ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "drainage",
+            "phonetic": "/ˈdreɪ.nɪdʒ/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action or process of draining something.",
+            "translation": "Hệ thống thoát nước",
+            "concept": "System or process of removing water.",
+            "register": "General/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": [],
+            "collocations": ["drainage system", "poor drainage", "improve drainage"],
+            "contexts": [
+                {
+                    "sentence": "Green roofs improve drainage and reduce the risk of urban flooding.",
+                    "translation": "Mái nhà xanh cải thiện hệ thống thoát nước và giảm nguy cơ ngập lụt đô thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "insulation",
+            "phonetic": "/ˌɪn.sjəˈleɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action of insulating something or someone; material used to insulate something.",
+            "translation": "Sự cách nhiệt (hoặc cách âm)",
+            "concept": "Material or process used to prevent heat/sound transfer.",
+            "register": "General/Technical",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["protection", "padding", "lagging"],
+            "collocations": ["thermal insulation", "sound insulation", "provide insulation"],
+            "contexts": [
+                {
+                    "sentence": "Good insulation can significantly reduce heating bills in winter.",
+                    "translation": "Cách nhiệt tốt có thể giảm đáng kể hóa đơn sưởi ấm vào mùa đông."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+            "partOfSpeech": "Noun",
+            "meaning": "The variety of life in the world or in a particular habitat or ecosystem.",
+            "translation": "Đa dạng sinh học",
+            "concept": "The richness of different life forms in an area.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": [],
+            "collocations": ["conserve biodiversity", "biodiversity loss", "rich biodiversity"],
+            "contexts": [
+                {
+                    "sentence": "Green roofs can help increase biodiversity in cities by providing habitats for insects and birds.",
+                    "translation": "Mái nhà xanh có thể giúp tăng đa dạng sinh học ở các thành phố bằng cách cung cấp môi trường sống cho côn trùng và chim."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mitigate",
+            "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Make less severe, serious, or painful.",
+            "translation": "Giảm nhẹ, làm dịu bớt",
+            "concept": "Reducing the harmful effects of something.",
+            "register": "Formal",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["alleviate", "reduce", "diminish", "lessen"],
+            "collocations": ["mitigate risk", "mitigate the impact", "mitigate climate change"],
+            "contexts": [
+                {
+                    "sentence": "Green roofs help mitigate the urban heat island effect.",
+                    "translation": "Mái nhà xanh giúp giảm nhẹ hiệu ứng đảo nhiệt đô thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "absorb",
+            "phonetic": "/əbˈzɔːb/",
+            "partOfSpeech": "Verb",
+            "meaning": "Take in or soak up (energy or a liquid or other substance) by chemical or physical action.",
+            "translation": "Hấp thụ, thấm",
+            "concept": "Taking something in completely.",
+            "register": "General/Scientific",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["soak up", "take in", "imbibe"],
+            "collocations": ["absorb water", "absorb shock", "absorb information"],
+            "contexts": [
+                {
+                    "sentence": "Plants absorb carbon dioxide from the atmosphere.",
+                    "translation": "Thực vật hấp thụ carbon dioxide từ khí quyển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "controversy",
+            "phonetic": "/ˈkɒn.trə.vɜː.si/",
+            "partOfSpeech": "Noun",
+            "meaning": "Disagreement, typically when prolonged, public, and heated.",
+            "translation": "Sự tranh cãi, cuộc tranh luận",
+            "concept": "A prolonged public disagreement.",
+            "register": "General/Formal",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["dispute", "argument", "debate", "contention"],
+            "collocations": ["cause controversy", "subject of controversy", "political controversy"],
+            "contexts": [
+                {
+                    "sentence": "The new law has caused a great deal of controversy.",
+                    "translation": "Luật mới đã gây ra rất nhiều tranh cãi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "validation",
+            "phonetic": "/ˌvæl.ɪˈdeɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action of checking or proving the validity or accuracy of something.",
+            "translation": "Sự thẩm định, xác nhận, phê chuẩn",
+            "concept": "The process of proving something is correct or valid.",
+            "register": "Formal",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["confirmation", "verification", "proof", "substantiation"],
+            "collocations": ["seek validation", "external validation", "scientific validation"],
+            "contexts": [
+                {
+                    "sentence": "He felt a sense of validation when his theory was finally accepted.",
+                    "translation": "Anh ấy cảm thấy được xác nhận khi lý thuyết của mình cuối cùng đã được chấp nhận."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resilient",
+            "phonetic": "/rɪˈzɪl.i.ənt/",
+            "partOfSpeech": "Adjective",
+            "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
+            "translation": "Kiên cường, có khả năng hồi phục nhanh",
+            "concept": "Able to bounce back from adversity.",
+            "register": "General",
+            "grammar_note": "Describes people, economies, materials.",
+            "synonyms": ["strong", "tough", "hardy", "robust"],
+            "collocations": ["resilient economy", "highly resilient", "remain resilient"],
+            "contexts": [
+                {
+                    "sentence": "Children are often more resilient than adults when facing trauma.",
+                    "translation": "Trẻ em thường kiên cường hơn người lớn khi đối mặt với chấn thương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mainstream",
+            "phonetic": "/ˈmeɪn.striːm/",
+            "partOfSpeech": "Adjective",
+            "meaning": "The ideas, attitudes, or activities that are regarded as normal or conventional; the dominant trend in opinion, fashion, or the arts.",
+            "translation": "Chính thống, chủ đạo",
+            "concept": "Representing the majority or dominant trend.",
+            "register": "General",
+            "grammar_note": "Can be a noun or adjective.",
+            "synonyms": ["conventional", "orthodox", "prevailing", "established"],
+            "collocations": ["mainstream media", "mainstream culture", "go mainstream"],
+            "contexts": [
+                {
+                    "sentence": "Organic food has gone from a niche market to the mainstream.",
+                    "translation": "Thực phẩm hữu cơ đã đi từ một thị trường ngách trở thành xu hướng chủ đạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "geological",
+            "phonetic": "/ˌdʒiː.əˈlɒdʒ.ɪ.kəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Relating to the study of the earth's physical structure and substance.",
+            "translation": "Thuộc về địa chất",
+            "concept": "Related to geology.",
+            "register": "Scientific/Academic",
+            "grammar_note": "Modifies 'survey', 'time', 'features'.",
+            "synonyms": [],
+            "collocations": ["geological survey", "geological time", "geological formation"],
+            "contexts": [
+                {
+                    "sentence": "The Grand Canyon is a geological wonder.",
+                    "translation": "Grand Canyon là một kỳ quan địa chất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mechanism",
+            "phonetic": "/ˈmek.ə.nɪ.zəm/",
+            "partOfSpeech": "Noun",
+            "meaning": "A natural or established process by which something takes place or is brought about.",
+            "translation": "Cơ chế",
+            "concept": "The way something works or happens.",
+            "register": "General/Scientific",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["process", "procedure", "method", "system"],
+            "collocations": ["defense mechanism", "mechanism of action"],
+            "contexts": [
+                {
+                    "sentence": "Scientists are still trying to understand the mechanism behind the disease.",
+                    "translation": "Các nhà khoa học vẫn đang cố gắng tìm hiểu cơ chế đằng sau căn bệnh này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "concur",
+            "phonetic": "/kənˈkɜːr/",
+            "partOfSpeech": "Verb",
+            "meaning": "Be of the same opinion; agree.",
+            "translation": "Đồng ý, tán thành",
+            "concept": "To agree formally.",
+            "register": "Formal",
+            "grammar_note": "Intransitive verb. Followed by 'with'.",
+            "synonyms": ["agree", "coincide", "assent"],
+            "collocations": ["concur with", "fully concur"],
+            "contexts": [
+                {
+                    "sentence": "Most scientists concur that climate change is caused by human activity.",
+                    "translation": "Hầu hết các nhà khoa học đều đồng ý rằng biến đổi khí hậu là do hoạt động của con người."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "specimen",
+            "phonetic": "/ˈspes.ə.mɪn/",
+            "partOfSpeech": "Noun",
+            "meaning": "An individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display.",
+            "translation": "Mẫu vật",
+            "concept": "A sample used for study.",
+            "register": "Scientific",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["sample", "example", "exhibit"],
+            "collocations": ["collect specimens", "museum specimen"],
+            "contexts": [
+                {
+                    "sentence": "The museum has a vast collection of botanical specimens.",
+                    "translation": "Bảo tàng có một bộ sưu tập khổng lồ các mẫu vật thực vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "colleague",
+            "phonetic": "/ˈkɒl.iːɡ/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person with whom one works, especially in a profession or business.",
+            "translation": "Đồng nghiệp",
+            "concept": "Person you work with.",
+            "register": "General/Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["coworker", "associate", "partner"],
+            "collocations": ["senior colleague", "trusted colleague"],
+            "contexts": [
+                {
+                    "sentence": "She discussed the idea with her colleagues at the meeting.",
+                    "translation": "Cô ấy đã thảo luận ý tưởng này với các đồng nghiệp tại cuộc họp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fixed mindset",
+            "phonetic": "/fɪkst ˈmaɪnd.set/",
+            "partOfSpeech": "Noun",
+            "meaning": "The belief that one's basic qualities, like intelligence or talent, are simply fixed traits.",
+            "translation": "Tư duy cố định",
+            "concept": "Belief that ability cannot change.",
+            "register": "Academic/Psychology",
+            "grammar_note": "Countable noun.",
+            "synonyms": [],
+            "collocations": ["have a fixed mindset", "overcome a fixed mindset"],
+            "contexts": [
+                {
+                    "sentence": "People with a fixed mindset often avoid challenges for fear of failure.",
+                    "translation": "Những người có tư duy cố định thường tránh những thử thách vì sợ thất bại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "growth mindset",
+            "phonetic": "/ɡrəʊθ ˈmaɪnd.set/",
+            "partOfSpeech": "Noun",
+            "meaning": "The belief that one's abilities can be developed through dedication and hard work.",
+            "translation": "Tư duy cầu tiến (tư duy phát triển)",
+            "concept": "Belief that ability can grow.",
+            "register": "Academic/Psychology",
+            "grammar_note": "Countable noun.",
+            "synonyms": [],
+            "collocations": ["develop a growth mindset", "foster a growth mindset"],
+            "contexts": [
+                {
+                    "sentence": "Teachers should encourage a growth mindset in their students to boost achievement.",
+                    "translation": "Giáo viên nên khuyến khích tư duy cầu tiến ở học sinh để thúc đẩy thành tích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "persistence",
+            "phonetic": "/pəˈsɪs.təns/",
+            "partOfSpeech": "Noun",
+            "meaning": "Firm or obstinate continuance in a course of action in spite of difficulty or opposition.",
+            "translation": "Sự kiên trì, bền bỉ",
+            "concept": "Continuing despite difficulty.",
+            "register": "General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["perseverance", "determination", "tenacity", "endurance"],
+            "collocations": ["show persistence", "dogged persistence"],
+            "contexts": [
+                {
+                    "sentence": "His persistence finally paid off when he got the job.",
+                    "translation": "Sự kiên trì của anh ấy cuối cùng đã được đền đáp khi anh ấy nhận được công việc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "praise",
+            "phonetic": "/preɪz/",
+            "partOfSpeech": "Verb",
+            "meaning": "Express warm approval or admiration of.",
+            "translation": "Khen ngợi, ca ngợi",
+            "concept": "Expressing approval.",
+            "register": "General",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["commend", "applaud", "compliment", "extol"],
+            "collocations": ["praise for", "highly praised"],
+            "contexts": [
+                {
+                    "sentence": "The teacher praised the student for his hard work.",
+                    "translation": "Giáo viên đã khen ngợi học sinh vì sự chăm chỉ của em."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "setback",
+            "phonetic": "/ˈset.bæk/",
+            "partOfSpeech": "Noun",
+            "meaning": "A reversal or check in progress.",
+            "translation": "Sự thoái trào, thất bại tạm thời",
+            "concept": "An event that delays progress.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["problem", "difficulty", "hitch", "blow"],
+            "collocations": ["major setback", "temporary setback", "suffer a setback"],
+            "contexts": [
+                {
+                    "sentence": "The team suffered a major setback when their funding was cut.",
+                    "translation": "Nhóm đã chịu một thất bại lớn khi nguồn tài trợ của họ bị cắt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "embrace",
+            "phonetic": "/ɪmˈbreɪs/",
+            "partOfSpeech": "Verb",
+            "meaning": "Accept or support (a belief, theory, or change) willingly and enthusiastically.",
+            "translation": "Đón nhận, chấp nhận",
+            "concept": "Accepting something with enthusiasm.",
+            "register": "Formal/General",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["welcome", "accept", "adopt", "espouse"],
+            "collocations": ["embrace change", "embrace an idea"],
+            "contexts": [
+                {
+                    "sentence": "Successful companies embrace innovation and change.",
+                    "translation": "Các công ty thành công đón nhận sự đổi mới và thay đổi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "constructive",
+            "phonetic": "/kənˈstrʌk.tɪv/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Serving a useful purpose; tending to build up.",
+            "translation": "Mang tính xây dựng",
+            "concept": "Helpful and positive, especially of criticism.",
+            "register": "General",
+            "grammar_note": "Modifies 'criticism', 'feedback', 'dialogue'.",
+            "synonyms": ["helpful", "positive", "productive", "beneficial"],
+            "collocations": ["constructive criticism", "constructive feedback"],
+            "contexts": [
+                {
+                    "sentence": "She appreciates constructive criticism that helps her improve.",
+                    "translation": "Cô ấy đánh giá cao những lời chỉ trích mang tính xây dựng giúp cô ấy cải thiện."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "motivation",
+            "phonetic": "/ˌməʊ.tɪˈveɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The reason or reasons one has for acting or behaving in a particular way.",
+            "translation": "Động lực",
+            "concept": "Internal drive to do something.",
+            "register": "General",
+            "grammar_note": "Uncountable/Countable.",
+            "synonyms": ["drive", "incentive", "inspiration", "stimulus"],
+            "collocations": ["lack of motivation", "high motivation", "intrinsic motivation"],
+            "contexts": [
+                {
+                    "sentence": "High motivation is essential for success in language learning.",
+                    "translation": "Động lực cao là điều cần thiết để thành công trong việc học ngôn ngữ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "effort",
+            "phonetic": "/ˈef.ət/",
+            "partOfSpeech": "Noun",
+            "meaning": "A vigorous or determined attempt.",
+            "translation": "Nỗ lực",
+            "concept": "Hard work towards a goal.",
+            "register": "General",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["attempt", "endeavor", "exertion", "striving"],
+            "collocations": ["make an effort", "concerted effort", "wasted effort"],
+            "contexts": [
+                {
+                    "sentence": "It takes a lot of effort to master a new skill.",
+                    "translation": "Cần rất nhiều nỗ lực để thành thạo một kỹ năng mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "underestimate",
+            "phonetic": "/ˌʌn.dəˈres.tɪ.meɪt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Estimate something to be smaller or less important than it actually is.",
+            "translation": "Đánh giá thấp",
+            "concept": "To think less of someone or something than they deserve.",
+            "register": "General",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["undervalue", "underrate", "minimize"],
+            "collocations": ["grossly underestimate", "underestimate the importance"],
+            "contexts": [
+                {
+                    "sentence": "Never underestimate the power of a determined individual.",
+                    "translation": "Đừng bao giờ đánh giá thấp sức mạnh của một cá nhân quyết tâm."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

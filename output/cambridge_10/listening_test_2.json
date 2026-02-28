@@ -1,0 +1,249 @@
+{
+    "id": "cambridge_10_listening_test_2",
+    "title": "Cam 10 - Listening Test 2",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 10 Listening Test 2, bao gồm các chủ đề về nha khoa, hồ bơi nước mặn.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "dentist",
+            "phonetic": "/ˈdentɪst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "A2",
+            "meaning": "A person qualified to treat the diseases and conditions that affect the teeth.",
+            "translation": "Nha sĩ",
+            "concept": "Bác sĩ răng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "visit the dentist"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I have an appointment at the dentist.",
+                    "translation": "Tôi có một cuộc hẹn ở nha sĩ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lighting",
+            "phonetic": "/ˈlaɪtɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Equipment in a room, building, or street for producing light.",
+            "translation": "Hệ thống ánh sáng",
+            "concept": "Đèn đóm.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "illumination"
+            ],
+            "collocations": [
+                "poor lighting"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The street needs better lighting.",
+                    "translation": "Đường phố cần hệ thống chiếu sáng tốt hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "initiative",
+            "phonetic": "/ɪˈnɪʃətɪv/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An act or strategy intended to resolve a difficulty.",
+            "translation": "Sáng kiến",
+            "concept": "Ý tưởng mới.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "plan",
+                "scheme"
+            ],
+            "collocations": [
+                "new initiative"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The idea for these initiatives came from the public.",
+                    "translation": "Ý tưởng cho các sáng kiến này xuất phát từ công chúng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consultation",
+            "phonetic": "/ˌkɒnslˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or process of formally consulting or discussing.",
+            "translation": "Sự tham vấn",
+            "concept": "Hỏi ý kiến.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "discussion"
+            ],
+            "collocations": [
+                "public consultation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They conducted an extensive consultation.",
+                    "translation": "Họ đã tiến hành một cuộc tham vấn rộng rãi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "renowned",
+            "phonetic": "/rɪˈnaʊnd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Known or talked about by many people; famous.",
+            "translation": "Nổi tiếng / Danh tiếng",
+            "concept": "Được biết đến nhiều.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "famous",
+                "celebrated"
+            ],
+            "collocations": [
+                "internationally renowned"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She is an internationally renowned architect.",
+                    "translation": "Bà là một kiến trúc sư nổi tiếng thế giới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "architect",
+            "phonetic": "/ˈɑːkɪtekt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A person who designs buildings.",
+            "translation": "Kiến trúc sư",
+            "concept": "Người vẽ nhà.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "designer"
+            ],
+            "collocations": [
+                "famous architect"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The architect designed the new pool.",
+                    "translation": "Kiến trúc sư đã thiết kế hồ bơi mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "feature",
+            "phonetic": "/ˈfiːtʃə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A distinctive attribute or aspect of something.",
+            "translation": "Đặc điểm / Tính năng",
+            "concept": "Điểm nổi bật.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "characteristic"
+            ],
+            "collocations": [
+                "modern features"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It has up-to-the-minute features.",
+                    "translation": "Nó có những tính năng hiện đại nhất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "recycling",
+            "phonetic": "/ˌriːˈsaɪklɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The action or process of converting waste into reusable material.",
+            "translation": "Sự tái chế",
+            "concept": "Dùng lại đồ cũ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "reusing"
+            ],
+            "collocations": [
+                "recycling system"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It uses a unique recycling system.",
+                    "translation": "Nó sử dụng một hệ thống tái chế độc đáo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "seawater",
+            "phonetic": "/ˈsiːwɔːtə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Water from a sea or ocean.",
+            "translation": "Nước biển",
+            "concept": "Nước mặn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "salt water"
+            ],
+            "collocations": [
+                "use seawater"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The pool enables seawater to be used.",
+                    "translation": "Hồ bơi cho phép sử dụng nước biển."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "chlorine",
+            "phonetic": "/ˈklɔːriːn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A toxic, irritant, pale green gas used for water purification.",
+            "translation": "Clo",
+            "concept": "Hóa chất làm sạch.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "chlorine smell"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The pool uses less chlorine.",
+                    "translation": "Hồ bơi sử dụng ít clo hơn."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

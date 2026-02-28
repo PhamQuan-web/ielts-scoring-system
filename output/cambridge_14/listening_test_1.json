@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_14_listening_test_1",
+    "title": "Cam 14 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Listening Test 1, bao gồm các chủ đề về tội phạm, thực tập sinh, năng lượng biển.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "theft",
+            "phonetic": "/θeft/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action or crime of stealing.",
+            "translation": "Trộm cắp",
+            "concept": "Ăn cắp.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "robbery"
+            ],
+            "collocations": [
+                "report a theft"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She reported a theft.",
+                    "translation": "Cô ấy đã báo cáo một vụ trộm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "apprentice",
+            "phonetic": "/əˈprentɪs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person learning a trade.",
+            "translation": "Thực tập sinh",
+            "concept": "Học việc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "trainee"
+            ],
+            "collocations": [
+                "new apprentice"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He is an apprentice.",
+                    "translation": "Anh ấy là một thực tập sinh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "induction",
+            "phonetic": "/ɪnˈdʌkʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of inducting someone.",
+            "translation": "Hướng dẫn nhập môn",
+            "concept": "Ngày đầu đi làm.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "orientation"
+            ],
+            "collocations": [
+                "induction talk"
+            ],
+            "contexts": [
+                {
+                    "sentence": "There is an induction talk today.",
+                    "translation": "Hôm nay có buổi hướng dẫn nhập môn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mentor",
+            "phonetic": "/ˈmentɔː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An experienced adviser.",
+            "translation": "Cố vấn",
+            "concept": "Người hướng dẫn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "guide"
+            ],
+            "collocations": [
+                "find a mentor"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You will have a mentor.",
+                    "translation": "Bạn sẽ có một người cố vấn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "coastal",
+            "phonetic": "/ˈkəʊstl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Of or near a coast.",
+            "translation": "Ven biển",
+            "concept": "Gần biển.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "seaside"
+            ],
+            "collocations": [
+                "coastal city"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Coastal cities face problems.",
+                    "translation": "Các thành phố ven biển đối mặt với vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "expansion",
+            "phonetic": "/ɪkˈspænʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of becoming larger.",
+            "translation": "Sự mở rộng",
+            "concept": "To ra.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "growth"
+            ],
+            "collocations": [
+                "urban expansion"
+            ],
+            "contexts": [
+                {
+                    "sentence": "City expansion continues.",
+                    "translation": "Sự mở rộng thành phố vẫn tiếp tục."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "renewable",
+            "phonetic": "/rɪˈnjuːəbl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Not depleted when used.",
+            "translation": "Có thể tái tạo",
+            "concept": "Dùng không hết.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "sustainable"
+            ],
+            "collocations": [
+                "renewable energy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need renewable energy.",
+                    "translation": "Chúng ta cần năng lượng tái tạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "tide",
+            "phonetic": "/taɪd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The alternate rising and falling of the sea.",
+            "translation": "Thủy triều",
+            "concept": "Nước lên xuống.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "high tide"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The tide is high.",
+                    "translation": "Thủy triều đang lên cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "turbine",
+            "phonetic": "/ˈtɜːbaɪn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A machine for producing continuous power.",
+            "translation": "Tua bin",
+            "concept": "Máy phát điện.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "wind turbine"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They use turbines in the ocean.",
+                    "translation": "Họ sử dụng các tua bin trong đại dương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pollution",
+            "phonetic": "/pəˈluːʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Harmful substances in environment.",
+            "translation": "Ô nhiễm",
+            "concept": "Làm bẩn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "contamination"
+            ],
+            "collocations": [
+                "marine pollution"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Marine pollution is bad.",
+                    "translation": "Ô nhiễm biển rất tệ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

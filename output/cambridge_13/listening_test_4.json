@@ -1,0 +1,251 @@
+{
+    "id": "cambridge_13_listening_test_4",
+    "title": "Cam 13 - Listening Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 13 Listening Test 4, bao gồm các chủ đề về xin việc, cà phê.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "finance",
+            "phonetic": "/ˈfaɪnæns/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The management of large amounts of money.",
+            "translation": "Tài chính",
+            "concept": "Tiền bạc.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "economics"
+            ],
+            "collocations": [
+                "work in finance"
+            ],
+            "contexts": [
+                {
+                    "sentence": "I want a job in finance.",
+                    "translation": "Tôi muốn một công việc trong lĩnh vực tài chính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vacancy",
+            "phonetic": "/ˈveɪkənsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An unoccupied position or job.",
+            "translation": "Vị trí trống",
+            "concept": "Chỗ làm chưa có người.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "opening"
+            ],
+            "collocations": [
+                "job vacancy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Are there any vacancies?",
+                    "translation": "Có vị trí tuyển dụng nào không?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scenery",
+            "phonetic": "/ˈsiːnəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "The natural features of a landscape.",
+            "translation": "Phong cảnh",
+            "concept": "Cảnh đẹp.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "landscape"
+            ],
+            "collocations": [
+                "beautiful scenery"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The mountain scenery is beautiful.",
+                    "translation": "Phong cảnh núi non rất đẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "nutrition",
+            "phonetic": "/njuˈtrɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The process of providing food for health.",
+            "translation": "Dinh dưỡng",
+            "concept": "Chất bổ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "nourishment"
+            ],
+            "collocations": [
+                "nutrition label"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Check the nutrition label.",
+                    "translation": "Hãy kiểm tra nhãn dinh dưỡng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ingredient",
+            "phonetic": "/ɪnˈɡriːdiənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "Any of the foods combined to make a dish.",
+            "translation": "Thành phần",
+            "concept": "Nguyên liệu.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "component"
+            ],
+            "collocations": [
+                "main ingredient"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Sugar is a key ingredient.",
+                    "translation": "Đường là một thành phần chính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commodity",
+            "phonetic": "/kəˈmɒdəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A raw material that can be bought and sold.",
+            "translation": "Hàng hóa",
+            "concept": "Sản phẩm buôn bán.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "goods"
+            ],
+            "collocations": [
+                "valuable commodity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Coffee became a valuable commodity.",
+                    "translation": "Cà phê đã trở thành một loại hàng hóa có giá trị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "plantation",
+            "phonetic": "/plɑːnˈteɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "An estate on which crops are cultivated.",
+            "translation": "Đồn điền",
+            "concept": "Nông trại lớn.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "estate"
+            ],
+            "collocations": [
+                "coffee plantation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Slaves worked on plantations.",
+                    "translation": "Nô lệ làm việc trên các đồn điền."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "consumption",
+            "phonetic": "/kənˈsʌmpʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The using up of a resource.",
+            "translation": "Sự tiêu thụ",
+            "concept": "Việc sử dụng.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "use"
+            ],
+            "collocations": [
+                "coffee consumption"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Coffee consumption grew rapidly.",
+                    "translation": "Mức tiêu thụ cà phê tăng nhanh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stimulant",
+            "phonetic": "/ˈstɪmjələnt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A substance that raises levels of nervous activity.",
+            "translation": "Chất kích thích",
+            "concept": "Làm hưng phấn.",
+            "register": "Scientific",
+            "grammar_note": "",
+            "synonyms": [
+                "energizer"
+            ],
+            "collocations": [
+                "mild stimulant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Caffeine is a stimulant.",
+                    "translation": "Caffeine là một chất kích thích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "smuggling",
+            "phonetic": "/ˈsmʌɡlɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The illegal movement of goods.",
+            "translation": "Sự buôn lậu",
+            "concept": "Mang hàng chui.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "trafficking"
+            ],
+            "collocations": [
+                "drug smuggling"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Seed smuggling was common.",
+                    "translation": "Việc buôn lậu hạt giống rất phổ biến."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

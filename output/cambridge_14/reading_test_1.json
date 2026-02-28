@@ -1,0 +1,247 @@
+{
+    "id": "cambridge_14_reading_test_1",
+    "title": "Cam 14 - Reading Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 14 Reading Test 1, bao gồm các chủ đề về trẻ em chơi, xe đạp, khách sạn.",
+    "wordCount": 10,
+    "category": "Reading",
+    "color": "from-red-500 to-orange-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "creativity",
+            "phonetic": "/ˌkriːeɪˈtɪvəti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Use of imagination.",
+            "translation": "Sự sáng tạo",
+            "concept": "Làm cái mới.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "imagination"
+            ],
+            "collocations": [
+                "spark creativity"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Play boosts creativity.",
+                    "translation": "Vui chơi tăng cường sự sáng tạo."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cognitive",
+            "phonetic": "/ˈkɒɡnətɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to cognition.",
+            "translation": "Nhận thức",
+            "concept": "Suy nghĩ.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "mental"
+            ],
+            "collocations": [
+                "cognitive skills"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It improves cognitive skills.",
+                    "translation": "Nó cải thiện kỹ năng nhận thức."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "urbanization",
+            "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Process of making an area urban.",
+            "translation": "Đô thị hóa",
+            "concept": "Biến thành phố.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "rapid urbanization"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Urbanization reduces play areas.",
+                    "translation": "Đô thị hóa làm giảm khu vực vui chơi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "scheme",
+            "phonetic": "/skiːm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A systematic plan.",
+            "translation": "Kế hoạch / Hệ thống",
+            "concept": "Dự án.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "program"
+            ],
+            "collocations": [
+                "bike-sharing scheme"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The scheme was a success.",
+                    "translation": "Hệ thống đã thành công."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "vandalism",
+            "phonetic": "/ˈvændəlɪzm/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Deliberate destruction of property.",
+            "translation": "Phá hoại",
+            "concept": "Làm hỏng đồ.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "damage"
+            ],
+            "collocations": [
+                "act of vandalism"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Vandalism is a problem.",
+                    "translation": "Sự phá hoại là một vấn đề."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "retention",
+            "phonetic": "/rɪˈtenʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Continued possession or use.",
+            "translation": "Sự giữ chân",
+            "concept": "Giữ lại.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [
+                "keeping"
+            ],
+            "collocations": [
+                "staff retention"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Staff retention is key.",
+                    "translation": "Việc giữ chân nhân viên là then chốt."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "turnover",
+            "phonetic": "/ˈtɜːnəʊvə/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Rate at which employees leave.",
+            "translation": "Luân chuyển nhân sự",
+            "concept": "Thay người.",
+            "register": "Business",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "high turnover"
+            ],
+            "contexts": [
+                {
+                    "sentence": "High turnover is bad.",
+                    "translation": "Tỷ lệ luân chuyển cao là điều tồi tệ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "intrinsic",
+            "phonetic": "/ɪnˈtrɪnzɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Belonging naturally.",
+            "translation": "Nội tại",
+            "concept": "Bên trong.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "inherent"
+            ],
+            "collocations": [
+                "intrinsic motivation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "He has intrinsic motivation.",
+                    "translation": "Anh ấy có động lực nội tại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "extrinsic",
+            "phonetic": "/eksˈtrɪnzɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Coming from outside.",
+            "translation": "Ngoại lai",
+            "concept": "Bên ngoài.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "external"
+            ],
+            "collocations": [
+                "extrinsic reward"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Money is an extrinsic reward.",
+                    "translation": "Tiền là một phần thưởng bên ngoài."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "morale",
+            "phonetic": "/məˈrɑːl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Confidence and enthusiasm of a group.",
+            "translation": "Tinh thần",
+            "concept": "Nhuệ khí.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "spirit"
+            ],
+            "collocations": [
+                "boost morale"
+            ],
+            "contexts": [
+                {
+                    "sentence": "It boosted their morale.",
+                    "translation": "Nó đã thúc đẩy tinh thần của họ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

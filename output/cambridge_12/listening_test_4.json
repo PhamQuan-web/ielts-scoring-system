@@ -1,0 +1,246 @@
+{
+    "id": "cambridge_12_listening_test_4",
+    "title": "Cam 12 - Listening Test 4",
+    "description": "Từ vựng về âm học, tiếng ồn đô thị.",
+    "wordCount": 10,
+    "category": "Listening",
+    "color": "from-teal-500 to-emerald-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "acoustics",
+            "phonetic": "/əˈkuːstɪks/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The properties or qualities of a room or building that determine how sound is transmitted in it.",
+            "translation": "Âm học",
+            "concept": "Khoa học âm thanh.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "study of acoustics"
+            ],
+            "contexts": [
+                {
+                    "sentence": "This lecture is about the science of acoustics.",
+                    "translation": "Bài giảng này sẽ về khoa học âm học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "decibel",
+            "phonetic": "/ˈdesɪbel/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A unit used to measure the intensity of a sound.",
+            "translation": "Đề-xi-ben",
+            "concept": "Đơn vị đo tiếng ồn.",
+            "register": "Technical",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "sound in decibels"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We measure sound levels in decibels.",
+                    "translation": "Chúng ta đo mức âm thanh bằng decibel."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "soundscape",
+            "phonetic": "/ˈsaʊndskeɪp/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The sounds heard in a particular location, considered as a whole.",
+            "translation": "Cảnh quan âm thanh",
+            "concept": "Toàn bộ âm thanh một nơi.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [],
+            "collocations": [
+                "urban soundscape"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Researching urban soundscapes used to be simple.",
+                    "translation": "Việc nghiên cứu cảnh quan âm thanh đô thị từng rất đơn giản."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "annoying",
+            "phonetic": "/əˈnɔɪɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B1",
+            "meaning": "Causing irritation.",
+            "translation": "Gây khó chịu",
+            "concept": "Làm bực mình.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "irritating"
+            ],
+            "collocations": [
+                "find it annoying"
+            ],
+            "contexts": [
+                {
+                    "sentence": "At what level does the sound become annoying?",
+                    "translation": "Ở mức độ nào thì âm thanh trở nên khó chịu?"
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "variation",
+            "phonetic": "/ˌveəriˈeɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A change or difference in condition.",
+            "translation": "Sự biến đổi",
+            "concept": "Sự khác biệt.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "fluctuation"
+            ],
+            "collocations": [
+                "temperature variation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Maps can't capture the variation of sound.",
+                    "translation": "Bản đồ không thể nắm bắt được sự biến đổi của âm thanh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "perception",
+            "phonetic": "/pəˈsepʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The ability to see, hear, or become aware of something.",
+            "translation": "Sự nhận thức / Cảm nhận",
+            "concept": "Cách nhìn nhận.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "awareness"
+            ],
+            "collocations": [
+                "public perception"
+            ],
+            "contexts": [
+                {
+                    "sentence": "People vary in their perceptions of noise.",
+                    "translation": "Mọi người có cảm nhận khác nhau về tiếng ồn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "crude",
+            "phonetic": "/kruːd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Constructed in a rudimentary or makeshift way.",
+            "translation": "Thô sơ / Sơ sài",
+            "concept": "Làm qua loa.",
+            "register": "Formal",
+            "grammar_note": "",
+            "synonyms": [
+                "basic",
+                "rough"
+            ],
+            "collocations": [
+                "crude map"
+            ],
+            "contexts": [
+                {
+                    "sentence": "These noise maps are fairly crude.",
+                    "translation": "Những bản đồ tiếng ồn này khá thô sơ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "interrupted",
+            "phonetic": "/ˌɪntəˈrʌptɪd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Stopped from continuing.",
+            "translation": "Bị gián đoạn",
+            "concept": "Bị cắt ngang.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "broken"
+            ],
+            "collocations": [
+                "interrupted sleep"
+            ],
+            "contexts": [
+                {
+                    "sentence": "City-dwellers suffer from interrupted sleep.",
+                    "translation": "Cư dân thành phố thường bị mất ngủ (giấc ngủ bị gián đoạn)."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "stress",
+            "phonetic": "/stres/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A state of mental or emotional strain.",
+            "translation": "Căng thẳng",
+            "concept": "Áp lực tâm lý.",
+            "register": "General",
+            "grammar_note": "",
+            "synonyms": [
+                "tension"
+            ],
+            "collocations": [
+                "levels of stress"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Noise can lead to a rise in stress.",
+                    "translation": "Tiếng ồn có thể làm tăng mức độ căng thẳng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "composition",
+            "phonetic": "/ˌkɒmpəˈzɪʃn/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The nature of something's ingredients.",
+            "translation": "Thành phần",
+            "concept": "Cấu tạo.",
+            "register": "Academic",
+            "grammar_note": "",
+            "synonyms": [
+                "makeup"
+            ],
+            "collocations": [
+                "blood composition"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Noise affects the composition of the blood.",
+                    "translation": "Tiếng ồn ảnh hưởng đến thành phần của máu."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

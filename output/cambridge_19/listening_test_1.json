@@ -1,0 +1,552 @@
+{
+    "id": "cambridge_19_listening_test_1",
+    "title": "Cam 19 - Listening Test 1",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Listening Test 1, tập trung vào chủ đề du lịch, nông nghiệp và công nghệ hỗ trợ.",
+    "wordCount": 20,
+    "category": "Listening",
+    "color": "from-blue-500 to-indigo-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "sensor",
+            "phonetic": "/ˈsensər/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A device which detects or measures a physical property and records, indicates, or otherwise responds to it.",
+            "translation": "Cảm biến",
+            "concept": "Thiết bị nhận biết sự thay đổi của môi trường. Quan trọng trong công nghệ và kỹ thuật.",
+            "register": "Technical",
+            "grammar_note": "Motion sensor, heat sensor.",
+            "synonyms": [
+                "detector",
+                "monitor",
+                "probe"
+            ],
+            "collocations": [
+                "motion sensor",
+                "activate a sensor",
+                "sensor technology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The security system uses motion sensors to detect unauthorized movement in the building.",
+                    "translation": "Hệ thống an ninh sử dụng cảm biến chuyển động để phát hiện chuyển động trái phép trong tòa nhà."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "visually impaired",
+            "phonetic": "/ˌvɪʒuəli ɪmˈpeəd/",
+            "partOfSpeech": "Phrase",
+            "cefrLevel": "C1",
+            "meaning": "Having partial or complete loss of vision.",
+            "translation": "Khiếm thị",
+            "concept": "Cách nói lịch sự, trang trọng thay cho 'blind'. Dùng trong y tế và xã hội học.",
+            "register": "Formal / Medical",
+            "grammar_note": "The visually impaired (nhóm người).",
+            "synonyms": [
+                "blind",
+                "partially sighted"
+            ],
+            "collocations": [
+                "support for the visually impaired",
+                "visually impaired students"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The library has introduced audio books to make literature more accessible to the visually impaired.",
+                    "translation": "Thư viện đã giới thiệu sách nói để làm cho văn học dễ tiếp cận hơn với người khiếm thị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pharmacy",
+            "phonetic": "/ˈfɑːməsi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B1",
+            "meaning": "A shop or hospital dispensary where medicinal drugs are prepared or sold.",
+            "translation": "Hiệu thuốc / Dược khoa",
+            "concept": "Nơi bán thuốc hoặc ngành học về thuốc.",
+            "register": "General",
+            "grammar_note": "At the pharmacy.",
+            "synonyms": [
+                "drugstore",
+                "chemist's"
+            ],
+            "collocations": [
+                "local pharmacy",
+                "pharmacy technician",
+                "visit the pharmacy"
+            ],
+            "contexts": [
+                {
+                    "sentence": "You can buy over-the-counter cold remedies at your local pharmacy.",
+                    "translation": "Bạn có thể mua các loại thuốc cảm cúm không kê đơn tại hiệu thuốc địa phương của bạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪnəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "translation": "Sự bền vững",
+            "concept": "Khả năng duy trì lâu dài mà không làm cạn kiệt tài nguyên. Từ khóa 'hot' trong IELTS.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Environmental sustainability.",
+            "synonyms": [
+                "durability",
+                "viability"
+            ],
+            "collocations": [
+                "promote sustainability",
+                "long-term sustainability",
+                "sustainability goals"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The company is committed to sustainability, using recycled materials in all its packaging.",
+                    "translation": "Công ty cam kết vì sự bền vững, sử dụng vật liệu tái chế trong tất cả bao bì của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "cookery",
+            "phonetic": "/ˈkʊkəri/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The practice or skill of preparing and cooking food.",
+            "translation": "Nghệ thuật nấu ăn / Nghề nấu ăn",
+            "concept": "Kỹ năng nấu nướng (cookery class, cookery book).",
+            "register": "General",
+            "grammar_note": "Cookery course, cookery demonstration.",
+            "synonyms": [
+                "cooking",
+                "culinary arts"
+            ],
+            "collocations": [
+                "cookery class",
+                "cookery book",
+                "cookery skills"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She enrolled in a cookery course to improve her culinary skills.",
+                    "translation": "Cô ấy đã đăng ký một khóa học nấu ăn để cải thiện kỹ năng ẩm thực của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "fundraising",
+            "phonetic": "/ˈfʌndˌreɪzɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The seeking of financial support for a charity, cause, or other enterprise.",
+            "translation": "Hoạt động gây quỹ",
+            "concept": "Quyên góp tiền cho mục đích từ thiện hoặc dự án.",
+            "register": "General / Business",
+            "grammar_note": "Fundraising event, fundraising campaign.",
+            "synonyms": [
+                "charity",
+                "crowdfunding"
+            ],
+            "collocations": [
+                "fundraising event",
+                "fundraising campaign",
+                "community fundraising"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The school organized a fundraising event to buy new equipment for the science lab.",
+                    "translation": "Trường đã tổ chức một sự kiện gây quỹ để mua thiết bị mới cho phòng thí nghiệm khoa học."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "municipal",
+            "phonetic": "/mjuːˈnɪsɪpəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to a city or town or its governing body.",
+            "translation": "Thuộc thành phố / Đô thị (chính quyền)",
+            "concept": "Liên quan đến chính quyền địa phương (municipal government, municipal library).",
+            "register": "Formal / Administrative",
+            "grammar_note": "Municipal building, municipal council.",
+            "synonyms": [
+                "civic",
+                "urban",
+                "city"
+            ],
+            "collocations": [
+                "municipal government",
+                "municipal waste",
+                "municipal park"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The municipal council voted to approve the construction of a new public library.",
+                    "translation": "Hội đồng thành phố đã bỏ phiếu chấp thuận việc xây dựng một thư viện công cộng mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rotational",
+            "phonetic": "/rəʊˈteɪʃənəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Relating to or involving rotation.",
+            "translation": "Xoay vòng / Luân phiên",
+            "concept": "Thay đổi theo chu kỳ (rotational grazing - chăn thả luân phiên).",
+            "register": "Technical / Agricultural",
+            "grammar_note": "Rotational system.",
+            "synonyms": [
+                "cyclic",
+                "revolving"
+            ],
+            "collocations": [
+                "rotational grazing",
+                "rotational basis",
+                "rotational speed"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Rotational grazing allows the grass to recover and prevents soil erosion.",
+                    "translation": "Chăn thả luân phiên cho phép cỏ phục hồi và ngăn chặn xói mòn đất."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "intensive",
+            "phonetic": "/ɪnˈtensɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Concentrated on a single area or subject or into a short time; very thorough or vigorous.",
+            "translation": "Cường độ cao / Chuyên sâu",
+            "concept": "Tập trung cao độ (intensive care, intensive course, intensive farming).",
+            "register": "General / Academic",
+            "grammar_note": "Labor-intensive, capital-intensive.",
+            "synonyms": [
+                "concentrated",
+                "thorough",
+                "rigorous"
+            ],
+            "collocations": [
+                "intensive care",
+                "intensive course",
+                "labor-intensive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The students attended an intensive English course to prepare for the exam.",
+                    "translation": "Các sinh viên đã tham dự một khóa học tiếng Anh cấp tốc để chuẩn bị cho kỳ thi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "overgrazing",
+            "phonetic": "/ˌəʊvəˈɡreɪzɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "Excessive grazing which causes damage to grassland.",
+            "translation": "Sự chăn thả quá mức",
+            "concept": "Cho gia súc ăn cỏ quá nhiều ở một chỗ khiến cỏ không mọc lại kịp, gây hại đất.",
+            "register": "Agricultural / Environmental",
+            "grammar_note": "Cause overgrazing.",
+            "synonyms": [
+                "excessive grazing"
+            ],
+            "collocations": [
+                "prevent overgrazing",
+                "cause overgrazing",
+                "effects of overgrazing"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Overgrazing by sheep has led to the degradation of the local grassland ecosystem.",
+                    "translation": "Việc chăn thả cừu quá mức đã dẫn đến sự suy thoái của hệ sinh thái đồng cỏ địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "investigation",
+            "phonetic": "/ɪnˌvestɪˈɡeɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of investigating something or someone; formal or systematic examination or research.",
+            "translation": "Cuộc điều tra / Nghiên cứu",
+            "concept": "Tìm hiểu kỹ lưỡng sự thật.",
+            "register": "Formal / Academic",
+            "grammar_note": "Under investigation, conduct an investigation.",
+            "synonyms": [
+                "inquiry",
+                "examination",
+                "probe",
+                "analysis"
+            ],
+            "collocations": [
+                "thorough investigation",
+                "under investigation",
+                "launch an investigation"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A thorough investigation was launched to determine the cause of the fire.",
+                    "translation": "Một cuộc điều tra kỹ lưỡng đã được tiến hành để xác định nguyên nhân vụ cháy."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "regrowth",
+            "phonetic": "/ˈriːɡrəʊθ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or process of growing again.",
+            "translation": "Sự mọc lại / Sự tái sinh",
+            "concept": "Cây cối hoặc mô cơ thể mọc lại sau khi bị cắt hoặc tổn thương.",
+            "register": "Biological / Environmental",
+            "grammar_note": "Encourage regrowth.",
+            "synonyms": [
+                "regeneration",
+                "renewal"
+            ],
+            "collocations": [
+                "forest regrowth",
+                "promote regrowth",
+                "rapid regrowth"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Controlled burning can sometimes stimulate the regrowth of certain plant species.",
+                    "translation": "Việc đốt có kiểm soát đôi khi có thể kích thích sự mọc lại của một số loài thực vật."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "paddock",
+            "phonetic": "/ˈpædək/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A small field or enclosure where horses are kept or exercised.",
+            "translation": "Bãi quây (cho ngựa/gia súc)",
+            "concept": "Khu vực rào kín nhỏ cho súc vật.",
+            "register": "Agricultural",
+            "grammar_note": "In the paddock.",
+            "synonyms": [
+                "enclosure",
+                "pen",
+                "corral"
+            ],
+            "collocations": [
+                "horse paddock",
+                "grazing paddock"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The horses were released into the paddock for their morning exercise.",
+                    "translation": "Những con ngựa được thả vào bãi quây để tập thể dục buổi sáng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "abandonment",
+            "phonetic": "/əˈbændənmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action or fact of abandoning or being abandoned.",
+            "translation": "Sự bỏ hoang / Sự ruồng bỏ",
+            "concept": "Bỏ lại, không chăm sóc hoặc sử dụng nữa.",
+            "register": "Formal",
+            "grammar_note": "Abandonment of something.",
+            "synonyms": [
+                "desertion",
+                "neglect",
+                "forsaking"
+            ],
+            "collocations": [
+                "fear of abandonment",
+                "total abandonment",
+                "abandonment of the project"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The abandonment of the old factory led to it falling into disrepair.",
+                    "translation": "Việc bỏ hoang nhà máy cũ đã dẫn đến việc nó rơi vào tình trạng hư hỏng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "footbridge",
+            "phonetic": "/ˈfʊtbrɪdʒ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A bridge designed for pedestrians.",
+            "translation": "Cầu đi bộ",
+            "concept": "Cầu nhỏ dành riêng cho người đi bộ.",
+            "register": "General",
+            "grammar_note": "Cross the footbridge.",
+            "synonyms": [
+                "pedestrian bridge",
+                "walkway"
+            ],
+            "collocations": [
+                "wooden footbridge",
+                "cross the footbridge"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We crossed the river using the narrow wooden footbridge.",
+                    "translation": "Chúng tôi băng qua sông bằng cây cầu đi bộ bằng gỗ hẹp."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "establishment",
+            "phonetic": "/ɪˈstæblɪʃmənt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The action of establishing something or being established.",
+            "translation": "Sự thành lập / Cơ sở",
+            "concept": "Hành động lập nên cái gì, hoặc bản thân một tổ chức/cơ sở kinh doanh.",
+            "register": "Formal",
+            "grammar_note": "The establishment of...",
+            "synonyms": [
+                "foundation",
+                "institution",
+                "formation"
+            ],
+            "collocations": [
+                "educational establishment",
+                "establishment of a new business"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The establishment of the national park has helped protect local wildlife.",
+                    "translation": "Việc thành lập công viên quốc gia đã giúp bảo vệ động vật hoang dã địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "adventure playground",
+            "phonetic": "/ədˈventʃə ˌpleɪɡraʊnd/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A playground containing structures that encourage adventurous play.",
+            "translation": "Sân chơi mạo hiểm",
+            "concept": "Sân chơi có các trò vận động mạnh, leo trèo.",
+            "register": "General",
+            "grammar_note": "In the adventure playground.",
+            "synonyms": [
+                "play area"
+            ],
+            "collocations": [
+                "children's adventure playground"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The new adventure playground features climbing walls and zip lines for older children.",
+                    "translation": "Sân chơi mạo hiểm mới có tường leo núi và đường trượt zip cho trẻ lớn hơn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "twinning",
+            "phonetic": "/ˈtwɪnɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "The action of linking two towns or regions to promote cultural and commercial ties.",
+            "translation": "Sự kết nghĩa (giữa các thành phố)",
+            "concept": "Town twinning - kết nghĩa thành phố.",
+            "register": "Administrative",
+            "grammar_note": "Twinning arrangement.",
+            "synonyms": [
+                "pairing",
+                "linking"
+            ],
+            "collocations": [
+                "town twinning",
+                "twinning agreement"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The twinning of our town with a city in France has led to many student exchange programs.",
+                    "translation": "Việc kết nghĩa thị trấn của chúng tôi với một thành phố ở Pháp đã dẫn đến nhiều chương trình trao đổi sinh viên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "venue",
+            "phonetic": "/ˈvenjuː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The place where something happens, especially an organized event such as a concert, conference, or sports event.",
+            "translation": "Địa điểm tổ chức",
+            "concept": "Nơi diễn ra sự kiện.",
+            "register": "General / Business",
+            "grammar_note": "A venue for...",
+            "synonyms": [
+                "location",
+                "site",
+                "place"
+            ],
+            "collocations": [
+                "concert venue",
+                "perfect venue",
+                "book a venue"
+            ],
+            "contexts": [
+                {
+                    "sentence": "They chose a historic castle as the venue for their wedding.",
+                    "translation": "Họ đã chọn một lâu đài lịch sử làm địa điểm tổ chức đám cưới của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "demonstration",
+            "phonetic": "/ˌdemənˈstreɪʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A practical exhibition and explanation of how something works or is performed.",
+            "translation": "Sự minh họa / Buổi biểu diễn cách làm",
+            "concept": "Làm mẫu cho xem. (Cooking demonstration).",
+            "register": "General",
+            "grammar_note": "Give a demonstration.",
+            "synonyms": [
+                "presentation",
+                "exhibition",
+                "display"
+            ],
+            "collocations": [
+                "cooking demonstration",
+                "practical demonstration",
+                "give a demonstration"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The chef gave a demonstration on how to prepare the perfect sushi rice.",
+                    "translation": "Đầu bếp đã có một buổi minh họa về cách chuẩn bị cơm sushi hoàn hảo."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

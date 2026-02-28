@@ -1,0 +1,676 @@
+{
+    "id": "cambridge_18_listening_test_1",
+    "title": "Cambridge 18 - Listening Test 1",
+    "description": "Full B2+ spoken vocabulary for Transport, Employment, and Career Research.",
+    "wordCount": 35,
+    "category": "Listening",
+    "color": "from-blue-500 to-cyan-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "convenient",
+            "phonetic": "/kənˈviː.ni.ənt/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Fitting in well with a person's needs, activities, and plans.",
+            "translation": "Thuận tiện, tiện lợi",
+            "concept": "Something that saves time or effort and fits easily into your life.",
+            "register": "General",
+            "grammar_note": "Followed by 'for' (someone) or 'to' (do something).",
+            "synonyms": ["suitable", "opportune", "handy", "advantageous"],
+            "collocations": ["highly convenient", "convenient location", "convenient time"],
+            "contexts": [
+                {
+                    "sentence": "The new bus route is very convenient for commuters working in the city center.",
+                    "translation": "Tuyến xe buýt mới rất thuận tiện cho những người đi làm ở trung tâm thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "satisfy",
+            "phonetic": "/ˈsæt.ɪs.faɪ/",
+            "partOfSpeech": "Verb",
+            "meaning": "Meet the expectations, needs, or desires of (someone).",
+            "translation": "Làm hài lòng, đáp ứng",
+            "concept": "To fulfill a requirement or make someone happy by giving them what they want.",
+            "register": "General/Formal",
+            "grammar_note": "Transitive verb. Adjective form: satisfied.",
+            "synonyms": ["please", "fulfill", "gratify", "meet"],
+            "collocations": ["satisfy a need", "satisfy requirements", "fully satisfied"],
+            "contexts": [
+                {
+                    "sentence": "The company aims to satisfy the growing demand for eco-friendly products.",
+                    "translation": "Công ty đặt mục tiêu đáp ứng nhu cầu ngày càng tăng về các sản phẩm thân thiện với môi trường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "complaint",
+            "phonetic": "/kəmˈpleɪnt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A statement that a situation is unsatisfactory or unacceptable.",
+            "translation": "Lời phàn nàn, khiếu nại",
+            "concept": "A formal or informal expression of dissatisfaction.",
+            "register": "General/Formal",
+            "grammar_note": "Countable noun. Followed by 'about' or 'against'.",
+            "synonyms": ["grievance", "objection", "protest", "grumble"],
+            "collocations": ["make a complaint", "file a complaint", "common complaint"],
+            "contexts": [
+                {
+                    "sentence": "The main complaint from residents is about the noise from the construction site.",
+                    "translation": "Lời phàn nàn chính từ cư dân là về tiếng ồn từ công trường xây dựng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "annoying",
+            "phonetic": "/əˈnɔɪ.ɪŋ/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Causing irritation or annoyance.",
+            "translation": "Gây khó chịu, phiền toái",
+            "concept": "Something that makes you feel slightly angry or impatient.",
+            "register": "General",
+            "grammar_note": "Describes a person or thing that causes annoyance.",
+            "synonyms": ["irritating", "bothersome", "frustrating", "exasperating"],
+            "collocations": ["really annoying", "find it annoying", "annoying habit"],
+            "contexts": [
+                {
+                    "sentence": "It is annoying when the train is delayed without any announcement.",
+                    "translation": "Thật phiền toái khi tàu bị hoãn mà không có bất kỳ thông báo nào."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "timetable",
+            "phonetic": "/ˈtaɪmˌteɪ.bəl/",
+            "partOfSpeech": "Noun",
+            "meaning": "A chart showing the departure and arrival times of trains, buses, or aircraft.",
+            "translation": "Lịch trình, thời gian biểu",
+            "concept": "A schedule of events or transport times.",
+            "register": "General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["schedule", "agenda", "program", "itinerary"],
+            "collocations": ["train timetable", "stick to the timetable", "timetable change"],
+            "contexts": [
+                {
+                    "sentence": "Please check the timetable before planning your journey.",
+                    "translation": "Vui lòng kiểm tra lịch trình trước khi lên kế hoạch cho chuyến đi của bạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "suppose",
+            "phonetic": "/səˈpəʊz/",
+            "partOfSpeech": "Verb",
+            "meaning": "Assume that something is the case on the basis of evidence or probability but without proof.",
+            "translation": "Cho rằng, giả sử",
+            "concept": "To think that something is likely to be true.",
+            "register": "General",
+            "grammar_note": "Often used in 'I suppose' to show uncertainty or agreement.",
+            "synonyms": ["assume", "presume", "expect", "guess"],
+            "collocations": ["I suppose so", "suppose that", "be supposed to"],
+            "contexts": [
+                {
+                    "sentence": "I suppose we could try taking the earlier train to avoid the rush.",
+                    "translation": "Tôi cho rằng chúng ta có thể thử đi chuyến tàu sớm hơn để tránh giờ cao điểm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "mainly",
+            "phonetic": "/ˈmeɪn.li/",
+            "partOfSpeech": "Adverb",
+            "meaning": "More than anything else.",
+            "translation": "Chủ yếu, phần lớn",
+            "concept": "The most important or largest part.",
+            "register": "General",
+            "grammar_note": "Modifies verbs or adjectives.",
+            "synonyms": ["mostly", "primarily", "chiefly", "largely"],
+            "collocations": ["mainly because", "mainly due to", "mainly concerned with"],
+            "contexts": [
+                {
+                    "sentence": "The delay was mainly due to technical issues with the signaling system.",
+                    "translation": "Sự chậm trễ chủ yếu là do các vấn đề kỹ thuật với hệ thống tín hiệu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "keen",
+            "phonetic": "/kiːn/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Having or showing eagerness or enthusiasm.",
+            "translation": "Hăng hái, nhiệt tình",
+            "concept": "Very interested or wanting to do something very much.",
+            "register": "General",
+            "grammar_note": "Followed by 'on' (UK) or infinitive.",
+            "synonyms": ["eager", "enthusiastic", "avid", "ardent"],
+            "collocations": ["keen on", "keen to learn", "keen interest"],
+            "contexts": [
+                {
+                    "sentence": "She is very keen on joining the volunteer program this summer.",
+                    "translation": "Cô ấy rất hăng hái tham gia chương trình tình nguyện vào mùa hè này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pollution",
+            "phonetic": "/pəˈluː.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+            "translation": "Sự ô nhiễm",
+            "concept": "Contamination of the environment with harmful substances.",
+            "register": "General/Academic",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["contamination", "impurity", "toxin"],
+            "collocations": ["air pollution", "water pollution", "reduce pollution"],
+            "contexts": [
+                {
+                    "sentence": "Traffic congestion is a major contributor to air pollution in the city.",
+                    "translation": "Tắc nghẽn giao thông là nguyên nhân chính gây ô nhiễm không khí trong thành phố."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "storage",
+            "phonetic": "/ˈstɔː.rɪdʒ/",
+            "partOfSpeech": "Noun",
+            "meaning": "The action or method of storing something for future use.",
+            "translation": "Sự lưu trữ, kho",
+            "concept": "Space available for keeping things safe.",
+            "register": "General",
+            "grammar_note": "Uncountable noun.",
+            "synonyms": ["warehousing", "stockpiling", "stowage"],
+            "collocations": ["storage space", "storage facility", "in storage"],
+            "contexts": [
+                {
+                    "sentence": "The apartment has ample storage space for all your belongings.",
+                    "translation": "Căn hộ có không gian lưu trữ rộng rãi cho tất cả đồ đạc của bạn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "frequency",
+            "phonetic": "/ˈfriː.kwən.si/",
+            "partOfSpeech": "Noun",
+            "meaning": "The rate at which something occurs or is repeated over a particular period of time.",
+            "translation": "Tần suất",
+            "concept": "How often something happens.",
+            "register": "General/Academic",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["rate", "occurrence", "regularity", "incidence"],
+            "collocations": ["high frequency", "frequency of flights", "increase frequency"],
+            "contexts": [
+                {
+                    "sentence": "The frequency of bus services has been increased to meet demand.",
+                    "translation": "Tần suất các dịch vụ xe buýt đã được tăng lên để đáp ứng nhu cầu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lack",
+            "phonetic": "/læk/",
+            "partOfSpeech": "Noun",
+            "meaning": "The state of being without or not having enough of something.",
+            "translation": "Sự thiếu hụt",
+            "concept": "Not having enough of something needed.",
+            "register": "General",
+            "grammar_note": "Followed by 'of'. Also a verb.",
+            "synonyms": ["shortage", "deficiency", "scarcity", "dearth"],
+            "collocations": ["lack of funds", "lack of experience", "severe lack"],
+            "contexts": [
+                {
+                    "sentence": "A lack of experience can be a disadvantage when applying for senior roles.",
+                    "translation": "Sự thiếu kinh nghiệm có thể là một bất lợi khi ứng tuyển vào các vị trí cấp cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "recruit",
+            "phonetic": "/rɪˈkruːt/",
+            "partOfSpeech": "Verb",
+            "meaning": "Enroll (someone) as a member or worker in an organization or as a supporter of a cause.",
+            "translation": "Tuyển dụng, chiêu mộ",
+            "concept": "To find new people to join a company or organization.",
+            "register": "Formal/Business",
+            "grammar_note": "Transitive verb.",
+            "synonyms": ["hire", "employ", "enlist", "sign up"],
+            "collocations": ["recruit volunteers", "recruit staff", "actively recruit"],
+            "contexts": [
+                {
+                    "sentence": "The organization is looking to recruit volunteers for its new project.",
+                    "translation": "Tổ chức đang tìm cách tuyển dụng tình nguyện viên cho dự án mới của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "qualification",
+            "phonetic": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "A quality or accomplishment that makes someone suitable for a particular job or activity.",
+            "translation": "Bằng cấp, trình độ chuyên môn",
+            "concept": "Official proof that you have finished training or a course of study.",
+            "register": "Formal/General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["credential", "certification", "diploma", "degree"],
+            "collocations": ["academic qualification", "professional qualification", "hold a qualification"],
+            "contexts": [
+                {
+                    "sentence": "You need a relevant qualification in childcare to apply for this position.",
+                    "translation": "Bạn cần có bằng cấp liên quan về chăm sóc trẻ em để ứng tuyển vào vị trí này."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "commitment",
+            "phonetic": "/kəˈmɪt.mənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "The state or quality of being dedicated to a cause, activity, etc.",
+            "translation": "Sự cam kết, tận tụy",
+            "concept": "A promise or firm decision to do something.",
+            "register": "General/Formal",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["dedication", "devotion", "pledge", "loyalty"],
+            "collocations": ["make a commitment", "financial commitment", "long-term commitment"],
+            "contexts": [
+                {
+                    "sentence": "Volunteering requires a significant time commitment from participants.",
+                    "translation": "Hoạt động tình nguyện đòi hỏi sự cam kết thời gian đáng kể từ những người tham gia."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "competitive",
+            "phonetic": "/kəmˈpet.ɪ.tɪv/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Relating to or characterized by competition.",
+            "translation": "Có tính cạnh tranh",
+            "concept": "Involving people trying to be better than others.",
+            "register": "General",
+            "grammar_note": "Modifies 'market', 'field', 'price'.",
+            "synonyms": ["cutthroat", "ambitious", "aggressive", "fierce"],
+            "collocations": ["competitive market", "competitive salary", "highly competitive"],
+            "contexts": [
+                {
+                    "sentence": "The job market is highly competitive, so having relevant experience is crucial.",
+                    "translation": "Thị trường việc làm rất cạnh tranh, vì vậy có kinh nghiệm liên quan là rất quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "insistence",
+            "phonetic": "/ɪnˈsɪs.təns/",
+            "partOfSpeech": "Noun",
+            "meaning": "The act of holding firmly to a demand or opinion.",
+            "translation": "Sự khăng khăng, nài nỉ",
+            "concept": "Refusing to accept 'no' for an answer.",
+            "register": "Formal",
+            "grammar_note": "Followed by 'on'.",
+            "synonyms": ["demand", "persistence", "determination", "tenacity"],
+            "collocations": ["insistence on", "at her insistence"],
+            "contexts": [
+                {
+                    "sentence": "Despite his insistence that he was right, the evidence suggested otherwise.",
+                    "translation": "Mặc dù anh ấy khăng khăng rằng mình đúng, bằng chứng lại cho thấy điều ngược lại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unpaid",
+            "phonetic": "/ʌnˈpeɪd/",
+            "partOfSpeech": "Adjective",
+            "meaning": "(of work or a period of leave) undertaken without payment.",
+            "translation": "Không được trả lương",
+            "concept": "Working without receiving money.",
+            "register": "General",
+            "grammar_note": "Modifies 'work', 'internship', 'leave'.",
+            "synonyms": ["voluntary", "pro bono", "volunteer"],
+            "collocations": ["unpaid work", "unpaid leave", "unpaid internship"],
+            "contexts": [
+                {
+                    "sentence": "Many students take on unpaid internships to gain valuable work experience.",
+                    "translation": "Nhiều sinh viên tham gia thực tập không lương để tích lũy kinh nghiệm làm việc quý báu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "dissertation",
+            "phonetic": "/ˌdɪs.əˈteɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "A long essay on a particular subject, especially one written for a university degree or diploma.",
+            "translation": "Luận văn, luận án",
+            "concept": "A major piece of academic writing, usually for a final degree.",
+            "register": "Academic",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["thesis", "paper", "treatise", "monograph"],
+            "collocations": ["write a dissertation", "dissertation topic", "submit a dissertation"],
+            "contexts": [
+                {
+                    "sentence": "She is currently conducting research for her final year dissertation.",
+                    "translation": "Cô ấy hiện đang tiến hành nghiên cứu cho luận văn năm cuối của mình."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "placement",
+            "phonetic": "/ˈpleɪs.mənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A temporary job that is part of a course of study.",
+            "translation": "Kỳ thực tập, sự sắp xếp việc làm",
+            "concept": "A period of work experience that is part of a degree course.",
+            "register": "Academic/Business",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["internship", "assignment", "posting"],
+            "collocations": ["work placement", "placement year", "job placement"],
+            "contexts": [
+                {
+                    "sentence": "The university helps students find suitable work placements in local companies.",
+                    "translation": "Trường đại học giúp sinh viên tìm kiếm các vị trí thực tập phù hợp tại các công ty địa phương."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "refer",
+            "phonetic": "/rɪˈfɜːr/",
+            "partOfSpeech": "Verb",
+            "meaning": "Mention or allude to.",
+            "translation": "Đề cập đến, tham khảo",
+            "concept": "To direct someone to a source of information.",
+            "register": "General/Formal",
+            "grammar_note": "Followed by 'to'.",
+            "synonyms": ["mention", "cite", "consult", "allude"],
+            "collocations": ["refer to", "refer back"],
+            "contexts": [
+                {
+                    "sentence": "Please refer to the handbook for more information on safety procedures.",
+                    "translation": "Vui lòng tham khảo sổ tay để biết thêm thông tin về các quy trình an toàn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "questionnaire",
+            "phonetic": "/ˌkwes.tʃəˈneər/",
+            "partOfSpeech": "Noun",
+            "meaning": "A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study.",
+            "translation": "Bảng câu hỏi",
+            "concept": "A tool used for gathering data from people.",
+            "register": "Academic/General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["survey form", "poll"],
+            "collocations": ["complete a questionnaire", "fill out a questionnaire"],
+            "contexts": [
+                {
+                    "sentence": "Participants were asked to complete a short questionnaire about their dietary habits.",
+                    "translation": "Những người tham gia được yêu cầu hoàn thành một bảng câu hỏi ngắn về thói quen ăn uống của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "respondent",
+            "phonetic": "/rɪˈspɒn.dənt/",
+            "partOfSpeech": "Noun",
+            "meaning": "A person who replies to something, especially one supplying information for a survey or questionnaire or responding to an advertisement.",
+            "translation": "Người trả lời (khảo sát)",
+            "concept": "A person who provides data for a study.",
+            "register": "Academic/Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["interviewee", "participant", "subject"],
+            "collocations": ["survey respondent", "number of respondents"],
+            "contexts": [
+                {
+                    "sentence": "The majority of respondents indicated that they were satisfied with the service.",
+                    "translation": "Đa số người trả lời cho biết họ hài lòng với dịch vụ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sample",
+            "phonetic": "/ˈsɑːm.pəl/",
+            "partOfSpeech": "Noun",
+            "meaning": "A small part or quantity intended to show what the whole is like.",
+            "translation": "Mẫu (khảo sát/nghiên cứu)",
+            "concept": "A subset of a population used to represent the whole.",
+            "register": "Academic/Scientific",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["specimen", "example", "cross-section"],
+            "collocations": ["sample size", "random sample", "representative sample"],
+            "contexts": [
+                {
+                    "sentence": "The study used a random sample of 500 households from the area.",
+                    "translation": "Nghiên cứu đã sử dụng một mẫu ngẫu nhiên gồm 500 hộ gia đình trong khu vực."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "methodology",
+            "phonetic": "/ˌmeθ.əˈdɒl.ə.dʒi/",
+            "partOfSpeech": "Noun",
+            "meaning": "A system of methods used in a particular area of study or activity.",
+            "translation": "Phương pháp luận",
+            "concept": "The theoretical analysis of the methods applied to a field of study.",
+            "register": "Academic",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["approach", "procedure", "technique", "system"],
+            "collocations": ["research methodology", "adopt a methodology"],
+            "contexts": [
+                {
+                    "sentence": "The research methodology involved both quantitative and qualitative data collection.",
+                    "translation": "Phương pháp nghiên cứu bao gồm cả thu thập dữ liệu định lượng và định tính."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "findings",
+            "phonetic": "/ˈfaɪn.dɪŋz/",
+            "partOfSpeech": "Noun",
+            "meaning": "Information discovered as the result of an inquiry or investigation.",
+            "translation": "Kết quả nghiên cứu, phát hiện",
+            "concept": "The results or conclusions of research.",
+            "register": "Academic",
+            "grammar_note": "Plural noun.",
+            "synonyms": ["results", "conclusions", "data", "outcome"],
+            "collocations": ["publish findings", "preliminary findings", "key findings"],
+            "contexts": [
+                {
+                    "sentence": "The findings of the study suggest a strong link between diet and health.",
+                    "translation": "Các phát hiện của nghiên cứu cho thấy mối liên hệ chặt chẽ giữa chế độ ăn uống và sức khỏe."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "drawback",
+            "phonetic": "/ˈdrɔː.bæk/",
+            "partOfSpeech": "Noun",
+            "meaning": "A feature that renders something less acceptable; a disadvantage or problem.",
+            "translation": "Hạn chế, khuyết điểm",
+            "concept": "A disadvantage or negative aspect.",
+            "register": "General/Formal",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["disadvantage", "downside", "flaw", "snag"],
+            "collocations": ["major drawback", "potential drawback", "main drawback"],
+            "contexts": [
+                {
+                    "sentence": "One major drawback of the plan is the high cost of implementation.",
+                    "translation": "Một hạn chế lớn của kế hoạch là chi phí thực hiện cao."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "representative",
+            "phonetic": "/ˌrep.rɪˈzen.tə.tɪv/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Typical of a class, group, or body of opinion.",
+            "translation": "Mang tính đại diện, tiêu biểu",
+            "concept": "Accurately reflecting the characteristics of the larger group.",
+            "register": "Academic/Formal",
+            "grammar_note": "Followed by 'of'.",
+            "synonyms": ["typical", "characteristic", "illustrative"],
+            "collocations": ["representative sample", "not representative"],
+            "contexts": [
+                {
+                    "sentence": "We need to ensure the sample is representative of the entire population.",
+                    "translation": "Chúng tôi cần đảm bảo mẫu là đại diện cho toàn bộ dân số."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "reliable",
+            "phonetic": "/rɪˈlaɪ.ə.bəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Consistently good in quality or performance; able to be trusted.",
+            "translation": "Đáng tin cậy",
+            "concept": "Dependable and trustworthy.",
+            "register": "General/Academic",
+            "grammar_note": "Modifies 'source', 'data', 'person'.",
+            "synonyms": ["trustworthy", "dependable", "authentic", "credible"],
+            "collocations": ["reliable source", "reliable data", "reliable information"],
+            "contexts": [
+                {
+                    "sentence": "It is important to use reliable sources when conducting academic research.",
+                    "translation": "Việc sử dụng các nguồn đáng tin cậy khi tiến hành nghiên cứu học thuật là rất quan trọng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "valid",
+            "phonetic": "/ˈvæl.ɪd/",
+            "partOfSpeech": "Adjective",
+            "meaning": "(of an argument or point) having a sound basis in logic or fact; reasonable or cogent.",
+            "translation": "Hợp lệ, có giá trị, vững chắc (lập luận)",
+            "concept": "Logically sound or legally acceptable.",
+            "register": "Academic/Formal",
+            "grammar_note": "Modifies 'point', 'reason', 'argument'.",
+            "synonyms": ["sound", "reasonable", "legitimate", "well-founded"],
+            "collocations": ["valid point", "valid reason", "statistically valid"],
+            "contexts": [
+                {
+                    "sentence": "She raised a valid point about the limitations of the current methodology.",
+                    "translation": "Cô ấy đã nêu ra một quan điểm vững chắc về những hạn chế của phương pháp luận hiện tại."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bias",
+            "phonetic": "/ˈbaɪ.əs/",
+            "partOfSpeech": "Noun",
+            "meaning": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+            "translation": "Thiên kiến, sự thiên vị",
+            "concept": "Unfair preference or prejudice.",
+            "register": "Academic/Formal",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["prejudice", "partiality", "favoritism"],
+            "collocations": ["confirmation bias", "cultural bias", "free from bias"],
+            "contexts": [
+                {
+                    "sentence": "Researchers must be careful to avoid bias when interpreting the data.",
+                    "translation": "Các nhà nghiên cứu phải cẩn thận để tránh thiên kiến khi giải thích dữ liệu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "correlation",
+            "phonetic": "/ˌkɒr.əˈleɪ.ʃən/",
+            "partOfSpeech": "Noun",
+            "meaning": "A mutual relationship or connection between two or more things.",
+            "translation": "Sự tương quan",
+            "concept": "A statistical link between two variables.",
+            "register": "Academic/Scientific",
+            "grammar_note": "Followed by 'between'.",
+            "synonyms": ["connection", "link", "relationship", "association"],
+            "collocations": ["positive correlation", "negative correlation", "strong correlation"],
+            "contexts": [
+                {
+                    "sentence": "There is a strong correlation between education levels and income.",
+                    "translation": "Có một sự tương quan mạnh mẽ giữa trình độ học vấn và thu nhập."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "eligible",
+            "phonetic": "/ˈel.ɪ.dʒə.bəl/",
+            "partOfSpeech": "Adjective",
+            "meaning": "Having the right to do or obtain something; satisfying the appropriate conditions.",
+            "translation": "Đủ điều kiện, thích hợp",
+            "concept": "Meeting the necessary requirements.",
+            "register": "Formal",
+            "grammar_note": "Followed by 'for' or 'to'.",
+            "synonyms": ["qualified", "entitled", "suitable"],
+            "collocations": ["eligible for", "eligible to apply"],
+            "contexts": [
+                {
+                    "sentence": "Only students over 18 are eligible to participate in the study.",
+                    "translation": "Chỉ những sinh viên trên 18 tuổi mới đủ điều kiện tham gia nghiên cứu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "incentive",
+            "phonetic": "/ɪnˈsen.tɪv/",
+            "partOfSpeech": "Noun",
+            "meaning": "A thing that motivates or encourages one to do something.",
+            "translation": "Sự khích lệ, ưu đãi",
+            "concept": "A reward or reason for doing something.",
+            "register": "General/Business",
+            "grammar_note": "Countable/Uncountable.",
+            "synonyms": ["motivation", "encouragement", "inducement", "stimulus"],
+            "collocations": ["financial incentive", "provide an incentive"],
+            "contexts": [
+                {
+                    "sentence": "The company offers financial incentives to employees who meet their targets.",
+                    "translation": "Công ty cung cấp các ưu đãi tài chính cho những nhân viên đạt chỉ tiêu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "survey",
+            "phonetic": "/ˈsɜː.veɪ/",
+            "partOfSpeech": "Noun",
+            "meaning": "A general view, examination, or description of someone or something.",
+            "translation": "Cuộc khảo sát",
+            "concept": "A method of gathering information from a sample of people.",
+            "register": "Academic/General",
+            "grammar_note": "Countable noun.",
+            "synonyms": ["poll", "study", "review"],
+            "collocations": ["conduct a survey", "survey results"],
+            "contexts": [
+                {
+                    "sentence": "We conducted a survey to find out customer preferences.",
+                    "translation": "Chúng tôi đã tiến hành một cuộc khảo sát để tìm hiểu sở thích của khách hàng."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

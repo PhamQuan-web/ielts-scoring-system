@@ -1,0 +1,864 @@
+{
+    "id": "cambridge_19_reading_test_4",
+    "title": "Cam 19 - Reading Test 4",
+    "description": "Tuyển tập từ vựng 'Key Words' (Band 7.0+) từ Cambridge IELTS 19 Reading Test 4, bao gồm chủ đề bảo tồn sinh học, dược phẩm biển và tâm lý học hành vi.",
+    "wordCount": 30,
+    "category": "Reading",
+    "color": "from-emerald-500 to-teal-600",
+    "isPro": true,
+    "words": [
+        {
+            "word": "conservationist",
+            "phonetic": "/ˌkɒnsəˈveɪʃənɪst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "A person who advocates or acts for the protection and preservation of the environment and wildlife.",
+            "translation": "Nhà bảo tồn",
+            "concept": "Người hoạt động để bảo vệ thiên nhiên. Khác với 'environmentalist' (rộng hơn), conservationist tập trung vào việc gìn giữ, bảo tồn.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Leading conservationist.",
+            "synonyms": [
+                "preservationist",
+                "environmentalist",
+                "ecologist"
+            ],
+            "collocations": [
+                "leading conservationist",
+                "wildlife conservationist",
+                "team of conservationists"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Conservationists are working tirelessly to protect the endangered rhino population from poachers.",
+                    "translation": "Các nhà bảo tồn đang làm việc không mệt mỏi để bảo vệ quần thể tê giác có nguy cơ tuyệt chủng khỏi những kẻ săn trộm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "species",
+            "phonetic": "/ˈspiːʃiːz/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.",
+            "translation": "Loài",
+            "concept": "Đơn vị phân loại cơ bản trong sinh học.",
+            "register": "Scientific / Academic",
+            "grammar_note": "Số ít và số nhiều giống nhau (a species, many species).",
+            "synonyms": [
+                "breed",
+                "variety",
+                "type",
+                "category"
+            ],
+            "collocations": [
+                "endangered species",
+                "invasive species",
+                "native species"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The discovery of a new species of frog in the rainforest has excited biologists worldwide.",
+                    "translation": "Việc phát hiện ra một loài ếch mới trong rừng nhiệt đới đã khiến các nhà sinh học trên toàn thế giới phấn khích."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unpredictable",
+            "phonetic": "/ˌʌnprɪˈdɪktəbəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Not able to be foreseen or known beforehand; uncertain.",
+            "translation": "Không thể đoán trước / Khó lường",
+            "concept": "Không theo quy luật, dễ thay đổi bất ngờ.",
+            "register": "General / Academic",
+            "grammar_note": "Highly unpredictable.",
+            "synonyms": [
+                "uncertain",
+                "erratic",
+                "volatile",
+                "unforeseeable"
+            ],
+            "collocations": [
+                "highly unpredictable",
+                "unpredictable weather",
+                "unpredictable consequences"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The unpredictable nature of the weather made it difficult to plan the outdoor event.",
+                    "translation": "Tính chất khó lường của thời tiết khiến việc lên kế hoạch cho sự kiện ngoài trời trở nên khó khăn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "knock-on effect",
+            "phonetic": "/ˈnɒk ɒn ɪfekt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "A secondary, indirect, or cumulative effect.",
+            "translation": "Hiệu ứng dây chuyền / Tác động gián tiếp",
+            "concept": "Một sự kiện gây ra sự kiện khác, rồi sự kiện đó lại gây ra sự kiện tiếp theo (như quân domino).",
+            "register": "Formal / Academic",
+            "grammar_note": "Have a knock-on effect on something.",
+            "synonyms": [
+                "domino effect",
+                "ripple effect",
+                "chain reaction",
+                "repercussion"
+            ],
+            "collocations": [
+                "have a knock-on effect",
+                "serious knock-on effect",
+                "potential knock-on effect"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The increase in oil prices had a knock-on effect on the cost of transportation and food.",
+                    "translation": "Việc tăng giá dầu đã gây ra hiệu ứng dây chuyền đối với chi phí vận chuyển và thực phẩm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "phenology",
+            "phonetic": "/fɪˈnɒlədʒi/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The study of cyclic and seasonal natural phenomena, especially in relation to climate and plant and animal life.",
+            "translation": "Hiện tượng học (sinh học) / Thời điểm học",
+            "concept": "Nghiên cứu về thời điểm các sự kiện sinh học xảy ra (như hoa nở, chim di cư) và cách chúng chịu ảnh hưởng của khí hậu. Từ chuyên ngành sinh thái.",
+            "register": "Scientific / Academic",
+            "grammar_note": "Plant phenology.",
+            "synonyms": [
+                "seasonal biology",
+                "climatology (related)"
+            ],
+            "collocations": [
+                "plant phenology",
+                "phenology records",
+                "shifts in phenology"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Changes in phenology, such as earlier flowering times, are clear indicators of climate warming.",
+                    "translation": "Những thay đổi về hiện tượng học, chẳng hạn như thời gian ra hoa sớm hơn, là những chỉ số rõ ràng của sự nóng lên của khí hậu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "lifesaving",
+            "phonetic": "/ˈlaɪfseɪvɪŋ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Serving to save a person's life.",
+            "translation": "Cứu mạng / Cứu sinh",
+            "concept": "Rất quan trọng để giữ mạng sống (thuốc, kỹ thuật, hành động).",
+            "register": "General / Medical",
+            "grammar_note": "Lifesaving treatment/drug.",
+            "synonyms": [
+                "vital",
+                "critical",
+                "life-preserving",
+                "rescue"
+            ],
+            "collocations": [
+                "lifesaving drug",
+                "lifesaving treatment",
+                "lifesaving surgery"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The prompt administration of the lifesaving drug prevented the infection from spreading further.",
+                    "translation": "Việc sử dụng kịp thời loại thuốc cứu mạng đã ngăn chặn nhiễm trùng lây lan thêm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "exploit",
+            "phonetic": "/ɪkˈsplɔɪt/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "B2",
+            "meaning": "Make full use of and derive benefit from (a resource).",
+            "translation": "Khai thác / Tận dụng",
+            "concept": "Dùng tài nguyên một cách triệt để. Có thể mang nghĩa tích cực (tận dụng cơ hội) hoặc tiêu cực (bóc lột lao động). Trong bài này là khai thác tài nguyên biển.",
+            "register": "Academic / Economic",
+            "grammar_note": "Exploit resources, exploit opportunities.",
+            "synonyms": [
+                "utilize",
+                "harness",
+                "use",
+                "capitalize on"
+            ],
+            "collocations": [
+                "fully exploit",
+                "exploit natural resources",
+                "exploit the potential"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Companies are looking to exploit the mineral-rich seabed for valuable metals.",
+                    "translation": "Các công ty đang tìm cách khai thác đáy biển giàu khoáng sản để lấy các kim loại có giá trị."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "microbiologist",
+            "phonetic": "/ˌmaɪkrəʊbaɪˈɒlədʒɪst/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C1",
+            "meaning": "An expert in or student of microbiology.",
+            "translation": "Nhà vi sinh vật học",
+            "concept": "Nhà khoa học nghiên cứu vi sinh vật (vi khuẩn, virus...).",
+            "register": "Scientific",
+            "grammar_note": "Work as a microbiologist.",
+            "synonyms": [
+                "biologist",
+                "scientist"
+            ],
+            "collocations": [
+                "clinical microbiologist",
+                "research microbiologist",
+                "leading microbiologist"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The microbiologist identified a new strain of bacteria that is resistant to common antibiotics.",
+                    "translation": "Nhà vi sinh vật học đã xác định được một chủng vi khuẩn mới kháng lại các loại thuốc kháng sinh thông thường."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "sustainability",
+            "phonetic": "/səˌsteɪnəˈbɪləti/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "The ability to be maintained at a certain rate or level.",
+            "translation": "Sự bền vững",
+            "concept": "Khả năng duy trì lâu dài mà không làm cạn kiệt tài nguyên thiên nhiên hoặc gây hại môi trường.",
+            "register": "Academic / Environmental",
+            "grammar_note": "Environmental sustainability, economic sustainability.",
+            "synonyms": [
+                "durability",
+                "viability",
+                "stability"
+            ],
+            "collocations": [
+                "promote sustainability",
+                "long-term sustainability",
+                "sustainability goals"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Sustainability has become a core value for many corporations seeking to reduce their environmental footprint.",
+                    "translation": "Sự bền vững đã trở thành một giá trị cốt lõi đối với nhiều tập đoàn đang tìm cách giảm dấu chân môi trường của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "pathogenic",
+            "phonetic": "/ˌpæθəˈdʒenɪk/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(Of a bacterium, virus, or other microorganism) causing disease.",
+            "translation": "Gây bệnh",
+            "concept": "Có khả năng sinh ra bệnh tật. Từ chuyên ngành y sinh.",
+            "register": "Scientific / Medical",
+            "grammar_note": "Pathogenic bacteria/organisms.",
+            "synonyms": [
+                "disease-causing",
+                "infectious",
+                "virulent"
+            ],
+            "collocations": [
+                "pathogenic bacteria",
+                "pathogenic organism",
+                "potentially pathogenic"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Researchers are studying how pathogenic bacteria develop resistance to drugs.",
+                    "translation": "Các nhà nghiên cứu đang tìm hiểu cách vi khuẩn gây bệnh phát triển khả năng kháng thuốc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "breakthrough",
+            "phonetic": "/ˈbreɪkθruː/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A sudden, dramatic, and important discovery or development.",
+            "translation": "Đột phá / Bước ngoặt",
+            "concept": "Một phát minh hoặc phát hiện quan trọng giải quyết được vấn đề lớn.",
+            "register": "General / Academic",
+            "grammar_note": "Make a breakthrough, breakthrough in something.",
+            "synonyms": [
+                "advance",
+                "development",
+                "step forward",
+                "revolution"
+            ],
+            "collocations": [
+                "major breakthrough",
+                "scientific breakthrough",
+                "technological breakthrough"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The discovery of the new vaccine was hailed as a major medical breakthrough.",
+                    "translation": "Việc phát hiện ra loại vắc-xin mới được ca ngợi là một bước đột phá y học lớn."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "antibiotic",
+            "phonetic": "/ˌæntibaɪˈɒtɪk/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A medicine (such as penicillin or its derivatives) that inhibits the growth of or destroys microorganisms.",
+            "translation": "Thuốc kháng sinh",
+            "concept": "Thuốc diệt vi khuẩn.",
+            "register": "Medical / General",
+            "grammar_note": "Prescribe antibiotics, take antibiotics.",
+            "synonyms": [
+                "antimicrobial",
+                "drug",
+                "medicine"
+            ],
+            "collocations": [
+                "prescribe antibiotics",
+                "antibiotic resistance",
+                "course of antibiotics"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Overuse of antibiotics has led to the emergence of resistant 'superbugs'.",
+                    "translation": "Việc lạm dụng thuốc kháng sinh đã dẫn đến sự xuất hiện của các 'siêu vi khuẩn' kháng thuốc."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "resistant",
+            "phonetic": "/rɪˈzɪstənt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Offering resistance to something or someone.",
+            "translation": "Kháng cự / Chống lại / Đề kháng",
+            "concept": "Không bị ảnh hưởng bởi tác động bên ngoài (kháng thuốc, chịu nước, chịu nhiệt).",
+            "register": "General / Scientific",
+            "grammar_note": "Resistant to something.",
+            "synonyms": [
+                "immune",
+                "impervious",
+                "invulnerable",
+                "unaffected"
+            ],
+            "collocations": [
+                "resistant to change",
+                "drug-resistant",
+                "heat-resistant"
+            ],
+            "contexts": [
+                {
+                    "sentence": "We need to develop new crops that are resistant to drought and pests.",
+                    "translation": "Chúng ta cần phát triển các loại cây trồng mới có khả năng chống chịu hạn hán và sâu bệnh."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "bioactive",
+            "phonetic": "/ˌbaɪəʊˈæktɪv/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "(Of a substance) having a biological effect.",
+            "translation": "Có hoạt tính sinh học",
+            "concept": "Chất có tác dụng lên mô sống hoặc sinh vật (thường dùng cho thuốc hoặc chất độc).",
+            "register": "Scientific",
+            "grammar_note": "Bioactive compounds.",
+            "synonyms": [
+                "biologically active"
+            ],
+            "collocations": [
+                "bioactive compounds",
+                "bioactive ingredients",
+                "bioactive substances"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Marine sponges are a rich source of bioactive compounds with potential pharmaceutical applications.",
+                    "translation": "Bọt biển là nguồn phong phú các hợp chất có hoạt tính sinh học với các ứng dụng dược phẩm tiềm năng."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prospecting",
+            "phonetic": "/ˈprɒspektɪŋ/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The search for mineral deposits in a place, especially by means of experimental drilling and excavation.",
+            "translation": "Sự thăm dò / Tìm kiếm khoáng sản",
+            "concept": "Tìm kiếm tài nguyên (vàng, dầu, hoặc trong sinh học là 'bioprospecting' - tìm nguồn gen/dược liệu).",
+            "register": "Technical / Industrial",
+            "grammar_note": "Bioprospecting, mineral prospecting.",
+            "synonyms": [
+                "exploration",
+                "surveying",
+                "searching"
+            ],
+            "collocations": [
+                "gold prospecting",
+                "bioprospecting",
+                "prospecting for oil"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Bioprospecting in the deep ocean offers huge potential for discovering new medicines.",
+                    "translation": "Việc thăm dò sinh học ở vùng biển sâu mang lại tiềm năng to lớn để khám phá ra các loại thuốc mới."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "unselfish",
+            "phonetic": "/ʌnˈselfɪʃ/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Willing to put the needs or wishes of others before one's own.",
+            "translation": "Vị tha / Không ích kỷ",
+            "concept": "Đặt lợi ích người khác lên trên. Đồng nghĩa với 'altruistic'.",
+            "register": "General",
+            "grammar_note": "Unselfish act/behavior.",
+            "synonyms": [
+                "altruistic",
+                "selfless",
+                "generous",
+                "noble"
+            ],
+            "collocations": [
+                "unselfish act",
+                "unselfish devotion",
+                "completely unselfish"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Her unselfish devotion to the care of the sick earned her widespread admiration.",
+                    "translation": "Sự tận tụy vị tha của cô ấy đối với việc chăm sóc người bệnh đã khiến cô nhận được sự ngưỡng mộ rộng rãi."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "self-centred",
+            "phonetic": "/ˌselfˈsentəd/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Preoccupied with oneself and one's own affairs.",
+            "translation": "Ích kỷ / Chỉ biết mình",
+            "concept": "Chỉ quan tâm đến bản thân. (Anh-Mỹ: self-centered).",
+            "register": "General",
+            "grammar_note": "Self-centred behavior.",
+            "synonyms": [
+                "egocentric",
+                "selfish",
+                "narcissistic"
+            ],
+            "collocations": [
+                "self-centred person",
+                "become self-centred",
+                "self-centred attitude"
+            ],
+            "contexts": [
+                {
+                    "sentence": "A self-centred leader often fails to inspire loyalty among their team.",
+                    "translation": "Một nhà lãnh đạo chỉ biết mình thường thất bại trong việc khơi dậy lòng trung thành của đội ngũ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "assumption",
+            "phonetic": "/əˈsʌmpʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A thing that is accepted as true or as certain to happen, without proof.",
+            "translation": "Giả định / Sự thừa nhận",
+            "concept": "Điều mình tin là đúng mà chưa kiểm chứng. 'Make an assumption'.",
+            "register": "General / Academic",
+            "grammar_note": "Make an assumption, on the assumption that.",
+            "synonyms": [
+                "supposition",
+                "presumption",
+                "belief",
+                "hypothesis"
+            ],
+            "collocations": [
+                "make an assumption",
+                "basic assumption",
+                "challenge assumptions"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The experiment was based on the assumption that the participants would act rationally.",
+                    "translation": "Thí nghiệm dựa trên giả định rằng những người tham gia sẽ hành động một cách lý trí."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ruthless",
+            "phonetic": "/ˈruːθləs/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Having or showing no pity or compassion for others.",
+            "translation": "Tàn nhẫn / Không thương tiếc",
+            "concept": "Hành động quyết liệt, không màng đến cảm xúc người khác để đạt mục đích.",
+            "register": "General / Formal",
+            "grammar_note": "Ruthless efficiency, ruthless dictator.",
+            "synonyms": [
+                "merciless",
+                "pitiless",
+                "cruel",
+                "remorseless"
+            ],
+            "collocations": [
+                "ruthless efficiency",
+                "ruthless ambition",
+                "ruthless leader"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The business world can be ruthless, with companies constantly trying to outdo one another.",
+                    "translation": "Thế giới kinh doanh có thể rất tàn nhẫn, với các công ty liên tục cố gắng vượt mặt nhau."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ulterior",
+            "phonetic": "/ʌlˈtɪəriər/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C2",
+            "meaning": "Existing beyond what is obvious or admitted; intentionally hidden.",
+            "translation": "Kín đáo / Thầm kín (động cơ)",
+            "concept": "Thường đi với 'motive'. 'Ulterior motive' là động cơ ngầm, thường không tốt.",
+            "register": "Formal",
+            "grammar_note": "Ulterior motive(s).",
+            "synonyms": [
+                "hidden",
+                "covert",
+                "secret",
+                "undisclosed"
+            ],
+            "collocations": [
+                "ulterior motive",
+                "no ulterior motive"
+            ],
+            "contexts": [
+                {
+                    "sentence": "She suspected that his sudden generosity had an ulterior motive.",
+                    "translation": "Cô nghi ngờ rằng sự hào phóng đột ngột của anh ta có một động cơ thầm kín."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "transcend",
+            "phonetic": "/trænˈsend/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C2",
+            "meaning": "Be or go beyond the range or limits of (something abstract, typically a conceptual field or division).",
+            "translation": "Vượt qua / Vượt lên trên",
+            "concept": "Vượt qua giới hạn thông thường (văn hóa, ngôn ngữ, thời gian). 'Music transcends boundaries'.",
+            "register": "Formal / Literary",
+            "grammar_note": "Transcend boundaries/limits.",
+            "synonyms": [
+                "surpass",
+                "exceed",
+                "go beyond",
+                "outstrip"
+            ],
+            "collocations": [
+                "transcend boundaries",
+                "transcend cultural differences",
+                "transcend time"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Great art has the power to transcend cultural and linguistic barriers.",
+                    "translation": "Nghệ thuật vĩ đại có sức mạnh vượt qua các rào cản văn hóa và ngôn ngữ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "innate",
+            "phonetic": "/ɪˈneɪt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Inborn; natural.",
+            "translation": "Bẩm sinh",
+            "concept": "Có từ khi sinh ra, không phải do học mà có (innate ability, innate immune system).",
+            "register": "Academic / Formal",
+            "grammar_note": "Innate ability/quality.",
+            "synonyms": [
+                "inborn",
+                "natural",
+                "instinctive",
+                "inherent"
+            ],
+            "collocations": [
+                "innate ability",
+                "innate sense",
+                "innate talent"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Humans have an innate capacity for language acquisition that develops in early childhood.",
+                    "translation": "Con người có khả năng bẩm sinh về thụ đắc ngôn ngữ phát triển từ thời thơ ấu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "ethos",
+            "phonetic": "/ˈiːθɒs/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "C2",
+            "meaning": "The characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations.",
+            "translation": "Đặc tính / Tinh thần (của một cộng đồng)",
+            "concept": "Giá trị cốt lõi hoặc niềm tin định hình cách ứng xử của một nhóm người.",
+            "register": "Formal / Academic",
+            "grammar_note": "Corporate ethos, cultural ethos.",
+            "synonyms": [
+                "spirit",
+                "character",
+                "atmosphere",
+                "climate"
+            ],
+            "collocations": [
+                "corporate ethos",
+                "community ethos",
+                "ethos of the school"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The company's ethos focuses on sustainability and social responsibility.",
+                    "translation": "Tinh thần của công ty tập trung vào sự bền vững và trách nhiệm xã hội."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "prevalent",
+            "phonetic": "/ˈprevələnt/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "C1",
+            "meaning": "Widespread in a particular area or at a particular time.",
+            "translation": "Phổ biến / Thịnh hành",
+            "concept": "Xảy ra nhiều, dễ thấy ở một nơi/thời điểm. 'A prevalent disease'.",
+            "register": "Formal / Academic",
+            "grammar_note": "Prevalent among/in.",
+            "synonyms": [
+                "widespread",
+                "prevailing",
+                "common",
+                "ubiquitous"
+            ],
+            "collocations": [
+                "widely prevalent",
+                "prevalent in",
+                "become prevalent"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Asthma is becoming increasingly prevalent among children in urban areas due to pollution.",
+                    "translation": "Bệnh hen suyễn đang ngày càng trở nên phổ biến ở trẻ em tại các khu vực đô thị do ô nhiễm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "evolutionary",
+            "phonetic": "/ˌiːvəˈluːʃənəri/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Relating to the gradual development of something.",
+            "translation": "Thuộc tiến hóa",
+            "concept": "Liên quan đến thuyết tiến hóa hoặc sự phát triển dần dần.",
+            "register": "Scientific / Academic",
+            "grammar_note": "Evolutionary biology, evolutionary theory.",
+            "synonyms": [
+                "developmental",
+                "progressive"
+            ],
+            "collocations": [
+                "evolutionary biologist",
+                "evolutionary process",
+                "evolutionary advantage"
+            ],
+            "contexts": [
+                {
+                    "sentence": "From an evolutionary perspective, fear serves as a vital survival mechanism.",
+                    "translation": "Từ quan điểm tiến hóa, nỗi sợ hãi đóng vai trò như một cơ chế sinh tồn thiết yếu."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "theorize",
+            "phonetic": "/ˈθɪəraɪz/",
+            "partOfSpeech": "Verb",
+            "cefrLevel": "C1",
+            "meaning": "Form a theory or theories about something.",
+            "translation": "Lý thuyết hóa / Đưa ra giả thuyết",
+            "concept": "Xây dựng giả thuyết để giải thích sự việc.",
+            "register": "Academic",
+            "grammar_note": "Theorize that...",
+            "synonyms": [
+                "speculate",
+                "hypothesize",
+                "postulate",
+                "propose"
+            ],
+            "collocations": [
+                "scientists theorize",
+                "theorize about",
+                "widely theorized"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Astronomers theorize that there may be water beneath the surface of the distant moon.",
+                    "translation": "Các nhà thiên văn học đưa ra giả thuyết rằng có thể có nước bên dưới bề mặt của mặt trăng xa xôi đó."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "trait",
+            "phonetic": "/treɪt/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A distinguishing quality or characteristic, typically one belonging to a person.",
+            "translation": "Đặc điểm / Nét tính cách",
+            "concept": "Đặc điểm riêng biệt (tính cách hoặc di truyền). 'Genetic trait', 'personality trait'.",
+            "register": "General / Academic",
+            "grammar_note": "Personality trait, genetic trait.",
+            "synonyms": [
+                "characteristic",
+                "feature",
+                "quality",
+                "attribute"
+            ],
+            "collocations": [
+                "personality trait",
+                "inherited trait",
+                "defining trait"
+            ],
+            "contexts": [
+                {
+                    "sentence": "Honesty is a trait that employers value highly in their staff.",
+                    "translation": "Trung thực là một đặc điểm mà các nhà tuyển dụng đánh giá cao ở nhân viên của họ."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "brutal",
+            "phonetic": "/ˈbruːtəl/",
+            "partOfSpeech": "Adjective",
+            "cefrLevel": "B2",
+            "meaning": "Savagely violent.",
+            "translation": "Tàn bạo / Khốc liệt",
+            "concept": "Rất bạo lực hoặc khắc nghiệt (brutal honesty - sự thật phũ phàng).",
+            "register": "General",
+            "grammar_note": "Brutal murder, brutal honesty.",
+            "synonyms": [
+                "savage",
+                "cruel",
+                "vicious",
+                "ferocious"
+            ],
+            "collocations": [
+                "brutal regime",
+                "brutal honesty",
+                "brutal murder"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The soldiers had to survive the brutal conditions of the jungle warfare.",
+                    "translation": "Những người lính phải sống sót qua những điều kiện khốc liệt của chiến tranh rừng rậm."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "aggression",
+            "phonetic": "/əˈɡreʃən/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "Hostile or violent behavior or attitudes toward another.",
+            "translation": "Sự gây hấn / Sự hung hăng",
+            "concept": "Hành vi tấn công hoặc thái độ thù địch.",
+            "register": "General / Psychology",
+            "grammar_note": "Show aggression, aggression towards.",
+            "synonyms": [
+                "hostility",
+                "belligerence",
+                "violence"
+            ],
+            "collocations": [
+                "act of aggression",
+                "show aggression",
+                "physical aggression"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The study examined the link between video games and aggression in teenagers.",
+                    "translation": "Nghiên cứu đã kiểm tra mối liên hệ giữa trò chơi điện tử và sự hung hăng ở thanh thiếu niên."
+                }
+            ],
+            "level": "seed"
+        },
+        {
+            "word": "rival",
+            "phonetic": "/ˈraɪvəl/",
+            "partOfSpeech": "Noun",
+            "cefrLevel": "B2",
+            "meaning": "A person or thing competing with another for the same objective or for superiority in the same field of activity.",
+            "translation": "Đối thủ / Kẻ kình địch",
+            "concept": "Người/nhóm cạnh tranh trực tiếp. 'Bitter rivals'.",
+            "register": "General",
+            "grammar_note": "Main rival, bitter rival.",
+            "synonyms": [
+                "competitor",
+                "opponent",
+                "adversary",
+                "challenger"
+            ],
+            "collocations": [
+                "bitter rival",
+                "main rival",
+                "arch-rival"
+            ],
+            "contexts": [
+                {
+                    "sentence": "The two companies have been bitter rivals in the smartphone market for over a decade.",
+                    "translation": "Hai công ty đã là những đối thủ cay đắng trên thị trường điện thoại thông minh trong hơn một thập kỷ."
+                }
+            ],
+            "level": "seed"
+        }
+    ]
+}

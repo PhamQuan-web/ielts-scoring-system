@@ -1,0 +1,852 @@
+import json
+
+# Output file path
+output_file = 'jules_scored_output_201-250.jsonl'
+
+# --- MANUALLY SCORED BATCH 201 ---
+# Total Samples: 20
+# Valid Scored: 14
+# Skipped: 6 (Reasons below)
+
+# --- SKIPPED SAMPLES LOG ---
+# 1. QnyWfci16Gs_q09: Examiner Feedback ("I gave you a five for that today...")
+# 2. C9m32YZRBoM_q09: Examiner Feedback ("I gave you seven here now.")
+# 3. C9m32YZRBoM_q12: Examiner Feedback ("I gave you seven here now.")
+# 4. kLlmEIIipoY_q03: Examiner Instruction ("One minute to think about what you are going to say...")
+# 5. kLlmEIIipoY_q04: Noise/Fragment ("On my my all right that is great.")
+# 6. kLlmEIIipoY_q13: Incoherent Fragment ("Do not I do not know why actually well probably because you maybe...")
+
+# --- VALID SAMPLES DATA ---
+scored_samples = [
+    # Video: QnyWfci16Gs (Band 6.0)
+    {
+        "id": 0, "sample_id": "QnyWfci16Gs_q04", "video_id": "QnyWfci16Gs", "part": 1,
+        "question": "What kind of jokes do you like?",
+        "transcript": "Jokes you know it is not stupid things that he says it is smart jokes and things like that yeah I think it is that",
+        "word_count": 26,
+        "analysis_metadata": {
+            "grammar_error_patterns": ["repetition"],
+            "grammar_error_frequency": "occasional",
+            "vocab_collocation_usage": "basic",
+            "vocab_evidence": ["stupid things", "smart jokes"],
+            "grammar_structures_used": ["cleft_sentence_attempt"]
+        },
+        "micro_flaws": {
+            "grammar": ["stylistic_fragment"],
+            "vocabulary": ["limited_range", "vague_words"]
+        },
+        "vocab_control": {
+            "appropriateness": "basic",
+            "risk_level": "low",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "basic",
+            "accuracy_level": "variable",
+            "flexibility": "limited",
+            "error_density": "moderate"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "short",
+            "redundancy": "high",
+            "development_depth": "minimal"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_7": "Structures are repetitive and lack complexity. 'It is smart jokes' is functional but basic.",
+                "why_not_5": "Basic sentence structure is intact."
+            },
+            "vocabulary": {
+                "why_not_7": "Heavy reliance on 'things', 'that'. Very limited lexical resource.",
+                "why_not_5": "Sufficient for simple meaning."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 6,
+            "grammar_text": "Uses a mix of simple and complex sentence forms.",
+            "vocabulary_band": 6,
+            "vocabulary_text": "Has a wide enough vocabulary to discuss topics at length and make meaning clear in spite of inappropriacies."
+        },
+        "vocab_reason": "Very basic vocabulary ('stupid', 'smart', 'things'). Just barely meets Band 6 due to clarity.",
+        "grammar_reason": "Simple structures used correctly enough to convey meaning, but lacks range. Band 6.",
+        "vocabulary": 6,
+        "grammar": 6
+    },
+
+    # Video: C9m32YZRBoM (Band 7.5)
+    {
+        "id": 0, "sample_id": "C9m32YZRBoM_q02", "video_id": "C9m32YZRBoM", "part": 1,
+        "question": "Do you like Western festivals?",
+        "transcript": "The main like Festival in my country yeah we have it for like awek and everyone is like happy doing that Festival do you like Western festivals what do you mean by Western festivals that is up for you to decide well yeah I think well if I got the message yeah I think my country is quite influenced by these Western like festivals I think Christmas is one of them e is one of them so yeah I kind of enjoy it I I am not religious but yeah I quite like them.",
+        "word_count": 85,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["influenced by", "religious", "western festivals"],
+            "grammar_structures_used": ["passive_voice", "conditionals"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": ["filler_overuse"]
+        },
+        "vocab_control": {
+            "appropriateness": "accurate",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "moderate",
+            "accuracy_level": "high",
+            "flexibility": "moderate",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "moderate",
+            "development_depth": "adequate"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Frequent use of 'like' as filler disrupts flow, though structures are accurate.",
+                "why_not_7": "Good control of passive 'influenced by'."
+            },
+            "vocabulary": {
+                "why_not_9": "Good but not sophisticated. 'Happy', 'enjoy', 'like'.",
+                "why_not_7": "Collocations like 'quite influenced by' are natural."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 7,
+            "grammar_text": "Produces frequent error-free sentences.",
+            "vocabulary_band": 7,
+            "vocabulary_text": "Uses a sufficient range of vocabulary to allow some flexibility and precision."
+        },
+        "vocab_reason": "Natural use of 'influenced by', 'religious'. Band 7.",
+        "grammar_reason": "Error-free sentences, uses passive voice. Band 7.",
+        "vocabulary": 7,
+        "grammar": 7
+    },
+    {
+        "id": 0, "sample_id": "C9m32YZRBoM_q03", "video_id": "C9m32YZRBoM", "part": 1,
+        "question": "Is it important?",
+        "transcript": "I think it is important",
+        "word_count": 5,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "basic",
+            "vocab_evidence": ["important"],
+            "grammar_structures_used": ["simple_sentence"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "accurate",
+            "risk_level": "low",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "basic",
+            "accuracy_level": "high",
+            "flexibility": "limited",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "too_short",
+            "redundancy": "low",
+            "development_depth": "minimal"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_7": "Too short to demonstrate range.",
+                "why_not_5": "Accurate."
+            },
+            "vocabulary": {
+                "why_not_7": "Single common adjective.",
+                "why_not_5": "Accurate."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 6,
+            "grammar_text": "Mix of simple and complex sentence forms.",
+            "vocabulary_band": 6,
+            "vocabulary_text": "Adequate."
+        },
+        "vocab_reason": "Too short to rate higher. Band 6 default.",
+        "grammar_reason": "Error free but minimal. Band 6.",
+        "vocabulary": 6,
+        "grammar": 6
+    },
+    {
+        "id": 0, "sample_id": "C9m32YZRBoM_q04", "video_id": "C9m32YZRBoM", "part": 1,
+        "question": "Tell me about this class.",
+        "transcript": "On top of it some like dance cues and dance movements and and songs and things like just make all this class like pilates class a little bit more interesting and more Dynamic so I think that it is a really really nice really nice thing that she did and she created so I am quite proud of her and I actually did a class and I quite enjoyed so yeah I believe that she is really really smart and she can grow in this field where she is started going and she is digging that now thank you that is.",
+        "word_count": 94,
+        "analysis_metadata": {
+            "grammar_error_patterns": ["tense_aspect"],
+            "grammar_error_frequency": "rare",
+            "vocab_collocation_usage": "idiomatic",
+            "vocab_evidence": ["dance cues", "dynamic", "digging that", "on top of it"],
+            "grammar_structures_used": ["compound_complex", "relative_clauses"]
+        },
+        "micro_flaws": {
+            "grammar": ["tense_choice"],
+            "vocabulary": ["repetition"]
+        },
+        "vocab_control": {
+            "appropriateness": "accurate",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "moderate_high",
+            "accuracy_level": "controlled",
+            "flexibility": "moderate",
+            "error_density": "low"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "moderate",
+            "development_depth": "detailed"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "'where she is started going' -> 'has started going'.",
+                "why_not_7": "Good complexity."
+            },
+            "vocabulary": {
+                "why_not_9": "Repetition of 'really nice', 'like'.",
+                "why_not_7": "'Digging that' (idiom), 'Dynamic', 'cues'. Strong 7/8."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 7,
+            "grammar_text": "Produces frequent error-free sentences.",
+            "vocabulary_band": 8,
+            "vocabulary_text": "Skilful use of less common and idiomatic items."
+        },
+        "vocab_reason": "'Digging that', 'Dynamic', 'cues'. Very natural. Band 8.",
+        "grammar_reason": "Mostly error free, minor slip in 'she is started'. Band 7.",
+        "vocabulary": 8,
+        "grammar": 7
+    },
+    {
+        "id": 0, "sample_id": "C9m32YZRBoM_q05", "video_id": "C9m32YZRBoM", "part": 3,
+        "question": "How can governments help scientists?",
+        "transcript": "Something new and new typ new types of lighting new types of poses new new types of models am I going to be the new like avidon or Mario testino I do not know but I am I am I am trying as you said like at the beginning like how to manage my time so yeah I have to plan ahead I have to plan my time I have to do everything because I want to get there so yeah I think it is a lot of planning plus a free time for you to you know feel that inside you and and and have new ideas as a creative person you need free time and how can governments help scientists and innovators of their countries giving them money a lot of money and incentives and I think yeah that is a good start but of course they could introduce these topics like in school for example they could create incentives in school to to for these students like to be more creative maybe some classes towards that field you know like to be more creative to be more Innovative Innovative so yeah I think they could help with money and inant at what age do children learn to form their own opinions and make decisions well I am not a specialist but I have lots of siblings so I am the oldest so I could see them growing up I believe like from F five years they start getting like very how can I say you could see that is a little person so they they have a they start developing a strong personality so I think from five yeah I think it is it is nice it is it is a it is a it is a good time.",
+        "word_count": 269,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["plan ahead", "incentives", "innovative", "developing a strong personality"],
+            "grammar_structures_used": ["modals", "infinitives_of_purpose", "complex_sentences"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": ["mild_repetition"]
+        },
+        "vocab_control": {
+            "appropriateness": "accurate",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "moderate_high",
+            "accuracy_level": "high",
+            "flexibility": "moderate_high",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "moderate",
+            "development_depth": "detailed"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "High fluency but reliance on 'like' and 'so yeah' reduces the formal control needed for 9.",
+                "why_not_7": "Strong control."
+            },
+            "vocabulary": {
+                "why_not_9": "Repetition of 'money', 'creative'.",
+                "why_not_7": "'Incentives', 'innovative', 'developing a strong personality'. Strong."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 7,
+            "grammar_text": "Produces frequent error-free sentences.",
+            "vocabulary_band": 8,
+            "vocabulary_text": "Uses a wide vocabulary resource readily and flexibly to convey precise meaning."
+        },
+        "vocab_reason": "Good range ('incentives', 'innovative'). Band 8.",
+        "grammar_reason": "Error free but informal style. Band 7.",
+        "vocabulary": 8,
+        "grammar": 7
+    },
+
+    # Video: -rh-XeX86fs (Band 9.0)
+    {
+        "id": 0, "sample_id": "-rh-XeX86fs_q02", "video_id": "-rh-XeX86fs", "part": 2,
+        "question": "Describe a time you learned something new.",
+        "transcript": "Move on to talk about cycling did you learn riding a bicycle when you were a child I did learn when I was a child and my older brother Ali taught me how to ride a bike I fell a couple of times and I remember that he slapped me on my face and that slap in the face gave me the motivation to try to learn riding a bicycle and what do you think are the benefits of riding a bicycle for a child for a child for a child it improves your physical abilities preparedness and as we have this idiom in Persian that a sound mind and Healthy Mind lies in a healthy body so if you cycle if you ride a bicycle you have a healthy physique and then you are going to have a healthy mind and is it it safe to ride bicycles on the roads on the roads it depends on the settings of urban Landscapes and urban areas if the municipality thinks of ways to allow this for people to ride on on the roads it is going to be perfect because it is going to reduce air pollution encouraging people to ride a bicycle instead of driving a car that will lead to a cleaner environment.",
+        "word_count": 204,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "sophisticated",
+            "vocab_evidence": ["urban landscapes", "municipality", "reduce air pollution", "healthy physique", "sound mind"],
+            "grammar_structures_used": ["conditionals", "complex_sentences", "idiomatic_phrasing"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "precise",
+            "risk_level": "high",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "extended"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "N/A - This is Band 9 control.",
+                "why_not_7": "Far superior complexity."
+            },
+            "vocabulary": {
+                "why_not_9": "N/A - 'Urban landscapes', 'municipality', 'healthy physique'.",
+                "why_not_7": "Precise and sophisticated."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision in all topics."
+        },
+        "vocab_reason": "Sophisticated topic vocabulary ('urban landscapes', 'physique') and idioms ('sound mind'). Band 9.",
+        "grammar_reason": "Complex, error-free, natural flow. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    },
+    {
+        "id": 0, "sample_id": "-rh-XeX86fs_q03", "video_id": "-rh-XeX86fs", "part": 1,
+        "question": "Are you good at math?",
+        "transcript": "I am good at math I am good at some formulas but I am not good at like numbers memorizing them especially as I try to remind myself that sometimes in my in the course of my career as a journalist I have to come up with numbers more than seven digits and that I find really difficult",
+        "word_count": 56,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["in the course of my career", "memorizing", "seven digits"],
+            "grammar_structures_used": ["relative_clauses", "participle_phrases"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "accurate",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "moderate_high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "adequate"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Perfect control.",
+                "why_not_7": "Complex structure ('especially as I try to remind myself that...')."
+            },
+            "vocabulary": {
+                "why_not_9": "Good use of 'in the course of my career'.",
+                "why_not_7": "Natural."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 8,
+            "vocabulary_text": "Skilful use of less common and idiomatic items."
+        },
+        "vocab_reason": "Precise. Band 8.",
+        "grammar_reason": "Flawless complex sentence structure. Band 9.",
+        "vocabulary": 8,
+        "grammar": 9
+    },
+    {
+        "id": 0, "sample_id": "-rh-XeX86fs_q04", "video_id": "-rh-XeX86fs", "part": 3,
+        "question": "Why are jokes important?",
+        "transcript": "Said that Donald Trump does not know geography perhaps he has to go back to school and try to learn geography again and then all of those jokes about Donald Trump were really amusing to me and then yes U when you go to social media social media one of the reasons why social media is attractive to a lot of people is the jokes that are made by Ordinary People who are active on social media and the fact that the jobes come from the heart of society by people who you all the time speak to and interact to interact with and engage yourself and your life with most of the times so those jokes are produced genuinely so those jokes speak to your heart and speak to your mind because they are originated from the hearts and Minds of ordinary people in society.",
+        "word_count": 147,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "sophisticated",
+            "vocab_evidence": ["heart of society", "engage yourself", "genuinely", "originated from", "amusing"],
+            "grammar_structures_used": ["passive_voice", "relative_clauses", "parallelism"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "precise",
+            "risk_level": "high",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "deep"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Excellent control of long, complex sentences.",
+                "why_not_7": "Superior flow and structure."
+            },
+            "vocabulary": {
+                "why_not_9": "Metaphorical language 'heart of society', 'speak to your mind'.",
+                "why_not_7": "Precise."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision."
+        },
+        "vocab_reason": "Sophisticated, metaphorical, and precise ('genuinely', 'originated'). Band 9.",
+        "grammar_reason": "Sustained control of very complex structures. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    },
+    {
+        "id": 0, "sample_id": "-rh-XeX86fs_q05", "video_id": "-rh-XeX86fs", "part": 3,
+        "question": "Do people spend too much time on apps?",
+        "transcript": "Media and do you think people spend too much time on these apps of course I think the answer to this question is embedded within the answer to the previous question and people are resorting to social media more than ever because because everything they demand is inside that sphere is inside that area of social media so everything you want to do even sometimes checking your back accounts you need to go and to your cell phone and investigate the recent messages on your account app so that is why we we refer to it a lot of times today and what kind of apps do young people use most ly in your country a wide range of apps with different applications apps come from the word application so they have to have a specific application some sports apps apps that act as Library involving some books W which you can go and shuffle through the books and find your favorite topics and favorite genres of books and even some apps that that teach you some languages like dualingo which is now becoming very popular among the youngsters and should children be encouraged to study through educational apps on phone of course as a person who is involved in the society I think that the future of society is all about applications and cell phones smartphones and with the emergence of U some creative applications and even CH GPT for example we can see a growing Trend towards a better application applications that applications that involve teaching children new things and even their textbooks so I think yes children should be encouraged to at least learn how to use those applications because the future is all.",
+        "word_count": 273,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "sophisticated",
+            "vocab_evidence": ["embedded within", "resorting to", "emergence of", "growing trend", "sphere", "genres"],
+            "grammar_structures_used": ["nominalization", "complex_sentences"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "precise",
+            "risk_level": "high",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "extended"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Maintains control over long discourse.",
+                "why_not_7": "Superior complexity."
+            },
+            "vocabulary": {
+                "why_not_9": "'embedded within', 'resorting to', 'sphere'. Academic and precise.",
+                "why_not_7": "High level academic lexis."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision in all topics."
+        },
+        "vocab_reason": "High-level academic vocabulary used naturally ('embedded within', 'resorting to'). Band 9.",
+        "grammar_reason": "Complex and accurate. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    },
+
+    # Video: kLlmEIIipoY (Band 7.5)
+    {
+        "id": 0, "sample_id": "kLlmEIIipoY_q05", "video_id": "kLlmEIIipoY", "part": 3,
+        "question": "How has sharing photos changed?",
+        "transcript": "Online course free courses but they are just they are not actually courses by you can just see how other people H take pictures you can emulate them and so you can easily learn how to take a good picture so it is not essential to take a very costly costly course right yeah and how has sharing photographs changed since your grandparents time oh well H that is a very interesting question because my grand my grandparents did not have all the technology that I have so the first thing that comes to my mind is that we have a a lot of opportunities to share with friends or family by phone for example or either on Instagram or Facebook we are really surrounded by millions of devices so it is very very easy to share everything you want nowadays and yes oh okay now do you think that people nowadays spend too much time taking photographs yes I think so because when we go on a trip H sometimes I think we we forget about the the place we are and probably we do not even enjoy totally the place but we are just pay attention to take pictures and probably we lose something more important like just enjoying the place and the presence the presence of our family or friends so yes it is a little bit sad if I have to be honest but this is the reality unfortunately okay thanks very much.",
+        "word_count": 234,
+        "analysis_metadata": {
+            "grammar_error_patterns": ["preposition_choice", "verb_agreement"],
+            "grammar_error_frequency": "occasional",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["emulate", "costly course", "surrounded by", "pay attention to"],
+            "grammar_structures_used": ["modals", "causal_clauses"]
+        },
+        "micro_flaws": {
+            "grammar": ["stylistic_fragment"],
+            "vocabulary": ["mild_repetition"]
+        },
+        "vocab_control": {
+            "appropriateness": "accurate",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "moderate",
+            "accuracy_level": "controlled",
+            "flexibility": "moderate",
+            "error_density": "low"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "moderate",
+            "development_depth": "adequate"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Some hesitations and basic structures ('so it is...', 'so yes it is...').",
+                "why_not_7": "Generally error free."
+            },
+            "vocabulary": {
+                "why_not_9": "Repetition of 'place', 'share'.",
+                "why_not_7": "'Emulate' is a strong word."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 7,
+            "grammar_text": "Produces frequent error-free sentences.",
+            "vocabulary_band": 7,
+            "vocabulary_text": "Uses a sufficient range of vocabulary to allow some flexibility and precision."
+        },
+        "vocab_reason": "Good range ('emulate', 'costly'), some repetition. Band 7.",
+        "grammar_reason": "Frequent error-free sentences. Band 7.",
+        "vocabulary": 7,
+        "grammar": 7
+    },
+
+    # Video: ybNEwnnIxWw (Band 9.0)
+    {
+        "id": 0, "sample_id": "ybNEwnnIxWw_q01", "video_id": "ybNEwnnIxWw", "part": 1,
+        "question": "Do you work or study?",
+        "transcript": "Let us start off with asking you do you work or do you study I work actually so I co-founded the startup it is called secure my scholarship it is an ettech platform that connects students with scholarships at universities around the world so I I work full-time longer than full-time of you may say what do you love about your job I love the impact that we create man so we give you know students that come from hardworking middleclass families or workingclass families a chance at going to the University of their dreams and personally I love that about what we do did you always want to do that job this specifically no but have I always wanted to work in something that would allow me to create an impact yes everything I have ever done in my life has been around companies with impact or with social causes and somebody once asked me if I was not with secure my scholarship what would you do and I said I would work at a nonprofit is there anything that you dislike about your job me personally no but if you ask my fiance she will tell you that I my job takes up a lot of my time and I think she hates that about my job would you like to do any other job in the future I got my hands for with secure my scholarship right now but in the future who knows you know I mean I love solving problems and helping make people's lives better and the world has a lot of issues so you know who knows.",
+        "word_count": 259,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["co-founded", "startup", "ettech platform", "social causes", "nonprofit", "got my hands full"],
+            "grammar_structures_used": ["cleft_sentences", "conditionals", "complex_sentences"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "natural",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "detailed"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Native-like naturalness.",
+                "why_not_7": "Superior flexibility."
+            },
+            "vocabulary": {
+                "why_not_9": "'got my hands full' (idiom), 'ettech', 'social causes'.",
+                "why_not_7": "Natural."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision."
+        },
+        "vocab_reason": "Very natural, idiomatic ('hands full'), and precise ('co-founded', 'nonprofit'). Band 9.",
+        "grammar_reason": "Native-like fluency and structure. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    },
+    {
+        "id": 0, "sample_id": "ybNEwnnIxWw_q02", "video_id": "ybNEwnnIxWw", "part": 1,
+        "question": "Favorite apps?",
+        "transcript": "MobileOne phone what are some of your favorite apps I use LinkedIn a lot I use a productivity tool called Asana it allows me to like track my tasks and manage my day I use slack a lot internal team communication WhatsApp obviously I mean everybody uses WhatsApp and yeah couple apps not that many I am not one of those guys with 1,500 apps on their phone I have about eight or nine apps that I use do you think that you use your phone too much Times Yes you know it is funny that you asked that before secure my scholarship myself and the same founding team we actually founded a startup called lock in stock it was a mobile app that basically rewarded you with offers and discounts for not using your phone when you were in class we wanted to kind of help students pay attention more in class learn better do better in their studies and then when they were done they could get you know buy one get one free at the pizza place or something like that so",
+        "word_count": 185,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["productivity tool", "track my tasks", "internal team communication", "founding team", "rewarded"],
+            "grammar_structures_used": ["relative_clauses", "infinitives_of_purpose"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "natural",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "detailed"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Natural.",
+                "why_not_7": "Superior flow."
+            },
+            "vocabulary": {
+                "why_not_9": "Precise tech/business vocab used naturally.",
+                "why_not_7": "Precise."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision."
+        },
+        "vocab_reason": "Precise vocabulary ('productivity tool', 'internal team communication'). Band 9.",
+        "grammar_reason": "Error free and natural. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    },
+    {
+        "id": 0, "sample_id": "ybNEwnnIxWw_q03", "video_id": "ybNEwnnIxWw", "part": 2,
+        "question": "Describe a difficult period of studies.",
+        "transcript": "To a school that made academic performance very very important everything revolved around okay do better you got to do better your grades all of that stuff much to the neglect of maybe extracurriculars or Sports I played cricket and football in high school and I remember we would not have any training practices any practice matches we would not do go to any tournaments or we would go to very few tournaments and I did not particularly like that when I was in school the focus on academics and not really on other stuff describe a period of time from your studies that was difficult I would say the hardest time during my studies that was difficult was when I was in university I think second or third year of University to go to the university that I went to it required a lot of effort I think my parents really saved to send me to University and I had to get a bunch of scholarships and all of that stuff I wanted to make the most of it but I did not quite know how to do that I was majoring in economics but I also wanted to study this class and this class and this class and all of that stuff and really make the most of my time because I was lucky to be at the University that I went to this was perhaps 2015 2016 second or third year of University it was hard because I had only a limited amount of time and had to fit all of this stuff in but I think through that experience and I came out very well through that experience I learned I think I learned time management you know just actually breaking down what I wanted to do.",
+        "word_count": 284,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "natural",
+            "vocab_evidence": ["revolved around", "neglect of", "academic performance", "extracurriculars", "majoring in", "make the most of it"],
+            "grammar_structures_used": ["past_habitual", "complex_sentences"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": ["repetition_of_stuff"]
+        },
+        "vocab_control": {
+            "appropriateness": "natural",
+            "risk_level": "moderate",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "extended"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Maintains control.",
+                "why_not_7": "Superior complexity."
+            },
+            "vocabulary": {
+                "why_not_9": "Natural collocations 'revolved around', 'neglect of'. 'Stuff' is used but in a natural native-like way.",
+                "why_not_7": "Precise."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision."
+        },
+        "vocab_reason": "Excellent collocations ('revolved around', 'neglect of', 'majoring in'). Band 9.",
+        "grammar_reason": "Sustained control. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    },
+    {
+        "id": 0, "sample_id": "ybNEwnnIxWw_q05", "video_id": "ybNEwnnIxWw", "part": 3,
+        "question": "Cost of education?",
+        "transcript": "That for free all you have to do is just click the link in the description thanks very much and let us get back to the video in an Ideal World yes I think the cost of quality education today is incredibly expensive and is rising year over-year what happens with that is that this phenomenal then prices out so many people from the middle class and the working class who are not given the same opportunities it should not be that okay only if you can afford to pay $150,000 a year you can go to a top 10 business school around the world and succeed in life I mean that is that is not fair it should not have to be that way I through secure my scholarship I remember there was this one girl two weeks ago who applied for an MBA in the USA and the cost of that MBA was like $65,000 which I mean $65,000 is a lot of money and especially when you are earning in rupees in India that is a hell of a lot of money now I mean what is her solution I mean should she give up on her dreams should she not go ahead and do it I mean what is what does she do she applied through our platform we helped her get a $25,000 scholarship to bring her fees down from $65,000 to 40,000 we cannot make it free unfortunately we are not the government we are not God or the government or whatever we cannot make it free but we can minimize it as much as we can I remember I was on a call with her and just the the look of excitement on her face when she got this because she was taking a loan to do go do her MBA and.",
+        "word_count": 305,
+        "analysis_metadata": {
+            "grammar_error_patterns": [],
+            "grammar_error_frequency": "error_free",
+            "vocab_collocation_usage": "sophisticated",
+            "vocab_evidence": ["prices out", "phenomenal", "in an ideal world", "middle class", "minimize it"],
+            "grammar_structures_used": ["cleft_sentences", "modals", "complex_sentences"]
+        },
+        "micro_flaws": {
+            "grammar": [],
+            "vocabulary": []
+        },
+        "vocab_control": {
+            "appropriateness": "precise",
+            "risk_level": "high",
+            "overextension": False
+        },
+        "anti_overrating": {
+            "triggered": False,
+            "reason": "N/A"
+        },
+        "grammar_profile": {
+            "complexity_level": "high",
+            "accuracy_level": "high",
+            "flexibility": "sustained",
+            "error_density": "error_free"
+        },
+        "discourse_metrics": {
+            "length_appropriateness": "optimal",
+            "redundancy": "low",
+            "development_depth": "extended"
+        },
+        "band_boundary": {
+            "grammar": {
+                "why_not_9": "Control is sustained.",
+                "why_not_7": "Superior complexity."
+            },
+            "vocabulary": {
+                "why_not_9": "'prices out' (phrasal verb used precisely), 'rising year over-year'.",
+                "why_not_7": "Precise."
+            }
+        },
+        "ielts_descriptor_alignment": {
+            "grammar_band": 9,
+            "grammar_text": "Uses a full range of structures naturally and appropriately.",
+            "vocabulary_band": 9,
+            "vocabulary_text": "Uses vocabulary with full flexibility and precision."
+        },
+        "vocab_reason": "Precise and sophisticated ('prices out', 'year over-year'). Band 9.",
+        "grammar_reason": "Sustained control. Band 9.",
+        "vocabulary": 9,
+        "grammar": 9
+    }
+]
+
+# Write to file (checking for duplicates)
+try:
+    existing_ids = set()
+    try:
+        with open(output_file, 'r') as f:
+            for line in f:
+                if line.strip():
+                    item = json.loads(line)
+                    existing_ids.add(item['sample_id'])
+    except FileNotFoundError:
+        pass
+
+    with open(output_file, 'a') as f:
+        count = 0
+        for sample in scored_samples:
+            if sample['sample_id'] not in existing_ids:
+                f.write(json.dumps(sample) + '\n')
+                count += 1
+
+    print(f"Append complete. Added {count} new samples. (Skipped {len(scored_samples) - count} duplicates).")
+
+except Exception as e:
+    print(f"Error writing to file: {e}")

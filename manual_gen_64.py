@@ -1,0 +1,158 @@
+import json
+
+batch_num = 64
+filename = "ielts-data/phase3/v76_review_output/synthetic_batches/batch_p1_05.jsonl"
+start_id = 201
+samples = []
+
+# Batch 64: V4/G6(10) V6/G4(10) V4/G7(10) V7/G4(10) V5/G8(10) | IDs: 0201–0250
+
+# V4 / G6 (Clothes and Fashion)
+c1_t = [
+    ("What kind of clothes do you usually wear?", "I usually wear very simple clothes like a t-shirt and blue jeans. Because I walk to my university every day, I need to wear comfortable shoes so my feet don't hurt. Although I have some nice dresses, I only wear them for special parties with my family."),
+    ("Do you spend a lot of money on clothes?", "No, I don't like to spend too much money on my clothes. If I buy a very expensive jacket, I will always worry about making it dirty. I prefer to go to cheap shops in the big mall where I can find good things for a low price."),
+    ("Do you wear different clothes now compared to when you were a child?", "Yes, my clothes are completely different now. When I was a small child, my mother always chose bright pink dresses with flowers for me to wear. Now that I am older, I prefer wearing dark colors like black and gray because they make me look much more serious."),
+    ("Are there any colors you don't like to wear?", "I really don't like wearing the color yellow. If I wear a yellow shirt, my skin looks very sick and pale in the mirror. I think dark blue or dark red looks much better on me, so I try to buy clothes in those specific safe colors."),
+    ("Do you like wearing traditional clothes?", "I enjoy wearing traditional clothes when there is a big festival in my country. The long silk dress is very beautiful, but it is quite difficult to walk fast when I wear it. I cannot wear it every day because it is too hot for normal office work."),
+    ("Where do you usually buy your clothes?", "I usually buy my clothes from a big supermarket near my house. While some people like buying famous brands online, I need to try the clothes on my body first. If the pants are too long, I can easily give them back to the shop assistant immediately."),
+    ("Do you ever buy clothes as gifts for other people?", "I almost never buy clothes as gifts for my friends. Because everyone has a different body shape, it is too easy to buy the wrong size. If I buy a shirt that is too small, my friend will feel very sad. I prefer buying simple books instead."),
+    ("Is fashion important to you?", "To be honest, fashion is not very important to me at all. I don't read fashion magazines, and I don't care what the famous actors are wearing on television. As long as my clothes are clean and warm in the winter, I am completely happy with them."),
+    ("Do you have a favorite piece of clothing?", "My favorite piece of clothing is a thick winter coat that my grandmother gave me. Even though it is very old and looks a bit ugly, it keeps me incredibly warm when it snows. I will never throw it away because it holds many happy family memories."),
+    ("What do people in your country usually wear to a wedding?", "In my country, people always wear very formal and expensive clothes to a wedding party. The men must wear a dark suit with a tie, and the women wear long, shiny dresses. If you wear casual jeans to a wedding, everyone will think you are very rude.")
+]
+for q, t in c1_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v4_g6_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 4, "grammar": 6, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "medium",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR4] Uses only basic vocabulary ('simple clothes', 'big mall', 'dark colors', 'happy family memories'). Heavy reliance on simple descriptors. Cannot paraphrase.",
+        "grammar_reason": "[GRA6] Produces a mix of simple and complex sentence forms ('Although I have some nice dresses...', 'If I buy a very expensive jacket...'). Shows better grammatical control than vocabulary range.",
+        "micro_flaws": ["vague vocabulary limits expression of complex ideas"],
+        "grammar_profile": {"complexity": "moderate", "accuracy": "controlled", "flexibility": "moderate"},
+        "output": "## Vocabulary (Lexical Resource): Band 4\n\n**Reasoning:** [LR4] Uses basic vocabulary exclusively. Cannot paraphrase effectively.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 6\n\n**Reasoning:** [GRA6] Mix of simple and complex structures, with noticeable but non-impeding errors."
+    })
+    start_id += 1
+
+# V6 / G4 (Food and Diet)
+c2_t = [
+    ("What is your favorite meal of the day?", "My favorite meal it is the dinner time. I coming home very tired from the office. My mother she cooking the hot rice and chicken for me. I eating it very fast because I am so hungry. The dinner it making me feel very happy and full."),
+    ("Do you like to eat out in restaurants?", "Yes, I liking to eat in the restaurant on the weekend. The waiter he bringing the delicious food to the table. I not needing to wash the dirty plates after I finish. But the restaurant it is very expensive so I only going there one time every month."),
+    ("What food did you dislike when you were a child?", "When I was a small child, I completely hating the green vegetables. My father he forcing me to eat the broccoli, but I crying very loud. The taste it being very bitter and terrible for me. Now I am older, I eating them for my healthy body."),
+    ("Do you usually eat healthy food?", "I trying to eat the healthy food everyday. I buying the fresh apple and banana from the local market. But sometimes the sweet chocolate it looking very good. When I feeling sad, I eating too much sugar candy. This bad habit it making me gain the fat."),
+    ("Are there any foods that you are allergic to?", "Yes, I having a bad allergy to the seafood. If I eating the small shrimp, my face it becoming very red and itchy. I must going to the hospital quickly to get the medicine. Therefore, I never ordering the fish when I eating at the restaurant."),
+    ("Do you prefer eating spicy or mild food?", "I strongly preferring the spicy food very much. The hot chili it burning my mouth, but the feeling it is very exciting. If the soup it not having the red pepper, I thinking the taste is completely boring. The spicy flavor it waking me up in the morning."),
+    ("How often do you cook for yourself?", "I cooking my own food maybe two times a week. Because I working late, I usually buying the fast food on the street. When I having free time on Sunday, I boiling the pasta and tomato sauce. My cooking skill it is not very good, but it is cheap."),
+    ("What is a popular dish in your hometown?", "The most popular dish it is the hot beef noodle soup. Every morning, the people they standing in a long line to buy it. The chef he cooking the meat for many hours so it is very soft. The warm soup it is perfect for the cold winter day."),
+    ("Do you drink a lot of water every day?", "I always carrying a big bottle of water in my bag. The doctor he telling me to drink two liters everyday. If I not drinking enough, my head it hurting very badly in the afternoon. The clean water it helping my skin to look very fresh and young."),
+    ("Have you ever tried food from another country?", "I trying the Japanese pizza last year with my friends. The strange cheese it tasting very different from my local food. The foreign chef he putting the raw fish on top of the bread. I not really liking it because the strong smell it making my stomach feel sick.")
+]
+for q, t in c2_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v6_g4_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 6, "grammar": 4, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "medium",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR6] Uses an adequate range of vocabulary with some less common items ('delicious', 'bitter', 'allergy', 'spicy flavor'). Meaning is clear despite grammatical errors.",
+        "grammar_reason": "[GRA4] Only basic sentence forms are used. Frequent and systematic errors in basic structures, specifically missing 'be' verbs ('I coming', 'she cooking', 'it making') and double subjects ('mother she').",
+        "micro_flaws": ["systematic missing auxiliary: 'I eating', 'it making'", "double subjects: 'meal it', 'waiter he'"],
+        "grammar_profile": {"complexity": "basic", "accuracy": "variable", "flexibility": "limited"},
+        "output": "## Vocabulary (Lexical Resource): Band 6\n\n**Reasoning:** [LR6] Uses an adequate range of vocabulary with some less common items successfully.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 4\n\n**Reasoning:** [GRA4] Frequent and systematic errors in basic structures. Only basic sentence forms are recognizable."
+    })
+    start_id += 1
+
+# V4 / G7 (Daily Routine)
+c3_t = [
+    ("When do you usually wake up in the morning?", "I usually wake up very early because I have to go to my office. If I stay in my warm bed for too long, I will miss the fast train. Although I feel very tired when it is dark outside, I always drink hot coffee to open my sleepy eyes."),
+    ("What is your favorite time of the day?", "My favorite time is the evening when I can finally sit on my soft sofa. Since I have finished all my hard work, I don't need to think about my angry boss anymore. I can just watch a funny movie and eat some hot food with my happy family."),
+    ("Do you have a busy daily routine?", "Yes, my daily routine is very busy from the morning until the night. Because I am a student and I also work in a small shop, I never have time to play with my friends. If I don't write my plan in a book, I will forget my homework."),
+    ("Has your daily routine changed much recently?", "My routine has changed a lot since I moved to this big city last month. Before, I had a lot of free time to walk in the green park. Now, the long bus journey takes two hours every day, which makes me feel very angry and completely exhausted."),
+    ("Do you think it is important to have a daily routine?", "I believe that having a good plan is very important for a healthy life. If a person goes to sleep at a different time every night, their head will hurt the next day. A strong routine helps you finish your heavy work quickly so you can go home early."),
+    ("What do you usually do on the weekends?", "On the weekends, I try to sleep for a very long time to rest my tired body. When I finally wake up, I clean my dirty room and wash my old clothes. Even though doing the house chores is very boring, it makes my small apartment feel much nicer."),
+    ("Do you like to plan your day in advance?", "I always plan my next day before I go to sleep at night. If I know exactly what I need to buy at the supermarket, I will not waste my small amount of money. This simple habit stops me from feeling scared or worried about the busy morning."),
+    ("Are you a morning person or an evening person?", "I am definitely an evening person because I like the quiet dark time. While my friends feel very fresh in the morning, I can only do my best thinking after the sun goes down. The loud noise of the early street makes me feel very sick and angry."),
+    ("What would you like to change about your daily routine?", "I would love to have more time to read my simple story books. Because my teacher gives me too much math homework, I never open my favorite paper books anymore. If the school gave us less work, I could read a nice story before I close my eyes at night."),
+    ("How do you relax at the end of a busy day?", "To relax after a long day, I always take a very hot shower in my bathroom. The warm water washes all the dirt from the city off my tired skin. After I finish washing, I sit quietly and drink cold water while listening to the birds outside my window.")
+]
+for q, t in c3_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v4_g7_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 4, "grammar": 7, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "low",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR4] Uses basic vocabulary exclusively ('warm bed', 'angry boss', 'dirty room'). Cannot paraphrase effectively.",
+        "grammar_reason": "[GRA7] Produces frequent error-free complex sentences ('Although I feel very tired...', 'Since I have finished all my hard work...'). Shows good flexibility with high accuracy.",
+        "micro_flaws": ["vague vocabulary limits expression of complex ideas"],
+        "grammar_profile": {"complexity": "high", "accuracy": "high", "flexibility": "high"},
+        "output": "## Vocabulary (Lexical Resource): Band 4\n\n**Reasoning:** [LR4] Uses basic vocabulary exclusively. Cannot paraphrase effectively.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 7\n\n**Reasoning:** [GRA7] Produces frequent error-free complex sentences. Shows good flexibility with high accuracy."
+    })
+    start_id += 1
+
+# V7 / G4 (Technology and Gadgets)
+c4_t = [
+    ("How often do you use your mobile phone?", "I utilizing my smartphone constantly throughout the entire demanding workday. The sophisticated business applications they allowing me to communicate with my international clients instantly. But the bright digital screen it severely hurting my tired eyes after many long hours. Therefore, I trying to totally disconnecting from technology during the quiet weekend."),
+    ("Has technology made your life easier?", "The modern digital technology it absolutely revolutionizing my chaotic daily routine. Because the convenient banking applications they facilitating instant financial transfers, I rarely visiting the traditional physical bank anymore. However, the relentless barrage of urgent notifications it frequently triggering severe psychological anxiety. It being a very complicated paradox for modern workers."),
+    ("Do you prefer using a laptop or a desktop computer?", "I strongly preferring the lightweight portability of a modern laptop computer. When I traveling extensively for corporate meetings, I effortlessly carrying the slim device in my small leather briefcase. The bulky, traditional desktop computers they remaining completely stationary, which severely restricting my necessary professional mobility during crucial business trips."),
+    ("What is your favorite software application?", "My favorite software it being a highly sophisticated digital photography editor. The complex digital tools they enabling me to manipulate the vibrant colors and shadows of my amateur photographs remarkably well. Even though the subscription fee it being somewhat exorbitant, the incredible creative freedom it providing justifies the substantial financial cost."),
+    ("Do you think children spend too much time on digital devices?", "The younger generation they unfortunately spending an excessive, alarming amount of time staring at digital screens. The highly addictive video games they completely monopolizing their short attention spans. If the parents they not strictly regulating this passive electronic consumption, the children they inevitably suffering from delayed cognitive and physical development."),
+    ("How do you usually learn to use a new piece of technology?", "Whenever I acquiring an unfamiliar electronic gadget, I systematically consulting comprehensive online video tutorials. The detailed visual demonstrations they clarifying the incredibly obscure technical instructions far better than a boring, printed manual. The enthusiastic internet community they constantly uploading helpful troubleshooting guides that quickly resolving any frustrating software glitches."),
+    ("Do you think robots will replace human workers in the future?", "I firmly believing that autonomous robotic systems they inevitably replacing many repetitive, manual human occupations. The highly efficient automated machines they never requiring paid vacations or complaining about exhausting overtime hours. Consequently, the massive multinational corporations they eagerly integrating these robotic solutions to drastically maximizing their long-term corporate profits."),
+    ("Are you worried about internet privacy?", "The alarming prevalence of corporate data harvesting it making me incredibly paranoid about my personal internet privacy. The massive social media conglomerates they covertly tracking our most intimate browsing habits to aggressively displaying targeted advertisements. I frequently installing complex encryption software because I absolutely refusing to surrender my confidential digital footprint."),
+    ("Have you ever bought something online that turned out to be a scam?", "I unfortunately purchasing a supposedly authentic luxury watch from a highly suspicious, fraudulent website last year. When the cheap, plastic counterfeit item it finally arriving, I immediately realizing I was the victim of an elaborate digital scam. The deceptive online vendors they completely ignoring my angry emails demanding a full financial refund."),
+    ("How has technology changed the way we listen to music?", "The widespread proliferation of digital streaming platforms it entirely decimating the traditional physical music industry. Because the convenient phone applications they offering instantaneous access to millions of diverse songs, the fragile compact discs they quickly becoming completely obsolete. The struggling independent musicians they finding it incredibly difficult to generating sustainable revenue now.")
+]
+for q, t in c4_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v7_g4_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 7, "grammar": 4, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "medium",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR7] Good range of less common vocabulary ('sophisticated', 'paradox', 'monopolizing', 'obsolete'). Paraphrasing is effective.",
+        "grammar_reason": "[GRA4] Frequent and systematic errors in basic structures ('I utilizing', 'technology it absolutely revolutionizing', 'applications they allowing'). Only basic sentence forms are recognizable due to severe structural errors.",
+        "micro_flaws": ["systematic missing copula: 'I utilizing'", "systematic double subjects: 'applications they'"],
+        "grammar_profile": {"complexity": "basic", "accuracy": "variable", "flexibility": "limited"},
+        "output": "## Vocabulary (Lexical Resource): Band 7\n\n**Reasoning:** [LR7] Good range of less common vocabulary used with some flexibility and style awareness.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 4\n\n**Reasoning:** [GRA4] Frequent and systematic errors in basic structures. Only basic sentence forms are recognizable."
+    })
+    start_id += 1
+
+# V5 / G8 (Sports and Exercise)
+c5_t = [
+    ("Do you play any sports?", "I occasionally play a friendly game of tennis with my neighbor, provided that the weather is bright and sunny. Had I started taking lessons when I was a much younger child, I would probably be much better at hitting the fast ball today. Now, I mostly just play to get some basic physical exercise on the weekend."),
+    ("Is exercising important to you?", "Exercising is incredibly important to me because it stops me from feeling sick and tired during my long work hours. Were I to stop going for my daily run in the local park, my heavy legs would definitely become very weak. Doing simple exercises keeps my heart strong and helps me sleep deeply every single night."),
+    ("What is the most popular sport in your country?", "The most popular sport is definitely football, as almost everyone watches the big matches on television. Whenever the national team is playing an important game, the city streets become completely empty because people are gathered in the small bars to watch. It brings the whole country together in a very happy and noisy celebration."),
+    ("Do you prefer watching sports or playing them?", "I much prefer actually playing sports rather than just sitting lazily on the sofa watching other people run. Unless I am actively moving my body and sweating, I quickly become very bored by staring at the small television screen. Playing a game yourself gives you a much better feeling of success than just watching."),
+    ("Have you ever been to a live sports match?", "I went to a massive live football match last year, which was an incredibly crazy and noisy experience. Even though our team played very badly and lost the game, singing the loud songs with thousands of other fans was totally unforgettable. I would absolutely love to go to another big stadium in the near future."),
+    ("Do you think children should play sports at school?", "It is absolutely necessary that schools force children to play sports outside in the fresh air. Given that young kids spend too much time playing simple games on their phones, they desperately need to run around to build strong bones. If they learn to enjoy exercise early, they will remain healthy when they grow up."),
+    ("What kind of exercise do you usually do?", "I usually do very simple exercises like swimming in the public pool or riding my old bicycle. By choosing activities that don't hurt my knees, I can easily maintain my fitness without needing to visit an expensive doctor. This gentle routine is perfectly suited for my somewhat lazy personality and busy daily life."),
+    ("Did you enjoy physical education classes when you were younger?", "When I was younger, I really hated the strict physical education classes because I was very slow and weak. The angry teacher always made us run in the freezing rain, which I found to be a terrible punishment rather than fun. Had the games been more relaxed, I might have enjoyed the lessons much more."),
+    ("How do people in your city usually keep fit?", "Many people in my busy city keep fit by walking quickly through the crowded parks in the early morning. Instead of paying for a highly expensive gym membership, they use the free outdoor equipment provided by the local government. It is a very cheap and highly effective way to stay healthy before going to the office."),
+    ("Are there any new sports you would like to try?", "I would really like to try learning how to surf on the big ocean waves next summer. Provided I can find a patient teacher who won't laugh at my mistakes, I think standing on the fast water would be thrilling. Even if I fall down many times, the cold water will make it a fun adventure.")
+]
+for q, t in c5_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v5_g8_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 5, "grammar": 8, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "low",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR5] Vocabulary is adequate but relies heavily on simple, everyday terms ('fast ball', 'heavy legs', 'noisy celebration', 'angry teacher'). Lacks precision.",
+        "grammar_reason": "[GRA8] Wide range of structures used flexibly and accurately ('Provided that the weather is bright', 'Had I started taking lessons', 'Were I to stop'). The majority of sentences are error-free.",
+        "micro_flaws": ["basic vocabulary limiting the expression of complex ideas"],
+        "grammar_profile": {"complexity": "very_high", "accuracy": "high", "flexibility": "very_high"},
+        "output": "## Vocabulary (Lexical Resource): Band 5\n\n**Reasoning:** [LR5] Vocabulary is adequate but relies on basic, everyday terms.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 8\n\n**Reasoning:** [GRA8] Wide range of structures used flexibly and accurately. The majority of sentences are error-free."
+    })
+    start_id += 1
+
+with open(filename, 'w', encoding='utf-8') as f:
+    for s in samples:
+        f.write(json.dumps(s) + '\n')
+print(f"Batch {batch_num} written natively.")

@@ -1,0 +1,100 @@
+import json
+
+batch_num = 70
+filename = "ielts-data/phase3/v76_review_output/synthetic_batches/batch_p1_11.jsonl"
+start_id = 484
+samples = []
+
+# Batch 70: V5/G7(10) V7/G5(10) V6/G8(10) | IDs: 0484–0513 (Total 30 samples)
+
+# V5 / G7 (Hobbies and Media)
+c1_t = [
+    ("What kind of television programs do you usually watch?", "I usually watch simple comedy programs on the television because they make me laugh after a very long, difficult day. Although I sometimes try to watch the serious news, it always makes me feel too sad and worried about the world. Watching funny shows is definitely my favorite way to relax."),
+    ("Do you prefer reading books or watching movies?", "If I have the choice, I absolutely prefer watching action movies over reading long books. Because the fast pictures and loud music capture my attention immediately, I never feel bored or sleepy. While reading is very good for your brain, it simply requires too much quiet energy for me."),
+    ("How often do you go to the cinema?", "I probably go to the big cinema about once every two months with my best friends. Since the tickets and the sweet popcorn have become extremely expensive recently, we only go when a very famous movie is playing. It is a special treat rather than a normal weekly habit."),
+    ("What is your favorite type of music?", "My favorite type of music is definitely fast pop music because it has a very strong, happy beat. Whenever I am driving my small car to the busy office, I play it very loudly to wake myself up. Even though the words are very simple, the music makes me feel great."),
+    ("Have you ever been to a live music concert?", "Yes, I went to a large outdoor music concert last summer, and it was an incredibly exciting experience. Although it rained heavily and my clothes got completely wet, jumping and singing with thousands of other happy fans was unforgettable. I would definitely love to go to another one soon."),
+    ("Do you play any musical instruments?", "No, unfortunately, I do not know how to play any musical instruments at all. When I was a young student, I tried to learn the guitar, but my fingers were far too slow and clumsy. Had I practiced every single day, I might have become quite good at it."),
+    ("How do you usually spend your free time on weekends?", "During the weekend, I generally try to spend as much time outside in the fresh air as possible. Provided that the weather is warm and sunny, I enjoy riding my bicycle slowly around the large city park. It completely clears my busy mind after sitting in the office all week."),
+    ("Do you like playing video games?", "I occasionally enjoy playing simple video games on my mobile phone when I am waiting for the bus. However, if I play them for more than twenty minutes, my eyes begin to hurt terribly. I really don't understand how some young children can play them for five hours straight."),
+    ("Have your hobbies changed since you were younger?", "My hobbies have definitely changed quite significantly since I was a teenager. Before, I loved playing team sports like basketball with my school friends every afternoon. Now, because I am always so tired from working, my only real hobby is cooking quiet, simple dinners in my own kitchen."),
+    ("Do you think it is important to have a hobby?", "It is absolutely essential for every person to have a relaxing hobby to escape from their daily stress. Unless you have an activity that makes you feel genuinely happy and peaceful, you will eventually become very sick from working too hard. Hobbies bring much-needed balance to our busy lives.")
+]
+for q, t in c1_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v5_g7_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 5, "grammar": 7, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "low",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR5] Vocabulary is adequate but relies on basic, everyday terms ('simple comedy', 'fast pictures', 'sweet popcorn').",
+        "grammar_reason": "[GRA7] Produces frequent error-free complex sentences ('Although I sometimes try...', 'Unless you have an activity...'). Shows good flexibility with high accuracy despite simple vocabulary.",
+        "micro_flaws": ["vocabulary is noticeably simpler than the grammar structures used"],
+        "grammar_profile": {"complexity": "high", "accuracy": "high", "flexibility": "high"},
+        "output": "## Vocabulary (Lexical Resource): Band 5\n\n**Reasoning:** [LR5] Vocabulary is adequate but relies on basic, everyday terms.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 7\n\n**Reasoning:** [GRA7] Produces frequent error-free complex sentences. Shows good flexibility with high accuracy."
+    })
+    start_id += 1
+
+# V7 / G5 (Food and Health)
+c2_t = [
+    ("What is your absolute favorite type of food?", "I thoroughly enjoying the incredibly spicy, authentic cuisine from the northern region of my country. The exceptionally complex, bold flavors they constantly stimulating my palate in a wonderful way. Whenever I feeling slightly miserable, consuming a massive bowl of that fiery curry it instantly elevating my overall mood."),
+    ("How often do you dine out at restaurants?", "I frequently dining out at various independent bistros during the incredibly chaotic work week. Because my exhausting corporate job it leaving me with absolutely zero energy to cook, I heavily relying on professional chefs. However, the exorbitant financial cost of eating out it severely damaging my monthly budget."),
+    ("What factors do you consider when choosing a restaurant?", "The paramount factor I always considering is the overall authenticity and hygiene of the specific establishment. If the dining room it looking somewhat dilapidated or the waitstaff they seeming miserable, I immediately walking out. A meticulously clean, welcoming ambiance it being just as crucial as the actual culinary quality."),
+    ("Have you ever attempted to cook a complicated foreign dish?", "I recently attempting to prepare an elaborate, traditional French risotto in my own kitchen. Unfortunately, the delicate arborio rice it burning completely because I accidentally leaving the hot stove unattended. It being an incredibly frustrating, humiliating culinary disaster that proving I desperately needing more practical cooking experience."),
+    ("Do you prefer consuming spicy or sweet foods?", "I strongly preferring intensely savory and spicy foods over anything that is overly sweet. The cloying sweetness of rich chocolate desserts it frequently overwhelming my palate entirely. Conversely, the sharp, vibrant heat of fresh chili peppers it providing a thrilling gastronomic experience that I constantly craving."),
+    ("Is maintaining a healthy diet important to you?", "Maintaining a highly nutritious, perfectly balanced diet it becoming an absolute priority for me recently. I actively avoiding heavily processed, artificial ingredients because they inevitably causing me to feel incredibly sluggish. Incorporating an abundance of fresh, organic vegetables it significantly boosting my daily cognitive focus immensely."),
+    ("What is a highly traditional dish from your hometown?", "My picturesque coastal hometown it being internationally famous for a deeply fragrant, slow-cooked seafood chowder. The local fishermen they catching the magnificent ingredients early in the morning, guaranteeing absolute freshness. Every time I tasting that rich broth, it immediately evoking a profound, nostalgic longing for my childhood."),
+    ("Do you enjoy trying completely unfamiliar, exotic foods?", "I possessing a remarkably adventurous palate, so I enthusiastically embracing any opportunity to sample highly unusual delicacies. When I traveling abroad, tasting the bizarre, unfamiliar street food it acting as the ultimate cultural immersion. Even if the strange texture it initially repulsing me, I appreciating the educational experience."),
+    ("How has the immense popularity of fast food impacted your country's diet?", "The relentless proliferation of ubiquitous fast-food chains it tragically destroying our traditional dietary habits. Because the younger generation they constantly consuming these cheap, highly addictive meals, the alarming rate of childhood obesity it skyrocketing uncontrollably. This severe nutritional crisis it demanding immediate, robust government intervention to educate the public."),
+    ("Do you ever watch competitive cooking shows on television?", "I occasionally watching the intense, highly competitive culinary programs broadcast on the television. Observing the phenomenal, Michelin-starred chefs they miraculously transforming raw ingredients into exquisite artistic masterpieces it being incredibly fascinating. However, their sophisticated techniques they being far too intimidating for an amateur cook to actually replicate.")
+]
+for q, t in c2_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v7_g5_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 7, "grammar": 5, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "medium",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR7] Good range of less common vocabulary ('authentic cuisine', 'exorbitant financial cost', 'dilapidated', 'cultural immersion').",
+        "grammar_reason": "[GRA5] Attempts complex structures but with frequent, systematic errors ('I thoroughly enjoying', 'flavors they constantly stimulating', 'job it leaving'). Relies heavily on incorrect present participle forms without the auxiliary verb and double subjects.",
+        "micro_flaws": ["systematic missing auxiliary: 'I eating'", "double subjects: 'job it', 'staff they'"],
+        "grammar_profile": {"complexity": "basic", "accuracy": "controlled", "flexibility": "limited"},
+        "output": "## Vocabulary (Lexical Resource): Band 7\n\n**Reasoning:** [LR7] Good range of less common vocabulary used with some flexibility and style awareness.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 5\n\n**Reasoning:** [GRA5] Attempts complex structures but shows frequent, systematic errors in basic verb forms."
+    })
+    start_id += 1
+
+# V6 / G8 (City and Living)
+c3_t = [
+    ("How long have you lived in your current city?", "I have resided in this incredibly vibrant city for exactly five years now. Had I not accepted a scholarship at the local university, I probably would have remained in my quiet hometown forever. Moving here was undeniably the most significant and rewarding decision I have ever made."),
+    ("What do you dislike most about living in a large city?", "The aspect I dislike the most is undoubtedly the severe, unrelenting traffic congestion during the morning commute. Provided that you leave your apartment before seven o'clock, the journey is manageable, but otherwise, you are trapped. Sitting in a stationary vehicle makes me feel incredibly anxious and frustrated."),
+    ("Are there many public parks in your neighborhood?", "Yes, there are several beautifully maintained public parks located just a short walk from my apartment. Were the local government to stop funding these essential green spaces, the entire neighborhood would become a concrete nightmare. They provide a vital, peaceful sanctuary away from the noisy, polluted main streets."),
+    ("How has your city changed over the last few years?", "The city has undergone a remarkably rapid transformation, particularly regarding its commercial architecture. Over the past three years, countless old, historic buildings have been completely demolished to make way for massive, shiny shopping malls. While this modernization creates new jobs, it also destroys the unique, traditional character of the area."),
+    ("Do you think your city is a good place for young children?", "I genuinely believe it is a fantastic place for young children to grow up, provided their parents are careful. Because the city boasts numerous excellent museums and interactive science centers, the educational opportunities are simply unparalleled. However, the heavy traffic definitely requires constant, strict adult supervision."),
+    ("Would you prefer to live in a modern apartment or a traditional house?", "I would absolutely prefer to live in a highly efficient, modern apartment in the city center. While a traditional house offers much more space, the constant, expensive maintenance it requires is completely exhausting. An apartment is significantly easier to clean, and the building security makes me feel very safe."),
+    ("Is it easy to travel around your city using public transport?", "Navigating the city using the underground subway system is incredibly straightforward and highly efficient. Unless there is an unexpected mechanical failure, the trains arrive perfectly on schedule every five minutes. It completely eliminates the terrible stress of trying to find an expensive parking space for a private car."),
+    ("What do people in your city usually do for entertainment on the weekends?", "During the weekends, the majority of residents flock to the massive commercial districts to go shopping or watch a film. If the weather is particularly pleasant, you will also see thousands of people having large, noisy picnics in the central park. The city is always incredibly lively and full of energy."),
+    ("Do you know many of your neighbors?", "Unfortunately, I only know the names of the people who live directly next door to my apartment. Because everyone in the building works incredibly long hours, we rarely have the opportunity to stop and chat in the hallway. It is a very typical, isolated lifestyle for a modern city dweller."),
+    ("Do you think you will stay in this city for the rest of your life?", "While I currently enjoy the vibrant lifestyle, I highly doubt I will remain here for the rest of my life. Once I eventually retire from my stressful corporate job, I intend to move to a quiet village near the ocean. I think I will eventually desire a much slower, peaceful existence.")
+]
+for q, t in c3_t:
+    wc = len(t.split())
+    samples.append({
+        "sample_id": f"syn_p1_v6_g8_{start_id:04d}", "video_id": "synthetic", "part": 1, "question": q,
+        "transcript_cleaned": t, "word_count": wc, "response_type": "direct_answer" if wc <= 50 else "extended",
+        "vocabulary": 6, "grammar": 8, "is_valid": True, "dataset_source": "synthetic", "idiom_present": False, "risk_level": "low",
+        "instruction": "Score this IELTS Speaking response for Vocabulary (Lexical Resource) and Grammar (Grammatical Range and Accuracy) based on IELTS band descriptors (4-9). Provide band scores with detailed reasoning.",
+        "input": f"Part: 1\nQuestion: {q}\n\nTranscript: {t}\n\nWord Count: {wc} words\nResponse Type: {'direct_answer' if wc <= 50 else 'extended'}",
+        "vocab_reason": "[LR6] Uses an adequate range of vocabulary ('unrelenting traffic congestion', 'commercial architecture', 'interactive science centers'). Meaning is clear.",
+        "grammar_reason": "[GRA8] Wide range of structures used flexibly and accurately ('Had I not accepted', 'Were the local government to stop', 'Provided that you leave'). The majority of sentences are error-free.",
+        "micro_flaws": ["vocabulary is slightly functional compared to grammar"],
+        "grammar_profile": {"complexity": "very_high", "accuracy": "high", "flexibility": "very_high"},
+        "output": "## Vocabulary (Lexical Resource): Band 6\n\n**Reasoning:** [LR6] Uses an adequate range of vocabulary with some less common items successfully.\n\n---\n\n## Grammar (Grammatical Range & Accuracy): Band 8\n\n**Reasoning:** [GRA8] Wide range of structures used flexibly and accurately. The majority of sentences are error-free."
+    })
+    start_id += 1
+
+with open(filename, 'w', encoding='utf-8') as f:
+    for s in samples:
+        f.write(json.dumps(s) + '\n')
+print(f"Batch {batch_num} written natively.")

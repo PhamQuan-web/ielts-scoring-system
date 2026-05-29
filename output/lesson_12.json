@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_12",
+  "title": "How to Build a Weekly Study Plan",
+  "strategy_problem": "Without a structured plan, students often study passively (just watching YouTube videos) or focus entirely on their strongest skill because it's comfortable, neglecting their weaknesses. 'Studying IELTS' for 4 hours vaguely is less effective than 1 hour of targeted, strategic practice.",
+  "core_framework": [
+    "1. The 80/20 Weakness Rule: Dedicate 80% of your study time to your weakest skill (e.g., Writing) and 20% to maintaining your strong skills. Stop practicing what you are already good at.",
+    "2. Daily Active Input: Every day, engage in 30 minutes of 'active input'\u2014listening to a podcast or reading an article *while* noting down collocations and new sentence structures. This is not test practice; it's language building.",
+    "3. Segmented Practice vs. Full Mocks: Don't do full mock tests every day. Do 'segmented practice' (e.g., just Writing Task 1 intro paragraphs, or just Listening Part 3). Reserve full 3-hour mock tests for the weekend to build stamina.",
+    "4. The Review Block: For every hour of practice, schedule at least 30 minutes of review. A study plan without a dedicated review block is useless."
+  ],
+  "ielts_scenario": "A student needs a 7.0 overall, with a minimum of 6.5 in all bands. They are scoring 8.0 in Reading, 7.5 in Listening, but 5.5 in Writing. Despite this, they spend 2 hours a day doing Reading and Listening tests because it makes them feel successful. They fail the exam because their Writing remains at 5.5.",
+  "do_dont_table": {
+    "do": [
+      "Schedule specific tasks (e.g., 'Tuesday 7pm: Write two Task 1 overviews', not just 'Tuesday: Study Writing').",
+      "Force yourself to study your weakest skill first thing in your study session.",
+      "Take one full, timed mock test every weekend to build physical stamina for the real exam."
+    ],
+    "dont": [
+      "Count passive watching of IELTS YouTube videos as 'study time'.",
+      "Practice your strongest skill more than your weakest skill.",
+      "Skip the review phase just to do more practice tests."
+    ]
+  },
+  "example_application": "A targeted Wednesday plan: 6:00 PM - Active reading of a BBC article (noting 5 new collocations). 6:30 PM - Segmented practice: Write only the introductions for three different Task 2 prompts. 7:15 PM - Review: Check grammar using AI/tutor feedback.",
+  "personal_action_step": "Create a schedule for the next 7 days. Identify your weakest skill. Block out 4 specific 45-minute sessions dedicated *only* to that skill, focusing on a different micro-task each time (e.g., intro writing, idea generation, grammar review).",
+  "image_url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fd36f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A physical weekly planner open on a desk. The word 'WRITING' is blocked out multiple times in red marker, highlighting a focus on weaknesses.",
+  "quiz": [
+    {
+      "question": "What is the most effective way to allocate study time when preparing for the IELTS?",
+      "options": {
+        "A": "Divide time equally (25%) among Reading, Writing, Listening, and Speaking.",
+        "B": "Spend the majority of your time doing full 3-hour practice tests every day.",
+        "C": "Dedicate the vast majority of your study time to your weakest skill, while doing minimal maintenance on your strong skills.",
+        "D": "Focus entirely on vocabulary memorization."
+      },
+      "correct_answer": "C",
+      "explanation": "Because IELTS often requires minimum scores in *each* band, your overall success is gated by your weakest skill. Practicing what you are already good at provides diminishing returns."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_14",
+  "title": "How to Improve Grammar Accuracy",
+  "strategy_problem": "Candidates know grammatical rules in theory but fail to apply them in real-time under exam conditions. This 'knowledge-performance gap' results in frequent minor errors (like dropping plurals or articles) that keep their GRA score at Band 6.",
+  "core_framework": [
+    "1. Identify Fossilized Errors: These are mistakes you've made so often they feel 'right' to you. You cannot fix them until you identify them through recording yourself or getting expert feedback.",
+    "2. Focused Drilling: Do not study 'all of grammar.' If your issue is present perfect, spend a week writing and speaking sentences using *only* the present perfect until the structure becomes automatic.",
+    "3. The 'Slow Down' Strategy (Speaking): Fluency does not equal speed. Speaking slightly slower gives your brain the millisecond it needs to process grammatical structures correctly before they leave your mouth.",
+    "4. The Proofreading Pass (Writing): Dedicate the last 3-5 minutes of your Writing task strictly to checking for your known fossilized errors. Do not look for new ideas; only look for missing 's' endings, article issues, or verb tense mismatches."
+  ],
+  "ielts_scenario": "A student writing Task 1 accurately describes a chart but writes 'The number of cars have increased.' They know 'number' is singular and requires 'has', but in the rush of writing, their hand writes 'have'. Without a dedicated proofreading pass, they lose points for a basic error.",
+  "do_dont_table": {
+    "do": [
+      "Speak at a deliberate, measured pace to allow for real-time grammatical processing.",
+      "Target one specific grammar weakness at a time during practice.",
+      "Always reserve 3 minutes at the end of Writing tasks specifically for error-checking."
+    ],
+    "dont": [
+      "Try to use highly complex conditional structures if you still struggle with basic past tense.",
+      "Assume that 'knowing the rule' means you won't make the mistake under pressure.",
+      "Submit a practice essay without proofreading it yourself first."
+    ]
+  },
+  "example_application": "If your fossilized error is dropping the 's' on third-person verbs ('he go' instead of 'he goes'), spend 10 minutes a day reading English texts aloud, heavily emphasizing every 's' sound at the end of verbs to retrain your mouth and ears.",
+  "personal_action_step": "Review your last three marked essays or speaking feedback notes. Identify the single most frequent grammar mistake you make. Write out the rule for that grammar point and create 10 correct sentences using it.",
+  "image_url": "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A person writing an essay, zooming in on the pen correcting a verb tense from past to present, symbolizing grammatical accuracy.",
+  "quiz": [
+    {
+      "question": "What is a 'fossilized error'?",
+      "options": {
+        "A": "A grammar rule that is no longer used in modern English.",
+        "B": "A mistake that a student has made repeatedly for a long time, so it feels natural and is hard to correct.",
+        "C": "An error that only occurs when writing about historical topics.",
+        "D": "A mistake made by the examiner."
+      },
+      "correct_answer": "B",
+      "explanation": "Fossilized errors are ingrained habits. Because they feel correct to the speaker, they are very difficult to eliminate without conscious, targeted drilling."
+    }
+  ]
+}

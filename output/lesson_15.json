@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_15",
+  "title": "How to Practise Speaking Alone",
+  "strategy_problem": "Students often believe they can only improve their speaking score if they have a native speaker to practice with. Since they lack a partner, they simply don't practice speaking, leading to stagnation.",
+  "core_framework": [
+    "1. Shadowing: Find a podcast or interview with a clear English speaker. Listen to a sentence, pause, and repeat it exactly, mimicking their intonation, stress, and rhythm. This improves Pronunciation and chunking.",
+    "2. The 'Mirror and Record' Method: Answer a Part 2 cue card while looking in a mirror. More importantly, record it on your phone. Listening back provides immediate, objective feedback on hesitation and filler words (um, ah).",
+    "3. Topical Brainstorming Aloud: Pick a random topic (e.g., 'Transport'). Talk to yourself out loud for 1 minute about anything related to that topic. This trains your brain to retrieve vocabulary quickly without the pressure of a specific question.",
+    "4. The 4/3/2 Technique: Speak on a topic for 4 minutes. Then, speak on the exact same topic for 3 minutes, compressing your ideas. Finally, do it in 2 minutes. This forces you to eliminate hesitation and use more concise, advanced language."
+  ],
+  "ielts_scenario": "A student lives in a non-English speaking country and has no study partners. Instead of giving up, they use the 4/3/2 technique every morning with IELTS Part 2 cue cards. Over a month, their fluency improves dramatically because their brain learns to organize ideas faster and retrieve vocabulary more efficiently under time constraints.",
+  "do_dont_table": {
+    "do": [
+      "Record your solo practice sessions; the recording is your 'partner'.",
+      "Focus heavily on intonation and rhythm during shadowing exercises.",
+      "Speak out loud, not just in your head. The physical muscles of your mouth need training."
+    ],
+    "dont": [
+      "Just read model answers silently.",
+      "Stop the recording every time you make a mistake.",
+      "Use the excuse that you don't have a native speaker partner to avoid practicing."
+    ]
+  },
+  "example_application": "Take a TED Talk transcript. Play 10 seconds of audio. Pause. Repeat it aloud, trying to match the speaker's emotional tone and where they placed stress on words (e.g., 'It was ABSOLUTELY essential').",
+  "personal_action_step": "Find a random IELTS Speaking Part 2 cue card online. Do not prepare. Hit record on your phone and speak for 2 minutes. Listen back and count how many times you said 'um' or 'uh'.",
+  "image_url": "https://images.unsplash.com/photo-1516383274235-5f42d6c6426d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A person looking into a mirror while holding a smartphone recording audio, actively practicing speaking alone in a quiet room.",
+  "quiz": [
+    {
+      "question": "What is the primary purpose of the '4/3/2 Technique' in speaking practice?",
+      "options": {
+        "A": "To learn how to speak for exactly 4 minutes in the exam.",
+        "B": "To memorize an answer perfectly by repeating it three times.",
+        "C": "To force the speaker to organize ideas faster, eliminate hesitation, and become more concise and fluent on a topic.",
+        "D": "To practice listening to instructions."
+      },
+      "correct_answer": "C",
+      "explanation": "By reducing the time allowed to discuss the same topic, the 4/3/2 technique forces the brain to bypass filler words and hesitation, directly improving the fluency score."
+    }
+  ]
+}

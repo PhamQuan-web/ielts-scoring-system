@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_07",
+  "title": "How to Review Your Own Mistakes",
+  "strategy_problem": "Students often struggle to identify their own errors, particularly in speaking and writing. They rely entirely on teachers, which slows down their progress. Without the skill of self-correction, candidates repeat the same fossilized errors in the exam.",
+  "core_framework": [
+    "1. The 'Time Delay' Technique: Never review your writing immediately. Wait at least 24 hours. Your brain will reset, and you will read what you *actually* wrote, rather than what you *intended* to write.",
+    "2. Single-Focus Editing: Do not try to find every mistake at once. Read your essay three times: once just for grammar (e.g., subject-verb agreement), once for vocabulary (looking for repetitions), and once for task response/logic.",
+    "3. The 'Read Aloud' Test: Read your essay aloud. If you stumble or run out of breath, the sentence is likely too long, grammatically awkward, or poorly punctuated.",
+    "4. The Error Log: Create a spreadsheet. When you find a mistake, log the error, the correction, and the *reason* why it was wrong. Review this log before your next practice test."
+  ],
+  "ielts_scenario": "A student consistently scores 6.0 in Writing because they frequently forget the 's' on third-person singular verbs. Because they read their essays silently and quickly, their brain auto-corrects the missing 's'. When they start using the 'Read Aloud' test, they hear the missing 's' and fix it, instantly improving their Grammatical Range and Accuracy score.",
+  "do_dont_table": {
+    "do": [
+      "Wait a day before reviewing your own writing.",
+      "Read your essays out loud to catch awkward phrasing.",
+      "Maintain an active error log of your repeated mistakes."
+    ],
+    "dont": [
+      "Try to fix grammar, vocabulary, and structure all at the same time.",
+      "Rely 100% on a teacher to find every single mistake for you.",
+      "Just look at the score and ignore the detailed feedback on what went wrong."
+    ]
+  },
+  "example_application": "Instead of glancing over your essay for 2 minutes after writing it, put it away. Tomorrow, spend 10 minutes reading it strictly to check if every subject matches its verb. Then, spend another 5 minutes checking if you overused the word 'important'.",
+  "personal_action_step": "Create a simple 'Error Log' in Excel or Google Sheets with three columns: 'Mistake', 'Correction', and 'Why it was wrong'. Log 5 mistakes from your last practice test.",
+  "image_url": "https://images.unsplash.com/photo-1586282391129-76a6df230234?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A close-up of a printed essay with red pen marks circling mistakes. A neatly organized notebook labeled 'Error Log' sits next to it.",
+  "quiz": [
+    {
+      "question": "What is the primary benefit of the 'Time Delay' technique when reviewing your own writing?",
+      "options": {
+        "A": "It gives you time to forget the topic so you can write a better essay.",
+        "B": "It prevents your brain from 'auto-correcting' mistakes based on what you intended to write.",
+        "C": "It ensures you are less tired so you can write faster.",
+        "D": "It allows you time to ask a teacher for the answers."
+      },
+      "correct_answer": "B",
+      "explanation": "Immediately after writing, you are too familiar with the text, and you will read what you meant to write rather than what is actually on the page. Waiting helps you see the text objectively."
+    }
+  ]
+}

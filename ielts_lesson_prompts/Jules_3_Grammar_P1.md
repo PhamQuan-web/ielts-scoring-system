@@ -10,7 +10,7 @@ Your output will be fed directly into an automated database via a coding agent.
 1. **ABSOLUTE ACCURACY**: You must not hallucinate grammar rules, definitions, or strategies. If you are unsure about any fact, vocabulary usage, or pronunciation, **you MUST use the `google_search` tool** to check Cambridge/Oxford dictionaries or official IELTS sources (British Council, IDP). The learners are students; errors are unacceptable.
 2. **PHASED EXECUTION**: Do NOT try to generate all lessons in a single message. Generate 1 to 3 lessons per turn, save them locally, and wait for the user to say "continue" to do the next batch.
 3. **OUTPUT FORMAT**: The output must be valid **JSON files**. Do not output markdown code blocks containing the JSON as your final deliverable. Instead, use Python or Bash to write the JSON content directly to a file (e.g., `lesson_vocab_01.json`).
-4. **NO GITHUB UPLOADS**: Do not commit or push to github. Just write the JSON files to the local directory (e.g., `output/`).
+4. **GITHUB UPLOADS REQUIRED**: You MUST commit and push your generated JSON files to a remote github branch. Do not just leave them locally. Name your branch logically based on your task (e.g., `feat/ielts-lessons-vocab-part1`).
 5. **IMAGES**: Try to find real, relevant image URLs. If you absolutely cannot find a good URL, provide a highly detailed `image_prompt_fallback` that an AI image generator (like Midjourney) can use.
 
 

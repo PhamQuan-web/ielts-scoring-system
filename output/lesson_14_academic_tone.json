@@ -1,0 +1,110 @@
+{
+  "lesson_id": "vocab_colloc_14",
+  "title": "Academic Tone for Writing",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing"
+    ],
+    "description": "Transforming casual, spoken English into formal, objective, and academic prose required for IELTS Task 2."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Objective",
+      "phonetic": "/əbˈdʒek.tɪv/",
+      "cefr_level": "B2",
+      "meaning": "Based on real facts and not influenced by personal beliefs or feelings.",
+      "example": "The essay must present an objective analysis of the issue.",
+      "image_url": null,
+      "image_prompt_fallback": "A balanced set of brass scales holding equal weights, symbolizing fairness and lack of bias."
+    },
+    {
+      "word": "Compel",
+      "phonetic": "/kəmˈpel/",
+      "cefr_level": "C1",
+      "meaning": "To force someone to do something.",
+      "example": "The new law will compel employers to provide health insurance.",
+      "image_url": null,
+      "image_prompt_fallback": "A stern judge pointing a gavel, indicating a legally binding requirement."
+    },
+    {
+      "word": "Facilitate",
+      "phonetic": "/fəˈsɪl.ɪ.teɪt/",
+      "cefr_level": "C1",
+      "meaning": "To make something possible or easier.",
+      "example": "The new ramp will facilitate access for wheelchair users.",
+      "image_url": null,
+      "image_prompt_fallback": "A person smoothly opening a heavy door for someone carrying a large box, making their path easier."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Draw a conclusion",
+      "meaning": "To decide what to believe about something after you have considered the facts.",
+      "example": "From these findings, we can draw the conclusion that the policy failed."
+    },
+    {
+      "collocation": "Underlying cause",
+      "meaning": "The root or fundamental reason for something.",
+      "example": "Stress is often the underlying cause of many physical illnesses."
+    },
+    {
+      "collocation": "Play a pivotal role",
+      "meaning": "To be extremely important in the success of something.",
+      "example": "Education plays a pivotal role in poverty reduction."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "People think",
+      "better_upgrade": "It is widely believed / It is often argued",
+      "example": "It is widely believed that globalization threatens local cultures."
+    },
+    {
+      "weak_phrase": "This is because",
+      "better_upgrade": "This can be attributed to / The underlying reason for this is",
+      "example": "This surge in crime can be attributed to rising unemployment rates."
+    },
+    {
+      "weak_phrase": "Make it easier",
+      "better_upgrade": "Facilitate / Streamline",
+      "example": "Digital platforms facilitate global communication."
+    }
+  ],
+  "sentence_frames": [
+    "It is often argued that [Subject] plays a pivotal role in...",
+    "To facilitate this transition, governments must...",
+    "While there are multiple factors, the underlying cause is arguably..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "To facilitate economic growth, it is imperative that the government addresses the underlying causes of inflation, as stable prices play a pivotal role in consumer confidence.",
+    "speaking_example": "I think the government needs to make it easier for people to start businesses. I mean, small businesses play a really important role in the economy."
+  },
+  "common_mistakes": [
+    "Using personal pronouns like 'I', 'You', and 'We' too frequently. Academic writing should be objective (e.g., instead of 'You can see that...', use 'It is evident that...').",
+    "Using contractions (don't, can't, won't) in Task 2. Always write them out in full (do not, cannot, will not)."
+  ],
+  "quiz": [
+    {
+      "question": "Which sentence has a more appropriate academic tone for Task 2?",
+      "options": {
+        "A": "I think you should always try to eat healthy food so you don't get sick.",
+        "B": "People need to eat good stuff because it stops them from getting ill.",
+        "C": "It is widely believed that maintaining a nutritious diet plays a pivotal role in preventing illness.",
+        "D": "It's super important to eat well to stay healthy."
+      },
+      "correct_answer": "C",
+      "explanation": "Sentence C uses formal vocabulary ('nutritious diet', 'pivotal role'), passive structures ('It is widely believed'), and avoids personal pronouns and contractions."
+    },
+    {
+      "question": "Which verb is a C1 upgrade for 'make easier'?",
+      "options": {
+        "A": "Help",
+        "B": "Facilitate",
+        "C": "Comfort",
+        "D": "Smooth"
+      },
+      "correct_answer": "B",
+      "explanation": "'Facilitate' means to make an action or process easy or easier."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "lesson_id": "vocab_colloc_15",
+  "title": "Vocabulary Error Repair for Vietnamese Learners",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Fixing common false friends, literal translations (L1 interference), and collocation errors specifically made by Vietnamese learners."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Economy vs Economics",
+      "phonetic": "/ɪˈkɒn.ə.mi/ vs /ˌiː.kəˈnɒm.ɪks/",
+      "cefr_level": "B2",
+      "meaning": "Economy is the system of trade/industry. Economics is the academic study of wealth.",
+      "example": "The country's economy is struggling. He is studying economics at university.",
+      "image_url": null,
+      "image_prompt_fallback": "A split image: On the left, a bustling stock exchange floor (Economy). On the right, a student reading a thick textbook with a supply/demand graph (Economics)."
+    },
+    {
+      "word": "Nature vs Environment",
+      "phonetic": "/ˈneɪ.tʃər/ vs /ɪnˈvaɪ.rən.mənt/",
+      "cefr_level": "B1",
+      "meaning": "Nature = plants/animals (L1: thiên nhiên). Environment = surroundings where we live (L1: môi trường).",
+      "example": "We must protect the environment from pollution. I love walking in nature.",
+      "image_url": null,
+      "image_prompt_fallback": "A split image: A pristine forest with deer (Nature) versus a city skyline with recycling bins (Environment)."
+    },
+    {
+      "word": "Join vs Participate in",
+      "phonetic": "/dʒɔɪn/ vs /pɑːˈtɪs.ɪ.peɪt/",
+      "cefr_level": "B1",
+      "meaning": "Join = become a member. Participate in = take part in an activity.",
+      "example": "I want to join the club. I participated in the marathon.",
+      "image_url": null,
+      "image_prompt_fallback": "A person signing a membership card (Join) vs a person running in a race with a number bib (Participate)."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Solve a problem",
+      "meaning": "To find an answer to an issue.",
+      "example": "CORRECT: Solve a problem. WRONG (L1 interference): 'Solve an issue' (Issues are 'resolved' or 'tackled')."
+    },
+    {
+      "collocation": "High standard of living",
+      "meaning": "The level of wealth, comfort, and material goods available.",
+      "example": "CORRECT: High standard of living. WRONG (L1 interference): 'High living standard'."
+    },
+    {
+      "collocation": "Broaden my horizons",
+      "meaning": "To expand one's range of interests, activities, and knowledge.",
+      "example": "CORRECT: Broaden my horizons. WRONG (L1 interference): 'Expand my knowledge' is okay, but 'broaden my mind/horizons' is more natural."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Do a mistake (L1: làm sai)",
+      "better_upgrade": "Make a mistake",
+      "example": "Even experts can make mistakes when under pressure."
+    },
+    {
+      "weak_phrase": "Protect the nature (L1: bảo vệ thiên nhiên)",
+      "better_upgrade": "Protect the environment / Conserve nature",
+      "example": "Strict laws are required to protect the environment from industrial waste."
+    },
+    {
+      "weak_phrase": "Very crowded people (L1: rất đông người)",
+      "better_upgrade": "Heavily populated / Crowded",
+      "example": "The city center is heavily populated."
+    }
+  ],
+  "sentence_frames": [
+    "To ensure a high standard of living, the economy must be...",
+    "While it is easy to make a mistake, resolving the issue requires...",
+    "Participating in such events helps individuals broaden their horizons by..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "To protect the environment and maintain a high standard of living, governments must invest heavily in green technology rather than relying solely on traditional fossil fuels.",
+    "speaking_example": "When I travelled abroad for the first time, I made a few cultural mistakes, but it really helped broaden my horizons and improve my understanding of the world."
+  },
+  "common_mistakes": [
+    "Using 'the nature' instead of 'nature'. (e.g., 'I love the nature' is WRONG. 'I love nature' is CORRECT).",
+    "Using 'discuss about'. The verb 'discuss' is transitive and does not take a preposition. (e.g., 'Let's discuss the issue' NOT 'Let's discuss about the issue')."
+  ],
+  "quiz": [
+    {
+      "question": "Which sentence is grammatically correct and natural?",
+      "options": {
+        "A": "The government needs to solve the issue of pollution to protect the nature.",
+        "B": "The government needs to tackle the issue of pollution to protect the environment.",
+        "C": "The government needs to do a policy to protect the environments.",
+        "D": "The government must discuss about the pollution to protect nature."
+      },
+      "correct_answer": "B",
+      "explanation": "'Tackle an issue' and 'protect the environment' are the correct collocations. 'Solve an issue' and 'protect the nature' are common L1 interference errors."
+    },
+    {
+      "question": "Which is the correct collocation?",
+      "options": {
+        "A": "Do a mistake",
+        "B": "Make a mistake",
+        "C": "Have a mistake",
+        "D": "Create a mistake"
+      },
+      "correct_answer": "B",
+      "explanation": "In English, the standard collocation is 'make a mistake'."
+    }
+  ]
+}

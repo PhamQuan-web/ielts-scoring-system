@@ -1,0 +1,110 @@
+{
+  "lesson_id": "vocab_colloc_06",
+  "title": "Academic Verb Collocations",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing"
+    ],
+    "description": "Essential verb-noun pairings that instantly elevate the academic tone of essays."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Ascertain",
+      "phonetic": "/ˌæs.əˈteɪn/",
+      "cefr_level": "C1",
+      "meaning": "To discover something with certainty.",
+      "example": "The police have so far been unable to ascertain the cause of the explosion.",
+      "image_url": null,
+      "image_prompt_fallback": "A detective looking intently through a magnifying glass at a clue, discovering the truth."
+    },
+    {
+      "word": "Elicit",
+      "phonetic": "/iˈlɪs.ɪt/",
+      "cefr_level": "C2",
+      "meaning": "To get or produce something, especially information or a reaction.",
+      "example": "The questionnaire was designed to elicit detailed feedback about the new product.",
+      "image_url": null,
+      "image_prompt_fallback": "An interviewer asking a profound question that brings out an emotional and thoughtful response from the interviewee."
+    },
+    {
+      "word": "Postulate",
+      "phonetic": "/ˈpɒs.tʃə.leɪt/",
+      "cefr_level": "C2",
+      "meaning": "To suggest a theory, idea, or principle as a basic fact from which a further idea is formed.",
+      "example": "The linguist postulated that all human languages share a deep, underlying structure.",
+      "image_url": null,
+      "image_prompt_fallback": "A scientist standing in front of a chalkboard filled with complex equations, presenting a new foundational theory."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Conduct research",
+      "meaning": "To carry out a systematic investigation.",
+      "example": "Universities conduct research to expand human knowledge."
+    },
+    {
+      "collocation": "Address a concern",
+      "meaning": "To start trying to solve a problem or worry.",
+      "example": "The government must urgently address the growing concern regarding air quality."
+    },
+    {
+      "collocation": "Yield results",
+      "meaning": "To produce or provide findings or outcomes.",
+      "example": "The new teaching methodology is expected to yield positive results by the end of the semester."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Find out",
+      "better_upgrade": "Ascertain / Determine",
+      "example": "It is crucial to ascertain the root causes of urban poverty."
+    },
+    {
+      "weak_phrase": "Get a reaction",
+      "better_upgrade": "Elicit a response / Provoke a reaction",
+      "example": "The controversial policy elicited a strong response from the public."
+    },
+    {
+      "weak_phrase": "Give out information",
+      "better_upgrade": "Disseminate information",
+      "example": "The internet makes it incredibly easy to disseminate information globally."
+    }
+  ],
+  "sentence_frames": [
+    "To address this pressing concern, authorities must...",
+    "Recent studies conducted by experts yield results that suggest...",
+    "It is difficult to ascertain precisely why..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "Before implementing widespread educational reforms, it is vital to conduct comprehensive research to ascertain whether the new methods will yield tangible results.",
+    "speaking_example": "If the council wants to address the concern of littering, they really need to disseminate information more effectively to elicit a change in public behavior."
+  },
+  "common_mistakes": [
+    "Using 'do research' instead of the stronger academic collocation 'conduct research' or 'carry out research'.",
+    "Writing 'make an effort to solve' when 'address an issue' is far more concise and academic."
+  ],
+  "quiz": [
+    {
+      "question": "Which verb accurately replaces 'get' in the phrase 'get a reaction from the crowd'?",
+      "options": {
+        "A": "Ascertain",
+        "B": "Elicit",
+        "C": "Postulate",
+        "D": "Conduct"
+      },
+      "correct_answer": "B",
+      "explanation": "'Elicit' means to draw out a response, answer, or fact from someone in reaction to one's own actions or questions."
+    },
+    {
+      "question": "Which is the most natural academic collocation?",
+      "options": {
+        "A": "Make research",
+        "B": "Perform research",
+        "C": "Conduct research",
+        "D": "Create research"
+      },
+      "correct_answer": "C",
+      "explanation": "'Conduct research' is the standard, most frequently used academic collocation in English."
+    }
+  ]
+}

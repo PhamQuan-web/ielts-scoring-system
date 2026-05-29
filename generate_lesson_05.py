@@ -1,0 +1,47 @@
+import json
+
+lesson_data = {
+  "lesson_id": "foundations_05",
+  "title": "How to Build a 2-Minute Answer",
+  "speaking_skill_goal": "Part 2",
+  "answer_framework": "In Part 2, the examiner gives you a cue card and you must speak for 1 to 2 minutes. The most common problem students face is running out of things to say after 45 seconds. To prevent this, you should build your answer using the 'W-H Expansion' strategy.\n\nThe cue card bullet points are there to help you, but you don't just answer them quickly. For every bullet point, ask yourself W-H questions to dig deeper:\n- Description (What/Who): Don't just name the thing; describe what it looks like, sounds like, or feels like in detail.\n- Background (Where/When): Set the scene. Explain the context leading up to the event.\n- Action (How): Explain the step-by-step process of what happened.\n- Emotion (Why): Conclude by explaining exactly how the experience made you feel and why it was significant.\n\nBy treating each bullet point as a mini-story that needs description and emotion, you will easily reach the 2-minute mark.",
+  "useful_phrase_bank": [
+    "I'd like to talk about ... (Opening)",
+    "If memory serves me right, it was about ... (Background/When)",
+    "To give you a bit of context, ... (Background)",
+    "What really stood out to me was ... (Description/Emotion)",
+    "Looking back on it now, I feel ... (Emotion/Conclusion)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "I went to Paris last year. It was nice. I saw the Eiffel Tower.",
+      "better_answer": "To give you a bit of context, I visited Paris last summer with my family. We had been planning the trip for months. What really stood out to me was seeing the Eiffel Tower lit up at night; it was absolutely breathtaking and completely exceeded my expectations."
+    }
+  ],
+  "fluency_pronunciation_note": "When speaking for 2 minutes, pacing is crucial. Speak at a slightly slower, relaxed pace than you would in a normal conversation. This gives your brain time to formulate the next sentence, reducing the 'umms' and 'ahhs'.",
+  "sample_ielts_question": "Describe a memorable holiday you went on.\nYou should say:\n- Where you went\n- Who you went with\n- What you did there\n- And explain why it was memorable.",
+  "model_short_answer": "I'd like to talk about a trip I took to Kyoto, Japan, during the cherry blossom season. I went with my two best friends from university. We spent our days exploring ancient temples and trying local street food. It was unforgettable primarily because the scenery was incredibly picturesque, and it was the first time we had traveled abroad together without our parents.",
+  "common_mistakes": [
+    "Answering the 4 bullet points in 30 seconds and then stopping.",
+    "Panicking when you forget a word instead of just explaining the concept in a different way.",
+    "Staring at the cue card the entire time instead of making eye contact with the examiner."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A traveler looking at a map in a beautiful foreign city, planning an itinerary, representing a memorable holiday.",
+  "quiz": [
+     {
+      "question": "What is the primary purpose of the 'W-H Expansion' strategy in Part 2?",
+      "options": {
+        "A": "To ensure you use complex grammar.",
+        "B": "To help you generate enough detailed content to easily speak for 2 minutes.",
+        "C": "To show the examiner you know question words.",
+        "D": "To avoid answering the bullet points on the cue card."
+      },
+      "correct_answer": "B",
+      "explanation": "By asking yourself Who, What, Where, When, Why, and How about each bullet point, you naturally generate more detailed descriptions and background information, preventing you from running out of things to say."
+    }
+  ]
+}
+
+with open("output/lesson_05.json", "w", encoding="utf-8") as f:
+    json.dump(lesson_data, f, indent=2, ensure_ascii=False)

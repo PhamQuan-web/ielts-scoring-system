@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_10",
+  "title": "Explaining Reasons",
+  "speaking_skill_goal": "Part 3",
+  "answer_framework": "In Part 3, giving an opinion is only 20% of the work. You must immediately justify it. A powerful structure is the 'Primary/Secondary' method.\n\nInstead of just giving one reason, show the examiner you can organise complex thoughts:\n1. Introduce the main point: 'The primary reason is that...'\n2. Explain it further: 'This is largely due to the fact that...'\n3. Add a secondary point: 'Another contributing factor is...'\n\nThis framework naturally forces you to use advanced linking words (cohesive devices), boosting your Fluency and Coherence score.",
+  "useful_phrase_bank": [
+    "The primary reason for this is ...",
+    "This is largely due to the fact that ...",
+    "Another contributing factor is ...",
+    "A further point to consider is ...",
+    "Stemming from this, ..."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "People move to cities because there are jobs. And there are good schools.",
+      "better_answer": "The primary reason people migrate to urban areas is the abundance of employment opportunities. This is largely due to the concentration of multinational companies in cities. Another contributing factor is the access to higher quality healthcare and education."
+    }
+  ],
+  "fluency_pronunciation_note": "When listing reasons ('The primary reason...', 'Another factor...'), use a slight rising intonation on the transition phrases to signal to the examiner that you have more to say, then drop your intonation at the end of the sentence to show you've finished the point.",
+  "sample_ielts_question": "Why do so many people prefer to shop online nowadays?",
+  "model_short_answer": "The primary reason is undoubtedly convenience. This is largely due to the fact that consumers can browse thousands of products from their sofa without dealing with traffic. Another contributing factor is that online platforms frequently offer better discounts than physical retail stores.",
+  "common_mistakes": [
+    "Stating an opinion but failing to explain *why* you hold that opinion.",
+    "Using basic connectors like 'And... Also... And...' instead of advanced cohesive devices.",
+    "Giving reasons that are too personal (Part 3 should be about society in general)."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A person writing on a whiteboard, drawing a mind map with arrows connecting a central idea to various supporting reasons.",
+  "quiz": [
+    {
+      "question": "What is a major benefit of using the 'Primary/Secondary' method in Part 3?",
+      "options": {
+        "A": "It allows you to finish your answer in just 5 seconds.",
+        "B": "It forces you to use advanced cohesive devices, improving your Fluency and Coherence score.",
+        "C": "It helps you memorize answers.",
+        "D": "It prevents the examiner from asking you more questions."
+      },
+      "correct_answer": "B",
+      "explanation": "Phrases like 'The primary reason is...' and 'Another contributing factor...' are high-level cohesive devices that clearly organize your answer, directly boosting your FC score."
+    }
+  ]
+}

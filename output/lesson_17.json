@@ -1,0 +1,41 @@
+{
+  "lesson_id": "foundations_17",
+  "title": "Word Stress and Intonation",
+  "speaking_skill_goal": "Part 1, 2, or 3",
+  "answer_framework": "Beyond just pronouncing individual sounds correctly, Band 7+ Pronunciation requires mastery of the 'music' of English: Stress and Intonation.\n\n1. Word Stress: In multi-syllable words, one syllable is always pronounced louder and longer. (e.g., PHO-to-graph vs pho-TOG-ra-pher vs pho-to-GRAPH-ic). Putting the stress on the wrong syllable makes the word incomprehensible to native speakers.\n\n2. Sentence Stress: English is a 'stress-timed' language. We stress the 'content words' (nouns, main verbs, adjectives) and rush through the 'grammar words' (prepositions, articles). (e.g., 'I WENT to the STORE to BUY some MILK').\n\n3. Intonation: This is the rise and fall of your voice. Use rising intonation for lists or yes/no questions. Use falling intonation at the end of statements to sound confident.",
+  "useful_phrase_bank": [
+    "ECO-no-my (Noun)",
+    "e-co-NO-mic (Adjective)",
+    "I'm REALLY EX-CI-ted about the TRIP.",
+    "It was AB-so-lutely FAN-TAS-tic."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "(Monotone, equal stress on every word) I... went... to... the... store... to... buy... some... milk.",
+      "better_answer": "(Rhythmic stress) I WENT to the STORE to BUY some MILK."
+    }
+  ],
+  "fluency_pronunciation_note": "A great way to practice sentence stress is to tap your hand on the table only when you say the 'content words' in a sentence. This forces you to rush the grammar words in between, creating a natural rhythm.",
+  "sample_ielts_question": "Do you prefer photography or painting?",
+  "model_short_answer": "I definitely prefer pho-TOG-raphy. I find it FASC-inating how a camera can capture a specific MO-ment in time so PER-fectly.",
+  "common_mistakes": [
+    "Speaking in a flat, robotic monotone voice (guaranteed Band 5 or 6 for Pronunciation).",
+    "Stressing every single word in a sentence equally.",
+    "Guessing the word stress of new vocabulary instead of checking a dictionary."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A visual representation of sound waves or musical notes, symbolizing the rhythm, pitch, and melody of spoken language.",
+  "quiz": [
+    {
+      "question": "In the sentence 'I want to travel to Japan next year', which words should receive the most sentence stress?",
+      "options": {
+        "A": "I, to, to, next",
+        "B": "want, travel, Japan, year",
+        "C": "travel, Japan",
+        "D": "Every word should be stressed equally."
+      },
+      "correct_answer": "B",
+      "explanation": "'Want', 'travel', 'Japan', and 'year' are the content words (verbs and nouns) that carry the actual meaning of the sentence, so they must be stressed. The other words are grammar words and should be spoken quickly."
+    }
+  ]
+}

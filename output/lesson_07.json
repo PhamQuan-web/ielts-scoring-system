@@ -1,0 +1,40 @@
+{
+  "lesson_id": "foundations_07",
+  "title": "How to Use the 1-Minute Preparation Time",
+  "speaking_skill_goal": "Part 2",
+  "answer_framework": "The 1-minute preparation time in Part 2 is crucial. Do NOT try to write full sentences—you will run out of time and end up reading from your notes, which ruins your Fluency and Pronunciation scores. Instead, use the 'Keyword & Map' method:\n\n1. Read the card quickly (10 seconds) and decide on a topic immediately. Do not change your mind halfway through.\n2. Write down 1-2 keywords for each bullet point (30 seconds). Focus on high-level vocabulary, idioms, or specific adjectives you want to force yourself to use.\n3. Note down the tenses (20 seconds). Quickly scribble 'Past -> Present -> Future' on your paper to remind yourself to shift tenses for a better Grammar score.",
+  "useful_phrase_bank": [
+    "Well, when I first saw this topic, I immediately thought of... (Opening)",
+    "Jumping to the next point... (Transition)",
+    "As for why it was so significant... (Transition to final bullet)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "(Looking at notes) I... went... to... the beach. It... was... sunny.",
+      "better_answer": "(Glancing at notes for a keyword like 'scorching') When I visited the beach, the weather was absolutely scorching, which made the ocean feel incredibly refreshing."
+    }
+  ],
+  "fluency_pronunciation_note": "Your notes are just a map. Glance at them, then make eye contact with the examiner while you speak the sentence. This natural eye contact helps maintain a conversational, fluent rhythm.",
+  "sample_ielts_question": "Describe an important decision you made.\n- What it was\n- How you made it\n- Who helped you\n- And explain why it was important.",
+  "model_short_answer": "When I saw this card, I immediately thought of my decision to study abroad. During my prep time, I wrote down 'daunting', 'consulted', and 'turning point'. It was a daunting choice because I'd never lived alone. I consulted my older sister, who had studied in Australia. Ultimately, it was a turning point because it made me entirely self-sufficient.",
+  "common_mistakes": [
+    "Writing full sentences during the 1 minute.",
+    "Staring at the paper the entire time while speaking.",
+    "Wasting 30 seconds trying to choose the 'perfect' story."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1584697964149-14a938c5b967?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A close-up of a person's hand quickly jotting down bullet points and keywords on a small notepad with a pen, under a soft desk light.",
+  "quiz": [
+    {
+      "question": "What should you primarily write down during your 1-minute prep time?",
+      "options": {
+        "A": "Full sentences so you don't forget your grammar.",
+        "B": "Only the first sentence of your story.",
+        "C": "Keywords, high-level vocabulary, and tense reminders.",
+        "D": "A drawing of the event."
+      },
+      "correct_answer": "C",
+      "explanation": "Writing keywords and vocabulary forces you to speak naturally (Fluency) while ensuring you hit your target words (Lexical Resource). Full sentences lead to robotic reading."
+    }
+  ]
+}

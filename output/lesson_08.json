@@ -1,0 +1,40 @@
+{
+  "lesson_id": "foundations_08",
+  "title": "How to Add Details Without Memorising",
+  "speaking_skill_goal": "Part 2",
+  "answer_framework": "Examiners can easily spot memorised answers. Instead of memorising scripts, you should learn to dynamically add details using the 'Sensory & Opinion' expansion.\n\nWhenever you mention a noun, attach a detail to it:\n1. Sensory Details: What did it look, sound, smell, or taste like? (e.g., Instead of 'We ate cake', say 'We ate a rich, dark chocolate cake that was incredibly moist').\n2. Opinion Details: Attach your personal feeling to the event. (e.g., Instead of 'The train was late', say 'The train was delayed, which was incredibly frustrating because I was rushing').\n\nThis method ensures your answer is always unique, detailed, and completely natural.",
+  "useful_phrase_bank": [
+    "It had this incredibly ... vibe to it. (Sensory)",
+    "What I vividly remember is the smell/sound of ... (Sensory)",
+    "To my absolute surprise, ... (Opinion)",
+    "I was completely blown away by ... (Opinion)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "The hotel room was big and nice. I liked it.",
+      "better_answer": "The hotel room was remarkably spacious, with these huge floor-to-ceiling windows that let in so much natural light. I was completely blown away by the stunning view of the city skyline."
+    }
+  ],
+  "fluency_pronunciation_note": "When adding adjectives (like 'remarkably spacious' or 'stunning view'), put a slight emphasis (word stress) on the adjective. This demonstrates control over sentence stress and makes you sound much more engaging.",
+  "sample_ielts_question": "Describe a place you visited on holiday.",
+  "model_short_answer": "I visited a small coastal village in Italy. Instead of just saying 'it was beautiful', I'd add details: The village was perched on a steep cliff, and the air always had this crisp, salty smell to it. I was absolutely mesmerised by the pastel-coloured houses.",
+  "common_mistakes": [
+    "Using generic adjectives like 'good', 'nice', 'bad', 'big' instead of descriptive ones.",
+    "Sounding robotic because the details were pre-memorised rather than naturally thought of in the moment."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A breathtaking view of a tropical beach with clear blue water and vibrant green palm trees, emphasizing sensory visual details.",
+  "quiz": [
+    {
+      "question": "Which of the following is an example of a 'Sensory Detail'?",
+      "options": {
+        "A": "I think it is a very important issue.",
+        "B": "The coffee shop had a rich aroma of freshly roasted beans.",
+        "C": "I went there with my brother last Tuesday.",
+        "D": "It is located in the center of the city."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B describes a smell ('rich aroma'), engaging the senses. This type of description naturally boosts vocabulary and makes the answer more vivid."
+    }
+  ]
+}

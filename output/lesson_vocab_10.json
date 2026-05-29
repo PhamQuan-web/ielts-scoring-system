@@ -1,0 +1,83 @@
+{
+  "lesson_id": "vocab_core_10",
+  "title": "Core Vocabulary: Family & Lifestyle",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Vocabulary for discussing modern family structures, upbringing, daily habits, and work-life balance."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Upbringing",
+      "phonetic": "/ˈʌpbrɪŋɪŋ/",
+      "cefr_level": "B2",
+      "meaning": "The treatment and instruction received by a child from its parents throughout its childhood.",
+      "example": "His strict upbringing made him a very disciplined adult.",
+      "image_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A warm photograph of parents teaching their young child how to ride a bicycle in a park."
+    },
+    {
+      "word": "Extended family",
+      "phonetic": "/ɪkˌstendɪd ˈfæməli/",
+      "cefr_level": "B2",
+      "meaning": "A family that extends beyond the nuclear family, including grandparents, aunts, uncles, and other relatives.",
+      "example": "In many cultures, living with your extended family is still the norm.",
+      "image_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A large, multi-generational family sitting together around a dining table laughing and eating."
+    },
+    {
+      "word": "Sedentary",
+      "phonetic": "/ˈsedntri/",
+      "cefr_level": "C1",
+      "meaning": "Tending to spend much time seated; somewhat inactive.",
+      "example": "Modern lifestyles have become increasingly sedentary due to office work and technology.",
+      "image_url": null,
+      "image_prompt_fallback": "A person sitting on a couch for a long time watching TV with snacks around."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Nuclear family",
+      "meaning": "A couple and their dependent children, regarded as a basic social unit.",
+      "example": "The traditional nuclear family structure has changed significantly in recent decades."
+    },
+    {
+      "collocation": "Close-knit community",
+      "meaning": "A group of people bound together by strong relationships and common interests.",
+      "example": "Growing up in a close-knit community gives children a strong sense of security."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Raise a child",
+      "better_upgrade": "Child-rearing / Bring up",
+      "example": "Both parents should share the responsibilities of child-rearing equally."
+    }
+  ],
+  "sentence_frames": [
+    "The shift from [Noun Phrase] to [Noun Phrase] has significantly altered social dynamics.",
+    "A healthy lifestyle is heavily dependent on [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The shift from extended to nuclear families in urban areas has significantly altered child-rearing practices. Parents now often rely on paid childcare rather than the support of a close-knit community.",
+    "speaking_example": "I had a very happy upbringing. My parents always encouraged me to pursue my passions, which really helped shape who I am today."
+  },
+  "common_mistakes": [
+    "Confusing 'grow up' (what a child does) with 'bring up' (what a parent does). (e.g., 'My parents grew me up well' -> 'My parents brought me up well')."
+  ],
+  "quiz": [
+    {
+      "question": "Which term describes the instruction and treatment a child receives from their parents?",
+      "options": {
+        "A": "Sedentary",
+        "B": "Upbringing",
+        "C": "Nuclear",
+        "D": "Extended"
+      },
+      "correct_answer": "B",
+      "explanation": "'Upbringing' refers to how a child is raised. 'Nuclear' and 'Extended' describe family types, and 'Sedentary' is a lifestyle."
+    }
+  ]
+}

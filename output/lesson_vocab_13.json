@@ -1,0 +1,79 @@
+{
+  "lesson_id": "vocab_core_13",
+  "title": "Core Vocabulary: Opinion Phrases for Writing and Speaking",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential functional language to clearly state, defend, and nuance your opinions in IELTS Tasks."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Advocate",
+      "phonetic": "/ˈædvəkət/",
+      "cefr_level": "C1",
+      "meaning": "A person who publicly supports or recommends a particular cause or policy (noun); to publicly support (verb).",
+      "example": "I strongly advocate for stricter environmental regulations.",
+      "image_url": "https://images.unsplash.com/photo-1541872516-6c9053805b5f?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A confident person standing at a podium giving a passionate speech."
+    },
+    {
+      "word": "Acknowledge",
+      "phonetic": "/əkˈnɒlɪdʒ/",
+      "cefr_level": "B2",
+      "meaning": "Accept or admit the existence or truth of.",
+      "example": "While I acknowledge the benefits of technology, we must also consider its drawbacks.",
+      "image_url": null,
+      "image_prompt_fallback": "Two people nodding in agreement during a serious discussion."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Firmly believe",
+      "meaning": "To have a very strong conviction.",
+      "example": "I firmly believe that education is the key to solving poverty."
+    },
+    {
+      "collocation": "Widely recognized",
+      "meaning": "Accepted by many people.",
+      "example": "It is widely recognized that smoking causes severe health issues."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "I think",
+      "better_upgrade": "I am of the opinion that / From my perspective",
+      "example": "From my perspective, the disadvantages far outweigh the advantages."
+    },
+    {
+      "weak_phrase": "Many people say",
+      "better_upgrade": "It is often argued that / It is a common belief that",
+      "example": "It is often argued that university education should be free for everyone."
+    }
+  ],
+  "sentence_frames": [
+    "While it is valid to argue that [Clause], I am of the opinion that [Clause].",
+    "It is fundamentally important to recognize that [Clause]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "It is widely recognized that automation will displace many manual workers. While I acknowledge this challenge, I firmly believe that technology will ultimately create new, highly-skilled jobs.",
+    "speaking_example": "From my perspective, working from home is fantastic. I mean, I acknowledge that you miss out on office banter, but the flexibility is just unbeatable."
+  },
+  "common_mistakes": [
+    "Writing 'According to me' instead of 'In my opinion'. (Only use 'According to' for third-party sources)."
+  ],
+  "quiz": [
+    {
+      "question": "Which phrase is the most formal academic upgrade for 'Many people say'?",
+      "options": {
+        "A": "Lots of guys think",
+        "B": "It is often argued that",
+        "C": "They are saying",
+        "D": "In my opinion"
+      },
+      "correct_answer": "B",
+      "explanation": "'It is often argued that' is a highly formal, objective way to introduce a common opinion in an essay."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lesson_id": "grammar_03",
+  "title": "Passive Voice",
+  "grammar_goal": "Boosts GRA by demonstrating objective, formal language, crucial for IELTS Writing Task 1 (Process) and Task 2.",
+  "core_rule": {
+    "formula": "Object of active sentence + to be (in correct tense) + Past Participle (V3) + (by Subject)",
+    "usage": "Use the passive voice when the action is more important than who did it, when the doer is unknown, or to maintain a formal, academic tone.",
+    "signals": [
+      "is done",
+      "was completed",
+      "has been finished",
+      "will be made",
+      "can be seen"
+    ]
+  },
+  "when_to_use": [
+    "Describing processes or manufacturing steps in Writing Task 1.",
+    "Stating general opinions formally in Task 2 (e.g., 'It is widely believed that...').",
+    "Focusing on the recipient of an action rather than the actor."
+  ],
+  "when_not_to_use": [
+    "Avoid using passive voice when talking about personal experiences in Speaking Part 1 or 2 (active voice is more natural).",
+    "Do not use passive voice with intransitive verbs (verbs without an object, e.g., 'happen', 'die', 'arrive')."
+  ],
+  "ielts_examples": {
+    "writing": "First, the raw materials are collected, and then they are transported to the factory for processing.",
+    "speaking": "My hometown is known for its beautiful beaches and historical architecture."
+  },
+  "repair_section": [
+    {
+      "wrong": "The accident was happened last night.",
+      "correct": "The accident happened last night.",
+      "better_band_upgrade": "The incident occurred late yesterday evening."
+    },
+    {
+      "wrong": "Many new schools are build in the city.",
+      "correct": "Many new schools are being built in the city.",
+      "better_band_upgrade": "Numerous educational facilities are currently being constructed across the municipality."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using passive voice with intransitive verbs (e.g., 'He was died').",
+    "Forgetting the 'to be' verb (e.g., 'The house built in 1990').",
+    "Using the base form of the verb instead of the past participle (e.g., 'The work was finish')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "This problem should solve immediately.",
+      "correct_sentence": "This problem should be solved immediately."
+    },
+    {
+      "wrong_sentence": "A new hospital is building near my house.",
+      "correct_sentence": "A new hospital is being built near my house."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A factory assembly line showing a car being built by robotic arms, symbolizing an automated process where the action is more important than the doer.",
+  "quiz": [
+    {
+      "question": "Identify the grammatically correct passive sentence.",
+      "options": {
+        "A": "The new bridge was built by the government last year.",
+        "B": "The new bridge built last year by the government.",
+        "C": "The new bridge was builded last year.",
+        "D": "The new bridge was been built last year."
+      },
+      "correct_answer": "A",
+      "explanation": "Option A correctly uses 'was' (past tense 'to be') + 'built' (past participle) to form the past simple passive."
+    }
+  ]
+}

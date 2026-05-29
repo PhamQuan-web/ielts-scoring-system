@@ -1,0 +1,69 @@
+{
+  "lesson_id": "grammar_17",
+  "title": "Grammar Flexibility for IELTS Speaking",
+  "grammar_goal": "Boosts Speaking GRA to Band 7+ by demonstrating the ability to effortlessly switch between past, present, and future tenses, as well as use hypothetical structures naturally in spoken English.",
+  "core_rule": {
+    "formula": "Mix Tenses: Present Perfect (experience) -> Past Simple (detail) -> Future (prediction) -> Conditional (hypothetical)",
+    "usage": "In Speaking, particularly Parts 2 and 3, examiners listen for your ability to maneuver through different timeframes seamlessly. You must not get stuck using only the Present Simple.",
+    "signals": [
+      "I used to...",
+      "Recently, I've been...",
+      "If I were to guess...",
+      "Looking ahead, I imagine..."
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 1: Contrasting the past with the present (e.g., 'I used to play tennis, but nowadays I prefer jogging.').",
+    "Speaking Part 2: Telling a story correctly using Narrative Tenses (Past Simple for main events, Past Continuous for background, Past Perfect for prior events).",
+    "Speaking Part 3: Speculating about the future (e.g., 'In 50 years, people will probably be living on Mars.')."
+  ],
+  "when_not_to_use": [
+    "Do not overcomplicate your grammar so much that you lose fluency. It is better to use Past Simple accurately than to stumble while trying to use Past Perfect Continuous."
+  ],
+  "ielts_examples": {
+    "speaking": "Well, I've been living in this city for five years now. Before that, I lived in a small village, and to be honest, if I have the chance, I would love to move back there someday.",
+    "writing": "(This lesson focuses specifically on spoken flexibility, but tense accuracy applies everywhere.)"
+  },
+  "repair_section": [
+    {
+      "wrong": "I live here since 2015. Before I live in Hanoi.",
+      "correct": "I have lived here since 2015. Before that, I lived in Hanoi.",
+      "better_band_upgrade": "I've been residing here since 2015; prior to that, I was based in Hanoi."
+    },
+    {
+      "wrong": "When I was a child, I am playing outside every day.",
+      "correct": "When I was a child, I played outside every day.",
+      "better_band_upgrade": "Back in my childhood, I used to spend hours playing outdoors on a daily basis."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Tense rigidity: Sticking to Present Simple for an entire 2-minute Part 2 monologue that asks about a past event.",
+    "Dropping past tense endings: Pronouncing 'played' as 'play' or 'watched' as 'watch', causing the examiner to mark it as a grammar/pronunciation error.",
+    "Using 'will' for everything in the future, missing the chance to use 'might', 'could', or 'is going to'."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I have gone to Paris last year.",
+      "correct_sentence": "I went to Paris last year."
+    },
+    {
+      "wrong_sentence": "If I am rich in the future, I travel the world.",
+      "correct_sentence": "If I am rich in the future, I will travel the world."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1508605333177-333e70d7eb27?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A vibrant, abstract image of a clock face melting or shifting, representing the fluidity of time and the ability to move between past, present, and future tenses.",
+  "quiz": [
+    {
+      "question": "Which response to the Speaking Part 1 question 'Do you like reading?' demonstrates the best tense flexibility?",
+      "options": {
+        "A": "Yes, I like reading. I read every day. Reading is good.",
+        "B": "Yes, I like reading. I read a book yesterday. I will read tomorrow.",
+        "C": "Absolutely. I've always been an avid reader. I used to read mostly fiction when I was younger, but lately I've been focusing on biographies.",
+        "D": "Yes, I am reading books. I was reading a book. I had read a book."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C flows naturally and demonstrates Present Perfect ('ve always been'), 'used to' for past habits, and Present Perfect Continuous ('ve been focusing') to describe a recent ongoing change."
+    }
+  ]
+}

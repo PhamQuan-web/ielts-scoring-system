@@ -1,0 +1,74 @@
+{
+  "lesson_id": "grammar_05",
+  "title": "Modal Verbs",
+  "grammar_goal": "Improves GRA and Task Response by using modals to express certainty, possibility, obligation, and ability, allowing for more nuanced arguments.",
+  "core_rule": {
+    "formula": "Subject + Modal Verb (can, could, must, should, might, etc.) + Base Verb (without 'to')",
+    "usage": "Modals modify the main verb to show attitude. Use 'must/have to' for strong obligation; 'should/ought to' for advice/recommendation; 'can/could/might/may' for possibility or ability. They are essential for 'hedging' (making claims less absolute).",
+    "signals": [
+      "can",
+      "could",
+      "may",
+      "might",
+      "must",
+      "should",
+      "ought to",
+      "have to"
+    ]
+  },
+  "when_to_use": [
+    "Task 2: Hedging strong claims (e.g., instead of 'This causes crime', use 'This may lead to crime').",
+    "Task 2: Giving recommendations in problem-solution essays (e.g., 'Governments should allocate more funds...').",
+    "Speaking Part 3: Discussing possibilities about the future (e.g., 'Technology might completely change how we work.')."
+  ],
+  "when_not_to_use": [
+    "Do not use 'to' after modal verbs (except 'ought to' and 'have to').",
+    "Avoid using absolute modals like 'must' when you should be hedging with 'might' or 'could' in academic writing."
+  ],
+  "ielts_examples": {
+    "writing": "To address this issue, governments should implement stricter regulations, which could potentially reduce carbon emissions.",
+    "speaking": "I think people might travel to space for holidays in the next fifty years."
+  },
+  "repair_section": [
+    {
+      "wrong": "Governments must to take action immediately.",
+      "correct": "Governments must take action immediately.",
+      "better_band_upgrade": "It is imperative that governments take immediate and decisive action."
+    },
+    {
+      "wrong": "This problem will destroy our society.",
+      "correct": "This problem could destroy our society.",
+      "better_band_upgrade": "This issue poses a significant threat that could potentially destabilize our society."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Adding 'to' after standard modals (e.g., 'can to go', 'must to do').",
+    "Using 'will' for everything instead of expressing nuance with 'may/might/could'.",
+    "Confusing 'must not' (prohibition) with 'do not have to' (lack of obligation)."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Students should to study harder for their exams.",
+      "correct_sentence": "Students should study harder for their exams."
+    },
+    {
+      "wrong_sentence": "It can rains tomorrow.",
+      "correct_sentence": "It can rain tomorrow."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A stylized traffic light showing red, yellow, and green lights, symbolizing 'must', 'might', and 'can'.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses a modal verb for 'hedging' (making a statement less absolute)?",
+      "options": {
+        "A": "Violent video games make all children aggressive.",
+        "B": "Violent video games must make children aggressive.",
+        "C": "Violent video games may contribute to aggressive behavior in some children.",
+        "D": "Violent video games have to make children aggressive."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C uses 'may' to hedge the statement, which is essential for academic writing to show nuance and avoid over-generalization."
+    }
+  ]
+}

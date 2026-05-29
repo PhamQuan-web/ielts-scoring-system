@@ -1,0 +1,72 @@
+{
+  "lesson_id": "grammar_01",
+  "title": "Relative Clauses",
+  "grammar_goal": "This lesson boosts Grammatical Range and Accuracy (GRA) by demonstrating how to confidently create complex sentences using defining and non-defining relative clauses.",
+  "core_rule": {
+    "formula": "Main Clause + Relative Pronoun (who, which, that, where, when, whose) + Relative Clause",
+    "usage": "Use relative clauses to add essential information (defining) without commas, or extra/bonus information (non-defining) with commas.",
+    "signals": [
+      "who",
+      "which",
+      "that",
+      "where",
+      "when",
+      "whose"
+    ]
+  },
+  "when_to_use": [
+    "To combine two simple sentences into one complex sentence.",
+    "To give essential definitions of people or things (Task 2).",
+    "To provide extra details without starting a new sentence (Speaking Part 2 & 3)."
+  ],
+  "when_not_to_use": [
+    "Do not use 'that' in non-defining relative clauses (clauses with commas).",
+    "Avoid using 'who' for things, or 'which' for people."
+  ],
+  "ielts_examples": {
+    "writing": "The government should invest more in public transport, which would significantly reduce traffic congestion in urban areas.",
+    "speaking": "I recently visited a small town where the locals still practice traditional crafts."
+  },
+  "repair_section": [
+    {
+      "wrong": "The book which I bought it last week is very interesting.",
+      "correct": "The book which I bought last week is very interesting.",
+      "better_band_upgrade": "The book that I purchased last week is highly informative."
+    },
+    {
+      "wrong": "My brother that lives in New York is a doctor.",
+      "correct": "My brother, who lives in New York, is a doctor.",
+      "better_band_upgrade": "My brother, who currently resides in New York, works as a physician."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Repeating the subject or object inside the relative clause (e.g., 'The man who he called me...').",
+    "Using 'that' after a comma in non-defining relative clauses.",
+    "Omitting the relative pronoun when it acts as the subject of the clause."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Students who they study hard usually get good grades.",
+      "correct_sentence": "Students who study hard usually get good grades."
+    },
+    {
+      "wrong_sentence": "Paris, that is the capital of France, is famous for its museums.",
+      "correct_sentence": "Paris, which is the capital of France, is famous for its museums."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1516382766579-246e7f72439c?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A well-dressed teacher pointing to a chalkboard with the words 'who', 'which', and 'that' written on it in clear chalk, with arrows connecting the words to diagrams of a person, a book, and a house.",
+  "quiz": [
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "My father, that is a teacher, loves reading.",
+        "B": "The restaurant where we ate at it last night was amazing.",
+        "C": "The woman who called you is my manager.",
+        "D": "The car, who I bought yesterday, is very fast."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C is correct. Option A incorrectly uses 'that' after a comma. Option B wrongly repeats 'it' inside the clause. Option D incorrectly uses 'who' for a thing ('car')."
+    }
+  ]
+}

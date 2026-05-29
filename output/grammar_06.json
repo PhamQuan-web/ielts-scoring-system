@@ -1,0 +1,71 @@
+{
+  "lesson_id": "grammar_06",
+  "title": "Reported Speech Basics",
+  "grammar_goal": "Boosts GRA by demonstrating the ability to indirectly report what others have said, which is highly useful in Speaking Part 2 and 3, and Task 2.",
+  "core_rule": {
+    "formula": "Subject + reporting verb (said, told, argued) + (that) + Subject + backshifted verb tense",
+    "usage": "When reporting what someone else said, shift the tense backwards (e.g., Present Simple -> Past Simple; 'will' -> 'would'; 'can' -> 'could'). Pronouns and time expressions may also need to change.",
+    "signals": [
+      "said that",
+      "told me that",
+      "argued that",
+      "claimed that",
+      "stated that"
+    ]
+  },
+  "when_to_use": [
+    "Task 2: Reporting the views of others (e.g., 'Some experts argue that climate change is...'). Note: Tense backshifting is sometimes optional for general truths.",
+    "Speaking Part 2: Telling a story and reporting a past conversation (e.g., 'My teacher told me that I needed to work harder.').",
+    "Speaking Part 3: Discussing societal opinions."
+  ],
+  "when_not_to_use": [
+    "Do not backshift tenses if the reporting verb is in the present tense (e.g., 'He says that he is happy').",
+    "Do not use 'told' without an object (e.g., 'He told that...' is wrong. Use 'He said that...' or 'He told me that...')."
+  ],
+  "ielts_examples": {
+    "writing": "Critics have argued that the new policy would negatively impact small businesses.",
+    "speaking": "My manager told me that I would be promoted the following month."
+  },
+  "repair_section": [
+    {
+      "wrong": "She told that she will come to the party.",
+      "correct": "She said that she would come to the party.",
+      "better_band_upgrade": "She mentioned that she intended to attend the gathering."
+    },
+    {
+      "wrong": "He asked me where do I live.",
+      "correct": "He asked me where I lived.",
+      "better_band_upgrade": "He inquired about my place of residence."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Forgetting to change the word order in reported questions (e.g., 'He asked what time is it' instead of 'He asked what time it was').",
+    "Using 'said me' instead of 'told me' or 'said to me'.",
+    "Failing to shift pronouns and time words (e.g., keeping 'tomorrow' instead of 'the next day' when reporting past speech)."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "My friend said me he is tired.",
+      "correct_sentence": "My friend told me he was tired."
+    },
+    {
+      "wrong_sentence": "The examiner asked me what is my name.",
+      "correct_sentence": "The examiner asked me what my name was."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "An illustration of two people talking with speech bubbles. One person's bubble has quotation marks (direct speech), and the other's has a thought bubble summarizing it (reported speech).",
+  "quiz": [
+    {
+      "question": "Choose the correct reported speech form of: 'I can help you tomorrow,' John said to Mary.",
+      "options": {
+        "A": "John said to Mary that he can help her tomorrow.",
+        "B": "John told Mary that he could help her the next day.",
+        "C": "John told Mary that I could help you tomorrow.",
+        "D": "John said Mary that he could help her the next day."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B is correct. 'Said to' becomes 'told' (with an object). 'Can' backshifts to 'could'. Pronouns change appropriately, and 'tomorrow' changes to 'the next day'."
+    }
+  ]
+}

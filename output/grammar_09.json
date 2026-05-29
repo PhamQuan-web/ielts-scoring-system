@@ -1,0 +1,69 @@
+{
+  "lesson_id": "grammar_09",
+  "title": "Noun Phrases and Academic Style",
+  "grammar_goal": "Improves GRA and Vocabulary by compressing information heavily, shifting sentences from informal verb-heavy structures to formal noun-heavy structures (Academic Style).",
+  "core_rule": {
+    "formula": "Determiner + Adjective(s) + Noun + Prepositional Phrase / Relative Clause",
+    "usage": "In academic writing, complex ideas are often packed into long noun phrases rather than spread across multiple clauses. This makes writing denser, more objective, and less conversational.",
+    "signals": [
+      "The rapid development of...",
+      "A significant increase in...",
+      "The adverse effects of..."
+    ]
+  },
+  "when_to_use": [
+    "Task 2: In introductions to paraphrase the prompt clearly (e.g., replacing 'People are worried that cities are getting polluted' with 'The increasing pollution of urban environments is a major concern').",
+    "Task 1: Describing trends (e.g., 'There was a dramatic rise in the number of sales').",
+    "Throughout academic writing to avoid 'I think' or 'People say'."
+  ],
+  "when_not_to_use": [
+    "Avoid using excessively long, clunky noun phrases in Speaking Part 1, as it sounds unnatural and robotic.",
+    "Do not stack too many nouns together without prepositions (e.g., 'The city government traffic pollution reduction plan' is hard to read)."
+  ],
+  "ielts_examples": {
+    "writing": "The rapid expansion of urban areas has led to a significant decline in natural habitats.",
+    "speaking": "One of the main benefits of living here is the easy access to public transportation."
+  },
+  "repair_section": [
+    {
+      "wrong": "Many people use smartphones a lot, and this causes sleep problems.",
+      "correct": "The heavy use of smartphones causes sleep problems.",
+      "better_band_upgrade": "The excessive usage of mobile devices frequently results in severe sleep deprivation."
+    },
+    {
+      "wrong": "The prices went up very fast, which shocked the buyers.",
+      "correct": "The rapid increase in prices shocked the buyers.",
+      "better_band_upgrade": "The unprecedented surge in retail prices caused significant consumer alarm."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Relying too much on 'Subject + Verb + Object' sentences instead of summarizing actions into noun phrases.",
+    "Incorrect adjective order within a noun phrase.",
+    "Noun stacking: putting 4 or 5 nouns together instead of using 'of' or other prepositions (e.g., 'water quality control system management')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Because the economy grew quickly, unemployment dropped.",
+      "correct_sentence": "The quick growth of the economy caused a drop in unemployment."
+    },
+    {
+      "wrong_sentence": "More people are moving to cities, which creates housing shortages.",
+      "correct_sentence": "The migration of people to cities creates housing shortages."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A close-up of a neatly packed suitcase, symbolizing how complex noun phrases pack a lot of information into a single grammatical unit.",
+  "quiz": [
+    {
+      "question": "Which option turns the following sentence into an academic noun phrase acting as a subject? 'People are cutting down trees too much, which damages the soil.'",
+      "options": {
+        "A": "Cutting down trees too much damages the soil.",
+        "B": "The soil is damaged because people cut down trees.",
+        "C": "The excessive logging of trees causes soil degradation.",
+        "D": "When people cut trees too much, the soil degrades."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C correctly uses a complex noun phrase ('The excessive logging of trees') as the subject, demonstrating a formal, academic tone suitable for IELTS Writing Task 2."
+    }
+  ]
+}

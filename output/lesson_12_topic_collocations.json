@@ -1,0 +1,111 @@
+{
+  "lesson_id": "vocab_colloc_12",
+  "title": "Topic-Specific High-Frequency Collocations",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "A targeted rapid-fire lesson covering the most essential collocations for the most common IELTS topics: Environment, Technology, and Education."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Ecosystem",
+      "phonetic": "/ˈiː.kəʊˌsɪs.təm/",
+      "cefr_level": "C1",
+      "meaning": "All the living things in an area and the way they affect each other and the environment.",
+      "example": "Pollution can have disastrous effects on the delicate marine ecosystem.",
+      "image_url": null,
+      "image_prompt_fallback": "A cross-section of a vibrant coral reef showing fish, plants, and water interacting harmoniously."
+    },
+    {
+      "word": "Innovation",
+      "phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+      "cefr_level": "B2",
+      "meaning": "A new idea or method, or the use of new ideas and methods.",
+      "example": "Technological innovation has revolutionized the way we work.",
+      "image_url": null,
+      "image_prompt_fallback": "A futuristic laboratory where scientists are designing a glowing, advanced piece of technology."
+    },
+    {
+      "word": "Curriculum",
+      "phonetic": "/kəˈrɪk.jə.ləm/",
+      "cefr_level": "B2",
+      "meaning": "The subjects studied in a school, college, etc. and what each subject includes.",
+      "example": "Coding should be integrated into the primary school curriculum.",
+      "image_url": null,
+      "image_prompt_fallback": "A stack of diverse textbooks including math, art, science, and computer programming, representing a broad education plan."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Irreversible damage (Environment)",
+      "meaning": "Harm that cannot be undone or repaired.",
+      "example": "Deforestation causes irreversible damage to global biodiversity."
+    },
+    {
+      "collocation": "Technological breakthrough (Technology)",
+      "meaning": "An important discovery or event that helps to improve a situation or provide an answer to a technological problem.",
+      "example": "The development of quantum computing is a major technological breakthrough."
+    },
+    {
+      "collocation": "Holistic development (Education)",
+      "meaning": "The development of a person's intellectual, emotional, social, and physical abilities.",
+      "example": "Modern education systems should focus on the holistic development of students."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Nature problems",
+      "better_upgrade": "Environmental degradation / Ecological crisis",
+      "example": "Environmental degradation is the most pressing issue of our time."
+    },
+    {
+      "weak_phrase": "New computer things",
+      "better_upgrade": "Technological advancements / Cutting-edge technology",
+      "example": "Hospitals now rely on cutting-edge technology for diagnostics."
+    },
+    {
+      "weak_phrase": "Learning things well",
+      "better_upgrade": "Academic excellence / Holistic education",
+      "example": "The school has a long-standing reputation for academic excellence."
+    }
+  ],
+  "sentence_frames": [
+    "To prevent irreversible damage to the ecosystem, we must...",
+    "Thanks to recent technological breakthroughs, society is now able to...",
+    "A well-rounded curriculum is essential for the holistic development of..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "If schools update their curriculum to include digital literacy, it will not only foster academic excellence but also prepare students for an era of rapid technological advancement.",
+    "speaking_example": "Well, regarding the environment, I think the biggest concern is that plastic pollution is causing irreversible damage to our oceans' ecosystems."
+  },
+  "common_mistakes": [
+    "Saying 'equipments' or 'technologies' unnecessarily (Technology and equipment are mostly uncountable in general contexts).",
+    "Confusing 'economic' (related to the economy) and 'economical' (good value for money)."
+  ],
+  "quiz": [
+    {
+      "question": "Which collocation describes harm to the environment that cannot be fixed?",
+      "options": {
+        "A": "Permanent hurt",
+        "B": "Irreversible damage",
+        "C": "Unfixable break",
+        "D": "Tough ruin"
+      },
+      "correct_answer": "B",
+      "explanation": "'Irreversible damage' is the standard, high-level collocation used to describe permanent environmental harm."
+    },
+    {
+      "question": "What does 'holistic development' in education refer to?",
+      "options": {
+        "A": "Focusing only on test scores.",
+        "B": "Developing the whole person: mind, body, and emotions.",
+        "C": "Learning about religion.",
+        "D": "Studying entirely online."
+      },
+      "correct_answer": "B",
+      "explanation": "'Holistic' relates to the whole of something or to the total system instead of just to its parts."
+    }
+  ]
+}

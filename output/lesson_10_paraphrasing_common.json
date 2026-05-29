@@ -1,0 +1,111 @@
+{
+  "lesson_id": "vocab_colloc_10",
+  "title": "Paraphrasing Common Words",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential strategies and vocabulary to replace overused, low-level words (like 'important', 'people', 'many') to demonstrate Lexical Resource depth in IELTS."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Paramount",
+      "phonetic": "/ˈpær.ə.maʊnt/",
+      "cefr_level": "C2",
+      "meaning": "More important than anything else; supreme.",
+      "example": "Passenger safety is of paramount importance to the airline industry.",
+      "image_url": null,
+      "image_prompt_fallback": "A glowing golden crown resting on top of a mountain peak, symbolizing supremacy and absolute importance."
+    },
+    {
+      "word": "Individuals",
+      "phonetic": "/ˌɪn.dɪˈvɪdʒ.u.əlz/",
+      "cefr_level": "B2",
+      "meaning": "Single people, considered separately from the rest of a group or society.",
+      "example": "It is crucial that individuals take responsibility for their own carbon footprint.",
+      "image_url": null,
+      "image_prompt_fallback": "A crowd of people represented as grey silhouettes, with one person highlighted in bright color to emphasize the individual."
+    },
+    {
+      "word": "Plethora",
+      "phonetic": "/ˈpleθ.ər.ə/",
+      "cefr_level": "C1",
+      "meaning": "A very large amount of something, especially a larger amount than you need, want, or can deal with.",
+      "example": "The internet offers a plethora of resources for independent learners.",
+      "image_url": null,
+      "image_prompt_fallback": "An overflowing treasure chest bursting with colorful gems and gold coins, representing an abundance."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Of paramount importance",
+      "meaning": "The most important thing to consider.",
+      "example": "Developing sustainable energy sources is of paramount importance for our future."
+    },
+    {
+      "collocation": "A significant proportion",
+      "meaning": "A large part or share of a whole.",
+      "example": "A significant proportion of the budget is allocated to defense spending."
+    },
+    {
+      "collocation": "A multitude of",
+      "meaning": "A large number of people or things.",
+      "example": "The decision was influenced by a multitude of complex factors."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Very important",
+      "better_upgrade": "Of paramount importance / Crucial / Indispensable",
+      "example": "Learning digital skills is indispensable in the modern workforce."
+    },
+    {
+      "weak_phrase": "Many people",
+      "better_upgrade": "A vast majority of individuals / A significant proportion of society",
+      "example": "A vast majority of individuals now rely entirely on their smartphones for news."
+    },
+    {
+      "weak_phrase": "A lot of things",
+      "better_upgrade": "A plethora of options / A multitude of factors",
+      "example": "Consumers today are faced with a plethora of choices when buying technology."
+    }
+  ],
+  "sentence_frames": [
+    "It is of paramount importance that governments...",
+    "A vast majority of individuals argue that...",
+    "There exists a plethora of reasons why [Topic] is becoming increasingly..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "While some argue that space exploration is a waste of funds, others maintain that it is of paramount importance, offering a plethora of scientific breakthroughs.",
+    "speaking_example": "Well, I think a significant proportion of individuals in my country are worried about housing prices. It's an issue of paramount importance right now."
+  },
+  "common_mistakes": [
+    "Using 'a plethora of' for negative, countable things in a clumsy way (e.g., 'a plethora of murders'). It is better used for resources, choices, or reasons.",
+    "Writing 'paramount important' instead of 'of paramount importance' or just 'paramount'."
+  ],
+  "quiz": [
+    {
+      "question": "Which phrase is the highest-level replacement for 'very important'?",
+      "options": {
+        "A": "Really big deal",
+        "B": "Of paramount importance",
+        "C": "Highly needed",
+        "D": "Super crucial"
+      },
+      "correct_answer": "B",
+      "explanation": "'Of paramount importance' is a formal, C2-level phrase demonstrating an excellent command of Lexical Resource."
+    },
+    {
+      "question": "What does 'a plethora of' mean?",
+      "options": {
+        "A": "A small amount",
+        "B": "A specific type",
+        "C": "An abundance or excess of something",
+        "D": "A dangerous lack of something"
+      },
+      "correct_answer": "C",
+      "explanation": "'Plethora' means a very large amount or abundance."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "lesson_id": "vocab_colloc_07",
+  "title": "Adjective + Noun Collocations",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Powerful descriptive pairings to enhance clarity and precision in task responses. Expanding vocabulary beyond simple adjectives."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Profound",
+      "phonetic": "/prəˈfaʊnd/",
+      "cefr_level": "C2",
+      "meaning": "Felt or experienced very strongly or in an extreme way.",
+      "example": "The invention of the smartphone has had a profound impact on how we communicate.",
+      "image_url": null,
+      "image_prompt_fallback": "A visual metaphor of a deep impact, like a heavy stone dropped in a calm pond creating massive, far-reaching ripples."
+    },
+    {
+      "word": "Inherent",
+      "phonetic": "/ɪnˈher.ənt/",
+      "cefr_level": "C1",
+      "meaning": "Existing as a natural or basic part of something.",
+      "example": "There are inherent risks associated with extreme sports like BASE jumping.",
+      "image_url": null,
+      "image_prompt_fallback": "A DNA strand glowing, symbolizing something that is naturally built-in or intrinsic."
+    },
+    {
+      "word": "Viable",
+      "phonetic": "/ˈvaɪ.ə.bəl/",
+      "cefr_level": "C1",
+      "meaning": "Able to work as intended or able to succeed.",
+      "example": "Solar power is becoming a increasingly viable alternative to fossil fuels.",
+      "image_url": null,
+      "image_prompt_fallback": "A thriving, green plant growing out of a lightbulb, representing a successful and workable idea."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Profound impact",
+      "meaning": "A very strong and deep effect.",
+      "example": "The new policy will have a profound impact on the local economy."
+    },
+    {
+      "collocation": "Inherent risk",
+      "meaning": "A danger that is an unavoidable part of a situation.",
+      "example": "Investors must be aware of the inherent risks of cryptocurrency."
+    },
+    {
+      "collocation": "Viable solution",
+      "meaning": "A practical and effective answer to a problem.",
+      "example": "We need to find a viable solution to the city's housing shortage."
+    },
+    {
+      "collocation": "Integral part",
+      "meaning": "An essential or necessary component of something.",
+      "example": "Technology has become an integral part of modern education."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "A big effect",
+      "better_upgrade": "A profound impact / A significant influence",
+      "example": "Climate change is having a profound impact on global weather patterns."
+    },
+    {
+      "weak_phrase": "A real choice",
+      "better_upgrade": "A viable alternative",
+      "example": "Wind energy is a viable alternative to traditional power sources."
+    },
+    {
+      "weak_phrase": "An important part",
+      "better_upgrade": "An integral component",
+      "example": "Teamwork is an integral component of any successful business."
+    }
+  ],
+  "sentence_frames": [
+    "It is undeniable that [A] has had a profound impact on [B].",
+    "One viable alternative to [A] is to implement [B].",
+    "Despite the inherent risks, many still choose to..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "While transitioning to green energy involves inherent financial risks, it remains the only viable solution to combat global warming.",
+    "speaking_example": "Smartphones have become an integral part of our daily routines; they've had a profound impact on how we interact with the world."
+  },
+  "common_mistakes": [
+    "Using 'a strong impact' instead of the more academic 'a profound impact' or 'a significant impact'.",
+    "Confusing 'invaluable' (meaning extremely useful) with 'valueless' (meaning having no value). An invaluable asset is a good thing!"
+  ],
+  "quiz": [
+    {
+      "question": "Which adjective correctly collocates with 'alternative' to mean 'practical and able to succeed'?",
+      "options": {
+        "A": "Profound",
+        "B": "Inherent",
+        "C": "Viable",
+        "D": "Integral"
+      },
+      "correct_answer": "C",
+      "explanation": "A 'viable alternative' is one that can actually work successfully."
+    },
+    {
+      "question": "What does 'inherent risk' mean?",
+      "options": {
+        "A": "A risk that is easily avoided.",
+        "B": "A risk that is a natural and unavoidable part of something.",
+        "C": "A risk that was created by mistake.",
+        "D": "A risk that is extremely dangerous but rare."
+      },
+      "correct_answer": "B",
+      "explanation": "Inherent means existing as a natural or basic part of something."
+    }
+  ]
+}

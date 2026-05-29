@@ -1,0 +1,57 @@
+{
+  "lesson_id": "WF_07",
+  "title": "How to Build a Body Paragraph",
+  "writing_skill_goal": "Learn the standard T.E.E. (Topic, Explain, Example) structure to develop logically sound and well-supported body paragraphs.",
+  "band_descriptor_link": [
+    "Coherence",
+    "Task Response"
+  ],
+  "core_writing_framework": "A strong body paragraph contains 4-5 sentences following the T.E.E. formula: Topic Sentence, Explanation, Example, and sometimes a Result/Concluding sentence.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Electric cars are good. They don't use petrol. So air is cleaner. For example, Tesla is famous. They are very fast too.",
+      "improved_version": "The primary advantage of electric vehicles is their positive impact on the environment. Because they run on battery power rather than fossil fuels, they produce zero exhaust emissions. For example, cities that have adopted widespread electric public transport have seen a significant reduction in air pollution levels. Consequently, this transition is vital for combating global warming.",
+      "explanation": "The weak version is a collection of disjointed, simple ideas. The improved version uses a clear Topic Sentence, logically explains 'why', gives a relevant example, and concludes with the result."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Topic Sentence",
+      "content": "Start the paragraph by clearly stating the single main idea you are going to discuss."
+    },
+    {
+      "step": "Explanation",
+      "content": "Write 1-2 sentences explaining exactly *why* or *how* your topic sentence is true. Imagine the examiner is asking you 'Why?' after your topic sentence."
+    },
+    {
+      "step": "Example",
+      "content": "Provide a specific, realistic example to illustrate your explanation. It does not need to be a real statistic; a general but plausible scenario works perfectly (e.g., 'For instance, in many urban areas...')."
+    },
+    {
+      "step": "Result / Conclusion (Optional but recommended)",
+      "content": "Write a final sentence showing the consequence of your example, linking it back to the essay prompt."
+    }
+  ],
+  "common_mistakes": [
+    "Including too many different ideas in one paragraph instead of developing one main idea fully.",
+    "Providing an example that does not match the explanation.",
+    "Writing a very short paragraph (only 2 sentences) because the idea was not explained deeply."
+  ],
+  "original_ielts_prompt": "Some people believe that children should be given a large amount of homework to be successful in school. To what extent do you agree or disagree?",
+  "model_micro_answer": "One of the main drawbacks of excessive homework is the detrimental effect on a child's mental health. When students are forced to study for several hours after a full school day, they are deprived of essential rest and leisure time. For instance, studies frequently show that children with heavy academic workloads suffer from higher rates of stress and sleep deprivation. Therefore, overburdening them outside of school hours can actually hinder their overall academic success.",
+  "image_url": null,
+  "image_prompt_fallback": "A visual diagram showing a hamburger structure. The top bun is labeled 'Topic Sentence', the meat/lettuce is 'Explanation & Example', and the bottom bun is 'Concluding Sentence'.",
+  "quiz": [
+    {
+      "question": "What is the primary function of the 'Explanation' sentences in a body paragraph?",
+      "options": {
+        "A": "To introduce a completely new idea to show your vocabulary.",
+        "B": "To tell the examiner what the paragraph will be about.",
+        "C": "To elaborate on the Topic Sentence by describing *why* or *how* it is true.",
+        "D": "To give a specific statistic or name of a person."
+      },
+      "correct_answer": "C",
+      "explanation": "The explanation bridges the gap between your main claim (Topic Sentence) and your specific evidence (Example). It ensures the examiner completely understands your reasoning, fulfilling the Task Response criteria for 'well-developed ideas'."
+    }
+  ]
+}

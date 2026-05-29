@@ -1,0 +1,52 @@
+{
+  "lesson_id": "WF_09",
+  "title": "Coherence and Cohesion Basics",
+  "writing_skill_goal": "Understand how to link sentences and paragraphs logically without overusing mechanical transition words.",
+  "band_descriptor_link": [
+    "Coherence"
+  ],
+  "core_writing_framework": "Coherence is the logical flow of ideas (making sense). Cohesion is the grammatical linking of those ideas (using pronouns, linking words, and synonyms).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "First, cars cause pollution. Second, cars cause traffic. Third, cars are expensive.",
+      "improved_version": "Private vehicles are a major source of urban pollution. In addition to environmental concerns, the sheer volume of cars on the road leads to severe traffic congestion. Furthermore, purchasing and maintaining these vehicles places a heavy financial burden on owners.",
+      "explanation": "The weak version is mechanical and repetitive. The improved version uses cohesive devices (In addition to, Furthermore) and referencing (these vehicles) to link the ideas smoothly."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Logical Progression (Coherence)",
+      "content": "Your essay must move logically from the introduction, to the first point, to the second point, and finally to the conclusion. A reader should never be confused about why a sentence is there."
+    },
+    {
+      "step": "Referencing (Cohesion)",
+      "content": "Instead of repeating the same noun, use pronouns (it, they, this, these). For example, 'Technology is advancing. **This** has led to...'. Using 'this' points back to the previous sentence, creating a strong cohesive link."
+    },
+    {
+      "step": "Substitution (Cohesion)",
+      "content": "Use synonyms to avoid repetition and link concepts. If you write about 'children' in sentence one, refer to them as 'youngsters' or 'the younger generation' in sentence two."
+    }
+  ],
+  "common_mistakes": [
+    "Starting every single sentence with a linking word (e.g., 'Moreover, ... Furthermore, ... Additionally, ...').",
+    "Using a linking word incorrectly (e.g., using 'However' when adding a similar idea, rather than a contrasting one).",
+    "Writing ideas in a random order without a clear connection."
+  ],
+  "original_ielts_prompt": "In some countries, young people are encouraged to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages for young people who decide to do this.",
+  "model_micro_answer": "Taking a gap year provides students with invaluable life experience. By travelling independently, they learn how to manage their finances and solve problems on their own. These skills are often difficult to acquire in a traditional classroom setting. As a result, those who take this time off usually enter university with a higher level of maturity.",
+  "image_url": null,
+  "image_prompt_fallback": "An illustration of a heavy chain where each link is labelled with a cohesive device like 'this', 'therefore', and 'however', pulling two text blocks together.",
+  "quiz": [
+    {
+      "question": "What is the danger of memorizing a list of linking words and using them at the start of every sentence?",
+      "options": {
+        "A": "It will guarantee a Band 9 in Coherence and Cohesion.",
+        "B": "It is viewed as 'mechanical' by examiners and will likely restrict your Coherence and Cohesion score to a Band 6.",
+        "C": "It lowers your Lexical Resource score.",
+        "D": "It makes the essay too long."
+      },
+      "correct_answer": "B",
+      "explanation": "According to the IELTS Band Descriptors, a Band 6 uses cohesion but 'cohesion within and/or between sentences may be faulty or mechanical.' High-scoring essays use cohesion so naturally that the reader barely notices it."
+    }
+  ]
+}

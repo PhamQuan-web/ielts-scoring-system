@@ -1,0 +1,60 @@
+{
+  "lesson_id": "WF_01",
+  "title": "Understanding IELTS Writing Criteria",
+  "writing_skill_goal": "Understand the four assessment criteria used by IELTS examiners to score Writing Task 2.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence",
+    "Lexical",
+    "Grammar"
+  ],
+  "core_writing_framework": "Task Response (TR), Coherence and Cohesion (CC), Lexical Resource (LR), and Grammatical Range and Accuracy (GRA) each contribute 25% to your final writing band score.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "I think free education is good. It helps poor people. Poor people can go to university.",
+      "improved_version": "Providing free education is highly beneficial because it ensures that individuals from low-income backgrounds have equal access to university studies.",
+      "explanation": "The improved version demonstrates better Lexical Resource (vocabulary) and Grammatical Range (complex sentence structure) while logically connecting ideas (Coherence)."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Task Response (TR)",
+      "content": "You must address all parts of the prompt, present a clear position throughout the essay, and support your main ideas with relevant examples."
+    },
+    {
+      "step": "Coherence and Cohesion (CC)",
+      "content": "Your essay must be organised into logical paragraphs. There should be a clear progression of ideas, and linking words should be used naturally to connect sentences."
+    },
+    {
+      "step": "Lexical Resource (LR)",
+      "content": "You need to use a wide range of vocabulary with precision. While it is good to use less common words, accuracy in collocations and context is more important than using 'big words'."
+    },
+    {
+      "step": "Grammatical Range and Accuracy (GRA)",
+      "content": "Use a mix of simple and complex sentence structures. To achieve a high band score, the majority of your sentences should be error-free, particularly regarding punctuation and verb tenses."
+    }
+  ],
+  "common_mistakes": [
+    "Failing to answer all parts of a two-part question (lowers Task Response).",
+    "Overusing transition words like 'Furthermore' and 'Moreover' at the start of every sentence (lowers Coherence).",
+    "Memorising and inserting complex words that do not fit the context (lowers Lexical Resource).",
+    "Writing long, convoluted sentences that contain multiple grammatical errors (lowers Grammatical Accuracy)."
+  ],
+  "original_ielts_prompt": "Many people argue that the government should provide free healthcare for all citizens, while others believe that individuals should pay for their own medical treatment. Discuss both views and give your own opinion.",
+  "model_micro_answer": "While some assert that citizens should be responsible for their own medical costs to reduce the tax burden, I firmly believe that governments must provide free healthcare to ensure the well-being and equality of all members of society.",
+  "image_url": null,
+  "image_prompt_fallback": "A well-lit, top-down view of an IELTS examiner's assessment sheet on a wooden desk, highlighting four columns labeled TR, CC, LR, and GRA, with a premium pen resting nearby.",
+  "quiz": [
+    {
+      "question": "Which of the following directly impacts your Task Response score?",
+      "options": {
+        "A": "Using a wide variety of advanced vocabulary.",
+        "B": "Writing without any grammatical mistakes.",
+        "C": "Presenting a clear position and fully answering all parts of the prompt.",
+        "D": "Using linking words effectively between paragraphs."
+      },
+      "correct_answer": "C",
+      "explanation": "Task Response evaluates how well you address the prompt, including giving a clear position and supporting your arguments. Vocabulary, grammar, and linking words fall under LR, GRA, and CC respectively."
+    }
+  ]
+}

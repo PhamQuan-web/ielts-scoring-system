@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_23",
+  "title": "Process Diagrams and Maps",
+  "writing_skill_goal": "Master the passive voice for process diagrams and learn directional language for map comparisons.",
+  "band_descriptor_link": [
+    "Grammar",
+    "Coherence"
+  ],
+  "core_writing_framework": "Process diagrams require chronological sequencers (firstly, subsequently) and passive voice (is heated, is transported). Maps require location language (to the north of, was replaced by).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "First, a machine crushes the rocks. Then, a truck takes the rocks away.",
+      "improved_version": "Initially, the raw rocks are crushed by a machine. Following this stage, the crushed material is transported to the factory via truck.",
+      "explanation": "The improved version correctly uses the passive voice ('are crushed', 'is transported') which is the expected academic tone for describing industrial or natural processes."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Processes: The Passive Voice",
+      "content": "You don't usually know *who* is doing the action, so the passive is essential. Object + be verb + past participle (e.g., 'The tea leaves are picked')."
+    },
+    {
+      "step": "Processes: Sequencers",
+      "content": "Guide the reader through the steps clearly: 'To begin with', 'Following this', 'In the subsequent stage', 'Finally'."
+    },
+    {
+      "step": "Maps: Change and Location",
+      "content": "When comparing an old map to a new map, use verbs of change: 'was demolished', 'was constructed', 'was transformed into'. Use compass directions: 'to the north-east of the river'."
+    }
+  ],
+  "common_mistakes": [
+    "Using the active voice for the entire process diagram (e.g., 'The man picks the tea. He puts it in a box.').",
+    "Writing an overview for a process diagram that just repeats the introduction, instead of summarising the number of steps and the final product.",
+    "Using 'up', 'down', 'left', and 'right' instead of North, South, East, and West for maps."
+  ],
+  "original_ielts_prompt": "The diagram below shows the process for recycling plastic bottles. Summarise the information by selecting and reporting the main features.",
+  "model_micro_answer": "Overall, the plastic recycling process is a continuous cycle comprising nine distinct stages, beginning with the collection of rubbish and culminating in the production of new consumer goods.",
+  "image_url": null,
+  "image_prompt_fallback": "An industrial conveyor belt showing a step-by-step process, with grammatical tags hovering over it showing the passive voice structure 'is + past participle'.",
+  "quiz": [
+    {
+      "question": "Why is the passive voice preferred when describing a man-made process diagram (e.g., making cement)?",
+      "options": {
+        "A": "Because it makes the essay longer.",
+        "B": "Because the focus should be on the action happening to the product, not on the person or machine doing the action.",
+        "C": "Because the active voice is considered informal.",
+        "D": "Because the IELTS rubric explicitly states 'use passive voice'."
+      },
+      "correct_answer": "B",
+      "explanation": "In processes like manufacturing, the product is the most important subject. The passive voice allows you to put the product at the beginning of the sentence (e.g., 'The cement is heated') rather than the machine."
+    }
+  ]
+}

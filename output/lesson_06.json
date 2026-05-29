@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_06",
+  "title": "How to Write an Introduction",
+  "writing_skill_goal": "Learn a simple, two-sentence formula to write an effective introduction in under 5 minutes.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Lexical"
+  ],
+  "core_writing_framework": "An ideal introduction consists of just two or three sentences: 1. The Background Statement (paraphrasing the prompt). 2. The Thesis Statement (answering the prompt).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Nowadays, everyone uses computers. Computers are very important in modern life. Some people say computers should be used in schools. I agree.",
+      "improved_version": "It is argued that computers should be integrated into all educational institutions. I completely agree with this notion as technology enhances learning efficiency and prepares students for the modern workforce.",
+      "explanation": "The weak version is repetitive, uses basic vocabulary, and has an overly simplistic thesis. The improved version combines the paraphrase and thesis into a concise, academic introduction."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Sentence 1: The Background Statement",
+      "content": "Rewrite the IELTS prompt in your own words. Use synonyms and change the sentence structure (e.g., from active to passive) to demonstrate Lexical Resource and Grammatical Range."
+    },
+    {
+      "step": "Sentence 2: The Thesis Statement",
+      "content": "Directly answer the question asked in the prompt. State your opinion or outline the main points you will discuss."
+    },
+    {
+      "step": "Keep it Concise",
+      "content": "Do not write a long, philosophical introduction. The introduction should be around 40-50 words. Spend your time developing strong body paragraphs instead."
+    }
+  ],
+  "common_mistakes": [
+    "Starting with a 'hook' or dramatic statement (e.g., 'Since the dawn of time...'). IELTS examiners do not want this.",
+    "Copying the prompt word-for-word instead of paraphrasing.",
+    "Writing a very long introduction that includes detailed examples (save examples for body paragraphs)."
+  ],
+  "original_ielts_prompt": "Some people think that strict punishments for driving offences are the key to reducing traffic accidents. Others, however, believe that other measures would be more effective. Discuss both these views and give your own opinion.",
+  "model_micro_answer": "It is often argued that imposing severe penalties on drivers is the best way to decrease road accidents, while others suggest alternative approaches. This essay will discuss both perspectives before concluding that better driver education is ultimately a more effective solution.",
+  "image_url": null,
+  "image_prompt_fallback": "A clear diagram showing an inverted triangle representing an essay introduction. The top wide section says 'Background Statement (Paraphrase)' and the narrow bottom tip says 'Thesis Statement (Answer)'.",
+  "quiz": [
+    {
+      "question": "What is the primary purpose of the 'Background Statement' in an IELTS introduction?",
+      "options": {
+        "A": "To provide historical context about the topic.",
+        "B": "To show the examiner you can paraphrase the prompt using different vocabulary and grammar.",
+        "C": "To give a real-life example of the problem.",
+        "D": "To state your final conclusion."
+      },
+      "correct_answer": "B",
+      "explanation": "The Background Statement's job is simply to introduce the topic by rewriting the prompt in your own words, which demonstrates your language skills (Lexical Resource and Grammatical Range) right from the start."
+    }
+  ]
+}

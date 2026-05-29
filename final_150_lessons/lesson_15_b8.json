@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_15_spelling_numbers",
+  "title": "Spelling, Numbers and Dates",
+  "skill_goal": "Master the precise phonetic rules for how English speakers dictate names, postal codes, phone numbers, and dates.",
+  "question_type_strategy": "This is entirely focused on Part 1. You will lose points if you spell a name wrong, even if you heard it correctly. You must know the English alphabet perfectly, especially the tricky vowels (A, E, I) and consonants (G/J, M/N).",
+  "how_to_recognise": "The speaker will say a difficult name and then spell it out letter by letter: 'My name is Smythe. That's S-M-Y-T-H-E.'",
+  "step_by_step_method": [
+    "1. Vowels: Memorize the difference in pronunciation between A (/e\u026a/), E (/i\u02d0/), and I (/a\u026a/).",
+    "2. Consonants: Practice distinguishing G (/d\u0292i\u02d0/) and J (/d\u0292e\u026a/), as well as M and N.",
+    "3. Doubles: Listen for 'double L' or 'double O'.",
+    "4. Numbers: Understand how native speakers group numbers (e.g., '0' is often pronounced 'oh', '44' is 'double four').",
+    "5. Dates: 'The 15th of May', 'May 15th', or 'May the 15th' should all be written as '15 May' to avoid word limit issues."
+  ],
+  "trap_example": "The 'Similar Sounds' Trap. Confusing 13 (thirteen) and 30 (thirty). The stress is at the end for 'thir-TEEN' and at the beginning for 'THIR-ty'.",
+  "micro_practice_example": "Audio: 'My post code is J - W - 8 - double 4 - E.' \nYou must write: JW844E. \nIf you write 'G' instead of 'J', it is completely wrong.",
+  "review_method": "Have a friend dictate random license plates, postal codes, and phone numbers to you quickly.",
+  "image_url": null,
+  "image_prompt_fallback": "A visual chart showing the tricky letters of the English alphabet (A/E/I, G/J) with phonetic spelling next to them to show how they sound.",
+  "quiz": [
+    {
+      "question": "How do native speakers frequently pronounce the number '0' in a telephone number?",
+      "options": {
+        "A": "Zero",
+        "B": "Nought",
+        "C": "Oh",
+        "D": "Nil"
+      },
+      "correct_answer": "C",
+      "explanation": "While 'zero' is technically correct, native speakers almost always pronounce '0' as the letter 'O' (oh) when dictating phone numbers or codes."
+    }
+  ]
+}

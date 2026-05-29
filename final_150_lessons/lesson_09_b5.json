@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_09",
+  "title": "Time Management Across the Four Skills",
+  "strategy_problem": "Poor time management is the silent killer of IELTS scores. Students miss out on easy marks because they spend too long on difficult Reading questions, fail to finish Writing Task 2, or panic during the Listening test transfer time.",
+  "core_framework": [
+    "Reading: The 20-20-20 Myth: Do NOT spend 20 minutes on each passage. Passage 1 is easiest; aim for 15 minutes. Passage 2 needs 20 minutes. Passage 3 is hardest; leave 25 minutes. If a question takes more than 90 seconds, guess, mark it, and move on.",
+    "Writing: The 40/20 Rule + Planning: Spend 20 mins on Task 1 and 40 mins on Task 2. Crucially, spend the first 5 minutes of Task 2 *planning*. Writing without a plan leads to mid-essay panic and deleting paragraphs, wasting massive amounts of time.",
+    "Listening: Transfer Time Strategy: (Paper-based only) Do not transfer answers during the audio. Write on the question paper. Use the 10 minutes at the end to transfer carefully, checking spelling.",
+    "Speaking: Part 2 Preparation: Use the 1-minute prep time effectively. Do not write full sentences. Write keywords, collocations, and the structure of your story."
+  ],
+  "ielts_scenario": "A student taking the Reading test encounters a very difficult 'True/False/Not Given' question in Passage 1. They spend 5 minutes agonizing over it. Because of this, they only have 10 minutes left for Passage 3, and they have to guess the last 10 answers, dropping their score from a potential 7.0 to a 6.0.",
+  "do_dont_table": {
+    "do": [
+      "Strictly enforce time limits during practice (e.g., snatch the paper away at 60 mins).",
+      "Spend 5 minutes planning Writing Task 2 before writing a single sentence.",
+      "Allocate more time to Reading Passage 3."
+    ],
+    "dont": [
+      "Spend more than 1.5 minutes on any single Reading question.",
+      "Write full sentences during your Speaking Part 2 1-minute prep time.",
+      "Start Writing Task 2 immediately without a clear outline."
+    ]
+  },
+  "example_application": "During Reading practice, set a timer for 15 minutes for Passage 1. When the timer rings, force yourself to move to Passage 2, even if you haven't finished. This trains you to prioritize easy marks.",
+  "personal_action_step": "For your next Writing Task 2 practice, set a timer for 5 minutes. You are only allowed to write an outline (intro thesis, main ideas for body paragraphs, conclusion). Do not start writing the essay until the timer rings.",
+  "image_url": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A close-up of an analog stopwatch on a desk next to an IELTS Reading test booklet, symbolizing strict time management.",
+  "quiz": [
+    {
+      "question": "What is the recommended time allocation strategy for the IELTS Reading test?",
+      "options": {
+        "A": "Exactly 20 minutes for each of the three passages.",
+        "B": "30 minutes for Passage 1, 20 for Passage 2, and 10 for Passage 3.",
+        "C": "15 minutes for Passage 1, 20 minutes for Passage 2, and 25 minutes for Passage 3.",
+        "D": "Spend as much time as needed on Passage 1 to ensure a perfect score, then rush the rest."
+      },
+      "correct_answer": "C",
+      "explanation": "Because the reading passages increase in difficulty, allocating more time to the final, hardest passage (and less to the easiest first passage) is the most effective strategy to maximize your score."
+    }
+  ]
+}

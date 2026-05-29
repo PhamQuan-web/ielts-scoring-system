@@ -1,0 +1,111 @@
+{
+  "lesson_id": "vocab_colloc_01",
+  "title": "Problem and Solution Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential vocabulary and collocations to describe problems and propose solutions effectively in IELTS Writing Task 2 and Speaking Part 3."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Exacerbate",
+      "phonetic": "/ɪɡˈzæs.ə.beɪt/",
+      "cefr_level": "C1",
+      "meaning": "To make something that is already bad even worse.",
+      "example": "The lack of public funding will only exacerbate the current healthcare crisis.",
+      "image_url": null,
+      "image_prompt_fallback": "A stressed city planner looking at a map with growing red traffic zones indicating worsening congestion."
+    },
+    {
+      "word": "Mitigate",
+      "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+      "cefr_level": "C1",
+      "meaning": "To make something less severe, harmful, or painful.",
+      "example": "Planting trees can help mitigate the effects of climate change.",
+      "image_url": null,
+      "image_prompt_fallback": "Volunteers planting trees in an urban environment to reduce pollution."
+    },
+    {
+      "word": "Predicament",
+      "phonetic": "/prɪˈdɪk.ə.mənt/",
+      "cefr_level": "C1",
+      "meaning": "A difficult, unpleasant, or embarrassing situation.",
+      "example": "Many young adults find themselves in a financial predicament after graduating from university.",
+      "image_url": null,
+      "image_prompt_fallback": "A recent graduate looking worried while holding a stack of bills and student loan documents."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Pose a threat",
+      "meaning": "To create a dangerous situation or cause harm.",
+      "example": "Unregulated industrial waste poses a severe threat to marine ecosystems."
+    },
+    {
+      "collocation": "Tackle an issue",
+      "meaning": "To make a determined effort to deal with a problem.",
+      "example": "Governments must collaborate internationally to tackle the issue of global warming."
+    },
+    {
+      "collocation": "Implement a solution",
+      "meaning": "To put a plan or system into operation to solve a problem.",
+      "example": "The council has decided to implement a solution involving strict fines for littering."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "A big problem",
+      "better_upgrade": "A pressing issue / A formidable challenge",
+      "example": "Youth unemployment has become a pressing issue in recent decades."
+    },
+    {
+      "weak_phrase": "Solve the problem",
+      "better_upgrade": "Resolve the underlying issue",
+      "example": "Merely providing financial aid is not enough to resolve the underlying issue of poverty."
+    },
+    {
+      "weak_phrase": "Make it worse",
+      "better_upgrade": "Exacerbate the situation / Aggravate the problem",
+      "example": "Ignoring infrastructure maintenance will only exacerbate the situation in the long run."
+    }
+  ],
+  "sentence_frames": [
+    "One viable solution to address this pressing issue is to...",
+    "If this problem is not tackled promptly, it will inevitably exacerbate...",
+    "The most effective way to mitigate the negative impacts of [Topic] would be to..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "To mitigate the environmental impact of urban sprawl, governments must implement stricter zoning regulations and invest heavily in green infrastructure.",
+    "speaking_example": "Well, I think the most pressing issue in my hometown right now is traffic congestion. A viable solution to tackle this predicament would be to upgrade public transport networks."
+  },
+  "common_mistakes": [
+    "Using 'solve an issue' instead of 'resolve an issue' or 'tackle an issue' (Problems are solved, issues are resolved).",
+    "Confusing 'affect' (verb) and 'effect' (noun) when describing the consequences of a problem."
+  ],
+  "quiz": [
+    {
+      "question": "Which word is a C1-level synonym for 'making a bad situation worse'?",
+      "options": {
+        "A": "Alleviate",
+        "B": "Mitigate",
+        "C": "Exacerbate",
+        "D": "Implement"
+      },
+      "correct_answer": "C",
+      "explanation": "'Exacerbate' means to make a problem, bad situation, or negative feeling worse. 'Mitigate' and 'Alleviate' mean to make it better."
+    },
+    {
+      "question": "Choose the most natural collocation: 'Pollution from factories _______ a significant threat to local wildlife.'",
+      "options": {
+        "A": "makes",
+        "B": "poses",
+        "C": "gives",
+        "D": "does"
+      },
+      "correct_answer": "B",
+      "explanation": "The standard academic collocation is 'pose a threat'. We do not say 'make a threat' in the context of creating a danger."
+    }
+  ]
+}

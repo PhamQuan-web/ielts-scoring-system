@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_03",
+  "title": "How to Move from Band 5.5 to 6.5",
+  "strategy_problem": "Students stuck at 5.5 usually communicate effectively but rely on simple, short sentences, repeat the same basic words, and pause too frequently to search for language. They need to transition from 'basic survival English' to 'flexible conversational English'.",
+  "core_framework": [
+    "Expand Length (Fluency): Train yourself to give longer answers in Part 1 and Part 3. Instead of 1-sentence answers, aim for 3-4 sentences using the 'Answer + Reason + Example' structure.",
+    "Introduce Complex Grammar (GRA): To reach Band 6, you must use a mix of simple and complex sentence forms. Start practicing relative clauses ('The city WHERE I live...'), conditionals ('If I have time...'), and compound sentences.",
+    "Upgrade Vocabulary (LR): Stop repeating words from the examiner's question. Learn synonyms for common concepts (e.g., instead of 'good', use 'beneficial', 'enjoyable', or 'excellent').",
+    "Improve Flow (Pronunciation/FC): Work on chunking your speech (grouping words together naturally) rather than speaking word-by-word like a robot."
+  ],
+  "ielts_scenario": "Examiner: 'Do you like reading?'\nBand 5.5 Answer: 'Yes, I like reading. I read books every day. Books are good.'\nBand 6.5 Answer: 'Absolutely, I'm quite keen on reading. I try to read a few pages every night before bed because it helps me unwind after a long day at work.'",
+  "do_dont_table": {
+    "do": [
+      "Force yourself to extend answers by explaining 'why'.",
+      "Practice using complex grammar structures until they feel natural.",
+      "Paraphrase the examiner's question in your answer."
+    ],
+    "dont": [
+      "Give one-word answers ('Yes' or 'No').",
+      "Worry about making zero mistakes (Band 6 and 6.5 still allow for some grammar errors).",
+      "Speak too fast, which leads to more grammatical errors."
+    ]
+  },
+  "example_application": "Take a simple sentence: 'I like my job.' Upgrade it by adding a reason and a complex structure: 'I really enjoy my job because it allows me to work with interesting people, even though the hours can be long.'",
+  "personal_action_step": "Choose 5 common IELTS Part 1 questions. Write down a 3-sentence answer for each using the 'Answer + Reason + Example' formula, then practice saying them aloud.",
+  "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A graphic showing an arrow moving upward from 5.5 to 6.5, with stylized icons representing 'longer answers', 'complex grammar', and 'better vocabulary'.",
+  "quiz": [
+    {
+      "question": "What is a key requirement for achieving a Band 6.0 in Grammatical Range and Accuracy?",
+      "options": {
+        "A": "Making absolutely no grammatical mistakes.",
+        "B": "Using only simple sentences to ensure complete accuracy.",
+        "C": "Using a mix of simple and complex sentence forms.",
+        "D": "Using highly advanced academic grammar exclusively."
+      },
+      "correct_answer": "C",
+      "explanation": "According to the official IELTS Band Descriptors, a Band 6 in GRA requires the candidate to use a mix of simple and complex structures, even if they make some errors with the complex ones."
+    }
+  ]
+}

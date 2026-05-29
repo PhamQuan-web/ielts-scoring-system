@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_13",
+  "title": "Agree or Disagree Essays",
+  "writing_skill_goal": "Learn how to structure and write an opinion essay by clearly taking a side and supporting it with strong arguments.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Structure: 1. Introduction (Paraphrase + Clear Opinion). 2. Body Paragraph 1 (Reason 1 for opinion). 3. Body Paragraph 2 (Reason 2 for opinion). 4. Conclusion (Summarise and restate opinion).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "I agree with this a little bit, but I also disagree. There are good things and bad things.",
+      "improved_version": "I completely agree with the assertion that university education should be free, as it promotes social equality and ensures a highly educated workforce.",
+      "explanation": "The weak version is vague and fails to establish a clear position, which limits the Task Response score. The improved version states a firm opinion ('completely agree') and outlines the reasons."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Choose Your Stance",
+      "content": "You can completely agree, completely disagree, or partially agree. For most students, it is easiest to strongly pick one side (100% agree or 100% disagree) as it simplifies the essay structure."
+    },
+    {
+      "step": "Draft the Thesis Statement",
+      "content": "Your introduction must contain a sentence explicitly stating your opinion. For example: 'I completely disagree with this idea because...'"
+    },
+    {
+      "step": "Develop Body Paragraphs",
+      "content": "If you completely agree, Body Paragraph 1 should explain your first reason for agreeing. Body Paragraph 2 should explain your second reason for agreeing."
+    }
+  ],
+  "common_mistakes": [
+    "Sitting on the fence (not making a clear decision) so the examiner cannot find your opinion.",
+    "Discussing the opposite side in detail when you have already stated you completely agree with the first side.",
+    "Forgetting to include a conclusion."
+  ],
+  "original_ielts_prompt": "Big salary is much more important than job satisfaction. Do you agree or disagree?",
+  "model_micro_answer": "I strongly disagree with the idea that a high salary is more important than job satisfaction. The primary reason is that spending the majority of one's life in a stressful or unfulfilling job inevitably leads to severe mental health issues, such as depression, regardless of financial wealth.",
+  "image_url": null,
+  "image_prompt_fallback": "A balanced scale heavily tipped to one side, representing a strong opinion, with the words 'Agree' and 'Disagree' on the weighing pans.",
+  "quiz": [
+    {
+      "question": "If you decide to 'completely agree' with a prompt, what should Body Paragraph 2 contain?",
+      "options": {
+        "A": "Arguments for why people might disagree.",
+        "B": "A summary of the introduction.",
+        "C": "A second distinct reason explaining why you agree.",
+        "D": "Your final conclusion."
+      },
+      "correct_answer": "C",
+      "explanation": "If you completely agree, the entire essay must defend that position. BP1 gives reason one, and BP2 gives reason two. You do not need to discuss the opposing view."
+    }
+  ]
+}

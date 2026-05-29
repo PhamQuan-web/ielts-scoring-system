@@ -1,0 +1,72 @@
+{
+  "lesson_id": "grammar_02",
+  "title": "Present Continuous for Current and Temporary Situations",
+  "grammar_goal": "Improves precision when discussing changing trends in Writing Task 1 and current studies/work in Speaking Part 1. Boosts GRA by showing tense variety.",
+  "core_rule": {
+    "formula": "S + am/is/are + V-ing + O",
+    "usage": "Used for actions happening exactly now, temporary situations around the present time, and changing or developing situations.",
+    "signals": [
+      "right now",
+      "at the moment",
+      "currently",
+      "nowadays",
+      "at present",
+      "these days"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 1: Describing temporary situations (e.g., 'I am currently preparing for my exams').",
+    "Writing Task 1: Describing a changing trend over a period up to the present (e.g., 'The population is increasing rapidly').",
+    "Writing Task 2: Discussing modern trends or ongoing global issues (e.g., 'More and more people are choosing to work from home')."
+  ],
+  "when_not_to_use": [
+    "Do not use with stative verbs (verbs of thinking, feeling, owning: know, believe, like, belong). E.g., 'I am knowing the answer' is wrong.",
+    "Do not use for permanent routines or established facts."
+  ],
+  "ielts_examples": {
+    "writing": "Currently, the global climate is changing at an unprecedented rate due to human activities.",
+    "speaking": "At the moment, I'm taking an intensive English course to improve my IELTS score."
+  },
+  "repair_section": [
+    {
+      "wrong": "Currently, I study Economics at university.",
+      "correct": "Currently, I am studying Economics at university.",
+      "better_band_upgrade": "At present, I am pursuing an undergraduate degree in Economics at university."
+    },
+    {
+      "wrong": "The number of tourists increases these days.",
+      "correct": "The number of tourists is increasing these days.",
+      "better_band_upgrade": "The influx of international tourists is experiencing a steady upward trend these days."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Omitting the 'to be' verb (am/is/are) before the V-ing form (e.g., 'I learning English').",
+    "Incorrectly using continuous forms with stative verbs (e.g., 'I am understanding the lesson').",
+    "Using Present Simple for temporary situations instead of Present Continuous."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "She reading a really interesting book at the moment.",
+      "correct_sentence": "She is reading a really interesting book at the moment."
+    },
+    {
+      "wrong_sentence": "Nowadays, more and more people work remotely instead of commuting.",
+      "correct_sentence": "Nowadays, more and more people are working remotely instead of commuting."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A split-screen illustration. On the left, a person is doing a temporary task like studying for an exam with a clock showing the current time. On the right, a line graph showing a rising trend with an arrow. Text overlay: 'Present Continuous: Temporary & Changing Trends'.",
+  "quiz": [
+    {
+      "question": "Which of the following sentences is grammatically INCORRECT because of stative verb usage?",
+      "options": {
+        "A": "The city's population is expanding rapidly.",
+        "B": "I am currently living with my parents.",
+        "C": "She is knowing the director of the company very well.",
+        "D": "They are working on a new renewable energy project."
+      },
+      "correct_answer": "C",
+      "explanation": "'Know' is a stative verb representing a state of mind, not an action, so it cannot be used in the continuous form. It should be 'She knows the director...'."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lesson_id": "vocab_colloc_13",
+  "title": "Natural Speaking Phrases",
+  "topic_snapshot": {
+    "target_skills": [
+      "Speaking"
+    ],
+    "description": "Native-like fillers, introductory phrases, and idioms to improve Fluency and Lexical Resource in the IELTS Speaking test."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "To be honest",
+      "phonetic": "/tə bi ˈɒn.ɪst/",
+      "cefr_level": "B1",
+      "meaning": "Used to emphasize that what you are saying is true, even if it is slightly embarrassing or negative.",
+      "example": "To be honest, I've never been very interested in classical music.",
+      "image_url": null,
+      "image_prompt_fallback": "A person looking earnest with their hand on their heart, speaking truthfully."
+    },
+    {
+      "word": "Off the top of my head",
+      "phonetic": "/ɒf ðə tɒp əv maɪ hed/",
+      "cefr_level": "C1",
+      "meaning": "From the knowledge you have in your memory, without checking any sources.",
+      "example": "Off the top of my head, I'd say the population is around two million.",
+      "image_url": null,
+      "image_prompt_fallback": "A person pointing to their temple playfully as a lightbulb appears, recalling information instantly."
+    },
+    {
+      "word": "Not my cup of tea",
+      "phonetic": "/nɒt maɪ kʌp əv tiː/",
+      "cefr_level": "B2",
+      "meaning": "Not the type of thing that you like.",
+      "example": "Thanks for inviting me, but horror movies are just not my cup of tea.",
+      "image_url": null,
+      "image_prompt_fallback": "A person politely pushing away a teacup decorated with a spooky pattern, expressing dislike."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "A massive fan of",
+      "meaning": "To like something very much.",
+      "example": "I'm a massive fan of outdoor activities like hiking and cycling."
+    },
+    {
+      "collocation": "To be keen on",
+      "meaning": "To be very interested in or enthusiastic about something.",
+      "example": "I've always been really keen on learning new languages."
+    },
+    {
+      "collocation": "It depends on",
+      "meaning": "Used to say that the answer is not certain because it is affected by other things.",
+      "example": "Well, it really depends on the weather, to be frank."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "I don't know",
+      "better_upgrade": "I've never really thought about it before, but... / That's a tricky question, I suppose...",
+      "example": "That's a tricky question, I suppose it depends on the context."
+    },
+    {
+      "weak_phrase": "I like",
+      "better_upgrade": "I'm quite partial to / I'm incredibly passionate about",
+      "example": "I'm quite partial to a quiet evening at home rather than going out."
+    },
+    {
+      "weak_phrase": "I think that",
+      "better_upgrade": "As far as I'm concerned / I firmly believe that",
+      "example": "As far as I'm concerned, public transport should be free for everyone."
+    }
+  ],
+  "sentence_frames": [
+    "To be completely honest, I'm not entirely sure, but off the top of my head I'd say...",
+    "While some people are massive fans of [A], it's not really my cup of tea.",
+    "Well, that's a really interesting question. I've never really thought about it before, but..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "N/A - This language is strictly for speaking. Using idioms like 'cup of tea' in Task 2 will lower your score.",
+    "speaking_example": "To be honest, I've never really thought about whether I'd like to live in space. Off the top of my head, I'd say it sounds fascinating, but it's probably not my cup of tea because I love nature too much."
+  },
+  "common_mistakes": [
+    "Overusing idioms. Using one or two natural idioms is great for Band 7+, but forcing too many sounds unnatural and rehearsed.",
+    "Using informal speaking fillers (like 'you know', 'kinda', 'gonna') in the Writing test."
+  ],
+  "quiz": [
+    {
+      "question": "If an examiner asks you a question you have never considered before, what is a natural way to buy time?",
+      "options": {
+        "A": "I absolutely do not know the answer.",
+        "B": "Please skip this question.",
+        "C": "That's a tricky question, I've never really thought about it before...",
+        "D": "Wait a minute for me to think."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C is a perfect, native-like filler phrase that buys time naturally without showing panic."
+    },
+    {
+      "question": "What is the meaning of 'not my cup of tea'?",
+      "options": {
+        "A": "I don't like drinking tea.",
+        "B": "It is not something I am interested in or enjoy.",
+        "C": "I spilled my drink.",
+        "D": "It belongs to someone else."
+      },
+      "correct_answer": "B",
+      "explanation": "'Not my cup of tea' is a common idiom meaning 'not the type of thing that I like'."
+    }
+  ]
+}

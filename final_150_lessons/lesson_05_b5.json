@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_05",
+  "title": "The IELTS Improvement Loop",
+  "strategy_problem": "Many students think doing endless practice tests is the key to improving. They take a test, check their score, feel disappointed, and immediately take another test. This is just measuring your current level, not improving it.",
+  "core_framework": [
+    "Phase 1: Practice (The Output) - Do a task under realistic, timed conditions to see what you can produce naturally.",
+    "Phase 2: Analyze (The Diagnosis) - Critically review your performance. What went wrong? Did you lack vocabulary? Did you struggle with a specific grammar structure? Did you run out of time?",
+    "Phase 3: Learn (The Input) - Based on your diagnosis, learn the specific missing pieces. Study the necessary grammar, learn the topical vocabulary, or read model answers.",
+    "Phase 4: Apply (The Correction) - Redo the exact same task, applying what you just learned. This builds new, correct habits."
+  ],
+  "ielts_scenario": "A student writes a Task 2 essay and gets a 6.0. Instead of writing a new essay on a new topic, they analyze the 6.0 essay, realize they lacked vocabulary for the topic of 'Environment', study 10 new environmental collocations, and then rewrite the same essay aiming for a 7.0.",
+  "do_dont_table": {
+    "do": [
+      "Spend as much time reviewing a practice test as you did taking it.",
+      "Keep an 'error log' notebook to track your common mistakes.",
+      "Rewrite essays and re-record speaking answers after getting feedback."
+    ],
+    "dont": [
+      "Take multiple practice tests in one day without reviewing them.",
+      "Just look at the overall band score and ignore the detailed feedback.",
+      "Assume that 'more practice' automatically equals 'better score'."
+    ]
+  },
+  "example_application": "You take a Listening test and score 25/40. During review, you realize you missed 5 points because you couldn't spell the words correctly, and 3 points because you lost focus. You spend the next day practicing spelling for common IELTS words and doing focus exercises, rather than just taking another test.",
+  "personal_action_step": "Take the last essay or speaking recording you did. Do not do a new one today. Instead, spend 30 minutes identifying your top 3 weaknesses in that specific attempt, and find the resources to fix them.",
+  "image_url": "https://images.unsplash.com/photo-1507925922837-326524661005?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A circular diagram drawn on a whiteboard showing a cycle of 'Practice -> Analyze -> Learn -> Apply'. A hand is holding a marker, pointing to the 'Analyze' step.",
+  "quiz": [
+    {
+      "question": "What is the most common mistake students make regarding IELTS practice?",
+      "options": {
+        "A": "Taking too few practice tests",
+        "B": "Focusing too much on learning new vocabulary",
+        "C": "Taking test after test without analyzing their mistakes and learning from them",
+        "D": "Practicing only the speaking section"
+      },
+      "correct_answer": "C",
+      "explanation": "Continuous testing without analysis only measures your current ability; it does not build the new skills required to improve your score. The Improvement Loop requires pausing to learn and apply corrections."
+    }
+  ]
+}

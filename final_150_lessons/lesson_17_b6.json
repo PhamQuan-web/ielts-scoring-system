@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_17",
+  "title": "Two-Part Question Essays",
+  "writing_skill_goal": "Master the structure for Direct Question essays by ensuring both questions are answered equally and fully.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Structure: 1. Introduction (Paraphrase + address both questions). 2. Body Paragraph 1 (Answer Question 1). 3. Body Paragraph 2 (Answer Question 2). 4. Conclusion (Summarise both answers).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Prompt: Why is art important? Should government fund it? Answer: Art is very important for culture. (Spends 250 words on why art is important, ignores the funding question).",
+      "improved_version": "Art plays a crucial role in preserving a nation's cultural heritage. Consequently, I firmly believe that governments have a responsibility to subsidise artistic institutions.",
+      "explanation": "The weak version fails the Task Response criteria completely by ignoring half of the prompt. The improved version directly answers both the 'why' and the 'should they fund it' questions."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify the Two Questions",
+      "content": "These prompts literally have two question marks. For example: 'Why do people do this? Is it a positive or negative trend?'."
+    },
+    {
+      "step": "Divide Your Body Paragraphs",
+      "content": "The simplest and most effective structure is to use Body Paragraph 1 entirely to answer the first question, and Body Paragraph 2 entirely to answer the second question."
+    },
+    {
+      "step": "Address Both in the Introduction",
+      "content": "Your thesis statement MUST touch on both questions. Do not leave the examiner guessing what your answer to the second question will be."
+    }
+  ],
+  "common_mistakes": [
+    "Focusing 80% of the essay on the first question and only 20% on the second question.",
+    "Forgetting to answer the second question entirely.",
+    "Mixing the answers to both questions randomly throughout all paragraphs."
+  ],
+  "original_ielts_prompt": "Many people choose to work in foreign countries. Why do they do this? What problems might they face when working abroad?",
+  "model_micro_answer": "Professionals often migrate overseas in search of better career prospects and higher salaries. However, upon arrival, they frequently encounter significant challenges, most notably language barriers and cultural isolation.",
+  "image_url": null,
+  "image_prompt_fallback": "A road sign splitting into two equal paths. One path is labeled 'Question 1: Why?', and the other path is labeled 'Question 2: What problems?'.",
+  "quiz": [
+    {
+      "question": "If an IELTS prompt contains two distinct questions, how should you structure your body paragraphs?",
+      "options": {
+        "A": "Write three body paragraphs just in case.",
+        "B": "Answer Question 1 in the Introduction, and Question 2 in the Conclusion.",
+        "C": "Dedicate Body Paragraph 1 to answering the first question, and Body Paragraph 2 to answering the second question.",
+        "D": "Mix the answers to both questions in one single, large paragraph."
+      },
+      "correct_answer": "C",
+      "explanation": "Dedicating one body paragraph to each question is the safest and most logical way to ensure you fully and equally address both parts of the prompt, maximizing your Task Response and Coherence scores."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lesson_id": "vocab_colloc_03",
+  "title": "Trend and Data Description Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing"
+    ],
+    "description": "Essential vocabulary for precisely describing statistical trends, movements, and data in IELTS Writing Task 1."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Surge",
+      "phonetic": "/sɜːdʒ/",
+      "cefr_level": "C1",
+      "meaning": "A sudden and great increase.",
+      "example": "There has been a surge in demand for electric vehicles over the past decade.",
+      "image_url": null,
+      "image_prompt_fallback": "A line graph showing a sudden, sharp, and dramatic upward curve."
+    },
+    {
+      "word": "Plummet",
+      "phonetic": "/ˈplʌm.ɪt/",
+      "cefr_level": "C1",
+      "meaning": "To fall very quickly and suddenly.",
+      "example": "House prices plummeted during the economic recession.",
+      "image_url": null,
+      "image_prompt_fallback": "A line graph showing a steep and sudden downward drop."
+    },
+    {
+      "word": "Plateau",
+      "phonetic": "/ˈplæt.əʊ/",
+      "cefr_level": "C1",
+      "meaning": "To reach a particular level and then stay the same.",
+      "example": "After a period of rapid growth, the company's profits plateaued in 2020.",
+      "image_url": null,
+      "image_prompt_fallback": "A graph line that rises initially and then flattens out completely horizontally."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Upward trajectory",
+      "meaning": "A continuous process of increasing or going up.",
+      "example": "The number of international students followed a clear upward trajectory."
+    },
+    {
+      "collocation": "Marginal decline",
+      "meaning": "A very small or insignificant decrease.",
+      "example": "There was only a marginal decline in unemployment rates last year."
+    },
+    {
+      "collocation": "Wildly fluctuate",
+      "meaning": "To change frequently and significantly in size, amount, or quality.",
+      "example": "The price of cryptocurrency fluctuated wildly throughout the year."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Went up a lot",
+      "better_upgrade": "Surged significantly / Witnessed a substantial increase",
+      "example": "The proportion of renewable energy use surged significantly."
+    },
+    {
+      "weak_phrase": "Went down a little bit",
+      "better_upgrade": "Declined marginally / Experienced a slight dip",
+      "example": "Sales declined marginally in the third quarter."
+    },
+    {
+      "weak_phrase": "Stayed the same",
+      "better_upgrade": "Reached a plateau / Remained stable",
+      "example": "The birth rate reached a plateau after 1995."
+    }
+  ],
+  "sentence_frames": [
+    "The graph illustrates an upward trajectory in..., followed by...",
+    "After plummeting to a low of [Data] in [Year], the figures subsequently plateaued.",
+    "A marginal decline was observed in [Category], dropping from [Data] to [Data]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "Overall, while the consumption of fast food followed a clear upward trajectory, the intake of fresh produce plummeted before eventually reaching a plateau in 2018.",
+    "speaking_example": "Although I don't look at graphs every day, I've noticed an upward trajectory in the cost of living recently; prices have absolutely surged."
+  },
+  "common_mistakes": [
+    "Using adjectives instead of adverbs to modify verbs (e.g., 'increased rapid' instead of 'increased rapidly').",
+    "Confusing 'a decrease of' (amount changed) with 'a decrease to' (the final number)."
+  ],
+  "quiz": [
+    {
+      "question": "Which verb means 'to fall very quickly and suddenly'?",
+      "options": {
+        "A": "Surge",
+        "B": "Fluctuate",
+        "C": "Plummet",
+        "D": "Plateau"
+      },
+      "correct_answer": "C",
+      "explanation": "'Plummet' is an excellent C1 verb used in Task 1 to describe a steep and sudden drop in figures."
+    },
+    {
+      "question": "If a line graph shows figures going up and down repeatedly, what are they doing?",
+      "options": {
+        "A": "Plateauing",
+        "B": "Fluctuating",
+        "C": "Surging",
+        "D": "Soaring"
+      },
+      "correct_answer": "B",
+      "explanation": "'Fluctuate' means to rise and fall irregularly in number or amount."
+    }
+  ]
+}

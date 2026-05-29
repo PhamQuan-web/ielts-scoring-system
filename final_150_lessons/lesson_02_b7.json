@@ -1,0 +1,43 @@
+{
+  "lesson_id": "foundations_02",
+  "title": "Part 1 Answer Structure",
+  "speaking_skill_goal": "Part 1",
+  "answer_framework": "A highly effective and simple framework for Part 1 is A.R.E. (Answer, Reason, Example/Extra Detail). Part 1 answers should be short but complete, ideally lasting around 15 to 20 seconds (3 to 4 sentences).\n\nStep 1: Answer (A) - Address the question directly in your first sentence. Don't beat around the bush.\n\nStep 2: Reason (R) - Provide a short reason why using linking words like 'because', 'since', or 'as'. This demonstrates you can construct complex sentences.\n\nStep 3: Example / Extra Detail (E) - Add one specific example or a piece of extra information (like who with, where, or when). This naturally extends your response and allows you to showcase topic-specific vocabulary.",
+  "useful_phrase_bank": [
+    "Well, generally speaking, I would say ... (Opening)",
+    "To be honest, ... (Opening)",
+    "The main reason for this is that ... (Reasoning)",
+    "This is largely because ... (Reasoning)",
+    "For instance, just last week I ... (Example)",
+    "A good example of this is when ... (Example)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "Yes, I like weekends. I can sleep a lot.",
+      "better_answer": "Yes, absolutely. Weekends are definitely my favourite time of the week. The main reason is that I can finally catch up on my sleep after a tiring week at the office. For instance, last Saturday I slept for almost 10 hours straight!"
+    }
+  ],
+  "fluency_pronunciation_note": "When using linking phrases like 'The main reason is that...', try to connect the sounds smoothly together (connected speech) rather than pronouncing each word separately. This helps you sound much more natural and boosts your fluency score.",
+  "sample_ielts_question": "What is your favourite time of the week?",
+  "model_short_answer": "I'd have to say the weekend is definitely my favourite time. It's mainly because I get a chance to completely unwind and take a break from my university studies. For example, I usually spend Sunday mornings just relaxing at a local cafe with a good book.",
+  "common_mistakes": [
+    "Giving one-word answers like 'Yes' or 'No' without expanding, giving the examiner nothing to grade.",
+    "Rambling and giving answers that are far too long. Part 1 is just the introduction; save your long answers for Part 2.",
+    "Repeating the examiner's question word-for-word instead of paraphrasing."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1511882150382-421056c89033?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A cheerful person sitting at a bright, sunny cafe table with a coffee, relaxed and happy, representing a pleasant weekend break.",
+  "quiz": [
+    {
+      "question": "Why is it important to add an 'Example' or 'Extra Detail' in Part 1?",
+      "options": {
+        "A": "Because the examiner wants to know your life story.",
+        "B": "To make the answer exactly 1 minute long.",
+        "C": "It naturally extends the response to 3-4 sentences and allows you to showcase specific vocabulary.",
+        "D": "To show the examiner you have a good memory."
+      },
+      "correct_answer": "C",
+      "explanation": "Part 1 answers should be 3-4 sentences. Adding a specific example achieves this length perfectly and gives you an opportunity to use topical vocabulary (Lexical Resource) without rambling."
+    }
+  ]
+}

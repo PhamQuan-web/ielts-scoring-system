@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_06",
+  "title": "How to Build Ideas Quickly",
+  "strategy_problem": "Students often freeze in the Speaking or Writing exams because they don't know 'what' to say. They think they need profound, highly original ideas to score well. This leads to long pauses and lost points for Fluency and Coherence.",
+  "core_framework": [
+    "1. The 'Personal to Global' Method: Start by thinking about how the topic affects you personally, then your family/friends, then your city/country, and finally the world. This provides a natural progression of ideas.",
+    "2. The 'Wh- Questions' Technique: If stuck, silently ask yourself: Who, What, Where, When, Why, and How. This generates immediate angles to talk about.",
+    "3. The 'Opposite Perspective' Trick: If you can't think of why something is good, think about what would happen if it didn't exist. E.g., 'Why is exercise important?' -> 'Well, without it, people become lethargic and develop health issues...'",
+    "4. The 'Lie' Strategy: IELTS is a language test, not a polygraph. If you can't remember a real example, invent a plausible one quickly. The examiner only cares about your English."
+  ],
+  "ielts_scenario": "In Speaking Part 3, the examiner asks: 'How has technology changed the way we work?' A student freezes because they don't know much about the global economy. Instead, they use the 'Personal to Global' method: 'Well, personally, I can work from home now. This is true for many of my friends too. On a larger scale, companies no longer need huge offices...'",
+  "do_dont_table": {
+    "do": [
+      "Use brainstorming frameworks like 'Personal to Global'.",
+      "Remember that simple, clear ideas expressed in excellent English score higher than complex ideas expressed in poor English.",
+      "Invent examples if you need to; the truth doesn't matter, only the language."
+    ],
+    "dont": [
+      "Wait for the 'perfect' idea before you start speaking or writing.",
+      "Worry that your ideas are too simple or unoriginal.",
+      "Try to discuss topics you have no vocabulary for, just because they sound impressive."
+    ]
+  },
+  "example_application": "Topic: 'The importance of museums'. Using the 'Wh- Questions' technique: WHO visits them? (Students, tourists). WHY are they important? (Preserve history). WHAT would happen without them? (We'd lose our connection to the past). You now have three solid points to discuss.",
+  "personal_action_step": "Pick 5 random IELTS Task 2 essay prompts. Give yourself exactly 2 minutes per prompt to brainstorm 3 main ideas using the 'Personal to Global' or 'Wh- Questions' methods.",
+  "image_url": "https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A person sitting at a desk with a notebook, brainstorming ideas with a mind map. The central bubble says 'Technology' and branches out into 'Personal', 'Work', and 'Society'.",
+  "quiz": [
+    {
+      "question": "If you are asked a question in IELTS Speaking and you don't know the factual answer, what is the best strategy?",
+      "options": {
+        "A": "Tell the examiner you don't know and ask for a different question.",
+        "B": "Invent a plausible answer or example, because IELTS tests your language, not your factual knowledge.",
+        "C": "Stay silent until you can think of the correct factual answer.",
+        "D": "Apologize repeatedly for your lack of knowledge."
+      },
+      "correct_answer": "B",
+      "explanation": "IELTS is purely a test of English proficiency. The examiner is evaluating how well you can communicate an idea, not whether the idea is factually true or profound."
+    }
+  ]
+}

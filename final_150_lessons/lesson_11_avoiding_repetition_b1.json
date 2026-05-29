@@ -1,0 +1,110 @@
+{
+  "lesson_id": "vocab_colloc_11",
+  "title": "Avoiding Repetition in Writing",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing"
+    ],
+    "description": "Techniques for using referencing words, pronouns, and elegant synonyms to create cohesive, flowing text without sounding repetitive."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Latter",
+      "phonetic": "/ˈlæt.ər/",
+      "cefr_level": "B2",
+      "meaning": "The second of two people, things, or groups previously mentioned.",
+      "example": "Given the choice between tea and coffee, I generally prefer the latter.",
+      "image_url": null,
+      "image_prompt_fallback": "A split image showing an apple on the left and an orange on the right, with a spotlight exclusively illuminating the orange (the latter)."
+    },
+    {
+      "word": "Former",
+      "phonetic": "/ˈfɔː.mər/",
+      "cefr_level": "B2",
+      "meaning": "The first of two people, things, or groups previously mentioned.",
+      "example": "Both public and private schools have merits, but the former is more accessible to the masses.",
+      "image_url": null,
+      "image_prompt_fallback": "A split image showing a bus on the left and a train on the right, with a spotlight exclusively illuminating the bus (the former)."
+    },
+    {
+      "word": "Respectively",
+      "phonetic": "/rɪˈspek.tɪv.li/",
+      "cefr_level": "C1",
+      "meaning": "In a way that relates or belongs to each of the separate people or things you have just mentioned.",
+      "example": "Julie and Mark are aged 27 and 30 respectively.",
+      "image_url": null,
+      "image_prompt_fallback": "Two arrows pointing from two names (A and B) directly to two numbers (1 and 2), showing a clear, ordered mapping."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "The aforementioned",
+      "meaning": "Mentioned earlier in the text (very formal).",
+      "example": "None of the aforementioned solutions are completely flawless."
+    },
+    {
+      "collocation": "This phenomenon",
+      "meaning": "A fact or situation that is observed to exist or happen.",
+      "example": "This phenomenon is largely driven by rapid urbanization."
+    },
+    {
+      "collocation": "Such a trend",
+      "meaning": "Referring back to a pattern of change just described.",
+      "example": "If such a trend continues, coastal cities will face severe flooding."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "The first one and the second one",
+      "better_upgrade": "The former and the latter",
+      "example": "When comparing solar and coal energy, the former is sustainable, while the latter is finite."
+    },
+    {
+      "weak_phrase": "This problem",
+      "better_upgrade": "This pressing issue / This phenomenon",
+      "example": "Governments must act swiftly to address this pressing issue."
+    },
+    {
+      "weak_phrase": "In the same order",
+      "better_upgrade": "Respectively",
+      "example": "In 1990 and 2000, the population stood at 2 million and 3 million respectively."
+    }
+  ],
+  "sentence_frames": [
+    "While both [A] and [B] offer benefits, the former is more... whereas the latter...",
+    "The figures for [Country A] and [Country B] stood at [X]% and [Y]% respectively.",
+    "The aforementioned strategies could significantly mitigate the impact of..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The essay will discuss the benefits of both online and traditional learning; however, it will argue that the latter remains superior for developing social skills.",
+    "speaking_example": "Well, I enjoy both reading and watching films, but I definitely prefer the latter because it’s much more relaxing after a long day at work."
+  },
+  "common_mistakes": [
+    "Using 'the latter' when referring to the last item in a list of THREE or more things. (It should only be used for the second of exactly TWO things).",
+    "Forgetting to use 'the' before former and latter."
+  ],
+  "quiz": [
+    {
+      "question": "If you mention 'cats and dogs' in a sentence, how would you refer back to 'dogs'?",
+      "options": {
+        "A": "The second",
+        "B": "The former",
+        "C": "The latter",
+        "D": "The end one"
+      },
+      "correct_answer": "C",
+      "explanation": "'The latter' refers to the second of two things mentioned."
+    },
+    {
+      "question": "In the sentence 'Sales of cars and bikes reached 500 and 300 _______', which word correctly shows the order of the figures matches the order of the items?",
+      "options": {
+        "A": "respectively",
+        "B": "consecutively",
+        "C": "orderly",
+        "D": "latterly"
+      },
+      "correct_answer": "A",
+      "explanation": "'Respectively' is used to show that two or more items match two or more numbers/descriptions in the exact order they were mentioned."
+    }
+  ]
+}

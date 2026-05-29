@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_05",
+  "title": "How to Write a Clear Thesis Statement",
+  "writing_skill_goal": "Master the art of writing a clear thesis statement that directly answers the essay prompt and guides the reader.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "A thesis statement is usually the final sentence of your introduction. It clearly states your position or outlines the main points you will discuss in the essay.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "In this essay, I will write about the advantages and disadvantages of technology.",
+      "improved_version": "While technology has significantly improved communication efficiency, it also presents severe drawbacks regarding personal privacy.",
+      "explanation": "The weak version just announces the topic. The improved version actually answers the prompt by stating what the specific advantages and disadvantages are."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Understand the Purpose",
+      "content": "The thesis tells the examiner exactly what your essay is about and what your position is. A missing or unclear thesis can prevent you from scoring above a Band 6 in Task Response."
+    },
+    {
+      "step": "Be Specific",
+      "content": "Avoid vague phrases like 'There are many reasons for this'. Instead, specify the reasons: 'This is primarily driven by economic factors and cultural shifts'."
+    },
+    {
+      "step": "Match the Question Type",
+      "content": "If it's an opinion essay, clearly state your opinion ('I completely agree that...'). If it's a discussion essay, outline both sides briefly."
+    }
+  ],
+  "common_mistakes": [
+    "Writing a generic thesis that could apply to any essay ('This essay will discuss the pros and cons and draw a conclusion').",
+    "Not including a clear opinion when the prompt specifically asks 'To what extent do you agree?'.",
+    "Placing the thesis statement in the conclusion instead of the introduction."
+  ],
+  "original_ielts_prompt": "Many parents today are putting pressure on their children to succeed academically. Why is this happening? Is this a positive or negative development?",
+  "model_micro_answer": "This trend is largely driven by a highly competitive job market; however, I believe it is a negative development as it often leads to severe stress and mental health issues in youths.",
+  "image_url": null,
+  "image_prompt_fallback": "A magnifying glass focusing on the final sentence of an introductory paragraph, highlighting the words 'I firmly believe' in bright green.",
+  "quiz": [
+    {
+      "question": "Which of the following is the BEST thesis statement for an 'Agree or Disagree' essay about banning fast food?",
+      "options": {
+        "A": "This essay will discuss whether fast food should be banned or not.",
+        "B": "There are many reasons why fast food is bad, and I will write about them.",
+        "C": "I completely agree that fast food should be banned because it is the primary cause of obesity and heavily burdens the healthcare system.",
+        "D": "Fast food is delicious but unhealthy."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C is the best because it clearly states the writer's position ('I completely agree') and outlines the specific main points (obesity and healthcare burden) that will be discussed in the body paragraphs."
+    }
+  ]
+}

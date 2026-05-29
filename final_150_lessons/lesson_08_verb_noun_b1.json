@@ -1,0 +1,116 @@
+{
+  "lesson_id": "vocab_colloc_08",
+  "title": "Verb + Noun Collocations",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential action-oriented collocations that demonstrate a high command of English phrasing."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Implement",
+      "phonetic": "/ˈɪm.plɪ.ment/",
+      "cefr_level": "B2",
+      "meaning": "To start using a plan or system.",
+      "example": "The school has decided to implement a new dress code.",
+      "image_url": null,
+      "image_prompt_fallback": "A team of workers assembling a large gear mechanism, representing putting a plan into action."
+    },
+    {
+      "word": "Alleviate",
+      "phonetic": "/əˈliː.vi.eɪt/",
+      "cefr_level": "C1",
+      "meaning": "To make pain or problems less severe.",
+      "example": "The medicine did nothing to alleviate her discomfort.",
+      "image_url": null,
+      "image_prompt_fallback": "A soothing, cool blue glowing aura wrapping around a painful, red inflamed joint, showing relief."
+    },
+    {
+      "word": "Foster",
+      "phonetic": "/ˈfɒs.tər/",
+      "cefr_level": "C1",
+      "meaning": "To encourage the development or growth of ideas or feelings.",
+      "example": "The club aims to foster a sense of community among local youths.",
+      "image_url": null,
+      "image_prompt_fallback": "Hands gently cupping a small, glowing sprout in soil, symbolizing nurturing and encouraging growth."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Implement a policy",
+      "meaning": "To put a rule or plan into action.",
+      "example": "Governments must implement stricter policies regarding emissions."
+    },
+    {
+      "collocation": "Alleviate poverty",
+      "meaning": "To reduce the severity of financial hardship.",
+      "example": "Micro-loans can help alleviate poverty in developing nations."
+    },
+    {
+      "collocation": "Foster a sense of",
+      "meaning": "To cultivate a feeling (like belonging, community, or responsibility).",
+      "example": "Team sports foster a sense of cooperation and mutual respect."
+    },
+    {
+      "collocation": "Allocate resources",
+      "meaning": "To distribute money, time, or materials for a specific purpose.",
+      "example": "The council needs to allocate more resources to public healthcare."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Make a rule",
+      "better_upgrade": "Implement a policy / Introduce legislation",
+      "example": "To ensure safety, the factory introduced strict legislation regarding protective gear."
+    },
+    {
+      "weak_phrase": "Reduce the problem",
+      "better_upgrade": "Alleviate the issue / Mitigate the problem",
+      "example": "Building new roads is unlikely to fully alleviate the issue of congestion."
+    },
+    {
+      "weak_phrase": "Give money to",
+      "better_upgrade": "Allocate funds to / Invest resources in",
+      "example": "The state should allocate more funds to renewable energy research."
+    }
+  ],
+  "sentence_frames": [
+    "By implementing stricter policies, authorities can...",
+    "One effective way to alleviate this issue is to...",
+    "It is crucial that schools foster a sense of..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "If governments allocate sufficient funds to education, they can effectively alleviate poverty and foster a sense of social equality.",
+    "speaking_example": "I think the local council should implement better recycling policies to help alleviate the waste management problem in our city."
+  },
+  "common_mistakes": [
+    "Saying 'make a policy' instead of the natural 'implement/introduce a policy'.",
+    "Using 'alleviate' for physical objects (e.g., 'alleviate the traffic' - instead, use 'alleviate congestion')."
+  ],
+  "quiz": [
+    {
+      "question": "Which verb best completes the collocation: 'The government needs to _______ more resources to the healthcare sector.'",
+      "options": {
+        "A": "Alleviate",
+        "B": "Foster",
+        "C": "Allocate",
+        "D": "Implement"
+      },
+      "correct_answer": "C",
+      "explanation": "'Allocate resources' means to assign or distribute resources (like money or staff) for a specific purpose."
+    },
+    {
+      "question": "Which phrase is the most academic way to say 'encourage teamwork'?",
+      "options": {
+        "A": "Push teamwork",
+        "B": "Make teamwork",
+        "C": "Foster a sense of collaboration",
+        "D": "Build working together"
+      },
+      "correct_answer": "C",
+      "explanation": "'Foster a sense of collaboration' is a highly advanced, natural academic collocation."
+    }
+  ]
+}

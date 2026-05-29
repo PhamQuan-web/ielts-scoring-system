@@ -1,0 +1,31 @@
+{
+  "lesson_id": "listening_22_accents",
+  "title": "Accents and Pronunciation Awareness",
+  "skill_goal": "Familiarize yourself with the variety of accents used in the IELTS Listening test to avoid missing answers due to unfamiliar pronunciation.",
+  "question_type_strategy": "IELTS is an *International* English test. You will hear British, Australian, New Zealand, and North American accents. You cannot rely solely on American English pronunciation (which is common in movies).",
+  "how_to_recognise": "This is a general skill applied to the whole test.",
+  "step_by_step_method": [
+    "1. Be aware of the 'R' sound: British/Aussie accents are often non-rhotic (they drop the 'r' at the end of words like 'car' or 'water').",
+    "2. Be aware of the 'T' sound: Americans often flap the 't' in 'water' (sounds like 'wader'), while British speakers might pronounce a hard 't' or use a glottal stop.",
+    "3. Vowel differences: The 'a' in 'can't' or 'dance' is pronounced very differently in the UK vs the US.",
+    "4. Exposure: Listen to podcasts from different regions to train your ear."
+  ],
+  "trap_example": "The 'Missing the Word' Trap. An Australian speaker might say 'data' pronouncing it 'dah-tah', while you might only know the American pronunciation 'day-tah'. If you aren't familiar with both, you won't recognize the word.",
+  "micro_practice_example": "Word: 'Schedule'. \nUK pronunciation: 'Shed-yool'. \nUS pronunciation: 'Sked-yool'. \nYou must be able to recognize both instantly.",
+  "review_method": "Use IELTS practice tests to identify which accents give you the most trouble. If Australian accents confuse you, watch Australian news or documentaries specifically.",
+  "image_url": null,
+  "image_prompt_fallback": "A map of the world with speech bubbles coming from the UK, Australia, and North America, showing different phonetic spellings of the same English word.",
+  "quiz": [
+    {
+      "question": "Which of the following accents might you hear in the IELTS Listening test?",
+      "options": {
+        "A": "Only British accents.",
+        "B": "Only American accents.",
+        "C": "A mix of British, Australian, New Zealand, and North American accents.",
+        "D": "Only the accent of the country where you are taking the test."
+      },
+      "correct_answer": "C",
+      "explanation": "IELTS stands for International English Language Testing System. It deliberately uses a variety of native-speaker accents from across the English-speaking world."
+    }
+  ]
+}

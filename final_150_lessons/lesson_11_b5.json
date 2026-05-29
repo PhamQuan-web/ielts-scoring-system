@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_11",
+  "title": "Common Mistakes That Keep Students Below Band 6.5",
+  "strategy_problem": "Many students remain stuck at Band 5.5 or 6.0 not because they lack knowledge, but because they repeatedly make specific, foundational errors that immediately signal a lower proficiency level to examiners.",
+  "core_framework": [
+    "1. The 'Direct Answer' Failure: In Speaking and Writing, answering the question indirectly or giving a vague philosophical statement instead of a clear 'Yes/No/Opinion' immediately lowers the Task Response score.",
+    "2. Overuse of Transition Words: Using 'Moreover', 'Furthermore', 'Nevertheless' at the start of every single sentence in Writing Task 2 is a classic Band 6 error. It feels forced and mechanical. Higher bands use cohesive devices subtly (e.g., pronouns like 'This', 'These issues').",
+    "3. Article Errors (a/an/the): Consistent errors with articles are very common. While one mistake won't ruin your score, constant omission of 'the' before specific nouns or using 'a' with plural/uncountable nouns severely impacts grammatical accuracy.",
+    "4. Tone Mismatch in General Training Task 1: Writing a formal letter to a close friend (e.g., 'Dear Sir, I am writing to inform you...') or an informal letter to a manager. Tone is critical for Task Achievement."
+  ],
+  "ielts_scenario": "Writing Task 2 Prompt: 'Do you think technology makes people more isolated?' Student's Intro: 'Since the dawn of time, technology has been important. Some people think it isolates them, others disagree. In this essay, I will discuss both sides.' This introduction is generic, doesn't answer the prompt, and is a hallmark of a Band 5.5/6.0 essay.",
+  "do_dont_table": {
+    "do": [
+      "Answer the prompt directly in your very first sentence (e.g., 'I strongly agree that technology increases isolation...').",
+      "Use referencing pronouns ('this trend', 'such problems') instead of always using transition words.",
+      "Double-check article usage during your Writing review time."
+    ],
+    "dont": [
+      "Write generic 'Since the dawn of time' introductions.",
+      "Use formal linking words ('Furthermore') in Speaking Part 1; it sounds robotic.",
+      "Mix formal and informal language in the same sentence."
+    ]
+  },
+  "example_application": "Instead of writing: 'Firstly, pollution is bad. Furthermore, traffic is terrible. In addition, housing is expensive.' Write: 'Pollution is a major issue in cities. This problem is compounded by severe traffic congestion and increasingly expensive housing.'",
+  "personal_action_step": "Review your last Writing Task 2 essay. Highlight every single transition word you used at the start of a sentence. If there are more than 5 in a 250-word essay, try to rewrite those sentences using pronouns instead.",
+  "image_url": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A close-up of an essay where mechanical transition words like 'Furthermore' and 'Moreover' are crossed out with a red pen.",
+  "quiz": [
+    {
+      "question": "Which of the following is considered a hallmark error of a Band 6.0 Writing Task 2 essay?",
+      "options": {
+        "A": "Having a clear opinion stated in the introduction.",
+        "B": "Overusing mechanical transition words like 'Moreover' and 'Furthermore' at the start of every sentence.",
+        "C": "Making occasional spelling mistakes on complex words.",
+        "D": "Using complex sentences effectively but with minor punctuation errors."
+      },
+      "correct_answer": "B",
+      "explanation": "Overusing mechanical cohesive devices is explicitly mentioned in the Band 6 descriptor for Coherence and Cohesion ('uses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical'). Higher bands use more subtle referencing."
+    }
+  ]
+}

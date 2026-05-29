@@ -1,0 +1,40 @@
+{
+  "lesson_id": "foundations_16",
+  "title": "Pronunciation Basics for Vietnamese Learners",
+  "speaking_skill_goal": "Part 1, 2, or 3",
+  "answer_framework": "For Vietnamese learners, English pronunciation presents specific challenges due to the differences between the two languages. Vietnamese is a tonal, syllable-timed language where words often end in vowels or unreleased consonants. English is stress-timed and highly relies on ending sounds.\n\nTo drastically improve your score, focus on these 3 core areas:\n1. Ending Sounds (Final Consonants): Do not drop the /s/, /z/, /t/, /d/, /k/ sounds at the ends of words. (e.g., 'nine' vs 'nice', 'white' vs 'wife'). Missing ending sounds makes plural nouns and past tense verbs impossible to understand.\n2. Consonant Clusters: Practice saying groups of consonants together without adding a vowel in between (e.g., 'street', not 'sờ-tờ-rít'; 'play', not 'pờ-lây').\n3. Long vs Short Vowels: Distinguish between /ɪ/ and /i:/ (e.g., 'ship' vs 'sheep') or /ʊ/ and /u:/ ('pull' vs 'pool').",
+  "useful_phrase_bank": [
+    "Practice: 'She sells seashells by the seashore.' (Focus on /s/ vs /ʃ/)",
+    "Practice: 'I walked, I played, I rested.' (Focus on past tense /t/, /d/, /ɪd/ endings)",
+    "Practice: 'It's a very big bridge.' (Focus on /v/ vs /b/ and ending /dʒ/)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "(Pronounced) 'I lye to play fo-ball wi my frien.' (Dropped endings and clusters)",
+      "better_answer": "(Pronounced clearly) 'I like to play football with my friends.' (Clear /k/, /t/, /θ/, /dz/ endings)"
+    }
+  ],
+  "fluency_pronunciation_note": "A great exercise is to read a paragraph out loud and physically exaggerate the ending sounds. It will feel silly and unnatural at first, but it trains your muscle memory to not drop them during the real exam.",
+  "sample_ielts_question": "What did you do last weekend?",
+  "model_short_answer": "Last weekend, I watchED /t/ a movie with /θ/ some friendS /z/. Later, we walkED /t/ around the park and talkED /t/ about our school projectS /s/.",
+  "common_mistakes": [
+    "Dropping the 's' on plural nouns or 3rd person singular verbs (He play_ instead of He plays).",
+    "Pronouncing /v/ as /b/ (e.g., 'bery' instead of 'very').",
+    "Failing to pronounce the 'ed' endings correctly on past tense verbs."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1543269664-56d74c632bc5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A close-up of a person's mouth speaking clearly into a studio microphone, highlighting the physical articulation of speech sounds.",
+  "quiz": [
+    {
+      "question": "Why is it critical for Vietnamese learners to focus on English 'ending sounds'?",
+      "options": {
+        "A": "Because it makes them sound like native speakers from London.",
+        "B": "Because Vietnamese words always end in hard consonants.",
+        "C": "Because dropping ending sounds in English often changes the grammar (like plurals or past tense) or changes the word entirely.",
+        "D": "It is not critical; examiners do not care about ending sounds."
+      },
+      "correct_answer": "C",
+      "explanation": "If you drop ending sounds, 'wife' sounds like 'why', and 'played' sounds like 'play'. This directly damages both your Pronunciation score and your Grammatical Accuracy score because the examiner cannot hear your tenses."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_06",
+  "title": "Storytelling Framework for Part 2",
+  "speaking_skill_goal": "Part 2",
+  "answer_framework": "A powerful way to ensure high marks in Fluency and Coherence during Part 2 is to structure your 2-minute answer like a story. The human brain is naturally wired for narratives. Use the 'P.P.F. Framework' (Past, Present, Future) to organize your thoughts:\n\n1. Introduction (The Hook): Introduce the topic directly but with enthusiasm. 'I'm really glad I got this topic because...'\n\n2. The Past (Background): Set the scene. How did this start? 'It all began a few years ago when...'\n\n3. The Present (Core Details): This is where you answer the specific bullet points on the card. Focus on descriptions and actions. 'Nowadays, I usually...'\n\n4. The Future (Reflection/Prediction): This is the secret weapon to hitting the 2-minute mark and showing advanced grammar. Conclude by talking about the future. 'Looking ahead, I hope to...'\n\nBy naturally shifting tenses (from Past -> Present -> Future), you automatically demonstrate a wide Grammatical Range to the examiner.",
+  "useful_phrase_bank": [
+    "It all started back when ... (Past)",
+    "At that time, I was ... (Past Continuous)",
+    "Currently, I find myself ... (Present)",
+    "Looking to the future, I genuinely hope ... (Future)",
+    "If I ever get the chance again, I would definitely ... (Future Conditional)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "I play tennis. I started last year. I like it. I will play tomorrow.",
+      "better_answer": "It all started back when I was in high school; a friend dragged me to a local tennis court. Currently, it's become my absolute favorite hobby and I play every weekend. Looking to the future, I genuinely hope to join a competitive amateur league next summer."
+    }
+  ],
+  "fluency_pronunciation_note": "When telling a story, your intonation should not be flat. Use a slightly higher pitch when describing something exciting, and a softer tone for something reflective. This 'expressive intonation' is a key requirement for a Band 7+ in Pronunciation.",
+  "sample_ielts_question": "Describe a hobby you enjoy doing.\nYou should say:\n- What it is\n- When you started doing it\n- Who you do it with\n- And explain why you enjoy it.",
+  "model_short_answer": "I'd love to talk about photography. It all started back in university when I was gifted a cheap digital camera. Nowadays, I mostly do street photography by myself on the weekends. I enjoy it because it forces me to notice beautiful details in everyday life. Looking ahead, I hope to eventually upgrade my equipment and perhaps even host a small exhibition.",
+  "common_mistakes": [
+    "Speaking in a monotone, robotic voice that makes the story boring.",
+    "Using only the present tense for the entire 2 minutes, which limits your Grammatical Range score.",
+    "Jumping randomly between ideas instead of following a logical chronological order."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1455390582262-044cdead27d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A person excitedly telling a story to a small group of friends around a campfire, using hand gestures and expressive facial expressions.",
+  "quiz": [
+    {
+      "question": "Why is the P.P.F (Past, Present, Future) framework so effective for Part 2?",
+      "options": {
+        "A": "It ensures you use a wide range of grammatical tenses naturally.",
+        "B": "It proves to the examiner that you know how to tell time.",
+        "C": "It is the only way to answer the bullet points correctly.",
+        "D": "It prevents you from using complex vocabulary."
+      },
+      "correct_answer": "A",
+      "explanation": "By structuring your answer chronologically from past to future, you are naturally forced to use past tenses, present tenses, and future forms (including conditionals). This significantly boosts your Grammatical Range score without needing to force complicated structures."
+    }
+  ]
+}

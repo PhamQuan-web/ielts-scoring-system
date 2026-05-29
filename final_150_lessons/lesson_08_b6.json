@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_08",
+  "title": "Topic Sentence, Explanation and Example",
+  "writing_skill_goal": "Deep dive into crafting the three core elements of a body paragraph: the topic sentence, the explanation, and the supporting example.",
+  "band_descriptor_link": [
+    "Coherence",
+    "Lexical"
+  ],
+  "core_writing_framework": "A Topic Sentence is your 'mini-thesis' for the paragraph. Explanations use causal language (because, due to). Examples use illustrative language (for example, such as).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Topic Sentence: Fast food makes you fat.",
+      "improved_version": "Topic Sentence: The primary reason for the rising obesity epidemic is the widespread consumption of fast food.",
+      "explanation": "The improved version elevates the vocabulary and clearly frames the argument for an academic context."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Crafting the Topic Sentence",
+      "content": "Keep it direct. Do not write a long, confusing topic sentence. State the main point clearly: 'The most significant benefit of X is Y'."
+    },
+    {
+      "step": "Crafting the Explanation",
+      "content": "Use phrases like 'This is because...', 'This means that...', or 'As a result of this...'. Focus on the logical connection between the cause and the effect."
+    },
+    {
+      "step": "Crafting the Example",
+      "content": "Do not use personal examples using 'I' or 'My friend' (e.g., 'My friend John ate fast food and got fat'). Instead, generalise it: 'For example, individuals who regularly consume fast food are at a higher risk of developing health issues...'"
+    }
+  ],
+  "common_mistakes": [
+    "Using fake statistics that sound unnatural (e.g., 'According to a study by Oxford University, 87.4% of people like fast food.').",
+    "Writing a topic sentence that is actually an example.",
+    "Failing to include an explanation, jumping straight from the topic sentence to the example."
+  ],
+  "original_ielts_prompt": "Many people use social media every day to communicate with others. What are the advantages and disadvantages of this?",
+  "model_micro_answer": "A major disadvantage of daily social media use is the negative impact on face-to-face communication skills. Because people are increasingly interacting through screens using short texts and emojis, they are losing the ability to read body language and maintain deep, in-person conversations. For example, it is common to see groups of friends at a restaurant silently staring at their phones rather than speaking to one another.",
+  "image_url": null,
+  "image_prompt_fallback": "A magnifying glass inspecting a paragraph, highlighting the first sentence in blue (Topic), the middle sentences in yellow (Explain), and the final sentence in green (Example).",
+  "quiz": [
+    {
+      "question": "Which of the following is the most appropriate way to introduce an example in IELTS Task 2?",
+      "options": {
+        "A": "My uncle experienced this when he...",
+        "B": "According to the New York Times on October 12th...",
+        "C": "For instance, recent university graduates often find that...",
+        "D": "To give an example, 99.9% of people think that..."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C uses a generalized, plausible example. Option A is too informal (personal). Option B is unnecessary and often looks memorized/fake. Option D uses a fake, extreme statistic that examiners dislike."
+    }
+  ]
+}

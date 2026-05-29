@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_14",
+  "title": "Discussion Essays",
+  "writing_skill_goal": "Learn how to objectively analyze two opposing views before giving your own opinion.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Structure: 1. Introduction (Paraphrase both views + state your opinion). 2. Body Paragraph 1 (Discuss View 1). 3. Body Paragraph 2 (Discuss View 2). 4. Conclusion (Summarise and restate opinion).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "I think students should wear uniforms because it is cheaper. Also, it looks nice.",
+      "improved_version": "On the one hand, some argue that school uniforms suppress individuality. On the other hand, many believe they foster equality among students. I agree with the latter view because uniforms significantly reduce peer pressure related to fashion.",
+      "explanation": "The weak version ignores the requirement to 'discuss both views' and jumps straight to an opinion. The improved version correctly addresses both sides before establishing a personal stance."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Acknowledge Both Sides",
+      "content": "You must dedicate one full body paragraph to explaining why some people hold the first view, and another full body paragraph to explaining why others hold the second view."
+    },
+    {
+      "step": "Use Objective Language",
+      "content": "When discussing the side you don't agree with, use third-person language: 'Supporters of this view argue that...' or 'It is often believed that...'."
+    },
+    {
+      "step": "Give Your Opinion",
+      "content": "The prompt asks you to 'give your own opinion'. You can do this in the introduction, briefly at the end of the body paragraphs, and definitively in the conclusion."
+    }
+  ],
+  "common_mistakes": [
+    "Only writing about the view you agree with.",
+    "Writing a third body paragraph for your opinion (this usually leads to running out of time). It is better to integrate your opinion into the introduction and conclusion, or side with one of the body paragraphs.",
+    "Confusing a 'Discuss both views' essay with an 'Advantages/Disadvantages' essay."
+  ],
+  "original_ielts_prompt": "Some people think that strict environmental regulations are the only way to save our planet. Others believe that technology will provide the solution. Discuss both these views and give your own opinion.",
+  "model_micro_answer": "While many experts argue that technological innovations, such as carbon capture, will eventually solve the climate crisis, I align with those who believe strict government regulations are immediately necessary to halt current ecological damage.",
+  "image_url": null,
+  "image_prompt_fallback": "An illustration of two people talking across a table, with speech bubbles representing opposing views, and a third person (the writer) standing in the middle holding a clipboard with an opinion.",
+  "quiz": [
+    {
+      "question": "In a 'Discuss both views' essay, how should you write the body paragraph about the view you DISAGREE with?",
+      "options": {
+        "A": "You shouldn't write it. Only write about what you agree with.",
+        "B": "Write about it using objective language (e.g., 'Some people argue that...') to explain their perspective fairly.",
+        "C": "Write about it and aggressively insult the people who believe it.",
+        "D": "Only write one sentence about it."
+      },
+      "correct_answer": "B",
+      "explanation": "The task requires you to discuss both views objectively. You must explain the logic behind the opposing view, even if you ultimately conclude that it is incorrect."
+    }
+  ]
+}

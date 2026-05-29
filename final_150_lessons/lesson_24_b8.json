@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_24_review_mistakes",
+  "title": "How to Review Listening Mistakes with Transcript",
+  "skill_goal": "Learn how to use audio transcripts effectively to diagnose whether your errors are due to vocabulary, spelling, or getting lost.",
+  "question_type_strategy": "Just checking the answer key is not enough. To improve, you must use the transcript at the back of the practice book to understand *why* you didn't hear the answer.",
+  "how_to_recognise": "This is a post-test study technique.",
+  "step_by_step_method": [
+    "1. Mark your test. Identify the questions you got wrong.",
+    "2. Open the audio transcript. Read the section where the answer was located.",
+    "3. Play the audio again while reading the transcript.",
+    "4. Diagnose the error: Did you not know the vocabulary word? Did you spell it wrong? Did you fall for a distractor? Or did you just lose your place?",
+    "5. Highlight paraphrases: In the transcript, highlight the words the speaker used, and draw a line to the keywords in the question booklet."
+  ],
+  "trap_example": "The 'Passive Listening' Trap. Just listening to English music or podcasts in the background while cooking will not improve your IELTS score. You must do active, transcript-based analysis to improve.",
+  "micro_practice_example": "You missed Question 15. The answer was 'exhibition'. \nTranscript Analysis: You read the transcript and see the speaker said 'exhibition'. You realize you heard the word, but didn't know what it meant, so you didn't write it down. Action: Add 'exhibition' to your vocabulary flashcards.",
+  "review_method": "Shadowing: Play a small section of the audio and try to speak along with the transcript exactly matching the speaker's rhythm and pronunciation.",
+  "image_url": null,
+  "image_prompt_fallback": "A student wearing headphones, looking closely at a printed transcript of an audio recording, highlighting a specific sentence with a yellow marker.",
+  "quiz": [
+    {
+      "question": "What is the most effective way to understand why you got a listening question wrong?",
+      "options": {
+        "A": "Listen to the whole 30-minute test again.",
+        "B": "Look at the answer key and try to memorize it.",
+        "C": "Read the audio transcript while listening to the specific section, identifying exactly where the answer was given and what distractors were used.",
+        "D": "Complain about the speaker's accent."
+      },
+      "correct_answer": "C",
+      "explanation": "The transcript is the ultimate diagnostic tool. It allows you to visually see what you missed auditorily, helping you distinguish between vocabulary issues and concentration issues."
+    }
+  ]
+}

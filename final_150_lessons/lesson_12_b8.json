@@ -1,0 +1,31 @@
+{
+  "lesson_id": "reading_12_review_mistakes",
+  "title": "How to Review Reading Mistakes",
+  "skill_goal": "Learn how to extract maximum value from practice tests by analyzing errors rather than just checking the score.",
+  "question_type_strategy": "Doing practice tests does not improve your score; reviewing them does. You must analyze the gap between your thought process and the examiner's logic.",
+  "how_to_recognise": "This applies to post-test review.",
+  "step_by_step_method": [
+    "1. Do not just look at the correct answer. Cover it up and try to find the evidence in the text again without the time pressure.",
+    "2. Categorize the error: Was it a Vocabulary issue (didn't know a word)? A Paraphrase issue (didn't recognize the synonym)? A Trap (fell for 'always')? Or a Time issue (rushed and guessed)?",
+    "3. Create a Paraphrase Table: Write the phrase from the question next to the phrase from the text.",
+    "4. Create a Unknown Vocab List: Look up words that blocked your understanding and memorize them."
+  ],
+  "trap_example": "The 'Volume over Quality' Trap. Taking three reading tests a day but never reviewing your mistakes. You will just repeat the same mistakes faster.",
+  "micro_practice_example": "You answered Question 5 wrong. \nBad Review: 'Oh, the answer is B. Okay, next.' \nGood Review: 'I chose C because I saw the exact word 'industry'. But B is correct because 'manufacturing sector' in the text paraphrases 'factories' in the question. Next time, I will beware of exact word traps.'",
+  "review_method": "Spend equal time reviewing a test as you did taking it. If the test took 60 minutes, spend 60 minutes analyzing the answers.",
+  "image_url": null,
+  "image_prompt_fallback": "A student looking at a graded test paper, holding a magnifying glass and a notebook titled 'Error Log', with lines connecting incorrect answers to a 'Root Cause' column.",
+  "quiz": [
+    {
+      "question": "What is the most common reason a student's reading score does not improve despite doing dozens of practice tests?",
+      "options": {
+        "A": "They are using the wrong brand of pencil.",
+        "B": "They are doing the tests too slowly.",
+        "C": "They are focusing on their score rather than deeply analyzing why they got questions wrong.",
+        "D": "They are not reading enough English novels."
+      },
+      "correct_answer": "C",
+      "explanation": "Improvement comes from error analysis. Without understanding why a trap worked on you or why you missed a paraphrase, you will continue to make the same errors."
+    }
+  ]
+}

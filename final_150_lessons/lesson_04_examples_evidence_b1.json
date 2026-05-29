@@ -1,0 +1,126 @@
+{
+  "lesson_id": "vocab_colloc_04",
+  "title": "Examples, Evidence and Explanation Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Sophisticated vocabulary and structures to introduce examples, provide compelling evidence, and explain complex ideas in depth for IELTS Writing Task 2 and Speaking Part 3. Detailed to provide comprehensive options."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Corroborate",
+      "phonetic": "/kəˈrɒb.ə.reɪt/",
+      "cefr_level": "C2",
+      "meaning": "To add proof to an account, statement, idea, etc. with new information.",
+      "example": "Recent statistical data corroborates the theory that early childhood education is vital for cognitive development.",
+      "image_url": null,
+      "image_prompt_fallback": "Two puzzle pieces fitting together perfectly, with a magnifying glass examining the joint, symbolizing proof confirming an idea."
+    },
+    {
+      "word": "Substantiate",
+      "phonetic": "/səbˈstæn.ʃi.eɪt/",
+      "cefr_level": "C1",
+      "meaning": "To show something to be true, or to support a claim with facts.",
+      "example": "Candidates must substantiate their arguments with relevant real-world examples.",
+      "image_url": null,
+      "image_prompt_fallback": "A lawyer presenting a glowing document of evidence to a judge in a courtroom."
+    },
+    {
+      "word": "Illustrate",
+      "phonetic": "/ˈɪl.ə.streɪt/",
+      "cefr_level": "B2",
+      "meaning": "To show the meaning or truth of something more clearly, especially by giving examples.",
+      "example": "To illustrate this point, consider the rapid technological advancements in the medical field.",
+      "image_url": null,
+      "image_prompt_fallback": "A presenter pointing to a vibrant, detailed chart on a whiteboard that clearly explains a complex concept."
+    },
+    {
+      "word": "Exemplify",
+      "phonetic": "/ɪɡˈzem.plɪ.faɪ/",
+      "cefr_level": "C1",
+      "meaning": "To be or give a typical example of something.",
+      "example": "The city's efficient public transport system perfectly exemplifies sustainable urban planning.",
+      "image_url": null,
+      "image_prompt_fallback": "A sleek, modern, green-energy tram smoothly gliding through a clean city, representing a perfect example of sustainability."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Provide compelling evidence",
+      "meaning": "To offer very strong and convincing proof.",
+      "example": "Numerous studies provide compelling evidence that sedentary lifestyles lead to long-term health issues."
+    },
+    {
+      "collocation": "A prime example",
+      "meaning": "A very typical or excellent example.",
+      "example": "The success of the recycling initiative serves as a prime example of effective community action."
+    },
+    {
+      "collocation": "Lend weight to",
+      "meaning": "To make an opinion or claim seem more likely to be true or correct.",
+      "example": "The testimonies of multiple experts lend weight to the argument for stricter environmental regulations."
+    },
+    {
+      "collocation": "Empirical data",
+      "meaning": "Information derived from observation or experiment rather than theory.",
+      "example": "Arguments supported by empirical data are generally considered more robust in academic writing."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "For example",
+      "better_upgrade": "A striking example of this is / To illustrate this point",
+      "example": "A striking example of this is the profound impact of social media on youth mental health."
+    },
+    {
+      "weak_phrase": "This proves that",
+      "better_upgrade": "This provides compelling evidence that / This substantiates the claim that",
+      "example": "This provides compelling evidence that transitioning to renewable energy is not just viable, but essential."
+    },
+    {
+      "weak_phrase": "This means that",
+      "better_upgrade": "This implies that / Therefore, it stands to reason that",
+      "example": "This implies that current educational models may be outdated for the modern workforce."
+    }
+  ],
+  "sentence_frames": [
+    "A prime example of this phenomenon can be seen in...",
+    "To substantiate this claim, one need only look at...",
+    "These findings lend considerable weight to the argument that...",
+    "This perfectly exemplifies how [Idea A] fundamentally impacts [Idea B]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "To substantiate the claim that remote work boosts productivity, numerous recent surveys provide compelling evidence showing a significant reduction in employee burnout and commuting stress.",
+    "speaking_example": "A prime example of this is my own city. Over the last five years, they've completely overhauled the public transport system, which perfectly exemplifies how government investment can improve daily life."
+  },
+  "common_mistakes": [
+    "Using 'an advice' or 'an evidence' (these are uncountable nouns and cannot take an indefinite article 'a/an').",
+    "Writing 'For instance, taking the example of...' which is tautological (repetitive). Use either 'For instance,' or 'Take the example of...'."
+  ],
+  "quiz": [
+    {
+      "question": "Which verb is the best C2-level upgrade for 'prove' when referring to adding new information to support a theory?",
+      "options": {
+        "A": "Illustrate",
+        "B": "Corroborate",
+        "C": "Exemplify",
+        "D": "Show"
+      },
+      "correct_answer": "B",
+      "explanation": "'Corroborate' means to confirm or give support to a statement, theory, or finding, and is a strong C2 verb."
+    },
+    {
+      "question": "Select the correct collocation to describe a very strong and convincing piece of proof.",
+      "options": {
+        "A": "Compelling evidence",
+        "B": "Heavy proof",
+        "C": "Hardly evidence",
+        "D": "Forced proof"
+      },
+      "correct_answer": "A",
+      "explanation": "'Compelling evidence' is the natural academic collocation for evidence that makes you believe it or accept it because it is so strong."
+    }
+  ]
+}

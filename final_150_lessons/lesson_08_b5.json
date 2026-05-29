@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_08",
+  "title": "How to Use AI Feedback Effectively",
+  "strategy_problem": "Students treat AI tools (like ChatGPT) as absolute truth, blindly accepting all suggested changes without understanding *why*. This leads to essays that sound robotic, use overly complex vocabulary incorrectly, and don't actually reflect the student's true ability in the exam.",
+  "core_framework": [
+    "1. Prompt for Specificity, Not Just 'Fix This': Don't just say 'Correct my essay'. Say: 'Act as an IELTS examiner. Highlight my grammar mistakes but keep my original vocabulary level. Explain why the grammar is wrong.'",
+    "2. The 'Reverse Engineering' Technique: When AI rewrites a sentence, do not just copy it. Compare it side-by-side with your original. Identify the exact grammatical structure or collocation the AI used that makes it better.",
+    "3. Beware the 'Band 9' Hallucination: AI naturally writes in a highly academic, complex style that is often unnatural for spoken English and too dense for a realistic 40-minute essay. Downgrade AI vocabulary if you cannot naturally use it in a sentence yourself.",
+    "4. Fact-Check with Dictionaries: If an AI suggests a new word, always check its usage and collocations in the Cambridge or Oxford dictionary before using it."
+  ],
+  "ielts_scenario": "A student writes a Band 6 essay. They ask AI to 'rewrite this for Band 9'. The AI produces a dense, academic essay full of words like 'ubiquitous' and 'paradigm shift'. The student tries to memorize this essay, but in the real exam, they misuse these words, resulting in a lower score for Lexical Resource.",
+  "do_dont_table": {
+    "do": [
+      "Use AI to identify specific grammar patterns you struggle with.",
+      "Ask AI to provide *explanations* for its corrections.",
+      "Verify new vocabulary suggestions in an official dictionary."
+    ],
+    "dont": [
+      "Blindly copy/paste AI-rewritten essays.",
+      "Try to memorize the highly complex, robotic vocabulary AI often generates.",
+      "Assume AI grading is 100% accurate (it struggles with Task Response nuance)."
+    ]
+  },
+  "example_application": "Instead of asking AI to rewrite your essay, provide your essay and ask: 'Identify the top 3 repeated grammar errors in this text and provide the rule for how to fix them.'",
+  "personal_action_step": "Take a paragraph you recently wrote. Ask an AI tool to 'Correct the grammar but do NOT change my vocabulary.' Compare the result to your original.",
+  "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A split screen showing a student's simple essay on the left and an AI's heavily edited, overly complex version on the right, with a caution symbol in the middle.",
+  "quiz": [
+    {
+      "question": "Why is it dangerous to ask AI to simply 'Rewrite my essay for a Band 9'?",
+      "options": {
+        "A": "The AI will refuse to do it.",
+        "B": "The AI will write an essay that is too short.",
+        "C": "The AI often uses unnatural, overly dense vocabulary that students cannot replicate correctly under exam conditions.",
+        "D": "The AI will intentionally give bad advice."
+      },
+      "correct_answer": "C",
+      "explanation": "AI tends to produce highly sophisticated text that doesn't sound like a real candidate. If a student tries to mimic this without understanding the collocations, they will make unnatural errors."
+    }
+  ]
+}

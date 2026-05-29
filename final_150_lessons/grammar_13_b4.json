@@ -1,0 +1,70 @@
+{
+  "lesson_id": "grammar_13",
+  "title": "Inversion Basics",
+  "grammar_goal": "A highly advanced structure (Band 8+) that boosts GRA by reversing the standard subject-verb order to add dramatic emphasis, usually in formal Task 2 essays.",
+  "core_rule": {
+    "formula": "Negative Adverbial (Not only, Rarely, Never, Seldom, Under no circumstances) + Auxiliary Verb + Subject + Main Verb",
+    "usage": "When a negative or restrictive adverbial is placed at the very beginning of a sentence for emphasis, the subject and the auxiliary verb must be inverted (like making a question).",
+    "signals": [
+      "Not only... but also",
+      "Rarely do...",
+      "Seldom have...",
+      "Under no circumstances should...",
+      "Hardly had..."
+    ]
+  },
+  "when_to_use": [
+    "Task 2 (Emphasis): To heavily emphasize a point in the body paragraphs or conclusion (e.g., 'Not only is pollution harmful, but it is also costly.').",
+    "Task 2 (Conditions): 'Should governments fail to act, the consequences will be severe.' (Inversion instead of 'If')."
+  ],
+  "when_not_to_use": [
+    "Do not use inversion in Speaking Part 1; it sounds incredibly unnatural and overly theatrical in casual conversation.",
+    "Do not overdo it. One or two inverted sentences per Task 2 essay is enough to show mastery without sounding forced."
+  ],
+  "ielts_examples": {
+    "writing": "Not only does excessive screen time damage children's eyesight, but it also severely impairs their social development.",
+    "speaking": "Rarely have I seen such a beautiful sunset as the one we witnessed last night."
+  },
+  "repair_section": [
+    {
+      "wrong": "Not only pollution harms the environment, but it also causes health issues.",
+      "correct": "Not only does pollution harm the environment, but it also causes health issues.",
+      "better_band_upgrade": "Not only does environmental degradation threaten ecosystems, but it also poses severe risks to public health."
+    },
+    {
+      "wrong": "Never I have seen such a terrible situation.",
+      "correct": "Never have I seen such a terrible situation.",
+      "better_band_upgrade": "Never before have we witnessed a crisis of this magnitude."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Putting 'Not only' at the start but forgetting to invert the subject and auxiliary verb.",
+    "Using the main verb instead of an auxiliary verb for inversion (e.g., 'Rarely go I to the cinema' instead of 'Rarely do I go').",
+    "Forgetting to return the main verb to its base form when using 'do/does/did' in inversion (e.g., 'Rarely did he went' -> 'Rarely did he go')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Under no circumstances you should open this door.",
+      "correct_sentence": "Under no circumstances should you open this door."
+    },
+    {
+      "wrong_sentence": "Not only he failed the exam, but he also lost his scholarship.",
+      "correct_sentence": "Not only did he fail the exam, but he also lost his scholarship."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1579299496660-3949f2255745?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A visual of a reflection in a mirror flipping an image upside down, symbolizing the grammatical inversion of subject and auxiliary verb.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses negative inversion?",
+      "options": {
+        "A": "Seldom we see such dedication in young students.",
+        "B": "Seldom do we see such dedication in young students.",
+        "C": "Seldom see we such dedication in young students.",
+        "D": "Seldom we do see such dedication in young students."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B is correct. When starting with the negative adverb 'Seldom', you must add an auxiliary verb ('do') and invert it with the subject ('we')."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lesson_id": "grammar_18",
+  "title": "Common Grammar Mistakes by Vietnamese Learners",
+  "grammar_goal": "A diagnostic lesson aimed at eliminating systematic L1 interference (errors caused by translating directly from Vietnamese), instantly boosting GRA from Band 5.5 to 6.5/7.",
+  "core_rule": {
+    "formula": "N/A - This lesson focuses on error correction across multiple grammatical categories.",
+    "usage": "Vietnamese is an isolating language (words don't change form for tense or plurality) and often omits 'to be' verbs with adjectives. English requires strict subject-verb agreement, plural marking, and linking verbs.",
+    "signals": [
+      "S-V Agreement",
+      "Plural 's'",
+      "Articles (a/an/the)",
+      "Missing 'To be'"
+    ]
+  },
+  "when_to_use": [
+    "Across all four skills (Reading, Writing, Listening, Speaking). Eliminating these basic errors is the fastest way to stop an examiner from capping your GRA score at Band 6."
+  ],
+  "when_not_to_use": [
+    "N/A"
+  ],
+  "ielts_examples": {
+    "writing": "Correcting 'The government need to invest in many equipment' to 'The government needs to invest in a lot of equipment.'",
+    "speaking": "Pronouncing the final 's' in 'He works in an office' to show grammatical control."
+  },
+  "repair_section": [
+    {
+      "wrong": "She very beautiful and she always help me.",
+      "correct": "She is very beautiful and she always helps me.",
+      "better_band_upgrade": "She is strikingly beautiful, and she consistently offers me her assistance."
+    },
+    {
+      "wrong": "I have many homeworks to do.",
+      "correct": "I have a lot of homework to do.",
+      "better_band_upgrade": "I am currently burdened with a substantial amount of academic assignments."
+    },
+    {
+      "wrong": "In the future, the technology will be very develop.",
+      "correct": "In the future, technology will be very developed.",
+      "better_band_upgrade": "In the foreseeable future, technological advancements will reach unprecedented levels."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Missing Linking Verb: Saying 'Nó đói' translates literally to 'He hungry', forgetting 'is' (He is hungry).",
+    "Uncountable Nouns as Countable: Adding 's' to uncountable nouns like homework, information, equipment, advice.",
+    "Subject-Verb Agreement: Forgetting to add 's/es' for third-person singular subjects in the Present Simple.",
+    "Article Misuse: Vietnamese doesn't have direct equivalents for a/an/the, leading to omissions ('I want to be doctor') or overuse."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "He play football every weekends.",
+      "correct_sentence": "He plays football every weekend."
+    },
+    {
+      "wrong_sentence": "The information you gave me are very useful.",
+      "correct_sentence": "The information you gave me is very useful."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "An image of a teacher's red pen circling common mistakes on an essay paper, like missing 's' endings and missing articles.",
+  "quiz": [
+    {
+      "question": "Which sentence is completely free of common Vietnamese L1 interference errors?",
+      "options": {
+        "A": "My sister she is very smart and have many good advices.",
+        "B": "My sister is very smart and has a lot of good advice.",
+        "C": "My sister very smart and has many good advice.",
+        "D": "My sister is very smart and have a lot of good advices."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B includes the linking verb 'is', uses the correct singular verb 'has' for 'My sister', avoids the double subject 'she', and correctly treats 'advice' as an uncountable noun (no 's', using 'a lot of' instead of 'many')."
+    }
+  ]
+}

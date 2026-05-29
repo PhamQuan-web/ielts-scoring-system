@@ -1,0 +1,104 @@
+{
+  "lesson_id": "vocab_core_05",
+  "title": "Core Vocabulary: Health",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential terminology regarding public health, medical treatments, lifestyle diseases, and healthcare systems."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Sedentary",
+      "phonetic": "/ˈsedntri/",
+      "cefr_level": "C1",
+      "meaning": "Tending to spend much time seated; somewhat inactive.",
+      "example": "A sedentary lifestyle is a major contributing factor to obesity and heart disease.",
+      "image_url": "https://images.unsplash.com/photo-1542596594-649edbc13630?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A person slouched in an office chair looking at a computer screen, with fast food wrappers on the desk."
+    },
+    {
+      "word": "Epidemic",
+      "phonetic": "/ˌepɪˈdemɪk/",
+      "cefr_level": "B2",
+      "meaning": "A widespread occurrence of an infectious disease in a community at a particular time.",
+      "example": "The flu epidemic forced many schools and businesses to close temporarily.",
+      "image_url": null,
+      "image_prompt_fallback": "A crowded hospital waiting room with people wearing medical masks, looking unwell."
+    },
+    {
+      "word": "Preventative",
+      "phonetic": "/prɪˈventətɪv/",
+      "cefr_level": "B2",
+      "meaning": "Designed to keep something undesirable such as illness or harm from occurring.",
+      "example": "Investing in preventative medicine, such as vaccinations, saves money in the long term.",
+      "image_url": "https://images.unsplash.com/photo-1584362917165-526a968579e8?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A doctor administering a vaccine to a patient's arm in a clean medical clinic."
+    },
+    {
+      "word": "Detrimental",
+      "phonetic": "/ˌdetrɪˈmentl/",
+      "cefr_level": "C1",
+      "meaning": "Tending to cause harm.",
+      "example": "Lack of sleep can have a highly detrimental effect on a person's mental health.",
+      "image_url": null,
+      "image_prompt_fallback": "A stressed person holding their head in their hands, looking exhausted."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Public health initiatives",
+      "meaning": "Programs organized by the government or organizations to improve the health of the population.",
+      "example": "Public health initiatives aimed at reducing smoking have been highly successful."
+    },
+    {
+      "collocation": "Chronic illness",
+      "meaning": "A disease that persists for a long time.",
+      "example": "Patients with chronic illnesses require ongoing medical care and support."
+    },
+    {
+      "collocation": "Take a toll on",
+      "meaning": "To have a serious, bad effect on someone or something.",
+      "example": "Working 80 hours a week will eventually take a toll on your physical and mental health."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Get sick",
+      "better_upgrade": "Contract a disease / Fall ill",
+      "example": "People with weakened immune systems are more likely to contract infectious diseases."
+    },
+    {
+      "weak_phrase": "Cure",
+      "better_upgrade": "Alleviate symptoms / Treat",
+      "example": "While there is no known cure, this medication can significantly alleviate the symptoms."
+    }
+  ],
+  "sentence_frames": [
+    "The rise in [Noun Phrase] can be largely attributed to [Noun Phrase].",
+    "It is the responsibility of the state to ensure that [Noun Phrase] is accessible to all citizens.",
+    "Promoting [Noun Phrase] is far more cost-effective than treating [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "In recent years, the prevalence of sedentary lifestyles has led to an epidemic of obesity in many developed nations. To combat this, governments must invest heavily in preventative healthcare and promote public health initiatives that encourage physical activity.",
+    "speaking_example": "Well, my job is quite sedentary, so I try to compensate by going to the gym three times a week. I think staying active is crucial, because stress from work can really take a toll on your overall well-being if you're not careful."
+  },
+  "common_mistakes": [
+    "Using 'healthy' instead of 'health' as a noun. (e.g., 'Smoking is bad for your healthy' -> 'Smoking is bad for your health').",
+    "Using 'do an operation' (Use 'perform' for doctors, 'have/undergo' for patients). (e.g., 'I will do an operation tomorrow' -> 'I will undergo an operation tomorrow')."
+  ],
+  "quiz": [
+    {
+      "question": "Which adjective describes a lifestyle involving very little physical activity?",
+      "options": {
+        "A": "Preventative",
+        "B": "Detrimental",
+        "C": "Sedentary",
+        "D": "Chronic"
+      },
+      "correct_answer": "C",
+      "explanation": "A 'sedentary' lifestyle means spending a lot of time sitting and getting little exercise. 'Detrimental' means harmful, 'preventative' means to prevent illness, and 'chronic' refers to long-lasting disease."
+    }
+  ]
+}

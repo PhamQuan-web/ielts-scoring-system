@@ -1,0 +1,59 @@
+{
+  "lesson_id": "WF_12",
+  "title": "Common Task 2 Mistakes",
+  "writing_skill_goal": "Identify and eliminate the most frequent errors that keep students stuck at Band 5.5 or 6.0 in Writing Task 2.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence",
+    "Lexical",
+    "Grammar"
+  ],
+  "core_writing_framework": "Avoid the 'Big Four' mistakes: Not answering all parts of the prompt, overcomplicating vocabulary, writing unbalanced paragraphs, and poor time management.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "It is a ubiquitous phenomenon that youngsters are detrimentally impacted by technological contraptions.",
+      "improved_version": "It is widely recognised that children are negatively affected by the overuse of digital devices.",
+      "explanation": "The weak version forces complex, unnatural vocabulary ('ubiquitous phenomenon', 'contraptions') that doesn't quite fit. The improved version is natural, accurate, and academic."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Mistake 1: Not fully answering the question (Task Response)",
+      "content": "If a prompt asks 'Why is this happening and what can be done?', and you only write about the causes (why), your Task Response score cannot be higher than a Band 5."
+    },
+    {
+      "step": "Mistake 2: 'Band 9 Vocabulary' Lists (Lexical Resource)",
+      "content": "Memorising obscure words and forcing them into your essay almost always results in incorrect collocation or tone. Accuracy is more important than complexity."
+    },
+    {
+      "step": "Mistake 3: Unbalanced Paragraphs (Coherence)",
+      "content": "Writing a massive 150-word body paragraph for one idea, and a tiny 30-word paragraph for the second idea shows a lack of control and planning."
+    },
+    {
+      "step": "Mistake 4: Long, Error-Prone Sentences (Grammar)",
+      "content": "Attempting to write 40-word complex sentences often leads to major grammatical errors that confuse the reader. Aim for clear sentences of 15-25 words with accurate punctuation."
+    }
+  ],
+  "common_mistakes": [
+    "Failing to leave 3-5 minutes at the end of the test to proofread for simple spelling and grammar mistakes.",
+    "Using informal language or contractions (e.g., 'don't', 'can't') instead of academic English ('do not', 'cannot').",
+    "Writing less than 250 words."
+  ],
+  "original_ielts_prompt": "Some people think that strict punishments for driving offences are the key to reducing traffic accidents. Others, however, believe that other measures would be more effective. Discuss both these views and give your own opinion.",
+  "model_micro_answer": "Many candidates fail this prompt by only discussing strict punishments and ignoring 'other measures' (like education or better road design). A high-scoring essay must equally explore both sides before concluding.",
+  "image_url": null,
+  "image_prompt_fallback": "A red warning triangle sign with an exclamation mark, placed next to a student's essay paper that has red pen corrections on unnatural vocabulary words.",
+  "quiz": [
+    {
+      "question": "What is the best way to improve your Lexical Resource score?",
+      "options": {
+        "A": "Memorise lists of rare, complex words and use them as often as possible.",
+        "B": "Use natural, topic-specific vocabulary with correct collocations and accurate spelling.",
+        "C": "Use as many idioms and proverbs as you can.",
+        "D": "Never use the same word twice in the entire essay."
+      },
+      "correct_answer": "B",
+      "explanation": "Examiners reward precise, natural word choice (collocations) relevant to the topic. Forced, obscure vocabulary actually lowers your score because it sounds unnatural."
+    }
+  ]
+}

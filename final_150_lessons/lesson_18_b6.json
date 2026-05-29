@@ -1,0 +1,54 @@
+{
+  "lesson_id": "WF_18",
+  "title": "Counterarguments and Balanced Opinions",
+  "writing_skill_goal": "Learn advanced paragraph structuring by acknowledging the opposing view before successfully refuting it (Concession).",
+  "band_descriptor_link": [
+    "Task Response",
+    "Lexical",
+    "Coherence"
+  ],
+  "core_writing_framework": "A counterargument acknowledges the other side ('While it is true that...'), but immediately follows with a stronger point supporting your own side ('...nevertheless, the benefits are far greater because...').",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Some people think zoos are bad. I think zoos are good. They protect animals.",
+      "improved_version": "While opponents argue that keeping animals in captivity is unethical, it is important to recognise that modern zoos play a vital role in the conservation of endangered species.",
+      "explanation": "The weak version is basic and disconnected. The improved version uses a concession structure ('While X, it is important to recognise Y') to acknowledge the opposing view while strengthening the writer's main argument."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "When to Use a Counterargument",
+      "content": "This technique is best used in 'To what extent do you agree or disagree?' essays when you want to show the examiner you have a deep, nuanced understanding of the topic."
+    },
+    {
+      "step": "The Concession Clause",
+      "content": "Start the sentence by acknowledging the opposing view using words like 'While', 'Although', 'Admittedly', or 'It is true that'."
+    },
+    {
+      "step": "The Refutation",
+      "content": "In the second half of the sentence, introduce your stronger argument to show why the opposing view is flawed or less important. Use words like 'however' or 'nevertheless'."
+    }
+  ],
+  "common_mistakes": [
+    "Writing a counterargument but forgetting to refute it, making it seem like you accidentally agreed with the other side.",
+    "Using this technique in a basic way that confuses the reader about what your actual opinion is.",
+    "Using informal language like 'But they are wrong because...'."
+  ],
+  "original_ielts_prompt": "Some people think that violent sports such as boxing should be banned. To what extent do you agree or disagree?",
+  "model_micro_answer": "Admittedly, combat sports carry a high risk of physical injury to the athletes involved. Nevertheless, banning them entirely would simply drive these activities underground where they would be unregulated, ultimately putting fighters in even greater danger.",
+  "image_url": null,
+  "image_prompt_fallback": "A fencing match where one fencer (the opposing view) makes a weak thrust, and the other fencer (the writer's argument) smoothly deflects it and lands a stronger counter-attack.",
+  "quiz": [
+    {
+      "question": "What is the crucial second step of a counterargument after you have acknowledged the opposing view?",
+      "options": {
+        "A": "You must agree with it and change your essay's opinion.",
+        "B": "You must refute it by presenting a stronger argument for your own side.",
+        "C": "You must write a whole new paragraph explaining why the opposing view is brilliant.",
+        "D": "You must stop writing."
+      },
+      "correct_answer": "B",
+      "explanation": "A counterargument is only effective if you 'refute' it. You acknowledge the opposing side exists, but then you explain why your side is still better. If you don't refute it, you have just argued against yourself."
+    }
+  ]
+}

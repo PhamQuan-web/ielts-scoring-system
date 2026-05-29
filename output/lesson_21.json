@@ -1,0 +1,31 @@
+{
+  "lesson_id": "listening_21_matching",
+  "title": "Matching Questions",
+  "skill_goal": "Learn how to match a list of items to a list of options, usually involving opinions or decisions in Part 3.",
+  "question_type_strategy": "Matching questions often appear in Part 3 (two students discussing a project). You will have a list of items (e.g., parts of an essay) and must match them to options (e.g., 'A. John will do it', 'B. Sarah will do it', 'C. They will skip it').",
+  "how_to_recognise": "A numbered list of items (1, 2, 3...) and a box with lettered options (A, B, C...). The instructions say 'Choose the correct letter A, B, or C'.",
+  "step_by_step_method": [
+    "1. Read the list of numbered items. The audio will mention these *in exact order*.",
+    "2. Read the lettered options. These are the answers, and they will likely be paraphrased.",
+    "3. Focus on the relationship: Are they deciding who does what? Are they giving opinions (good, bad, average)?",
+    "4. Listen to the interaction. One person might suggest an option, but the other person might disagree. Wait for the final agreement."
+  ],
+  "trap_example": "The 'Initial Suggestion' Trap. Student A says 'I'll write the introduction.' (Option A). Student B replies, 'Actually, you did that last time. Let me do it.' (Option B). The correct answer is B.",
+  "micro_practice_example": "Options: A. Keep, B. Change, C. Delete \nItem 1: The title \nAudio: 'So, the title of the presentation. I think it's a bit boring.' 'Yes, let's come up with something more exciting.' \n(Answer: B. Change).",
+  "review_method": "Focus on agreement/disagreement phrases. Make a list of phrases speakers use to disagree politely (e.g., 'I see your point, but...', 'I'm not so sure about that').",
+  "image_url": null,
+  "image_prompt_fallback": "An illustration of two students sitting at a desk discussing a document, with lines connecting different parts of the document to speech bubbles indicating who will do what.",
+  "quiz": [
+    {
+      "question": "In a Part 3 Matching task where two students are dividing work, what must you listen for carefully?",
+      "options": {
+        "A": "The very first suggestion made by either student.",
+        "B": "The final agreement or decision reached after they discuss an item.",
+        "C": "Only the words spoken by the male student.",
+        "D": "Exact words from the options box."
+      },
+      "correct_answer": "B",
+      "explanation": "Part 3 tests your ability to follow a negotiation. Students will often suggest one thing, debate it, and then agree on a completely different final outcome."
+    }
+  ]
+}

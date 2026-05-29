@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_16_signposting",
+  "title": "Signposting Language",
+  "skill_goal": "Use specific transition words to navigate long audio passages and know exactly when to move to the next question.",
+  "question_type_strategy": "Signposting language is how speakers organize their thoughts. Words like 'Firstly', 'Moving on to', or 'On the other hand' act like a map, telling you exactly where you are in the lecture.",
+  "how_to_recognise": "Part 4 relies heavily on this. The headings in your question paper will directly match the signposting language used by the speaker.",
+  "step_by_step_method": [
+    "1. Identify the structural headings on your test paper (e.g., 'Background', 'Methodology', 'Results').",
+    "2. Listen for transition phrases that introduce these sections (e.g., 'Let's start by looking at...', 'Now I'd like to discuss...').",
+    "3. Listen for adding phrases (e.g., 'Furthermore', 'Another point is...') which mean the speaker is giving a second answer in a list.",
+    "4. Listen for contrast phrases (e.g., 'However', 'But actually...') which often introduce the real answer after a distractor.",
+    "5. When you hear a new signpost, physically move your pen to the next question."
+  ],
+  "trap_example": "The 'Getting Lost' Trap. If you miss Question 34, and you don't listen for the signpost 'Moving on to the results...' (which points to Question 35), you will miss the rest of the entire test.",
+  "micro_practice_example": "Paper shows: \n- Disadvantages of the system \nAudio: 'So, the system was cheap. *However, there were significant drawbacks*. Firstly, it was slow...' \n(The signpost 'significant drawbacks' tells you to look at the 'Disadvantages' section on your paper).",
+  "review_method": "Read the transcript of a Part 4 lecture and use a highlighter to mark every single transition word the speaker uses.",
+  "image_url": null,
+  "image_prompt_fallback": "A road map with several large, clear signposts pointing in different directions. The signposts have words like 'However', 'Furthermore', and 'Finally' written on them.",
+  "quiz": [
+    {
+      "question": "If you hear the speaker say 'Turning now to the issue of funding...', what should you do?",
+      "options": {
+        "A": "Keep looking at the previous question in case they go back.",
+        "B": "Immediately move your eyes to the section of the test paper that mentions 'money', 'budget', or 'funding'.",
+        "C": "Stop listening and check your spelling.",
+        "D": "Write 'funding' as the answer."
+      },
+      "correct_answer": "B",
+      "explanation": "Signposting language tells you the speaker has moved to a new topic. You must physically move down your question paper to match where the speaker is."
+    }
+  ]
+}

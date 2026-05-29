@@ -1,0 +1,32 @@
+{
+  "lesson_id": "reading_06_matching_information",
+  "title": "Matching Information",
+  "skill_goal": "Learn how to locate specific pieces of information within paragraphs, distinguishing this task from Matching Headings.",
+  "question_type_strategy": "Unlike Matching Headings (which asks for the main idea of a whole paragraph), Matching Information asks you to find a specific detail hidden anywhere within a paragraph. This is a pure scanning exercise. Note: Answers do NOT come in order, and you may use a paragraph more than once if the instructions allow it.",
+  "how_to_recognise": "The instructions will say: 'Which paragraph contains the following information?'. The statements will be specific things like 'a description of...', 'an example of...', or 'a comparison between...'.",
+  "step_by_step_method": [
+    "1. Read all the information statements first and underline highly specific, changeable keywords.",
+    "2. Do NOT do this question first. Do other questions related to the passage first to familiarize yourself with where information is located.",
+    "3. Think about synonyms for the keywords in the statements.",
+    "4. Scan the paragraphs looking for those specific concepts. Unlike headings, the answer is usually buried in the middle of a paragraph.",
+    "5. Check if the instructions say 'You may use any letter more than once.' If so, keep an open mind."
+  ],
+  "trap_example": "The 'Main Idea Confusion' Trap. Students often read the first sentence of a paragraph and move on, thinking it doesn't contain the information. In Matching Information, the detail you need could be in the very last sentence of a long paragraph.",
+  "micro_practice_example": "Statement: an explanation of how the device is powered. \nParagraph C: The new smartphone features a revolutionary screen. It is waterproof up to 50 meters. To operate, it utilizes a microscopic solar cell embedded in the glass. \n(Answer: Paragraph C. The information is hidden in the final sentence, using the synonym 'utilizes a microscopic solar cell' instead of 'powered').",
+  "review_method": "Highlighting practice. Take a practice test and use a bright highlighter to mark the exact sentence in the passage that corresponds to the matching statement.",
+  "image_url": null,
+  "image_prompt_fallback": "A 'Where's Waldo' style illustration showing a dense crowd of text, with a glowing magnifying glass highlighting one specific hidden sentence in the middle of a paragraph.",
+  "quiz": [
+    {
+      "question": "What is the key difference between 'Matching Headings' and 'Matching Information'?",
+      "options": {
+        "A": "Matching Headings looks for specific details, while Matching Information looks for the main idea.",
+        "B": "Matching Headings looks for the main idea of a paragraph, while Matching Information looks for specific details buried within the paragraph.",
+        "C": "Matching Information always follows the order of the text.",
+        "D": "There is no difference."
+      },
+      "correct_answer": "B",
+      "explanation": "Matching Headings focuses on the macro-level 'big picture' (usually found at the start/end), whereas Matching Information is a micro-level scanning task for specific facts hidden anywhere inside the text."
+    }
+  ]
+}

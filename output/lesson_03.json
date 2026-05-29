@@ -1,0 +1,32 @@
+{
+  "lesson_id": "reading_03_keywords_paraphrasing",
+  "title": "Keywords and Paraphrasing",
+  "skill_goal": "Learn how to identify essential keywords in questions and accurately locate their heavily paraphrased forms within the reading passage.",
+  "question_type_strategy": "Paraphrasing is the ultimate core skill of the IELTS exam. The exact words used in the question will rarely appear in the text. You must train your brain to look for synonyms, antonyms, and grammatical structural changes (e.g., changing an active voice sentence to passive voice, or a noun to an adjective).",
+  "how_to_recognise": "Keywords are divided into two types. 'Unchangeable' keywords (proper nouns, dates, scientific terms) cannot be paraphrased easily and are perfect for scanning. 'Changeable' keywords (regular verbs, adjectives, common nouns) carry the meaning and will almost certainly be paraphrased by the examiner.",
+  "step_by_step_method": [
+    "1. Underline the key content words in the question.",
+    "2. Categorize them: Find the 'unchangeable' keywords to use as your anchor points for scanning.",
+    "3. Identify the 'changeable' keywords. Before looking at the text, take 5 seconds to brainstorm 1-2 possible synonyms (e.g., if the question says 'global', think 'worldwide' or 'international').",
+    "4. Scan the text rapidly for your unchangeable anchor words.",
+    "5. Once you locate the area, slow down and read carefully to find the paraphrased versions of your changeable keywords."
+  ],
+  "trap_example": "The 'Exact Word Distractor' Trap. Examiners deliberately place exact words from the question into the wrong paragraph. If you see the exact same adjective or verb in the text, be highly suspicious. The correct answer is usually hidden behind a synonym.",
+  "micro_practice_example": "Question: The project required significant financial support. \nPassage: The initiative could only proceed with substantial funding from the local government. (Analysis: 'project' -> 'initiative', 'required' -> 'could only proceed with', 'significant' -> 'substantial', 'financial support' -> 'funding').",
+  "review_method": "Keep a dedicated 'Paraphrase Journal'. After taking a practice test, write down the phrase from the question on the left, and the exact phrase used in the passage on the right. Review this list weekly.",
+  "image_url": null,
+  "image_prompt_fallback": "A split screen image. On the left side, a piece of paper with the words 'financial support'. On the right side, a dictionary page highlighting the word 'funding', connected by a glowing arrow, showing the concept of synonyms and paraphrasing.",
+  "quiz": [
+    {
+      "question": "Why is it dangerous to only scan for the exact words from the question in the reading passage?",
+      "options": {
+        "A": "Because exact words are always the wrong answer.",
+        "B": "Because IELTS reading primarily tests your ability to recognize paraphrasing and synonyms, meaning exact words are often used as deliberate distractors.",
+        "C": "Because the text is too long to find exact words.",
+        "D": "Because questions never use any words from the text."
+      },
+      "correct_answer": "B",
+      "explanation": "IELTS actively tests your vocabulary through paraphrasing. Examiners often use exact words as traps to trick lower-level candidates who are just matching words visually, rather than understanding meaning."
+    }
+  ]
+}

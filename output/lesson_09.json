@@ -1,0 +1,32 @@
+{
+  "lesson_id": "reading_09_summary_completion",
+  "title": "Summary and Note Completion",
+  "skill_goal": "Learn how to navigate summaries that condense multiple paragraphs, deciding whether to use exact words from the text or choose from a given list.",
+  "question_type_strategy": "A summary condenses a section of the text. It usually covers 2-3 specific paragraphs rather than the whole passage. The key is finding where the summary begins in the text and tracking the paraphrasing sentence by sentence.",
+  "how_to_recognise": "You will see a paragraph with multiple blanks. There are two variations: Type A requires you to pick words directly from the text. Type B provides a box of words (synonyms) to choose from.",
+  "step_by_step_method": [
+    "1. Read the title of the summary if there is one\u2014it tells you exactly which part of the text to scan for.",
+    "2. Read the entire summary first to get the overall meaning.",
+    "3. Predict the grammar (noun/verb/adjective) and meaning for each blank.",
+    "4. Use names, dates, or unique nouns in the summary to locate the correct paragraphs in the text.",
+    "5. If it's Type B (with a box), find the word in the text first, THEN look in the box for its synonym."
+  ],
+  "trap_example": "The 'Box Synonym' Trap in Type B summaries. The exact word you find in the text will almost never be in the box. If the text says ' plummet ', the answer in the box will be 'decrease'. Do not waste time looking for the exact word in the box.",
+  "micro_practice_example": "Text: The CEO decided to terminate the project immediately due to unforeseen financial constraints. \nSummary Box Options: [A. start] [B. cancel] [C. delay] [D. budget] \nSummary: The initiative had to be ________ because of money problems. \n(Answer: B. 'terminate' in the text matches 'cancel' in the box).",
+  "review_method": "For Type B summaries, create a synonym map mapping the exact word from the text to the correct option in the box to train your vocabulary recognition.",
+  "image_url": null,
+  "image_prompt_fallback": "A graphic showing a large paragraph being funnelled down into a smaller, condensed paragraph with blanks, illustrating the concept of summarization.",
+  "quiz": [
+    {
+      "question": "When doing a summary completion task that provides a box of word options, what should you do first?",
+      "options": {
+        "A": "Try to guess the answers from the box without reading the text.",
+        "B": "Find the answer in the text first, then look for its synonym in the box.",
+        "C": "Read the box options first to memorize them.",
+        "D": "Look for the exact words from the box in the reading passage."
+      },
+      "correct_answer": "B",
+      "explanation": "The words in the box are usually synonyms of the words in the text. Finding the concept in the passage first ensures you understand the context before choosing the matching synonym from the box."
+    }
+  ]
+}

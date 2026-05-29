@@ -1,0 +1,31 @@
+{
+  "lesson_id": "reading_10_time_management",
+  "title": "Reading Time Management",
+  "skill_goal": "Develop a strict pacing strategy to ensure you complete all 40 questions within the 60-minute limit.",
+  "question_type_strategy": "Time is the biggest enemy in IELTS Reading. You have 60 minutes for 3 passages. However, the passages get progressively more difficult. Spending 20 minutes on Passage 1 is a fatal mistake.",
+  "how_to_recognise": "This is an overarching strategy, not a specific question type.",
+  "step_by_step_method": [
+    "1. Allocate your time unequally: Aim for 15 minutes on Passage 1 (easiest), 20 minutes on Passage 2, and 25 minutes on Passage 3 (hardest).",
+    "2. Never spend more than 1.5 minutes looking for a single answer. If you can't find it, mark it with a star, guess an answer, and move on.",
+    "3. Transfer your answers to the answer sheet directly after finishing each passage. Do not wait until the end.",
+    "4. Do the easiest questions first. Detail questions (scanning) are faster than global questions (Matching Headings)."
+  ],
+  "trap_example": "The 'Stubbornness' Trap. Spending 5 minutes looking for the answer to Question 3 because you 'know it's right there'. Those 5 minutes cost you the chance to answer three easier questions at the end of the test.",
+  "micro_practice_example": "Scenario: You are on Question 12. It's a tricky T/F/NG question and you've looked for 2 minutes. \nAction: Guess 'Not Given', circle question 12 on your paper so you can return to it if you have spare time at the end, and immediately start Question 13.",
+  "review_method": "Always practice with a strict stopwatch. Write down your completion times for P1, P2, and P3 to identify where you are slowing down.",
+  "image_url": null,
+  "image_prompt_fallback": "A dynamic image of a stopwatch split into three unequal sections labeled Passage 1 (15m), Passage 2 (20m), and Passage 3 (25m), conveying urgency and strategy.",
+  "quiz": [
+    {
+      "question": "What is the recommended time distribution for the three IELTS Reading passages?",
+      "options": {
+        "A": "20 minutes for each passage.",
+        "B": "10 minutes for Passage 1, 20 for Passage 2, 30 for Passage 3.",
+        "C": "15 minutes for Passage 1, 20 minutes for Passage 2, and 25 minutes for Passage 3.",
+        "D": "Spend all your time on Passages 1 and 2 to ensure high accuracy, and guess Passage 3."
+      },
+      "correct_answer": "C",
+      "explanation": "Because Passage 3 contains the most complex vocabulary and arguments, it naturally requires more time. You must speed through the easier Passage 1 to bank time for the end."
+    }
+  ]
+}

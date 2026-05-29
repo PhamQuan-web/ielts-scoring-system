@@ -1,0 +1,123 @@
+{
+  "lesson_id": "vocab_core_01",
+  "title": "Core Vocabulary: Education",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential vocabulary, collocations, and phrasing to discuss academic systems, learning methods, and educational challenges in IELTS."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Curriculum",
+      "phonetic": "/kəˈrɪkjʊləm/",
+      "cefr_level": "B2",
+      "meaning": "The subjects comprising a course of study in a school or college.",
+      "example": "The new national curriculum places a greater emphasis on science and technology.",
+      "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A high-quality photograph of a diverse group of high school students studying together at a modern library table, surrounded by textbooks and laptops."
+    },
+    {
+      "word": "Pedagogy",
+      "phonetic": "/ˈpedəɡɒdʒi/",
+      "cefr_level": "C1",
+      "meaning": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
+      "example": "Modern pedagogy often focuses on interactive and student-centered learning rather than rote memorization.",
+      "image_url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A dynamic shot of a passionate teacher explaining a concept at a whiteboard to an engaged class, bright lighting."
+    },
+    {
+      "word": "Bursary",
+      "phonetic": "/ˈbɜːsəri/",
+      "cefr_level": "C1",
+      "meaning": "A grant, especially one awarded to someone to enable them to study at university or college.",
+      "example": "She was awarded a full bursary to study engineering based on her outstanding academic record.",
+      "image_url": null,
+      "image_prompt_fallback": "A close-up of a smiling student proudly holding a scholarship award certificate or an acceptance letter, professional portrait style."
+    },
+    {
+      "word": "Illiteracy",
+      "phonetic": "/ɪˈlɪtərəsi/",
+      "cefr_level": "B2",
+      "meaning": "The inability to read or write.",
+      "example": "The government has launched a campaign to eradicate adult illiteracy in rural areas.",
+      "image_url": null,
+      "image_prompt_fallback": "A poignant documentary-style photo of an adult learning to write for the first time, holding a pencil and tracing letters on paper."
+    },
+    {
+      "word": "Extracurricular",
+      "phonetic": "/ˌekstrəkəˈrɪkjʊlə/",
+      "cefr_level": "B2",
+      "meaning": "Pursued in addition to the normal course of study.",
+      "example": "Universities often look for candidates who participate in extracurricular activities like sports or debate clubs.",
+      "image_url": "https://images.unsplash.com/photo-1526676037777-05a232554f77?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A vibrant photograph of a school sports team playing football on a green field during sunset, emphasizing teamwork outside the classroom."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Pursue higher education",
+      "meaning": "To continue studying at a university or college level.",
+      "example": "Many high school graduates pursue higher education to improve their career prospects."
+    },
+    {
+      "collocation": "Fall behind in studies",
+      "meaning": "To fail to keep pace with the academic progress expected.",
+      "example": "Students who miss classes frequently are likely to fall behind in their studies."
+    },
+    {
+      "collocation": "Broaden one's horizons",
+      "meaning": "To expand one's range of knowledge, interests, and experiences.",
+      "example": "Studying abroad is an excellent way to broaden your horizons and learn about different cultures."
+    },
+    {
+      "collocation": "Meet academic requirements",
+      "meaning": "To fulfill the necessary standards or grades for a course.",
+      "example": "Applicants must meet strict academic requirements to be accepted into the medical program."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Learn by heart",
+      "better_upgrade": "Rote memorization",
+      "example": "Some critics argue that an over-reliance on rote memorization stifles critical thinking."
+    },
+    {
+      "weak_phrase": "Go to university",
+      "better_upgrade": "Pursue tertiary education",
+      "example": "The government is offering incentives to encourage more young people to pursue tertiary education."
+    },
+    {
+      "weak_phrase": "Good teachers",
+      "better_upgrade": "Highly qualified educators",
+      "example": "The success of the school is largely due to its team of highly qualified educators."
+    }
+  ],
+  "sentence_frames": [
+    "One of the primary benefits of [Noun Phrase] is that it allows students to [Verb Phrase].",
+    "It is widely argued that [Subject] should prioritize [Noun Phrase] in order to [Verb Phrase].",
+    "Despite the advantages of [Noun Phrase], a significant drawback is that [Clause]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "In contemporary society, it is widely argued that schools should prioritize practical skills over theoretical knowledge. While I acknowledge the value of subjects like mathematics and literature, I firmly believe that equipping students with vocational skills is crucial for their future career prospects.",
+    "speaking_example": "Well, back when I was in high school, the curriculum was quite rigid and heavily focused on rote memorization. Looking back, I think a more interactive pedagogy would have been beneficial in helping us grasp complex concepts more effectively."
+  },
+  "common_mistakes": [
+    "Using 'learn' instead of 'study'. (e.g., 'I learn biology at university' -> 'I study biology at university').",
+    "Confusing 'education' (the process) with 'background' (personal history). (e.g., 'My education is very poor' -> 'My educational background is quite limited')."
+  ],
+  "quiz": [
+    {
+      "question": "Which of the following phrases best describes the inability to read or write?",
+      "options": {
+        "A": "Rote memorization",
+        "B": "Illiteracy",
+        "C": "Pedagogy",
+        "D": "Extracurricular"
+      },
+      "correct_answer": "B",
+      "explanation": "'Illiteracy' specifically refers to the inability to read or write. 'Rote memorization' is learning by repetition, 'pedagogy' is the method of teaching, and 'extracurricular' refers to activities outside the normal curriculum."
+    }
+  ]
+}

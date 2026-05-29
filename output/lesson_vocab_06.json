@@ -1,0 +1,104 @@
+{
+  "lesson_id": "vocab_core_06",
+  "title": "Core Vocabulary: Society & Culture",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Vocabulary for discussing traditions, cultural shifts, social issues, demographic changes, and community structures."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Assimilation",
+      "phonetic": "/əˌsɪməˈleɪʃn/",
+      "cefr_level": "C1",
+      "meaning": "The process of taking in and fully understanding information or ideas, or the absorption and integration of people, ideas, or culture.",
+      "example": "The successful assimilation of immigrants into the local community requires effort from both sides.",
+      "image_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A diverse group of friends from different cultural backgrounds sharing a meal together at a large table, laughing."
+    },
+    {
+      "word": "Heritage",
+      "phonetic": "/ˈherɪtɪdʒ/",
+      "cefr_level": "B2",
+      "meaning": "Property that is or may be inherited; valued objects and qualities such as historic buildings and cultural traditions.",
+      "example": "We must ensure that our rich cultural heritage is preserved for future generations.",
+      "image_url": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "An ancient, intricately carved stone temple lit up by golden hour sunlight."
+    },
+    {
+      "word": "Demographic",
+      "phonetic": "/ˌdeməˈɡræfɪk/",
+      "cefr_level": "B2",
+      "meaning": "Relating to the structure of populations.",
+      "example": "The aging demographic in Japan presents significant economic and social challenges.",
+      "image_url": null,
+      "image_prompt_fallback": "A bar chart or infographic showing an aging population, overlaid on a photo of elderly people."
+    },
+    {
+      "word": "Alienation",
+      "phonetic": "/ˌeɪliəˈneɪʃn/",
+      "cefr_level": "C1",
+      "meaning": "The state or experience of being isolated from a group or an activity to which one should belong.",
+      "example": "Rapid urbanization can sometimes lead to a sense of alienation among city dwellers.",
+      "image_url": null,
+      "image_prompt_fallback": "A solitary figure walking alone in a massive, crowded, and blurry city street, looking disconnected from the crowd."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Cultural diversity",
+      "meaning": "The existence of a variety of cultural or ethnic groups within a society.",
+      "example": "Cultural diversity enriches a society by introducing different perspectives and traditions."
+    },
+    {
+      "collocation": "Social cohesion",
+      "meaning": "The willingness of members of a society to cooperate with each other in order to survive and prosper.",
+      "example": "High inequality can severely damage social cohesion and lead to unrest."
+    },
+    {
+      "collocation": "Generational gap",
+      "meaning": "A difference of opinions between one generation and another regarding beliefs, politics, or values.",
+      "example": "The rapid pace of technological change has widened the generational gap."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Old customs",
+      "better_upgrade": "Time-honored traditions",
+      "example": "Many rural villages still practice time-honored traditions that have been passed down for centuries."
+    },
+    {
+      "weak_phrase": "Many different people",
+      "better_upgrade": "A melting pot of cultures",
+      "example": "New York is a true melting pot of cultures, attracting people from all over the globe."
+    }
+  ],
+  "sentence_frames": [
+    "A society's [Noun Phrase] is fundamentally shaped by its [Noun Phrase].",
+    "It is vital to strike a balance between preserving [Noun Phrase] and embracing [Noun Phrase].",
+    "The phenomenon of [Noun Phrase] has profound implications for [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "While globalization brings undeniable economic benefits, it also threatens to erode local cultural heritage. In order to maintain social cohesion, it is vital that nations find a balance between embracing international integration and preserving their time-honored traditions.",
+    "speaking_example": "I live in quite a diverse neighborhood. It's a real melting pot of cultures, which I love because I get to experience different cuisines and festivals. However, I do notice a bit of a generational gap when it comes to how younger and older residents view the community."
+  },
+  "common_mistakes": [
+    "Using 'custom' when 'costume' is meant, or vice-versa. (Custom = tradition, Costume = clothes).",
+    "Using 'society' with the definite article when speaking generally. (e.g., 'In the society today' -> 'In society today')."
+  ],
+  "quiz": [
+    {
+      "question": "Which term describes the process of integrating people, ideas, or culture into a wider society?",
+      "options": {
+        "A": "Alienation",
+        "B": "Heritage",
+        "C": "Assimilation",
+        "D": "Demographic"
+      },
+      "correct_answer": "C",
+      "explanation": "'Assimilation' is the process of absorbing and integrating into a new culture or society. 'Alienation' is the opposite (feeling isolated), 'heritage' refers to inherited traditions, and 'demographic' relates to population statistics."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lesson_id": "vocab_core_12",
+  "title": "Core Vocabulary: Media, Advertising & Communication",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Vocabulary for discussing mass media, the influence of advertising, fake news, and digital communication."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Censorship",
+      "phonetic": "/ˈsensəʃɪp/",
+      "cefr_level": "C1",
+      "meaning": "The suppression or prohibition of any parts of books, films, news, etc. that are considered obscene, politically unacceptable, or a threat to security.",
+      "example": "There is an ongoing debate about the extent of internet censorship by the government.",
+      "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A newspaper page with thick black marker lines crossing out entire paragraphs of text."
+    },
+    {
+      "word": "Manipulate",
+      "phonetic": "/məˈnɪpjʊleɪt/",
+      "cefr_level": "C1",
+      "meaning": "Control or influence (a person or situation) cleverly, unfairly, or unscrupulously.",
+      "example": "Advertising companies use psychological tactics to manipulate consumer behavior.",
+      "image_url": null,
+      "image_prompt_fallback": "A conceptual image of a hand moving a person like a puppet on strings."
+    },
+    {
+      "word": "Sensationalism",
+      "phonetic": "/senˈseɪʃənəlɪzəm/",
+      "cefr_level": "C1",
+      "meaning": "The use of exciting or shocking stories or language at the expense of accuracy, in order to provoke public interest or excitement.",
+      "example": "Many tabloids rely on sensationalism rather than factual reporting to boost sales.",
+      "image_url": null,
+      "image_prompt_fallback": "A bright yellow newspaper front page with a massive, exaggerated headline."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Mass media",
+      "meaning": "Any of the means of communication, as television or newspapers, that reach very large numbers of people.",
+      "example": "The mass media plays a crucial role in shaping public opinion."
+    },
+    {
+      "collocation": "Target audience",
+      "meaning": "A particular group at which a film, book, advertising campaign, etc., is aimed.",
+      "example": "The advertising campaign was specifically designed to appeal to its target audience of teenagers."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Ads everywhere",
+      "better_upgrade": "Ubiquitous advertising / Bombarded with advertisements",
+      "example": "In today's digital age, consumers are constantly bombarded with ubiquitous advertising."
+    }
+  ],
+  "sentence_frames": [
+    "The primary purpose of [Noun Phrase] is to [Verb Phrase].",
+    "It is highly concerning that [Noun Phrase] can be easily manipulated by [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "While advertising is essential for business growth, the ubiquitous nature of modern marketing often manipulates vulnerable consumers into purchasing goods they do not need.",
+    "speaking_example": "I try to avoid reading tabloids because I dislike the sensationalism. I prefer getting my news from independent journalists who focus on facts rather than just trying to get clicks."
+  },
+  "common_mistakes": [
+    "Using 'advices' or 'news' as countable nouns. (e.g., 'I have a good news' -> 'I have some good news')."
+  ],
+  "quiz": [
+    {
+      "question": "Which term refers to suppressing information that is considered unacceptable or threatening?",
+      "options": {
+        "A": "Manipulation",
+        "B": "Censorship",
+        "C": "Sensationalism",
+        "D": "Target audience"
+      },
+      "correct_answer": "B",
+      "explanation": "'Censorship' is the act of banning or deleting information. 'Sensationalism' is exaggerating it, and 'manipulation' is unfairly controlling someone."
+    }
+  ]
+}

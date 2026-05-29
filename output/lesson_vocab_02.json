@@ -1,0 +1,123 @@
+{
+  "lesson_id": "vocab_core_02",
+  "title": "Core Vocabulary: Work & Career",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Crucial terminology for discussing employment, career progression, workplace environments, and job market trends."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Lucrative",
+      "phonetic": "/ˈluːkrətɪv/",
+      "cefr_level": "C1",
+      "meaning": "Producing a great deal of profit; well-paid.",
+      "example": "He decided to pursue a highly lucrative career in investment banking.",
+      "image_url": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A professional in a sharp suit standing in a modern high-rise office overlooking a city skyline, checking financial charts on a tablet."
+    },
+    {
+      "word": "Remuneration",
+      "phonetic": "/rɪˌmjuːnəˈreɪʃn/",
+      "cefr_level": "C1",
+      "meaning": "Money paid for work or a service; salary and benefits.",
+      "example": "They are demanding adequate remuneration for the extra hours they have worked.",
+      "image_url": null,
+      "image_prompt_fallback": "A close up of a stylized salary slip and a pen resting on top of a modern office desk."
+    },
+    {
+      "word": "Redundant",
+      "phonetic": "/rɪˈdʌndənt/",
+      "cefr_level": "B2",
+      "meaning": "No longer in employment because there is no more work available (often used in 'to be made redundant').",
+      "example": "Due to the economic downturn, thousands of factory workers were made redundant.",
+      "image_url": null,
+      "image_prompt_fallback": "A documentary-style photo of a person packing a cardboard box at their office desk, looking somber."
+    },
+    {
+      "word": "Entrepreneur",
+      "phonetic": "/ˌɒntrəprəˈnɜː/",
+      "cefr_level": "B2",
+      "meaning": "A person who sets up a business or businesses, taking on financial risks in the hope of profit.",
+      "example": "A successful entrepreneur needs not only a good idea but also the resilience to face setbacks.",
+      "image_url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A young, confident business owner standing inside their newly opened modern cafe, smiling warmly at the camera."
+    },
+    {
+      "word": "Burnout",
+      "phonetic": "/ˈbɜːnaʊt/",
+      "cefr_level": "C1",
+      "meaning": "Physical or mental collapse caused by overwork or stress.",
+      "example": "Employees experiencing severe burnout are more likely to take extended sick leave.",
+      "image_url": "https://images.unsplash.com/photo-1498677231914-50efa696e615?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "An exhausted office worker rubbing their eyes in front of a glowing computer screen late at night in a dark office."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Climb the corporate ladder",
+      "meaning": "To advance in one's career within a company.",
+      "example": "He is highly ambitious and is determined to climb the corporate ladder as quickly as possible."
+    },
+    {
+      "collocation": "Strike a work-life balance",
+      "meaning": "To maintain a healthy division between professional responsibilities and personal life.",
+      "example": "It can be difficult to strike a work-life balance when working in a highly competitive industry."
+    },
+    {
+      "collocation": "Heavy workload",
+      "meaning": "A large amount of work that needs to be done.",
+      "example": "The heavy workload is causing a lot of stress among the teaching staff."
+    },
+    {
+      "collocation": "Job satisfaction",
+      "meaning": "The feeling of pleasure and achievement that you experience in your job.",
+      "example": "For many people, job satisfaction is just as important as a high salary."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Get a job",
+      "better_upgrade": "Secure employment",
+      "example": "University graduates are finding it increasingly difficult to secure employment in their chosen fields."
+    },
+    {
+      "weak_phrase": "Hard-working",
+      "better_upgrade": "Industrious / Diligent",
+      "example": "She is an exceptionally diligent employee who consistently exceeds expectations."
+    },
+    {
+      "weak_phrase": "Lose a job",
+      "better_upgrade": "Be made redundant / Dismissed",
+      "example": "During the recession, many middle managers were made redundant to cut costs."
+    }
+  ],
+  "sentence_frames": [
+    "In today's competitive job market, it is essential for individuals to [Verb Phrase].",
+    "A growing number of professionals prioritize [Noun Phrase] over [Noun Phrase].",
+    "From an economic perspective, fostering [Noun Phrase] can lead to [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "It is often argued that a high salary is the most important factor when choosing a career. However, I believe that job satisfaction and a healthy work-life balance are equally, if not more, significant for long-term well-being and productivity.",
+    "speaking_example": "Currently, I'm working as a software engineer. It's quite a demanding role with a heavy workload, but the remuneration is excellent. In the future, I hope to climb the corporate ladder and eventually move into a management position."
+  },
+  "common_mistakes": [
+    "Using 'work' as a plural countable noun. (e.g., 'I have many works to do' -> 'I have a lot of work to do' or 'I have many tasks').",
+    "Confusing 'job' (a specific role) with 'career' (long-term professional journey). (e.g., 'I want a job in medicine for my whole life' -> 'I want a career in medicine')."
+  ],
+  "quiz": [
+    {
+      "question": "If someone loses their job because the company no longer needs that position, they are:",
+      "options": {
+        "A": "Remunerated",
+        "B": "Lucrative",
+        "C": "Redundant",
+        "D": "Burned out"
+      },
+      "correct_answer": "C",
+      "explanation": "To be 'made redundant' means to lose your job because the work is no longer needed or the company is downsizing. 'Remunerated' means paid, 'lucrative' means profitable, and 'burned out' refers to exhaustion from overwork."
+    }
+  ]
+}

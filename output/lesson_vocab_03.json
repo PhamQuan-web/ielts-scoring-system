@@ -1,0 +1,123 @@
+{
+  "lesson_id": "vocab_core_03",
+  "title": "Core Vocabulary: Technology",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Advanced vocabulary for discussing digital innovation, the impact of the internet, automation, and tech dependency."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Breakthrough",
+      "phonetic": "/ˈbreɪkθruː/",
+      "cefr_level": "B2",
+      "meaning": "A sudden, dramatic, and important discovery or development.",
+      "example": "The invention of the internet was a major technological breakthrough that changed the world.",
+      "image_url": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A futuristic glowing microchip being held by a robotic arm, symbolizing a scientific discovery, cinematic lighting."
+    },
+    {
+      "word": "Obsolete",
+      "phonetic": "/ˈɒbsəliːt/",
+      "cefr_level": "C1",
+      "meaning": "No longer produced or used; out of date.",
+      "example": "Rapid advancements in technology quickly render older devices obsolete.",
+      "image_url": null,
+      "image_prompt_fallback": "A dusty pile of old, outdated electronics like floppy disks, cassette tapes, and bulky CRT monitors."
+    },
+    {
+      "word": "Automation",
+      "phonetic": "/ˌɔːtəˈmeɪʃn/",
+      "cefr_level": "C1",
+      "meaning": "The use of largely automatic equipment in a system of manufacturing or other production process.",
+      "example": "Increased automation in manufacturing has led to a significant loss of traditional factory jobs.",
+      "image_url": "https://images.unsplash.com/photo-1563914841804-06d27163821a?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A highly automated modern car manufacturing assembly line with bright orange robotic arms welding a car chassis."
+    },
+    {
+      "word": "Cutting-edge",
+      "phonetic": "/ˌkʌtɪŋ ˈedʒ/",
+      "cefr_level": "B2",
+      "meaning": "Highly advanced; innovative or pioneering.",
+      "example": "The company specializes in developing cutting-edge software for artificial intelligence.",
+      "image_url": null,
+      "image_prompt_fallback": "A sleek, futuristic smartphone or device glowing with abstract digital data projections in a dark room."
+    },
+    {
+      "word": "Cybersecurity",
+      "phonetic": "/ˌsaɪbəsɪˈkjʊərəti/",
+      "cefr_level": "B2",
+      "meaning": "The state of being protected against the criminal or unauthorized use of electronic data.",
+      "example": "With the rise of online banking, banks are investing heavily in cybersecurity measures.",
+      "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A glowing digital padlock symbol overlaying binary code on a computer monitor, representing data protection."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Technological advancements",
+      "meaning": "Progress or improvements in technology.",
+      "example": "Recent technological advancements have revolutionized the way we communicate."
+    },
+    {
+      "collocation": "Become overly reliant on",
+      "meaning": "To depend too much on something.",
+      "example": "Critics argue that teenagers have become overly reliant on their smartphones for social interaction."
+    },
+    {
+      "collocation": "Bridge the digital divide",
+      "meaning": "To reduce the gap between people who have access to modern technology and those who do not.",
+      "example": "Governments must invest in rural infrastructure to bridge the digital divide."
+    },
+    {
+      "collocation": "Surf the net",
+      "meaning": "To spend time browsing the internet.",
+      "example": "In my free time, I often surf the net to read news articles or watch videos."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "New technology",
+      "better_upgrade": "Cutting-edge / State-of-the-art technology",
+      "example": "The hospital is equipped with state-of-the-art technology for diagnosing rare diseases."
+    },
+    {
+      "weak_phrase": "Old technology",
+      "better_upgrade": "Obsolete / Outdated technology",
+      "example": "Many schools are struggling to replace their outdated technology."
+    },
+    {
+      "weak_phrase": "Fix computer problems",
+      "better_upgrade": "Troubleshoot technical issues",
+      "example": "The IT department is responsible for troubleshooting technical issues across the company."
+    }
+  ],
+  "sentence_frames": [
+    "The proliferation of [Noun Phrase] has fundamentally transformed the way we [Verb Phrase].",
+    "While [Noun Phrase] offers numerous conveniences, it also poses significant challenges, such as [Noun Phrase].",
+    "Looking ahead, it is inevitable that [Noun Phrase] will continue to [Verb Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The proliferation of smartphones has undeniably brought unprecedented convenience to our daily lives. However, I believe that society has become overly reliant on these devices, leading to a decline in face-to-face communication and an increase in sedentary lifestyles.",
+    "speaking_example": "I'm quite interested in technology, particularly artificial intelligence. The recent breakthroughs in this field are fascinating. However, I do worry about the ethical implications and how automation might make certain jobs obsolete in the future."
+  },
+  "common_mistakes": [
+    "Using 'informations' (Information is uncountable). (e.g., 'The internet provides many informations' -> 'The internet provides a lot of information').",
+    "Using 'equipments' (Equipment is uncountable). (e.g., 'We need new equipments' -> 'We need new equipment')."
+  ],
+  "quiz": [
+    {
+      "question": "Which term describes technology that is highly advanced and innovative?",
+      "options": {
+        "A": "Obsolete",
+        "B": "Automation",
+        "C": "Cutting-edge",
+        "D": "Cybersecurity"
+      },
+      "correct_answer": "C",
+      "explanation": "'Cutting-edge' refers to the newest, most advanced stage in the development of something. 'Obsolete' means outdated, 'automation' is using machines to do work, and 'cybersecurity' is data protection."
+    }
+  ]
+}

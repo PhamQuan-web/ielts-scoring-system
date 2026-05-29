@@ -1,0 +1,83 @@
+{
+  "lesson_id": "vocab_core_11",
+  "title": "Core Vocabulary: Urbanisation, Housing & Cities",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Vocabulary for discussing city life, urban sprawl, housing crises, and infrastructure."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Urbanization",
+      "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+      "cefr_level": "B2",
+      "meaning": "The process of making an area more urban; the shift of population from rural to urban areas.",
+      "example": "Rapid urbanization has put enormous pressure on city infrastructure.",
+      "image_url": "https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A time-lapse style photo showing a city skyline expanding rapidly."
+    },
+    {
+      "word": "Congestion",
+      "phonetic": "/kənˈdʒestʃən/",
+      "cefr_level": "C1",
+      "meaning": "The state of being crowded and full of traffic.",
+      "example": "Traffic congestion in the city center is a major source of air pollution.",
+      "image_url": "https://images.unsplash.com/photo-1507677918349-f02781b0a7db?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A massive traffic jam on a multi-lane highway during rush hour."
+    },
+    {
+      "word": "Amenities",
+      "phonetic": "/əˈmiːnətiz/",
+      "cefr_level": "C1",
+      "meaning": "A desirable or useful feature or facility of a building or place.",
+      "example": "The new housing development is located near local amenities such as schools and parks.",
+      "image_url": null,
+      "image_prompt_fallback": "A map or overhead view of a neighborhood highlighting parks, schools, and hospitals."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Urban sprawl",
+      "meaning": "The uncontrolled expansion of urban areas.",
+      "example": "Urban sprawl is destroying surrounding agricultural land."
+    },
+    {
+      "collocation": "Affordable housing",
+      "meaning": "Housing units that are affordable by that section of society whose income is below the median household income.",
+      "example": "There is a severe lack of affordable housing for young professionals in the capital."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "City center",
+      "better_upgrade": "Central Business District (CBD) / Downtown",
+      "example": "Rents in the Central Business District are astronomically high."
+    }
+  ],
+  "sentence_frames": [
+    "The influx of people into cities has exacerbated [Noun Phrase].",
+    "To combat [Noun Phrase], urban planners must [Verb Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The relentless pace of urbanization has undoubtedly brought economic prosperity, but it has also resulted in severe traffic congestion and a drastic shortage of affordable housing.",
+    "speaking_example": "I live in the suburbs because the city center is just too noisy and crowded. However, the lack of local amenities nearby can be quite inconvenient."
+  },
+  "common_mistakes": [
+    "Using 'in the countryside' vs 'in the nature' (e.g., 'I live in the nature' -> 'I live in the countryside')."
+  ],
+  "quiz": [
+    {
+      "question": "Which phrase describes the uncontrolled outward expansion of a city?",
+      "options": {
+        "A": "Affordable housing",
+        "B": "Urban sprawl",
+        "C": "Traffic congestion",
+        "D": "Local amenities"
+      },
+      "correct_answer": "B",
+      "explanation": "'Urban sprawl' specifically refers to the uncontrolled spread of urban development into neighboring regions."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "lesson_id": "grammar_13",
+  "title": "Sentence Structure: Simple, Compound and Complex Sentences",
+  "grammar_goal": "A core requirement for Band 6.0+ in GRA is a 'mix of simple and complex sentence forms'. This lesson ensures control over sentence variety.",
+  "core_rule": {
+    "formula": "Simple: 1 Independent Clause. Compound: 2 Independent Clauses + FANBOYS (for, and, nor, but, or, yet, so). Complex: Independent Clause + Dependent Clause (because, although, if, when).",
+    "usage": "Use simple sentences for clarity and strong statements. Use compound and complex sentences to connect ideas, show relationships (cause/effect, contrast), and demonstrate grammatical range.",
+    "signals": [
+      "and",
+      "but",
+      "so",
+      "although",
+      "because",
+      "while",
+      "whereas"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 2: Use complex sentences to develop arguments (e.g., 'Although renewable energy is expensive initially, it saves money in the long term.').",
+    "Speaking Part 3: Use compound sentences to expand answers without pausing (e.g., 'I agree with the statement, but we also have to consider the economic impact.').",
+    "Writing Task 1: Use complex sentences to compare data (e.g., 'While sales in the UK increased, sales in the US fell.')."
+  ],
+  "when_not_to_use": [
+    "Do not write overly long run-on sentences with multiple 'and's or 'because's, as this reduces clarity.",
+    "Do not write paragraphs consisting only of simple sentences (subject + verb + object)."
+  ],
+  "ielts_examples": {
+    "writing": "Even though technological advancements have improved living standards, they have also led to significant environmental degradation.",
+    "speaking": "I used to live in a small town, but I moved to the city because I wanted to find a better job."
+  },
+  "repair_section": [
+    {
+      "wrong": "The city is very polluted. Many people have respiratory problems.",
+      "correct": "Because the city is very polluted, many people have respiratory problems.",
+      "better_band_upgrade": "As a direct result of the severe urban pollution, a growing number of citizens are suffering from respiratory issues."
+    },
+    {
+      "wrong": "He studied hard. He failed the exam.",
+      "correct": "Although he studied hard, he failed the exam.",
+      "better_band_upgrade": "Despite his rigorous study schedule, he ultimately failed to pass the examination."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using 'Although' and 'But' in the same sentence (e.g., 'Although it rained, but I went out.').",
+    "Creating comma splices by joining two independent clauses with only a comma, instead of a conjunction."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Because it was raining, so we stayed at home.",
+      "correct_sentence": "Because it was raining, we stayed at home."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "An architectural diagram showing building blocks. One block says 'Simple', two linked blocks say 'Compound', and nested blocks say 'Complex'.",
+  "quiz": [
+    {
+      "question": "Which of the following is a grammatically correct COMPLEX sentence?",
+      "options": {
+        "A": "It was raining, so I took an umbrella.",
+        "B": "Because it was raining, I took an umbrella.",
+        "C": "It was raining, I took an umbrella.",
+        "D": "Because it was raining, so I took an umbrella."
+      },
+      "correct_answer": "B",
+      "explanation": "A complex sentence uses a subordinating conjunction ('Because') to link a dependent clause to an independent clause without adding a second conjunction like 'so'."
+    }
+  ]
+}

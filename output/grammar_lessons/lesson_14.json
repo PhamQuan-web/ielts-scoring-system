@@ -1,0 +1,68 @@
+{
+  "lesson_id": "grammar_14",
+  "title": "Subject–Verb Agreement",
+  "grammar_goal": "Eliminates basic errors. Frequent subject-verb agreement errors will restrict the GRA score to a maximum of Band 5.0.",
+  "core_rule": {
+    "formula": "Singular Subject -> Singular Verb (usually adds -s/-es). Plural Subject -> Plural Verb.",
+    "usage": "The verb must always match the subject in number, even if phrases or clauses separate them. Uncountable nouns always take singular verbs.",
+    "signals": [
+      "everyone",
+      "each",
+      "both",
+      "neither",
+      "the number of",
+      "a number of"
+    ]
+  },
+  "when_to_use": [
+    "Throughout all Writing and Speaking tasks, strict adherence to subject-verb agreement is mandatory."
+  ],
+  "when_not_to_use": [
+    "Do not let prepositional phrases separating the subject and verb confuse the agreement (e.g., 'The list of items IS on the desk', not ARE)."
+  ],
+  "ielts_examples": {
+    "writing": "The number of students choosing to study abroad has increased dramatically.",
+    "speaking": "Everyone in my family enjoys spending time together on the weekends."
+  },
+  "repair_section": [
+    {
+      "wrong": "The new regulations for environmental protection is very strict.",
+      "correct": "The new regulations for environmental protection are very strict.",
+      "better_band_upgrade": "The newly implemented environmental protection policies are exceptionally stringent."
+    },
+    {
+      "wrong": "Everyone have to submit their assignments on time.",
+      "correct": "Everyone has to submit their assignments on time.",
+      "better_band_upgrade": "Every student is required to submit their coursework prior to the deadline."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Failing to add the 's' to third-person singular verbs in the present tense, often due to L1 interference (Vietnamese verbs do not conjugate).",
+    "Treating 'The number of' as plural (it is singular) and 'A number of' as singular (it is plural)."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "A number of people is waiting outside.",
+      "correct_sentence": "A number of people are waiting outside."
+    },
+    {
+      "wrong_sentence": "The information provided by the scientists are useful.",
+      "correct_sentence": "The information provided by the scientists is useful."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A balanced scale showing a single weight (Singular Subject) balanced perfectly with another single weight (Singular Verb). Text: 'Subject-Verb Agreement: Perfect Balance'.",
+  "quiz": [
+    {
+      "question": "Choose the correct verb to complete the sentence: 'The group of students _____ preparing for their final presentation.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "explanation": "The actual subject is 'The group' (singular), not 'students'. Therefore, the singular verb 'is' is correct."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lesson_id": "grammar_01",
+  "title": "Present Simple for Habits, Facts and General Truths",
+  "grammar_goal": "Fixes tense inconsistency in Speaking Part 1 and Writing Task 1/2. Boosts Grammatical Range and Accuracy (GRA) by ensuring basic structures are error-free.",
+  "core_rule": {
+    "formula": "S + V(s/es) + O / S + do/does + not + V + O",
+    "usage": "Used to describe permanent situations, regular habits, routines, general scientific facts, and timetabled future events.",
+    "signals": [
+      "always",
+      "usually",
+      "often",
+      "sometimes",
+      "rarely",
+      "never",
+      "every day/week/month",
+      "on Mondays",
+      "twice a week"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 1: Describing your hometown, daily routine, or job/studies.",
+    "Writing Task 2: Stating general facts, universal truths, or common opinions.",
+    "Writing Task 1 (Academic): Describing a cyclical process diagram."
+  ],
+  "when_not_to_use": [
+    "Do not use to describe temporary actions happening right now (use Present Continuous).",
+    "Do not use to describe past experiences without a connection to the present (use Past Simple)."
+  ],
+  "ielts_examples": {
+    "writing": "Nowadays, a large number of people commute to work by public transport every day.",
+    "speaking": "I usually wake up early to go to the gym before my classes start."
+  },
+  "repair_section": [
+    {
+      "wrong": "Many people is thinking that the government should ban plastic bags.",
+      "correct": "Many people think that the government should ban plastic bags.",
+      "better_band_upgrade": "A significant proportion of the population believes that the government should strictly prohibit single-use plastics."
+    },
+    {
+      "wrong": "She always go to the library on weekends.",
+      "correct": "She always goes to the library on weekends.",
+      "better_band_upgrade": "She frequently visits the local library on weekends to conduct research."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Forgetting the 's' or 'es' ending for third-person singular subjects (he, she, it).",
+    "Overusing 'is/are' with normal verbs (e.g., 'I am agree' instead of 'I agree').",
+    "Using Present Continuous for general facts instead of Present Simple (e.g., 'The sun is rising in the east')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I am work as a software engineer in a multinational company.",
+      "correct_sentence": "I work as a software engineer in a multinational company."
+    },
+    {
+      "wrong_sentence": "The train leave the station at exactly 8:00 AM every morning.",
+      "correct_sentence": "The train leaves the station at exactly 8:00 AM every morning."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A high-quality educational illustration showing a timeline with repeated daily habits. A person is shown waking up, going to work, and exercising. Text overlay says 'Present Simple: Habits and Facts'. Minimalist, clean corporate style, white background.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses the Present Simple to describe a general truth?",
+      "options": {
+        "A": "Water is boiling at 100 degrees Celsius.",
+        "B": "Water boils at 100 degrees Celsius.",
+        "C": "Water boiled at 100 degrees Celsius.",
+        "D": "Water has boiled at 100 degrees Celsius."
+      },
+      "correct_answer": "B",
+      "explanation": "Scientific facts and general truths are always expressed using the Present Simple tense, not the continuous or past tenses."
+    }
+  ]
+}

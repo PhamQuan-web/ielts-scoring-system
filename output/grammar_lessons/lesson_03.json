@@ -1,0 +1,76 @@
+{
+  "lesson_id": "grammar_03",
+  "title": "Present Perfect for Experience, Change and Unfinished Time",
+  "grammar_goal": "Crucial for Speaking Part 1/2 (life experiences) and Writing Task 1/2 (recent changes). Demonstrates complex tense usage for Band 7+ GRA.",
+  "core_rule": {
+    "formula": "S + have/has + V3/Past Participle + O",
+    "usage": "Used for actions that happened at an unspecified time in the past, actions that started in the past and continue to the present, or past actions with a strong result in the present.",
+    "signals": [
+      "already",
+      "yet",
+      "just",
+      "ever",
+      "never",
+      "recently",
+      "lately",
+      "since + [point in time]",
+      "for + [period of time]",
+      "so far"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 1 & 2: Talking about life experiences (e.g., 'I have visited Japan twice').",
+    "Writing Task 1: Describing changes that have occurred up to the present moment (e.g., 'The city has developed significantly since 2010').",
+    "Writing Task 2: Introducing recent phenomena or ongoing societal shifts (e.g., 'Technology has drastically altered the way we communicate')."
+  ],
+  "when_not_to_use": [
+    "Do not use when a specific past time is mentioned (e.g., 'yesterday', 'in 1999', 'last year'). Use Past Simple instead.",
+    "Do not use if the time period is completely finished."
+  ],
+  "ielts_examples": {
+    "writing": "Over the past decade, the government has invested heavily in renewable energy infrastructure.",
+    "speaking": "I have never been to Europe, but I've always wanted to visit Italy."
+  },
+  "repair_section": [
+    {
+      "wrong": "I have travelled to Paris last year.",
+      "correct": "I travelled to Paris last year.",
+      "better_band_upgrade": "I had the opportunity to explore Paris last year, which was a remarkable experience."
+    },
+    {
+      "wrong": "The number of international students rose significantly since 2015.",
+      "correct": "The number of international students has risen significantly since 2015.",
+      "better_band_upgrade": "There has been a substantial surge in the enrollment of international students since 2015."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using Present Perfect with specific past time markers (e.g., 'I have seen him yesterday').",
+    "Confusing 'since' (point in time) and 'for' (duration).",
+    "Using Past Simple instead of Present Perfect when describing an experience without a specific timeframe."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "She has graduated from university in 2020.",
+      "correct_sentence": "She graduated from university in 2020."
+    },
+    {
+      "wrong_sentence": "I didn't finish my assignment yet.",
+      "correct_sentence": "I haven't finished my assignment yet."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A visual diagram showing a bridge connecting the past to the present. On one side is 'Past Event' and the bridge leads to 'Present Result'. Icons representing travel stamps and a calendar marked 'Since 2015' and 'For 10 Years'.",
+  "quiz": [
+    {
+      "question": "Choose the correct sentence to describe an ongoing state starting from a specific year:",
+      "options": {
+        "A": "I have lived in this city for 2018.",
+        "B": "I am living in this city since 2018.",
+        "C": "I have lived in this city since 2018.",
+        "D": "I lived in this city since 2018."
+      },
+      "correct_answer": "C",
+      "explanation": "We use the Present Perfect ('have lived') with 'since' + a specific point in time in the past to describe an action that started in the past and continues to the present."
+    }
+  ]
+}

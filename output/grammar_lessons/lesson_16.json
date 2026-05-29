@@ -1,0 +1,63 @@
+{
+  "lesson_id": "grammar_16",
+  "title": "Countable and Uncountable Nouns",
+  "grammar_goal": "Crucial for avoiding basic vocabulary/grammar clashes. Correctly using quantifiers (much/many) determines lexical and grammatical accuracy.",
+  "core_rule": {
+    "formula": "Countable: can be pluralized (books, ideas). Uncountable: cannot be pluralized, always singular verbs (information, advice, research).",
+    "usage": "Use 'many', 'few', 'a/an' with countable nouns. Use 'much', 'little', 'a piece of' with uncountable nouns. Use 'some', 'a lot of' with both.",
+    "signals": [
+      "many vs much",
+      "few vs little",
+      "number of vs amount of"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 1: Using 'the number of' for countable items (cars, people) and 'the amount of' for uncountable items (money, water, energy).",
+    "Speaking Part 3: Discussing abstract concepts which are often uncountable (knowledge, progress, traffic)."
+  ],
+  "when_not_to_use": [
+    "Do not add '-s' to uncountable nouns.",
+    "Do not use 'a/an' immediately before an uncountable noun."
+  ],
+  "ielts_examples": {
+    "writing": "A significant amount of money was allocated to healthcare, whereas the number of schools remained the same.",
+    "speaking": "My teacher gave me some excellent advice on how to improve my pronunciation."
+  },
+  "repair_section": [
+    {
+      "wrong": "I need to do a lot of researches before writing the essay.",
+      "correct": "I need to do a lot of research before writing the essay.",
+      "better_band_upgrade": "I must conduct extensive research before commencing my essay."
+    },
+    {
+      "wrong": "The city has too much cars, causing heavy traffics.",
+      "correct": "The city has too many cars, causing heavy traffic.",
+      "better_band_upgrade": "The city suffers from an excessive number of vehicles, which results in severe traffic congestion."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Pluralizing common uncountable IELTS nouns like 'informations', 'advices', 'equipments', 'knowledges'.",
+    "Using 'many' with uncountable nouns (e.g., 'many money')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "She gave me a good advice.",
+      "correct_sentence": "She gave me a piece of good advice. OR She gave me some good advice."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A split image. Left side shows individual apples (Countable). Right side shows a bowl of water or rice (Uncountable). Text: 'Countable vs Uncountable Nouns'.",
+  "quiz": [
+    {
+      "question": "Which of the following phrases is grammatically correct for an IELTS Writing Task 1 chart?",
+      "options": {
+        "A": "The amount of people visiting the museum.",
+        "B": "The number of energy consumed.",
+        "C": "The amount of electricity produced.",
+        "D": "The much cars on the road."
+      },
+      "correct_answer": "C",
+      "explanation": "'Electricity' is uncountable, so 'the amount of' is correct. 'People' is countable (needs 'number of'), and 'energy' is uncountable (needs 'amount of')."
+    }
+  ]
+}

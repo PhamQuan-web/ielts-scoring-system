@@ -1,0 +1,76 @@
+{
+  "lesson_id": "grammar_05",
+  "title": "Past Simple for Finished Events",
+  "grammar_goal": "Essential for Speaking Part 2 storytelling and Writing Task 1 historical data descriptions. Fixes common tense inconsistencies.",
+  "core_rule": {
+    "formula": "S + V2/ed + O / S + did not + V + O",
+    "usage": "Used to describe completed actions, events, or states at a specific, finished time in the past.",
+    "signals": [
+      "yesterday",
+      "last week/month/year",
+      "in 1990",
+      "ago",
+      "when I was a child"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 1: Talking about childhood, past holidays, or previous studies.",
+    "Speaking Part 2: Narrating the main events of a story ('What happened?', 'Where did you go?').",
+    "Writing Task 1: Describing line graphs or bar charts with dates in the past (e.g., 'In 2010, the population reached a peak.')."
+  ],
+  "when_not_to_use": [
+    "Do not use if the action has a direct connection/result in the present without a specific time mentioned (use Present Perfect).",
+    "Do not use Present tenses when the prompt specifically asks about a past event."
+  ],
+  "ielts_examples": {
+    "writing": "In 2015, the percentage of electric car sales rose sharply by 15%.",
+    "speaking": "When I was younger, I used to play football every weekend, but I stopped when I went to university."
+  },
+  "repair_section": [
+    {
+      "wrong": "The number of tourists increase significantly in 2018.",
+      "correct": "The number of tourists increased significantly in 2018.",
+      "better_band_upgrade": "The influx of tourists experienced a significant surge in the year 2018."
+    },
+    {
+      "wrong": "I have visited London last year.",
+      "correct": "I visited London last year.",
+      "better_band_upgrade": "I had the pleasure of exploring London last year."
+    },
+    {
+      "wrong": "Did you went to the cinema yesterday?",
+      "correct": "Did you go to the cinema yesterday?",
+      "better_band_upgrade": "Did you manage to catch a film at the cinema yesterday?"
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Forgetting to add '-ed' to regular verbs or using the wrong irregular past form.",
+    "Slipping back into the Present Simple halfway through a Speaking Part 2 story.",
+    "Using 'did' with the past form of the main verb (e.g., 'didn't went' instead of 'didn't go')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Last summer, I travel to Japan with my family.",
+      "correct_sentence": "Last summer, I travelled to Japan with my family."
+    },
+    {
+      "wrong_sentence": "The price of oil fall steadily during the 1990s.",
+      "correct_sentence": "The price of oil fell steadily during the 1990s."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A vintage calendar showing a past date with a red circle around it. A photograph of a past memory is pinned next to it. Text overlay: 'Past Simple: Completed Actions'.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly describes a chart showing data from 2005?",
+      "options": {
+        "A": "In 2005, the unemployment rate has dropped by 5%.",
+        "B": "In 2005, the unemployment rate drops by 5%.",
+        "C": "In 2005, the unemployment rate dropped by 5%.",
+        "D": "In 2005, the unemployment rate was dropping by 5%."
+      },
+      "correct_answer": "C",
+      "explanation": "Because 'In 2005' is a specific, finished time in the past, the Past Simple tense ('dropped') is required."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lesson_id": "grammar_08",
+  "title": "Past Perfect Continuous for Longer Earlier Actions",
+  "grammar_goal": "Demonstrates very advanced grammatical control (Band 7.5+) by combining duration and past sequence.",
+  "core_rule": {
+    "formula": "S + had + been + V-ing + O",
+    "usage": "Used to describe an action that was in progress up to a certain point in the past, often highlighting the duration or the cause of a past result.",
+    "signals": [
+      "for",
+      "since",
+      "all day",
+      "by the time"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 2: Explaining the reason for a past state (e.g., 'I was exhausted because I had been travelling for 12 hours.').",
+    "Speaking Part 2: Describing an ongoing effort before an interruption."
+  ],
+  "when_not_to_use": [
+    "Do not use with stative verbs (know, like, belong).",
+    "Do not use if the action was short and completed instantly."
+  ],
+  "ielts_examples": {
+    "writing": "The company went bankrupt in 2018; they had been losing money for several years prior.",
+    "speaking": "I had been waiting for the bus for over an hour when it finally arrived."
+  },
+  "repair_section": [
+    {
+      "wrong": "I was tired because I was working all day.",
+      "correct": "I was tired because I had been working all day.",
+      "better_band_upgrade": "I felt utterly exhausted because I had been working relentlessly throughout the entire day."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using Past Continuous ('I was waiting') instead of Past Perfect Continuous ('I had been waiting') when a duration ('for an hour') is mentioned."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "She was out of breath because she had run.",
+      "correct_sentence": "She was out of breath because she had been running."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A runner who has just stopped to catch their breath. A clock in the background shows a 2-hour duration. Text: 'Past Perfect Continuous: Duration before a Past Point'.",
+  "quiz": [
+    {
+      "question": "Choose the best sentence to explain a past result:",
+      "options": {
+        "A": "The streets were wet because it had been raining.",
+        "B": "The streets were wet because it was raining.",
+        "C": "The streets were wet because it has been raining.",
+        "D": "The streets were wet because it rained."
+      },
+      "correct_answer": "A",
+      "explanation": "'Had been raining' correctly explains the continuous cause leading up to the past result (streets were wet)."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "lesson_id": "grammar_17",
+  "title": "Pronouns and Clear Referencing",
+  "grammar_goal": "Directly impacts the 'Cohesion and Coherence' (CC) score in Writing and Speaking by ensuring the listener/reader can follow ideas smoothly without repetition.",
+  "core_rule": {
+    "formula": "Pronouns (it, they, this, these, those) replace nouns to avoid repetition. Relative Pronouns (who, which, that) connect clauses.",
+    "usage": "Use pronouns to refer back to a noun mentioned in the previous sentence. Ensure the referent (the noun the pronoun replaces) is absolutely clear and unambiguous.",
+    "signals": [
+      "this issue",
+      "these problems",
+      "it",
+      "they",
+      "which"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 2: Linking sentences in a paragraph (e.g., 'Global warming is rising. THIS is causing sea levels to increase.').",
+    "Speaking Part 3: Maintaining fluency without repeating the subject over and over."
+  ],
+  "when_not_to_use": [
+    "Do not use a pronoun if there are two nouns in the previous sentence and it becomes unclear which one you mean (ambiguity).",
+    "Do not shift pronouns randomly (e.g., 'If ONE studies hard, YOU will pass' -> keep it consistent)."
+  ],
+  "ielts_examples": {
+    "writing": "Children nowadays spend hours on screens; this sedentary lifestyle often leads to obesity.",
+    "speaking": "My grandfather is a person who has always inspired me."
+  },
+  "repair_section": [
+    {
+      "wrong": "Electric cars are expensive. Electric cars are also hard to charge.",
+      "correct": "Electric cars are expensive, and they are also hard to charge.",
+      "better_band_upgrade": "Electric vehicles are cost-prohibitive; furthermore, they present significant charging logistical challenges."
+    },
+    {
+      "wrong": "Many students use smartphones in class. It is very distracting.",
+      "correct": "Many students use smartphones in class. This habit is very distracting.",
+      "better_band_upgrade": "A large number of students utilize smartphones during lectures; this particular behavior is highly detrimental to their concentration."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using 'it' to refer to a plural noun, or 'they' to refer to a singular noun.",
+    "Using 'this' without a summary noun (e.g., 'This causes problems' vs 'This trend causes problems'), which is a missed opportunity for vocabulary scoring."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Parents should monitor their child. They need to ensure he is safe.",
+      "correct_sentence": "Parents should monitor their children. They need to ensure they are safe."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A diagram showing a chain link connecting two sentences. An arrow points from the word 'They' back to the word 'Students'. Text: 'Pronouns: Links for Cohesion'.",
+  "quiz": [
+    {
+      "question": "Which of the following uses referencing most effectively for an IELTS essay?",
+      "options": {
+        "A": "Plastic pollution is killing fish. It is a big problem.",
+        "B": "Plastic pollution is killing fish. This environmental disaster requires immediate action.",
+        "C": "Plastic pollution is killing fish. Which is bad.",
+        "D": "Plastic pollution is killing fish. They are dying."
+      },
+      "correct_answer": "B",
+      "explanation": "Using 'This environmental disaster' acts as a highly cohesive summarizing phrase (demonstrative pronoun + noun), improving both Coherence and Lexical Resource scores."
+    }
+  ]
+}

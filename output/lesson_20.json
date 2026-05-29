@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_20_form_table",
+  "title": "Form, Note and Table Completion",
+  "skill_goal": "Develop scanning and tracking skills to complete factual information in structured layouts, primarily in Part 1 and 4.",
+  "question_type_strategy": "These tasks look like real-world documents (a hotel booking form, or a summary table of a lecture). The key advantage is that the visual layout helps you predict the flow of the audio.",
+  "how_to_recognise": "You will see a structured form with blanks, usually with headings organizing the information (e.g., 'Name', 'Address', 'Date of Arrival').",
+  "step_by_step_method": [
+    "1. Read the word limit instruction carefully (e.g., NO MORE THAN ONE WORD AND/OR A NUMBER).",
+    "2. Look at the headings of the table or form to understand the structure.",
+    "3. Use the information already in the table to predict what goes in the blank (e.g., if column 2 is 'Price', you know the blank needs a number).",
+    "4. Follow the numbering of the questions strictly. In a table, questions might go horizontally or vertically.",
+    "5. Listen for the speaker to move from one heading to the next."
+  ],
+  "trap_example": "The 'Wrong Flow' Trap. In a table, questions might be numbered 1, 2, 3 going *down* a column, or going *across* a row. If you follow the wrong visual path, you will miss the answers.",
+  "micro_practice_example": "Table Heading: Accommodation Type | Price | Included \nRow 1: Single Room | \u00a345 | Breakfast \nRow 2: Double Room | Question 1 | Dinner \n(Prediction: Question 1 must be a price in pounds, likely higher than \u00a345).",
+  "review_method": "Practice tracking. When reviewing, trace the exact path of the audio on the physical paper to see how the speaker moved through the table.",
+  "image_url": null,
+  "image_prompt_fallback": "A neatly organized table with columns for 'Item', 'Cost', and 'Notes', with a glowing pencil filling in a blank space in the 'Cost' column.",
+  "quiz": [
+    {
+      "question": "What is a major advantage of Table Completion tasks compared to other listening questions?",
+      "options": {
+        "A": "They never use distractors.",
+        "B": "The answers are always numbers.",
+        "C": "The visual layout (columns and rows) helps you clearly predict the type of information needed and track the speaker's progress.",
+        "D": "They only appear in Part 1."
+      },
+      "correct_answer": "C",
+      "explanation": "Tables provide a rigid visual structure. The headings and the existing data give you massive clues about what to listen for and when the speaker is changing topics."
+    }
+  ]
+}

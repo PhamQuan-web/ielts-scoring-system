@@ -1,0 +1,31 @@
+{
+  "lesson_id": "listening_23_concentration",
+  "title": "Concentration and Note-Taking",
+  "skill_goal": "Maintain focus for the entire 30-minute audio track and learn when to take brief notes versus just listening.",
+  "question_type_strategy": "The IELTS listening test is played exactly ONCE. If you lose concentration for 30 seconds, you can miss 3 questions. Managing cognitive load is as important as English proficiency.",
+  "how_to_recognise": "This applies to the entire test, but is most critical in Part 4.",
+  "step_by_step_method": [
+    "1. Active Posture: Sit up straight and physically track the questions with the tip of your pencil as the audio plays.",
+    "2. Don't Look Back: If you miss an answer, guess immediately and move on. Thinking about a missed question guarantees you will miss the next one.",
+    "3. Minimal Note-Taking: In IELTS, you generally write answers directly into the gaps. Do not try to take extensive notes like a university lecture; it takes too much brain power.",
+    "4. Use the 10-minute transfer time (paper test only): Do not worry about spelling or neatness during the audio. Fix spelling errors only when transferring answers at the end."
+  ],
+  "trap_example": "The 'Panic Cascade' Trap. Missing Question 32, panicking, trying to remember what they said, and suddenly realizing the speaker is now on Question 36. You lost 4 points because you couldn't let go of 1 point.",
+  "micro_practice_example": "Audio is playing. You realize you missed the answer to gap 14. \nCorrect Action: Immediately drop your pencil down to gap 15, listen for the keywords for 15, and refocus.",
+  "review_method": "Take full 30-minute practice tests without pausing. Train your stamina. Never pause the audio during practice, as you cannot do it in the real exam.",
+  "image_url": null,
+  "image_prompt_fallback": "A tight close-up of a student's face showing intense concentration, with the reflection of an audio waveform playing in their glasses.",
+  "quiz": [
+    {
+      "question": "What is the best course of action if you realize you have missed an answer?",
+      "options": {
+        "A": "Stop the recording and rewind it.",
+        "B": "Panic and try to remember what the speaker said a minute ago.",
+        "C": "Immediately forget about it, move your eyes to the keywords of the next question, and refocus.",
+        "D": "Ask the invigilator to play it again."
+      },
+      "correct_answer": "C",
+      "explanation": "The audio never stops. Dwelling on a missed question will distract you from the current audio, causing a chain reaction where you miss several subsequent answers."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_13_sections_overview",
+  "title": "IELTS Listening Sections Overview",
+  "skill_goal": "Understand the structure, context, and progressive difficulty of the four parts of the IELTS Listening test.",
+  "question_type_strategy": "The Listening test is 30 minutes long (plus 10 minutes to transfer answers in the paper test). It has 4 parts, 40 questions, and gets progressively harder. Part 1 and 2 are everyday social contexts; Part 3 and 4 are educational/training contexts.",
+  "how_to_recognise": "Part 1: Conversation between 2 speakers (e.g., booking a hotel). Part 2: Monologue (e.g., a tour guide). Part 3: Academic conversation with up to 4 speakers (e.g., students discussing an assignment). Part 4: Academic monologue (e.g., a university lecture).",
+  "step_by_step_method": [
+    "1. Recognize the context immediately: Who is speaking and why?",
+    "2. Adapt your listening style: Part 1 requires listening for highly specific facts (names, numbers).",
+    "3. Adapt for Part 3: Focus on opinions, agreement/disagreement between speakers.",
+    "4. Adapt for Part 4: Follow complex signposting language in a long, unbroken lecture.",
+    "5. Use the pauses: You are given time before each section to read the questions. Use this time aggressively to predict answers."
+  ],
+  "trap_example": "The 'Losing Focus' Trap. Part 4 is a single 5-minute speech with no breaks in the middle. If you lose focus and miss a question, do not panic. Move your eyes to the next question immediately so you don't lose the rest of the section.",
+  "micro_practice_example": "Audio: 'Welcome everyone to the museum. Today I'll be showing you around...' (Context: Part 2 Monologue, everyday context). \nAudio: 'So, Dr. Smith, regarding the methodology for our thesis...' (Context: Part 3 Conversation, academic context).",
+  "review_method": "Listen to BBC Radio 4 or TED talks to get used to native speaker monologues and conversations of varying lengths.",
+  "image_url": null,
+  "image_prompt_fallback": "A visual timeline showing 4 distinct audio wave graphs. The graphs get progressively larger and more complex from left to right, representing the 4 parts of the IELTS listening test.",
+  "quiz": [
+    {
+      "question": "Which part of the IELTS Listening test features an academic monologue, such as a university lecture?",
+      "options": {
+        "A": "Part 1",
+        "B": "Part 2",
+        "C": "Part 3",
+        "D": "Part 4"
+      },
+      "correct_answer": "D",
+      "explanation": "Part 4 is the most difficult section, featuring a single speaker delivering an academic lecture without any pauses in the middle."
+    }
+  ]
+}

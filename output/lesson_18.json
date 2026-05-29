@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_18_multiple_choice",
+  "title": "Listening Multiple Choice",
+  "skill_goal": "Develop techniques to process long audio clips and long text options simultaneously without getting confused.",
+  "question_type_strategy": "Listening Multiple Choice is extremely challenging because you must read complex options (A, B, C) while simultaneously listening to complex audio. The speakers will almost always mention words from ALL THREE options to confuse you.",
+  "how_to_recognise": "You must choose the correct letter (A, B, or C). Sometimes, it's 'choose TWO letters from A-E'.",
+  "step_by_step_method": [
+    "1. Use preparation time to read the question stem carefully. Understand exactly what is being asked.",
+    "2. Skim the options and underline only the key differences between them.",
+    "3. Do NOT expect to hear the exact words from the options. The correct answer will be heavily paraphrased.",
+    "4. Expect to hear distractors for the wrong options. Just because you hear a word from Option A, does not mean A is correct.",
+    "5. Listen for the speaker's tone and agreement (especially in Part 3) to confirm the final choice."
+  ],
+  "trap_example": "The 'Mentioned \u2260 Correct' Trap. Option B says 'The project lacked funding'. The audio says 'Funding was not an issue for this project'. You heard the word 'funding', so you choose B. This is wrong; the audio contradicted the option.",
+  "micro_practice_example": "Question: Why did the student choose the topic? \nA. It was recommended by a tutor. \nB. She read a fascinating book about it. \nC. She has personal experience with it. \nAudio: 'My tutor suggested I do my essay on Roman history, but I actually decided on marine biology because my family used to live on a boat, so I know a lot about it.' \n(Answer: C. A is a distractor. B is not mentioned).",
+  "review_method": "Print the transcript. Highlight the phrase that proves the correct answer in green. Highlight the phrases that act as distractors for the wrong options in red.",
+  "image_url": null,
+  "image_prompt_fallback": "A split brain image. One side of the brain has a pair of headphones (listening). The other side has an eye looking at a multiple choice test (reading), showing the cognitive load required.",
+  "quiz": [
+    {
+      "question": "If you hear the speaker say exactly the same words that are written in Option C, what should you do?",
+      "options": {
+        "A": "Immediately choose Option C, it's definitely correct.",
+        "B": "Be highly suspicious. Exact words are often used in distractors, while the correct answer is usually paraphrased.",
+        "C": "Stop listening to the rest of the audio.",
+        "D": "Choose another option randomly."
+      },
+      "correct_answer": "B",
+      "explanation": "In listening multiple choice, examiners often read out exact words from the wrong options to trick students. The correct answer usually expresses the same meaning using completely different words."
+    }
+  ]
+}

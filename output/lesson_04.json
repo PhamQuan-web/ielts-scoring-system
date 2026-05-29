@@ -1,0 +1,33 @@
+{
+  "lesson_id": "reading_04_tfng",
+  "title": "True / False / Not Given Basics",
+  "skill_goal": "Understand the strict logical difference between False (contradictory) and Not Given (insufficient information) in factual statements.",
+  "question_type_strategy": "This task tests your ability to identify factual information. The golden rule is: True means the statement perfectly matches the text. False means the text explicitly says the OPPOSITE of the statement. Not Given means you cannot confirm or deny the statement based *only* on the text.",
+  "how_to_recognise": "The instructions will explicitly state: 'Do the following statements agree with the information given in Reading Passage X?'. Note: Y/N/NG is the same logic, but deals with writer's opinions rather than concrete facts.",
+  "step_by_step_method": [
+    "1. Underline keywords in the statement to understand the core meaning.",
+    "2. Locate the relevant sentence in the text using scanning techniques (these questions appear in order).",
+    "3. Read the text sentence very carefully. Do not use outside knowledge.",
+    "4. Ask yourself: 'Does the text confirm this?' -> TRUE.",
+    "5. Ask yourself: 'Does the text prove this is impossible or wrong?' -> FALSE.",
+    "6. Ask yourself: 'Is it possible, but the text doesn't actually say it?' -> NOT GIVEN."
+  ],
+  "trap_example": "The 'Outside Knowledge' Trap. A statement might be a well-known scientific fact (e.g., 'Water boils at 100 degrees Celsius'), but if the reading passage doesn't mention it, the answer must be NOT GIVEN.",
+  "micro_practice_example": "Text: The restaurant opened in 1995 and serves primarily Italian cuisine. \nStatement 1: The restaurant has been open since 1995. (Answer: TRUE) \nStatement 2: The restaurant serves only French food. (Answer: FALSE - contradicts 'Italian') \nStatement 3: The restaurant is very popular with tourists. (Answer: NOT GIVEN - it might be true in real life, but the text doesn't mention popularity or tourists).",
+  "review_method": "When reviewing a 'False' answer, you must be able to underline the exact word in the text that contradicts the statement. If you can't find a contradicting word, the answer was likely Not Given.",
+  "image_url": null,
+  "image_prompt_fallback": "A minimalist graphic design showing three scales of justice. The first is balanced (TRUE). The second is tipped heavily to one side (FALSE). The third is missing the weights entirely, represented by a question mark (NOT GIVEN).",
+  "quiz": [
+    {
+      "question": "If a statement in the question is logically possible, but the specific information is missing from the reading passage, what is the correct answer?",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "Not Given",
+        "D": "It depends on outside knowledge."
+      },
+      "correct_answer": "C",
+      "explanation": "Not Given is used when there is insufficient information in the text to prove the statement true or false, regardless of whether it might be true in the real world."
+    }
+  ]
+}

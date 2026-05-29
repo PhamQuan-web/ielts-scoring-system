@@ -1,0 +1,59 @@
+{
+  "lesson_id": "grammar_11",
+  "title": "Future Continuous for Future Progress",
+  "grammar_goal": "Enhances Band 7+ grammatical range by showing the ability to project an action into a specific future timeline.",
+  "core_rule": {
+    "formula": "S + will + be + V-ing + O",
+    "usage": "Used to describe an action that will be in progress at a specific time in the future, or a routine/expected future event.",
+    "signals": [
+      "this time next year",
+      "at 8 PM tomorrow",
+      "in three years' time"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 3: Discussing future scenarios (e.g., 'In 20 years, people will be working from home even more.').",
+    "Writing Task 2: Projecting the ongoing consequences of a current trend into the future.",
+    "Speaking Part 1: Describing a planned future activity at a specific time (e.g., 'This time next week, I will be relaxing on a beach.')."
+  ],
+  "when_not_to_use": [
+    "Do not use with stative verbs (e.g., know, believe).",
+    "Do not use for sudden, short future actions."
+  ],
+  "ielts_examples": {
+    "writing": "By the middle of the century, society will be relying almost entirely on renewable energy sources.",
+    "speaking": "I can't meet you at 7 PM because I will be studying for my exams."
+  },
+  "repair_section": [
+    {
+      "wrong": "At this time tomorrow, I will take the IELTS test.",
+      "correct": "At this time tomorrow, I will be taking the IELTS test.",
+      "better_band_upgrade": "At this exact time tomorrow, I will be sitting in the examination hall taking my IELTS test."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using Future Simple ('will do') when a specific ongoing future time is mentioned ('at 8 PM tomorrow').",
+    "Omitting the 'be' verb (e.g., 'I will studying')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "In ten years, many people will living in smart homes.",
+      "correct_sentence": "In ten years, many people will be living in smart homes."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A futuristic city with flying cars. A clock hovers showing a future year (e.g., 2050). Text: 'Future Continuous: Actions in Progress in the Future'.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly describes an action that will be in progress at a specific time tomorrow?",
+      "options": {
+        "A": "Tomorrow at 9 AM, I will work.",
+        "B": "Tomorrow at 9 AM, I am working.",
+        "C": "Tomorrow at 9 AM, I will be working.",
+        "D": "Tomorrow at 9 AM, I work."
+      },
+      "correct_answer": "C",
+      "explanation": "Because a specific time is mentioned ('at 9 AM') for an ongoing action, the Future Continuous ('will be working') is required."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lesson_id": "grammar_06",
+  "title": "Past Continuous for Background Actions",
+  "grammar_goal": "Enhances storytelling in Speaking Part 2 by creating atmosphere and showing the ability to combine complex tenses (Past Continuous + Past Simple).",
+  "core_rule": {
+    "formula": "S + was/were + V-ing + O",
+    "usage": "Used to describe an action that was in progress at a specific time in the past, or a longer background action that was interrupted by a shorter, sudden event.",
+    "signals": [
+      "while",
+      "when",
+      "at 8 PM last night",
+      "all morning yesterday"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 2: Setting the scene for a story (e.g., 'The sun was shining and birds were singing when I suddenly heard a loud noise.').",
+    "Speaking Part 2: Describing an interrupted action ('I was walking to school when I saw my friend.')."
+  ],
+  "when_not_to_use": [
+    "Do not use for consecutive, completed actions in a sequence (e.g., 'I was waking up, was having breakfast, and was going to work' is wrong. Use Past Simple).",
+    "Do not use with stative verbs."
+  ],
+  "ielts_examples": {
+    "writing": "While the percentage of car owners was increasing, the use of public transport began to decline.",
+    "speaking": "I was studying for my final exams when my friend called to invite me to a concert."
+  },
+  "repair_section": [
+    {
+      "wrong": "When I arrived, they had dinner.",
+      "correct": "When I arrived, they were having dinner.",
+      "better_band_upgrade": "By the time I arrived, they were already in the middle of enjoying their evening meal."
+    },
+    {
+      "wrong": "While I drove to work, I listened to a podcast.",
+      "correct": "While I was driving to work, I listened to a podcast.",
+      "better_band_upgrade": "During my morning commute, while I was driving to the office, I listened to an educational podcast."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Overusing Past Continuous for main events in a story instead of background events.",
+    "Failing to match plural subjects with 'were' and singular subjects with 'was'.",
+    "Not using 'when' and 'while' correctly to link Past Continuous and Past Simple."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I read a book when the phone rang.",
+      "correct_sentence": "I was reading a book when the phone rang."
+    },
+    {
+      "wrong_sentence": "While they was watching TV, the power went out.",
+      "correct_sentence": "While they were watching TV, the power went out."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "An illustration showing a person walking in a park (background action) and suddenly it starts raining (interruption). Text overlay: 'Past Continuous: Setting the Scene & Interruptions'.",
+  "quiz": [
+    {
+      "question": "Which combination of tenses correctly links a background action and an interruption?",
+      "options": {
+        "A": "While I cooked dinner, I was burning my hand.",
+        "B": "While I was cooking dinner, I burned my hand.",
+        "C": "While I was cooking dinner, I was burning my hand.",
+        "D": "While I cooked dinner, I burned my hand."
+      },
+      "correct_answer": "B",
+      "explanation": "'Was cooking' represents the longer background action in progress (Past Continuous), and 'burned' represents the sudden, short interrupting event (Past Simple)."
+    }
+  ]
+}

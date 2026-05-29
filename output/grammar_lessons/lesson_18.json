@@ -1,0 +1,67 @@
+{
+  "lesson_id": "grammar_18",
+  "title": "Prepositions in IELTS Writing and Speaking",
+  "grammar_goal": "Fixes micro-errors that prevent candidates from reaching Band 7+ GRA. Correct prepositions demonstrate idiomatic, natural language control.",
+  "core_rule": {
+    "formula": "Prepositions of time (in, on, at), place (in, on, at), and dependent prepositions (adjective + prep / verb + prep).",
+    "usage": "Used to show relationships in time and space, and intrinsically linked to specific verbs and adjectives (collocations).",
+    "signals": [
+      "interested IN",
+      "depend ON",
+      "responsible FOR",
+      "increase IN"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 1: Describing data changes accurately (e.g., 'an increase OF 5%', 'increased BY 5%', 'increased TO 50%').",
+    "Speaking & Writing: Using correct dependent prepositions to sound natural (e.g., 'I am good AT math')."
+  ],
+  "when_not_to_use": [
+    "Do not translate prepositions directly from your first language, as they rarely match up."
+  ],
+  "ielts_examples": {
+    "writing": "There was a sharp rise in the number of unemployed citizens, peaking at 15% in 2020.",
+    "speaking": "I am really passionate about learning foreign languages, especially Spanish."
+  },
+  "repair_section": [
+    {
+      "wrong": "The government should invest more money on education.",
+      "correct": "The government should invest more money in education.",
+      "better_band_upgrade": "It is imperative that the government allocates substantially more financial resources into the education sector."
+    },
+    {
+      "wrong": "Sales dropped from 50% to 30%, which is a decrease by 20%.",
+      "correct": "Sales dropped from 50% to 30%, which is a decrease of 20%.",
+      "better_band_upgrade": "Sales figures plummeted from 50% to 30%, representing a significant overall decrease of 20%."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Confusing 'in', 'on', and 'at' for time (e.g., 'in the weekend' instead of 'on the weekend' or 'at the weekend').",
+    "Using the wrong preposition after 'increase/decrease' in Task 1 (e.g., 'an increase of 2005' instead of 'an increase in 2005')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I strongly agree to this statement.",
+      "correct_sentence": "I strongly agree with this statement."
+    },
+    {
+      "wrong_sentence": "The chart shows a rise of temperatures.",
+      "correct_sentence": "The chart shows a rise in temperatures."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1516962080544-eac695c92f91?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A visual puzzle with pieces fitting together perfectly. The pieces have words like 'rely' and 'on', 'invest' and 'in'. Text: 'Prepositions: Perfect Matches'.",
+  "quiz": [
+    {
+      "question": "Choose the correct preposition for Writing Task 1: 'The unemployment rate increased _____ 5%, rising from 10% to 15%.",
+      "options": {
+        "A": "to",
+        "B": "in",
+        "C": "by",
+        "D": "of"
+      },
+      "correct_answer": "C",
+      "explanation": "When describing the difference/margin of change, use 'by' (increased by 5%). Use 'to' for the final destination (increased to 15%)."
+    }
+  ]
+}

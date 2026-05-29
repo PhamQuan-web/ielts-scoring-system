@@ -1,0 +1,70 @@
+{
+  "lesson_id": "grammar_09",
+  "title": "Future Simple with Will",
+  "grammar_goal": "Essential for making predictions in Writing Task 2 and expressing spontaneous ideas in Speaking Part 3.",
+  "core_rule": {
+    "formula": "S + will + V(base form) + O",
+    "usage": "Used for making predictions about the future, spontaneous decisions made at the moment of speaking, promises, and offers.",
+    "signals": [
+      "I think",
+      "I believe",
+      "probably",
+      "perhaps",
+      "in the future",
+      "next year"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 3: Giving opinions about future trends (e.g., 'I think electric cars will replace petrol cars.').",
+    "Writing Task 2: Making predictions or discussing potential future consequences of a current issue.",
+    "Speaking Part 1: Stating a quick decision or promise."
+  ],
+  "when_not_to_use": [
+    "Do not use 'will' for fixed, pre-arranged plans or intentions (use 'Be Going To' or Present Continuous instead)."
+  ],
+  "ielts_examples": {
+    "writing": "It is highly likely that artificial intelligence will fundamentally change the job market in the coming decades.",
+    "speaking": "I'm not sure yet, but perhaps I'll study a master's degree abroad."
+  },
+  "repair_section": [
+    {
+      "wrong": "I think the pollution is going to become worse if we don't act now.",
+      "correct": "I think the pollution will become worse if we don't act now.",
+      "better_band_upgrade": "It is highly probable that environmental degradation will worsen significantly unless immediate action is taken."
+    },
+    {
+      "wrong": "Tomorrow I will fly to Paris. I have my tickets.",
+      "correct": "Tomorrow I am flying to Paris. I have my tickets.",
+      "better_band_upgrade": "I am scheduled to fly to Paris tomorrow, having already secured my tickets."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Overusing 'will' for every future action, even when 'be going to' or present continuous is more natural for plans.",
+    "Forgetting to use base verbs after 'will' (e.g., 'will goes')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I believe that people will living on Mars one day.",
+      "correct_sentence": "I believe that people will live on Mars one day."
+    },
+    {
+      "wrong_sentence": "I promise I will to study harder.",
+      "correct_sentence": "I promise I will study harder."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A futuristic image showing advanced technology, like a flying car or a robot, representing future predictions. Text: 'Future Simple (Will): Predictions and Beliefs'.",
+  "quiz": [
+    {
+      "question": "Which sentence uses 'will' correctly for an IELTS Speaking Part 3 prediction?",
+      "options": {
+        "A": "I am sure the government will to solve this issue.",
+        "B": "In my opinion, more people will working from home in the future.",
+        "C": "I think renewable energy will completely replace fossil fuels by 2050.",
+        "D": "Next week, I will having a meeting with my professor."
+      },
+      "correct_answer": "C",
+      "explanation": "'Will' + base verb ('replace') is the correct form to make a future prediction based on opinion or belief."
+    }
+  ]
+}

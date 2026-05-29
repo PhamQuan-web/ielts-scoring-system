@@ -1,0 +1,65 @@
+{
+  "lesson_id": "grammar_12",
+  "title": "Future Perfect and Future Perfect Continuous",
+  "grammar_goal": "Aims at Band 8.0+ by demonstrating mastery of the most complex English tenses to set future deadlines and durations.",
+  "core_rule": {
+    "formula": "Future Perfect: S + will + have + V3. Future Perfect Continuous: S + will + have + been + V-ing.",
+    "usage": "Future Perfect is used to say an action will be COMPLETED before a specific time in the future. Future Perfect Continuous emphasizes the DURATION of an action up to a specific future time.",
+    "signals": [
+      "by next week",
+      "by the time",
+      "by 2050",
+      "for 10 years by next month"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 2: Making strong predictions about the completion of global goals (e.g., 'By 2050, many species will have become extinct.').",
+    "Speaking Part 3: Discussing long-term future achievements or consequences.",
+    "Speaking Part 1: Describing future milestones (e.g., 'By next year, I will have been studying English for five years.')."
+  ],
+  "when_not_to_use": [
+    "Do not use these tenses without a clear future deadline or 'by' phrase.",
+    "Do not overcomplicate simple future predictions with these tenses if a deadline isn't relevant."
+  ],
+  "ielts_examples": {
+    "writing": "By the end of the next decade, scientists will hopefully have discovered a cure for the disease.",
+    "speaking": "By the time I finish my university degree, I will have been living in this city for four years."
+  },
+  "repair_section": [
+    {
+      "wrong": "By 2030, the government will build a new transport system.",
+      "correct": "By 2030, the government will have built a new transport system.",
+      "better_band_upgrade": "By the year 2030, the municipal authorities will have successfully finalized the construction of a comprehensive public transport network."
+    },
+    {
+      "wrong": "Next month, I will work here for 5 years.",
+      "correct": "Next month, I will have been working here for 5 years.",
+      "better_band_upgrade": "By this time next month, I will have been dedicating my services to this company for exactly five years."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using Future Simple ('will do') instead of Future Perfect ('will have done') when there is a clear 'by + time' deadline.",
+    "Confusing the structure, often saying 'will has' instead of 'will have' for third-person subjects."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "By 5 PM today, I will finish my essay.",
+      "correct_sentence": "By 5 PM today, I will have finished my essay."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A timeline ending in a future deadline (e.g., 'By 2030') with a red flag indicating completion. Text: 'Future Perfect: Completed Before a Future Time'.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses the Future Perfect tense?",
+      "options": {
+        "A": "By the end of this year, I will graduate.",
+        "B": "By the end of this year, I will have graduated.",
+        "C": "By the end of this year, I have graduated.",
+        "D": "By the end of this year, I will be graduating."
+      },
+      "correct_answer": "B",
+      "explanation": "The phrase 'By the end of this year' sets a future deadline. The action of graduating will be completed before that deadline, requiring 'will have graduated'."
+    }
+  ]
+}

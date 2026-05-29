@@ -1,0 +1,79 @@
+{
+  "lesson_id": "vocab_core_15",
+  "title": "Core Vocabulary: Advantages and Disadvantages Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Functional vocabulary for evaluating the pros and cons of a situation, essential for balanced essays."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Beneficial",
+      "phonetic": "/ˌbenɪˈfɪʃl/",
+      "cefr_level": "B2",
+      "meaning": "Favorable or advantageous; resulting in good.",
+      "example": "Regular exercise is highly beneficial to both physical and mental health.",
+      "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A person smiling and stretching outdoors in the morning sun."
+    },
+    {
+      "word": "Drawback",
+      "phonetic": "/ˈdrɔːbæk/",
+      "cefr_level": "B2",
+      "meaning": "A feature that renders something less acceptable; a disadvantage or problem.",
+      "example": "The main drawback of living in the city center is the noise pollution.",
+      "image_url": null,
+      "image_prompt_fallback": "A scale with gold on one side heavily outweighing a pile of rocks on the other."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Double-edged sword",
+      "meaning": "Something that has or can have both favorable and unfavorable consequences.",
+      "example": "The internet is a double-edged sword; it provides information but also spreads fake news."
+    },
+    {
+      "collocation": "Outweigh the disadvantages",
+      "meaning": "To be more significant or important than the negative aspects.",
+      "example": "In my view, the economic benefits of tourism far outweigh the environmental disadvantages."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Good points and bad points",
+      "better_upgrade": "Merits and demerits / Pros and cons",
+      "example": "We must carefully weigh the merits and demerits of nuclear power."
+    },
+    {
+      "weak_phrase": "Is a good thing",
+      "better_upgrade": "Is highly advantageous",
+      "example": "Learning a second language is highly advantageous in today's globalized job market."
+    }
+  ],
+  "sentence_frames": [
+    "While there are evident drawbacks to [Noun Phrase], I believe the benefits are far more significant.",
+    "One of the primary merits of [Gerund Phrase] is that [Clause]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "While globalization is often viewed as a double-edged sword, I firmly believe that its merits far outweigh its demerits. Although it can lead to cultural homogenization, it is highly advantageous for economic growth and international cooperation.",
+    "speaking_example": "Well, studying abroad is definitely a double-edged sword. It's incredibly beneficial for your independence and language skills, but the main drawback is homesickness."
+  },
+  "common_mistakes": [
+    "Saying 'The advantages are more than the disadvantages' instead of 'The advantages outweigh the disadvantages'."
+  ],
+  "quiz": [
+    {
+      "question": "Which idiom refers to something that has both positive and negative consequences?",
+      "options": {
+        "A": "Root cause",
+        "B": "Knock-on effect",
+        "C": "Double-edged sword",
+        "D": "Outweigh the disadvantages"
+      },
+      "correct_answer": "C",
+      "explanation": "A 'double-edged sword' cuts both ways, meaning it has both good and bad effects. 'Outweigh' means the good is heavier than the bad."
+    }
+  ]
+}

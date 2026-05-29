@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_09",
+  "title": "Giving Clear Opinions",
+  "speaking_skill_goal": "Part 3",
+  "answer_framework": "Part 3 is an academic discussion. The examiner wants to see if you can express abstract opinions clearly. Avoid just saying 'I think'. Use a range of opinion markers to show depth:\n\n1. Strong Opinions: When you are certain. ('I firmly believe that...', 'I am convinced that...').\n2. Tentative Opinions: When it's a complex issue and you are less sure. ('It seems to me that...', 'I suppose you could argue that...').\n3. Objective Opinions: When talking about what society thinks, not just yourself. ('It is widely acknowledged that...', 'Many people tend to feel that...').\n\nUsing these markers immediately sets a formal, Band 7+ tone for your Part 3 answers.",
+  "useful_phrase_bank": [
+    "I firmly believe that ...",
+    "From my perspective, ...",
+    "It seems to me that ...",
+    "I suppose it depends on ...",
+    "It is widely acknowledged that ..."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "I think fast food is bad. It makes people fat.",
+      "better_answer": "I firmly believe that the overconsumption of fast food is a major public health issue. It is widely acknowledged that diets high in processed foods contribute heavily to obesity."
+    }
+  ],
+  "fluency_pronunciation_note": "In Part 3, speak with authority. Lower your pitch slightly at the end of statements like 'I firmly believe that...' to sound more confident and decisive.",
+  "sample_ielts_question": "Do you think technology has made our lives more stressful?",
+  "model_short_answer": "From my perspective, it's a double-edged sword. On one hand, I suppose you could argue that smartphones keep us constantly connected to work, causing burnout. However, I am convinced that overall, automation and the internet have streamlined many daily tasks, making life significantly easier.",
+  "common_mistakes": [
+    "Starting every single sentence in Part 3 with 'I think'.",
+    "Giving overly simplistic, black-and-white answers to complex social issues.",
+    "Using informal Part 1 language (e.g., 'Yeah, it's pretty cool') in the Part 3 discussion."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "Two people engaged in a serious, intellectual discussion across a desk, gesturing to explain their viewpoints clearly.",
+  "quiz": [
+    {
+      "question": "When should you use a 'Tentative Opinion' like 'I suppose you could argue that...'?",
+      "options": {
+        "A": "When you are 100% absolutely certain about a fact.",
+        "B": "When discussing a complex, nuanced issue where there isn't one simple answer.",
+        "C": "When answering a simple Part 1 question like 'Do you like apples?'.",
+        "D": "You should never use tentative opinions; always be aggressive."
+      },
+      "correct_answer": "B",
+      "explanation": "Tentative language is excellent for Part 3 because it shows the examiner you understand the complexity of social or abstract issues, demonstrating higher-level thinking and grammar."
+    }
+  ]
+}

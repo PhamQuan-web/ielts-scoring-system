@@ -1,0 +1,73 @@
+{
+  "lesson_id": "grammar_07",
+  "title": "Linking Clauses: Although, Because, While, and Whereas",
+  "grammar_goal": "Boosts Coherence and Cohesion (CC) and Grammatical Range and Accuracy (GRA) by demonstrating the ability to form complex sentences that show concession, reason, and contrast.",
+  "core_rule": {
+    "formula": "Conjunction (Although/While/Because) + Subject + Verb, Subject + Verb / OR / Subject + Verb + Conjunction + Subject + Verb",
+    "usage": "'Although' shows concession (unexpected result). 'Because' shows reason. 'While' and 'Whereas' show contrast between two facts or ideas. When the conjunction starts the sentence, a comma separates the two clauses.",
+    "signals": [
+      "Although",
+      "Even though",
+      "Because",
+      "Since",
+      "While",
+      "Whereas"
+    ]
+  },
+  "when_to_use": [
+    "Task 2 (Contrast): Using 'While' or 'Whereas' in the introduction to present both sides of an argument (e.g., 'While some believe X, others argue Y.').",
+    "Task 2 (Concession): Using 'Although' to acknowledge a counter-argument before presenting your main point.",
+    "Task 1: Comparing contrasting data points (e.g., 'Car sales increased, whereas bicycle sales fell.')."
+  ],
+  "when_not_to_use": [
+    "Do NOT use 'Although' and 'But' in the same sentence.",
+    "Do NOT use 'Because' and 'So' in the same sentence.",
+    "Avoid starting every sentence with 'Because' or 'Although'; vary sentence structures."
+  ],
+  "ielts_examples": {
+    "writing": "While technological advancements have improved communication, they have also led to a decrease in face-to-face interactions.",
+    "speaking": "Although I usually enjoy watching action movies, I found this particular one quite boring."
+  },
+  "repair_section": [
+    {
+      "wrong": "Although it was raining, but we went out.",
+      "correct": "Although it was raining, we went out.",
+      "better_band_upgrade": "Even though the weather was adverse, we proceeded with our plans."
+    },
+    {
+      "wrong": "Because he studied hard, so he passed the exam.",
+      "correct": "Because he studied hard, he passed the exam.",
+      "better_band_upgrade": "Since he dedicated significant effort to his studies, he easily passed the examination."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "The Double Conjunction Error: Translating directly from Vietnamese 'Mặc dù... nhưng...' resulting in 'Although... but...'.",
+    "Translating 'Bởi vì... cho nên...' resulting in 'Because... so...'.",
+    "Using 'Whereas' incorrectly as a synonym for 'However' at the start of a new sentence (Whereas connects two clauses in the SAME sentence)."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Although the food was expensive, but it was not tasty.",
+      "correct_sentence": "Although the food was expensive, it was not tasty."
+    },
+    {
+      "wrong_sentence": "I like reading books. Whereas my brother likes playing sports.",
+      "correct_sentence": "I like reading books, whereas my brother likes playing sports."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A visual scale balancing two different weights, representing the contrast and balance shown by words like 'While' and 'Whereas'.",
+  "quiz": [
+    {
+      "question": "Which sentence is punctuated and structured correctly?",
+      "options": {
+        "A": "While some people prefer to work at home others prefer the office.",
+        "B": "Some people prefer to work at home, while others prefer the office.",
+        "C": "While some people prefer to work at home, but others prefer the office.",
+        "D": "Some people prefer to work at home. Whereas others prefer the office."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B is correct. When 'while' is in the middle contrasting two ideas, a comma is typically used, and no extra conjunction ('but') is needed."
+    }
+  ]
+}

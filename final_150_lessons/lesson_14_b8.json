@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_14_predicting_answers",
+  "title": "Predicting Answers Before Listening",
+  "skill_goal": "Learn how to actively use the 30 seconds of silent reading time to predict the grammar and content of the answers.",
+  "question_type_strategy": "Never wait for the audio to start before thinking. Use the silent preparation time to become an 'active listener'. If you know what kind of word you are listening for, it is much easier to catch it.",
+  "how_to_recognise": "Look at the gaps in completion tasks or the options in multiple-choice tasks before the audio begins.",
+  "step_by_step_method": [
+    "1. Read the instructions (e.g., ONE WORD ONLY).",
+    "2. Look at the word before and after the gap.",
+    "3. Predict the grammar: Do I need a noun, verb, adjective, or number?",
+    "4. Predict the context: If the form says 'Date of Birth: _______', you know you are listening for a date.",
+    "5. Anticipate synonyms: If the question says 'cheap', listen for 'inexpensive' or 'budget'."
+  ],
+  "trap_example": "The 'Passive Listening' Trap. Staring blankly at the paper waiting for the audio. If the gap says 'Requires ________ shoes' and you haven't predicted that an adjective (like 'special' or 'running') is needed, the answer will fly by too fast.",
+  "micro_practice_example": "Question Form: \nDestination: ___________ \nCost: \u00a3___________ \nPrediction: The first blank must be a noun (a place/city name). The second blank must be a number (price).",
+  "review_method": "Before taking a practice test, spend 10 minutes ONLY looking at the questions and writing down your predictions for the type of word needed for every single gap.",
+  "image_url": null,
+  "image_prompt_fallback": "A student looking at a test paper with a blank space. A thought bubble above their head shows them predicting 'Noun? Number? Date?'.",
+  "quiz": [
+    {
+      "question": "If you see the gap: 'The course will teach students how to improve their ________', what part of speech are you most likely listening for?",
+      "options": {
+        "A": "A verb",
+        "B": "A noun (or noun phrase)",
+        "C": "An adverb",
+        "D": "A pronoun"
+      },
+      "correct_answer": "B",
+      "explanation": "Grammatically, 'their' is a possessive adjective that must be followed by a noun (e.g., 'their skills', 'their writing'). Predicting this helps you ignore verbs and adverbs in the audio."
+    }
+  ]
+}

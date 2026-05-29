@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_13",
+  "title": "Speculating About the Future",
+  "speaking_skill_goal": "Part 3",
+  "answer_framework": "Examiners often ask you to predict future trends. Since you cannot know the future for certain, you must use 'Speculative Language' (modals of probability). Using absolute terms like 'It will happen' lowers your score because it lacks academic nuance.\n\nFramework for Speculation:\n1. State the likelihood: 'It's highly probable that...'\n2. Describe the potential change: '...we might see a shift towards...'\n3. Provide a reason for this prediction: '...given the current advancements in AI.'",
+  "useful_phrase_bank": [
+    "It's highly probable that ...",
+    "It's quite unlikely that ...",
+    "I envision a future where ...",
+    "There's a strong possibility that ...",
+    "We might well see a shift towards ..."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "In the future, robots will do all our jobs.",
+      "better_answer": "It's highly probable that automation will drastically change the workforce. There's a strong possibility that AI might replace repetitive manual labor, though I doubt it will entirely replace jobs requiring human empathy."
+    }
+  ],
+  "fluency_pronunciation_note": "When speculating, native speakers often use contractions like 'It's', 'There's', or 'We'll'. Using these naturally instead of 'It is' or 'We will' improves your rhythm and pronunciation score.",
+  "sample_ielts_question": "Do you think people will read fewer physical books in the future?",
+  "model_short_answer": "I envision a future where physical books become more of a niche collector's item rather than a daily necessity. Given the convenience of e-readers and audiobooks, it's highly probable that digital consumption will dominate. However, it's quite unlikely that physical books will disappear entirely.",
+  "common_mistakes": [
+    "Using only 'will' for every prediction.",
+    "Refusing to answer because 'I don't know the future'. (You are being tested on language, not psychic abilities!).",
+    "Making predictions without offering any logical reason to back them up."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A futuristic city skyline with flying vehicles and advanced architecture, representing a vision of the future.",
+  "quiz": [
+    {
+      "question": "Why should you avoid saying 'Robots WILL replace teachers' in Part 3?",
+      "options": {
+        "A": "Because it is factually incorrect.",
+        "B": "Because it shows a lack of academic nuance and speculative language.",
+        "C": "Because the examiner might disagree with you.",
+        "D": "You shouldn't avoid it; it is a good sentence."
+      },
+      "correct_answer": "B",
+      "explanation": "Using absolute certainty ('will') limits your ability to demonstrate advanced grammar (modals of probability like 'might', 'could', 'highly probable'). Academic discussions require nuanced, speculative language."
+    }
+  ]
+}

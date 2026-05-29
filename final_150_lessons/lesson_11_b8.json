@@ -1,0 +1,31 @@
+{
+  "lesson_id": "reading_11_common_traps",
+  "title": "Common Reading Traps",
+  "skill_goal": "Identify and systematically avoid the psychological and linguistic tricks examiners use to mislead candidates.",
+  "question_type_strategy": "IELTS Reading tests your attention to detail. Examiners design traps for students who read superficially or rush.",
+  "how_to_recognise": "Look for absolute words ('all', 'always', 'never'), slight modifications in meaning, and exact word matches from the text used in wrong contexts.",
+  "step_by_step_method": [
+    "1. The Absolute Word Trap: Be highly suspicious of options containing 'always', 'never', 'only', or 'all'. The text usually uses softer words like 'often', 'rarely', 'mostly', or 'some'.",
+    "2. The Exact Match Trap: If an option uses the exact same words as the passage, it's often a distractor. The correct answer usually uses synonyms.",
+    "3. The Half-Right Trap: An option might be 80% correct, but one tiny word at the end makes it false.",
+    "4. The Time Trap: Mixing up past, present, and future. The text might say something *will* happen, while the question states it *has* happened."
+  ],
+  "trap_example": "The 'Qualifying Word' Trap. Text: 'Many doctors recommend the treatment.' Question Statement: 'All doctors recommend the treatment.' (The answer is False because 'many' does not equal 'all').",
+  "micro_practice_example": "Text: The new policy was implemented last year and will likely reduce pollution over the next decade. \nStatement: The policy has already reduced pollution significantly. \n(Answer: FALSE. The text says it 'will likely' reduce it in the future, it hasn't happened yet. This is a tense trap).",
+  "review_method": "When reviewing practice tests, explicitly label the traps you fell into (e.g., 'Fell for an absolute word trap here' or 'Fell for a tense trap here').",
+  "image_url": null,
+  "image_prompt_fallback": "A metaphorical image of a bear trap hidden under leaves. On the trap, there is a piece of paper that says 'EXACT MATCH'.",
+  "quiz": [
+    {
+      "question": "If a text states 'Most scientists agree...', and a True/False/Not Given statement says 'All scientists agree...', what is the answer?",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "Not Given",
+        "D": "Yes"
+      },
+      "correct_answer": "B",
+      "explanation": "The statement is False because it contradicts the text. 'Most' leaves room for some who disagree, whereas 'All' implies 100% agreement. This is a classic 'Absolute Word' trap."
+    }
+  ]
+}

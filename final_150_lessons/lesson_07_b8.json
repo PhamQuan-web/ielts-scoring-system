@@ -1,0 +1,32 @@
+{
+  "lesson_id": "reading_07_multiple_choice",
+  "title": "Multiple Choice Questions",
+  "skill_goal": "Learn how to eliminate distractor options and identify the subtle differences between four similar choices.",
+  "question_type_strategy": "Multiple choice questions usually follow the order of the text. The key strategy is 'process of elimination'. Examiners will always include one option that contradicts the text, one that is not mentioned, and one that is a 'half-truth' (partially correct but missing a key element).",
+  "how_to_recognise": "The instructions ask you to 'Choose the correct letter, A, B, C or D'. Sometimes, you may be asked to choose TWO letters from five options.",
+  "step_by_step_method": [
+    "1. Read the question stem only, NOT the options. The options will confuse you before you read the text.",
+    "2. Identify keywords in the question stem and locate the relevant section in the text.",
+    "3. Read that section carefully and try to answer the question in your own words first.",
+    "4. Now look at the options A, B, C, D. Eliminate the obviously wrong ones.",
+    "5. Compare the remaining options closely against the specific words in the text."
+  ],
+  "trap_example": "The 'Half-Truth' Trap. An option might contain exact words from the text, but it pairs them with a word like 'always' or 'all', changing the meaning entirely from the original text which might have said 'sometimes' or 'some'.",
+  "micro_practice_example": "Text: While early critics dismissed the new painting style as amateurish, the general public embraced it enthusiastically within a few years. \nQuestion: How did people react to the new painting style? \nA. Everyone hated it at first. \nB. Critics eventually learned to love it. \nC. Regular people quickly grew to like it. \nD. It was immediately popular with all art experts. \n(Answer: C. 'Regular people' = 'general public', 'quickly grew to like it' = 'embraced it enthusiastically within a few years').",
+  "review_method": "For every multiple-choice question you get wrong, write down exactly why the distractor you chose was wrong (e.g., 'Option B used the word *only*, but the text didn't').",
+  "image_url": null,
+  "image_prompt_fallback": "A close-up of a pencil crossing out three incorrect options (A, B, and D) on a multiple-choice test, leaving option C circled. The focus is on the process of elimination.",
+  "quiz": [
+    {
+      "question": "Why is it usually a bad idea to read the options (A, B, C, D) before reading the text?",
+      "options": {
+        "A": "It takes too much time.",
+        "B": "The options are designed to trick you; reading them first plants false information in your mind.",
+        "C": "The options will not contain any keywords.",
+        "D": "You should just guess the answer anyway."
+      },
+      "correct_answer": "B",
+      "explanation": "Three out of the four options are deliberately written by examiners as plausible-sounding traps. Reading them first biases your understanding of the passage."
+    }
+  ]
+}

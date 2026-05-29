@@ -1,0 +1,79 @@
+{
+  "lesson_id": "vocab_core_14",
+  "title": "Core Vocabulary: Cause and Effect Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Functional vocabulary to accurately describe the reasons behind issues and their subsequent impacts."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Catalyst",
+      "phonetic": "/ˈkætəlɪst/",
+      "cefr_level": "C1",
+      "meaning": "A person or thing that precipitates an event.",
+      "example": "The invention of the microchip acted as a catalyst for the digital revolution.",
+      "image_url": null,
+      "image_prompt_fallback": "A conceptual image of a small domino knocking over increasingly larger dominoes."
+    },
+    {
+      "word": "Stem from",
+      "phonetic": "/stem frɒm/",
+      "cefr_level": "C1",
+      "meaning": "Originate in or be caused by.",
+      "example": "Much of the city's crime stems from high unemployment rates.",
+      "image_url": null,
+      "image_prompt_fallback": "A plant growing out of a cracked piece of concrete, symbolizing origin."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Root cause",
+      "meaning": "The fundamental reason for the occurrence of a problem.",
+      "example": "We must address the root cause of the issue rather than just treating the symptoms."
+    },
+    {
+      "collocation": "Knock-on effect",
+      "meaning": "A secondary, indirect, or cumulative effect.",
+      "example": "The strike by transport workers had a knock-on effect on local businesses."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Because of",
+      "better_upgrade": "As a direct result of / Due primarily to",
+      "example": "The species went extinct as a direct result of habitat destruction."
+    },
+    {
+      "weak_phrase": "Leads to",
+      "better_upgrade": "Results in / Gives rise to",
+      "example": "Poor diet gives rise to numerous health complications."
+    }
+  ],
+  "sentence_frames": [
+    "The primary catalyst for [Noun Phrase] is [Noun Phrase].",
+    "Consequently, this phenomenon has resulted in [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The severe flooding in the region stems directly from rampant deforestation. As a direct result of losing tree cover, the soil can no longer absorb heavy rainfall, which gives rise to catastrophic landslides.",
+    "speaking_example": "I think a lot of stress nowadays stems from social media. People constantly compare themselves to others online, and that has a massive knock-on effect on their self-esteem."
+  },
+  "common_mistakes": [
+    "Confusing 'affect' (verb) and 'effect' (noun). (e.g., 'It had a bad affect' -> 'It had a bad effect')."
+  ],
+  "quiz": [
+    {
+      "question": "Which phrasal verb means 'to be caused by'?",
+      "options": {
+        "A": "Give rise to",
+        "B": "Stem from",
+        "C": "Lead to",
+        "D": "Result in"
+      },
+      "correct_answer": "B",
+      "explanation": "'Stem from' points backward to the cause (e.g., The problem stems from poverty). The others point forward to the effect."
+    }
+  ]
+}

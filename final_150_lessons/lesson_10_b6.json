@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_10",
+  "title": "How to Use Linking Words Naturally",
+  "writing_skill_goal": "Learn how to use cohesive devices effectively without sounding mechanical or repetitive.",
+  "band_descriptor_link": [
+    "Coherence",
+    "Lexical"
+  ],
+  "core_writing_framework": "Linking words (transitions) act as signposts for the reader. They should be used to show the relationship between ideas (addition, contrast, cause/effect), not just inserted randomly at the start of every sentence.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "First, the internet is useful. Second, it is cheap. Third, it is fast. Finally, it helps people.",
+      "improved_version": "The primary benefit of the internet is its utility in daily life. Furthermore, it provides an incredibly cost-effective and rapid means of communication, which ultimately improves global connectivity.",
+      "explanation": "The weak version relies on basic, repetitive numbering. The improved version uses a mix of conjunctions ('and') and natural transitions ('Furthermore', 'ultimately') to blend the ideas together smoothly."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify the Relationship",
+      "content": "Before using a linking word, ask yourself: Am I adding information? Contrasting? Showing a result? Choose the word that fits that specific relationship."
+    },
+    {
+      "step": "Vary the Position",
+      "content": "Don't always put linking words at the very beginning of the sentence. For example, instead of 'However, this is expensive,' try 'This, however, is expensive.' This demonstrates better sentence variety."
+    },
+    {
+      "step": "Use Conjunctions and Referencing",
+      "content": "Simple conjunctions like 'and', 'but', and 'because' are often more natural than heavy transitions like 'Moreover' or 'Nevertheless'. Combine these with referencing words (this, these, it) for seamless cohesion."
+    }
+  ],
+  "common_mistakes": [
+    "Using informal linking words in Task 2 (e.g., 'Besides', 'Anyway', 'Plus').",
+    "Over-using transition words, making the essay sound 'mechanical' (a common reason for being stuck at a Band 6 in Coherence).",
+    "Confusing the meaning of linking words (e.g., using 'Therefore' to add a point, instead of showing a result)."
+  ],
+  "original_ielts_prompt": "Some people believe that unpaid community service should be a compulsory part of high school programmes. To what extent do you agree or disagree?",
+  "model_micro_answer": "Mandatory community service can significantly build character in teenagers. By working with local charities, students develop empathy and a sense of social responsibility. Consequently, they are better prepared to be active, compassionate members of society. In contrast, those who focus solely on academics might lack these essential interpersonal skills.",
+  "image_url": null,
+  "image_prompt_fallback": "A road sign with multiple arrows pointing in different directions, labeled with linking words like 'However', 'Furthermore', and 'Therefore', guiding a path through text.",
+  "quiz": [
+    {
+      "question": "Which of the following sentences uses a linking word most naturally?",
+      "options": {
+        "A": "Moreover, I like apples. Furthermore, I like oranges.",
+        "B": "The project was highly ambitious; unfortunately, it lacked the necessary funding to succeed.",
+        "C": "Therefore, it is raining. Consequently, I am wet.",
+        "D": "In conclusion, fast food is bad. To sum up, we should not eat it."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B uses 'unfortunately' perfectly to show contrast/concession in a compound-complex structure. The other options overuse heavy transitions for very simple ideas, which sounds unnatural."
+    }
+  ]
+}

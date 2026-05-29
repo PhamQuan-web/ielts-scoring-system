@@ -1,0 +1,104 @@
+{
+  "lesson_id": "vocab_core_07",
+  "title": "Core Vocabulary: Government & Public Services",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Essential vocabulary for discussing state responsibilities, taxation, infrastructure, and public policy."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃə/",
+      "cefr_level": "B2",
+      "meaning": "The basic physical and organizational structures and facilities (e.g., buildings, roads, power supplies) needed for the operation of a society.",
+      "example": "The government has pledged to invest heavily in modernizing the country's aging infrastructure.",
+      "image_url": "https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A complex highway interchange with multiple levels of roads, bridges, and traffic flowing smoothly."
+    },
+    {
+      "word": "Allocate",
+      "phonetic": "/ˈæləkeɪt/",
+      "cefr_level": "C1",
+      "meaning": "Distribute resources or duties for a particular purpose.",
+      "example": "A significant portion of the state budget must be allocated to public education.",
+      "image_url": null,
+      "image_prompt_fallback": "A pie chart showing government spending being divided into different sectors like health, education, and defense."
+    },
+    {
+      "word": "Bureaucracy",
+      "phonetic": "/bjʊəˈrɒkrəsi/",
+      "cefr_level": "C1",
+      "meaning": "A system of government or business in which most of the important decisions are taken by state officials rather than by elected representatives; excessively complicated administrative procedure.",
+      "example": "Many small business owners complain about the endless bureaucracy involved in getting a permit.",
+      "image_url": null,
+      "image_prompt_fallback": "A massive stack of paperwork and forms sitting on a messy desk with a frustrated worker behind it."
+    },
+    {
+      "word": "Subsidize",
+      "phonetic": "/ˈsʌbsɪdaɪz/",
+      "cefr_level": "C1",
+      "meaning": "Support an organization or activity financially.",
+      "example": "To encourage the use of public transport, the local council subsidizes bus fares for students.",
+      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A person handing cash over a counter or paying digitally for a bus ticket at a heavily discounted rate."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Implement policies",
+      "meaning": "To put a decision or plan into effect.",
+      "example": "The new administration plans to implement policies that reduce carbon emissions."
+    },
+    {
+      "collocation": "Levy taxes",
+      "meaning": "To impose or collect a tax.",
+      "example": "Governments levy taxes on citizens to fund public services like healthcare and roads."
+    },
+    {
+      "collocation": "Public expenditure",
+      "meaning": "Money spent by the government on public services.",
+      "example": "There has been a sharp debate over whether to increase public expenditure during the recession."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Make a rule",
+      "better_upgrade": "Enact legislation",
+      "example": "The parliament voted to enact legislation restricting the sale of tobacco to minors."
+    },
+    {
+      "weak_phrase": "Give money to",
+      "better_upgrade": "Provide funding for",
+      "example": "The state must provide funding for low-income housing projects."
+    }
+  ],
+  "sentence_frames": [
+    "It is the primary responsibility of the government to [Verb Phrase].",
+    "By [Gerund Phrase], authorities can effectively address the issue of [Noun Phrase].",
+    "A common criticism of current public policy is that it fails to [Verb Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "It is often argued that the government should be solely responsible for providing free healthcare. While private clinics have a role to play, I believe it is the primary responsibility of the state to allocate sufficient tax revenues to subsidize public medical services, ensuring equal access for all citizens.",
+    "speaking_example": "Well, in my country, the public transport infrastructure is quite well-developed because the government heavily subsidizes it. However, the bureaucracy involved in getting anything built or repaired can be extremely frustrating and slow."
+  },
+  "common_mistakes": [
+    "Using 'governments' unnecessarily when referring to the concept of the state. (e.g., 'Governments should help the poor' -> 'The government should help the poor').",
+    "Confusing 'politics' (the activities of government) with 'policy' (a specific plan of action). (e.g., 'The government made a new politics' -> 'The government implemented a new policy')."
+  ],
+  "quiz": [
+    {
+      "question": "Which word describes the complex administrative procedures often associated with government departments?",
+      "options": {
+        "A": "Infrastructure",
+        "B": "Bureaucracy",
+        "C": "Expenditure",
+        "D": "Legislation"
+      },
+      "correct_answer": "B",
+      "explanation": "'Bureaucracy' refers to the excessively complicated administrative procedures or the officials who run government departments. 'Infrastructure' means physical facilities, 'expenditure' is spending, and 'legislation' refers to laws."
+    }
+  ]
+}

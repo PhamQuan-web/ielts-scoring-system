@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_22",
+  "title": "Bar Charts, Pie Charts and Comparisons",
+  "writing_skill_goal": "Learn how to describe and compare static data across different categories using comparative and superlative structures.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Grammar"
+  ],
+  "core_writing_framework": "For charts without dates (static data), you cannot use trend language like 'increased'. Instead, you must use comparison language: higher than, lower than, the most, the least, compared to.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Apples are 50%. Bananas are 20%. Oranges are 10%. Apples are big.",
+      "improved_version": "Apples accounted for the largest proportion of sales at 50%, which was more than double the figure for bananas (20%). Meanwhile, oranges represented the smallest share at merely 10%.",
+      "explanation": "The weak version simply lists data like a robot. The improved version synthesizes the data by explicitly comparing the categories ('largest proportion', 'more than double', 'smallest share')."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify the Highest and Lowest",
+      "content": "Always point out the maximum and minimum figures. Use superlatives: 'the most significant', 'the lowest percentage', 'accounted for the largest share'."
+    },
+    {
+      "step": "Group Similar Data",
+      "content": "If two bars or pie slices are almost the same size, group them together in one sentence. 'Both category A and category B stood at approximately 15%.'."
+    },
+    {
+      "step": "Use Multipliers and Fractions",
+      "content": "To score higher in Grammar and Lexical Resource, describe differences using fractions or multipliers: 'was twice as high as', 'was exactly half of', 'accounted for a third of'."
+    }
+  ],
+  "common_mistakes": [
+    "Using time-based words ('increased', 'fell') on a chart that only shows one single year. Static charts have no movement.",
+    "Failing to make any comparisons at all, and just writing a list of every number.",
+    "Repeating 'The percentage of...' at the start of every sentence."
+  ],
+  "original_ielts_prompt": "The pie charts below show the primary reasons people migrated to and from the UK in 2007.",
+  "model_micro_answer": "Employment was by far the most common reason for immigration, cited by 30% of arrivals. This figure was exactly double the proportion of those who immigrated for formal study (15%).",
+  "image_url": null,
+  "image_prompt_fallback": "A pie chart and a bar chart side-by-side, with comparative words like 'larger than', 'the most', and 'double' hovering over the different sections.",
+  "quiz": [
+    {
+      "question": "If a bar chart only shows data for the year 2020, which of the following sentences is INCORRECT?",
+      "options": {
+        "A": "Car sales were significantly higher than bicycle sales.",
+        "B": "Car sales increased dramatically to 50%.",
+        "C": "Cars accounted for the largest proportion of sales.",
+        "D": "The figure for bicycles was half that of cars."
+      },
+      "correct_answer": "B",
+      "explanation": "Because the chart only shows one year, there is no passage of time. Therefore, nothing can 'increase' or 'decrease'. You must use comparative language, not trend language."
+    }
+  ]
+}

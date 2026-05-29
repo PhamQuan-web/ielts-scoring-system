@@ -1,0 +1,70 @@
+{
+  "lesson_id": "grammar_15",
+  "title": "Grammar for Task 1 Trends",
+  "grammar_goal": "Maxmizes Task 1 GRA by teaching how to alternate seamlessly between Verb+Adverb structures and Adjective+Noun structures to describe data trends.",
+  "core_rule": {
+    "formula": "Structure 1: Subject + Verb + Adverb (e.g., Sales increased significantly)\nStructure 2: There was a + Adjective + Noun + in + Subject (e.g., There was a significant increase in sales)",
+    "usage": "To get a high score in Task 1, you must describe the same type of data movement using different grammatical forms to prove flexibility.",
+    "signals": [
+      "increased steadily",
+      "a dramatic fall",
+      "fluctuated wildly",
+      "a slight dip",
+      "remained constant"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 1 (Line graphs, Bar charts, Pie charts, Tables): When describing upward, downward, or stable trends over time.",
+    "Task 1: When comparing two different trends in the same sentence (e.g., 'While X rose sharply, Y experienced a slight decline.')."
+  ],
+  "when_not_to_use": [
+    "Do not use these structures for Task 1 Maps or Processes, as they do not show numerical trends over time.",
+    "Do not use overly emotional adverbs like 'terribly', 'happily', or 'sadly' (e.g., 'Sales dropped terribly'). Keep it objective."
+  ],
+  "ielts_examples": {
+    "writing": "Between 2000 and 2010, the proportion of elderly citizens rose gradually, whereas the birth rate experienced a dramatic decline.",
+    "speaking": "(Occasionally used in Part 3 to describe social changes: 'The cost of living has increased significantly over the last decade.')"
+  },
+  "repair_section": [
+    {
+      "wrong": "The number of students was increased fastly.",
+      "correct": "The number of students increased rapidly.",
+      "better_band_upgrade": "The student enrollment figures experienced a rapid escalation."
+    },
+    {
+      "wrong": "There had a big drop in the price of oil.",
+      "correct": "There was a sharp drop in the price of oil.",
+      "better_band_upgrade": "The price of oil underwent a precipitous decline."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using 'was/were' before a main verb (e.g., 'Prices were increased' instead of 'Prices increased' - many trend verbs are intransitive and shouldn't be passive).",
+    "Inventing words like 'fastly' (the adverb of fast is fast, or use rapidly/quickly).",
+    "Using 'There had' instead of 'There was' (e.g., 'There had an increase')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "The unemployment rate was dropped slightly in 2015.",
+      "correct_sentence": "The unemployment rate dropped slightly in 2015."
+    },
+    {
+      "wrong_sentence": "There was a dramatically rise in coffee consumption.",
+      "correct_sentence": "There was a dramatic rise in coffee consumption."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A glowing line graph trending upwards on a dark background, representing financial or data trends.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly shifts 'Revenue fell steeply' into a Noun phrase structure?",
+      "options": {
+        "A": "There was a fell steeply in revenue.",
+        "B": "There was a steep fall in revenue.",
+        "C": "There had a steep fall in revenue.",
+        "D": "The revenue had a steep falling."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B correctly transforms the verb 'fell' into the noun 'fall', and the adverb 'steeply' into the adjective 'steep', fitting the 'There was a + Adjective + Noun' structure perfectly."
+    }
+  ]
+}

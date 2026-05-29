@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_10",
+  "title": "Exam Mindset and Avoiding Panic",
+  "strategy_problem": "Many capable students score 0.5 to 1.0 band lower than their actual ability simply because of test anxiety. They freeze when they hear a word they don't know in Listening, panic if they get an unfamiliar topic in Speaking Part 2, or experience mental blocks during Writing.",
+  "core_framework": [
+    "1. The 'Missed Item' Protocol (Listening): Accept that you will miss answers. When you realize you've missed one, drop it immediately. Do not think about it. If you dwell on question 14, you will definitely miss questions 15 and 16.",
+    "2. The 'Bridging' Technique (Speaking): If you get a bizarre Part 2 topic (e.g., 'Describe a time you saw a wild animal'), bridge it to something you know. 'I haven't seen many wild animals in nature, but I did go to the city zoo last year, which was fascinating. Let me tell you about the lions there...'",
+    "3. The 'Brain Dump' (Writing): If you freeze in Writing, stop trying to write the perfect sentence. Turn over the paper and do a 60-second 'brain dump'. Write down single words, messy ideas, and anything related to the topic just to get the cognitive wheels turning again.",
+    "4. Physiological Control: When panic sets in, your breathing becomes shallow, which starves the brain of oxygen and increases anxiety. Use the 4-7-8 breathing technique (inhale 4s, hold 7s, exhale 8s) right before you walk into the speaking room."
+  ],
+  "ielts_scenario": "In Listening Part 3, a student loses track of the audio during a complex multiple-choice question. They panic and desperately try to guess the answer based on the few words they caught. While doing this, the audio moves on to the next three questions. By the time they refocus, they have missed four questions instead of just one.",
+  "do_dont_table": {
+    "do": [
+      "Practice the 'let it go' mindset during Listening mocks.",
+      "Have a pre-planned filler phrase for Speaking if you need 3 seconds to think (e.g., 'That's a really interesting perspective, I suppose...').",
+      "Use deep breathing exercises before the test begins."
+    ],
+    "dont": [
+      "Stop listening to the audio to worry about a missed answer.",
+      "Stay silent in Speaking if you don't have a perfect answer; bridge to a related topic.",
+      "Stare at a blank page in Writing hoping inspiration will strike; force yourself to brainstorm on paper."
+    ]
+  },
+  "example_application": "If the Speaking examiner asks, 'How has the agricultural industry changed in your country?' and you know nothing about farming, say: 'To be honest, I'm not an expert on agriculture as I've always lived in the city. However, from what I read in the news, technology like drones is becoming much more common on farms...'",
+  "personal_action_step": "During your next Listening practice test, intentionally skip one question in the middle of Part 2. Force yourself to keep listening and answer the subsequent questions without looking back at the skipped one.",
+  "image_url": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A person taking a deep breath, eyes closed, sitting at a desk with an exam paper in front of them, projecting a sense of calm and focus.",
+  "quiz": [
+    {
+      "question": "What is the most effective strategy if you miss an answer during the IELTS Listening test?",
+      "options": {
+        "A": "Stop listening and try to figure out the answer based on context clues.",
+        "B": "Immediately abandon the missed question and refocus completely on listening for the next one.",
+        "C": "Raise your hand and ask the invigilator to pause the audio.",
+        "D": "Look at the person next to you to see what they wrote."
+      },
+      "correct_answer": "B",
+      "explanation": "The audio does not stop. If you spend time worrying about one missed answer, you will inevitably lose focus and miss the subsequent answers as well. You must let it go."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_17_distractors",
+  "title": "Dealing with Distractors",
+  "skill_goal": "Learn how to identify when speakers correct themselves or change their minds to avoid writing down the wrong answer.",
+  "question_type_strategy": "A distractor is incorrect information given to test if you are listening carefully. The speaker will often say a possible answer, but then immediately correct themselves or disagree with it.",
+  "how_to_recognise": "Listen for contrast words: 'but', 'however', 'no, wait', 'actually', 'instead', 'on second thought'.",
+  "step_by_step_method": [
+    "1. Do not write down the very first answer you hear immediately. Keep your pencil hovering.",
+    "2. Listen for the next 5 seconds to see if the speaker changes their mind.",
+    "3. If they say a contrast word, cross out the first answer in your head.",
+    "4. Wait for the final, confirmed statement.",
+    "5. Pay attention to who is speaking. In Part 3, one student might suggest an answer, but the professor might say 'I don't think that's correct'."
+  ],
+  "trap_example": "The 'Self-Correction' Trap. Audio: 'I'd like to book a flight for the 14th of June. Oh, wait, my meeting was moved, make that the 16th.' If you stop listening after '14th', you get it wrong.",
+  "micro_practice_example": "Question: Cost of the ticket. \nAudio: 'Normally tickets are $50, but because you are a student, we can offer it for $35.' \n(The distractor is $50. The correct answer is 35).",
+  "review_method": "Whenever you fall for a distractor in a practice test, read the transcript to find the exact word the speaker used to change their mind (e.g., 'actually').",
+  "image_url": null,
+  "image_prompt_fallback": "An image of a person writing a number '14' with a pencil, but an eraser is aggressively rubbing it out, while another hand writes '16', illustrating self-correction.",
+  "quiz": [
+    {
+      "question": "Why is it dangerous to write down the very first number or name you hear in the IELTS listening test?",
+      "options": {
+        "A": "Because the audio might be too quiet.",
+        "B": "Because speakers frequently use distractors, stating an incorrect fact before correcting themselves with phrases like 'No, actually...'.",
+        "C": "Because the first thing they say is always a greeting.",
+        "D": "Because you must wait until the end of the test to write anything."
+      },
+      "correct_answer": "B",
+      "explanation": "Distractors are designed specifically to catch students who panic and write down the first relevant word they hear without listening to the full context."
+    }
+  ]
+}

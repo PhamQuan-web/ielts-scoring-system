@@ -1,0 +1,32 @@
+{
+  "lesson_id": "listening_19_map_diagram",
+  "title": "Map and Diagram Labelling",
+  "skill_goal": "Learn how to follow spatial directions and identify locations on a map using specific directional vocabulary.",
+  "question_type_strategy": "This task requires you to visualize movement. You must locate the starting point on the map immediately. The audio will then guide you from that point using directional language. If you get lost, do not panic; listen for a known landmark to find your place again.",
+  "how_to_recognise": "You will see a map of a town, building, or a diagram of a machine, with letters (A, B, C) marking specific parts. You must match the question items to the letters.",
+  "step_by_step_method": [
+    "1. Read the instructions. Are you matching letters, or writing words?",
+    "2. Locate the starting point. It often says 'You are here' or 'Entrance'.",
+    "3. Scan the map and familiarize yourself with the named landmarks (e.g., 'Library', 'Lake').",
+    "4. Note the compass points (North, South, East, West) if they are provided.",
+    "5. Listen carefully for prepositions of place: 'next to', 'opposite', 'just past the', 'on your left'."
+  ],
+  "trap_example": "The 'Compass vs Left/Right' Trap. If the map has a compass rose, the speaker will likely use 'North/South' rather than 'Top/Bottom'. Conversely, if there is no compass, they will use 'on the left/right'.",
+  "micro_practice_example": "Map shows: Entrance at the bottom. A path goes straight, with a Cafe on the left and a Gift Shop on the right. \nAudio: 'Go through the entrance and walk straight ahead. *Just past* the cafe on your left, you'll see the restrooms.' \n(The answer is not the cafe, but the building *past* it).",
+  "review_method": "Draw a simple map of your house or street. Record yourself giving directions from the front door to your bedroom, using IELTS vocabulary like 'adjacent to' and 'opposite'.",
+  "image_url": null,
+  "image_prompt_fallback": "A line drawing of a park map with a large red 'X' saying 'You Are Here' at the bottom entrance, and dashed lines showing a path moving North past a pond.",
+  "quiz": [
+    {
+      "question": "What is the most important thing to do before the audio starts for a Map Labelling task?",
+      "options": {
+        "A": "Translate all the building names into your native language.",
+        "B": "Find the starting point (e.g., 'Entrance' or 'You are here').",
+        "C": "Guess the answers randomly.",
+        "D": "Look at the next section of the test."
+      },
+      "correct_answer": "B",
+      "explanation": "If you do not know where the speaker is starting from, all their directions ('turn left', 'go straight') will be meaningless and you will be completely lost."
+    }
+  ]
+}

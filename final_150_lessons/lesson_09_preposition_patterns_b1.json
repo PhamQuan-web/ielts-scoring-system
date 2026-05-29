@@ -1,0 +1,116 @@
+{
+  "lesson_id": "vocab_colloc_09",
+  "title": "Preposition Patterns in IELTS",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Mastering tricky verb+preposition and adjective+preposition combinations to avoid common grammatical errors."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Detrimental",
+      "phonetic": "/ˌdet.rɪˈmen.təl/",
+      "cefr_level": "C1",
+      "meaning": "Causing harm or damage.",
+      "example": "These chemicals have a detrimental effect on the environment.",
+      "image_url": null,
+      "image_prompt_fallback": "A dead, withered plant surrounded by toxic-looking soil, illustrating harmful effects."
+    },
+    {
+      "word": "Conducive",
+      "phonetic": "/kənˈdʒuː.sɪv/",
+      "cefr_level": "C2",
+      "meaning": "Providing the right conditions for something good to happen or exist.",
+      "example": "A quiet room is conducive to studying.",
+      "image_url": null,
+      "image_prompt_fallback": "A perfectly organized, sunlit study desk with open books, representing an ideal environment for learning."
+    },
+    {
+      "word": "Synonymous",
+      "phonetic": "/sɪˈnɒn.ɪ.məs/",
+      "cefr_level": "C1",
+      "meaning": "Having the same or nearly the same meaning; closely associated with.",
+      "example": "Wealth is not necessarily synonymous with happiness.",
+      "image_url": null,
+      "image_prompt_fallback": "Two interlocking puzzle pieces with equal signs on them, showing two concepts that are equivalent."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Detrimental to",
+      "meaning": "Harmful to something or someone.",
+      "example": "Excessive screen time is detrimental to children's sleep patterns."
+    },
+    {
+      "collocation": "Conducive to",
+      "meaning": "Favorable for making something happen.",
+      "example": "The harsh climate is not conducive to agriculture."
+    },
+    {
+      "collocation": "Synonymous with",
+      "meaning": "Closely associated with or meaning the same as.",
+      "example": "In the 1990s, the brand became synonymous with quality."
+    },
+    {
+      "collocation": "Attributed to",
+      "meaning": "Regarded as being caused by someone or something.",
+      "example": "The fall in crime rates can be attributed to increased police presence."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Bad for",
+      "better_upgrade": "Detrimental to",
+      "example": "Smoking is highly detrimental to cardiovascular health."
+    },
+    {
+      "weak_phrase": "Good for",
+      "better_upgrade": "Conducive to / Beneficial for",
+      "example": "Regular feedback is highly conducive to employee growth."
+    },
+    {
+      "weak_phrase": "Caused by",
+      "better_upgrade": "Attributed to",
+      "example": "The recent economic slump can be largely attributed to global instability."
+    }
+  ],
+  "sentence_frames": [
+    "The decline in [A] can largely be attributed to [B].",
+    "Such a harsh environment is clearly not conducive to...",
+    "While some believe [A] is synonymous with [B], the reality is far more complex."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The sudden increase in childhood obesity can largely be attributed to a sedentary lifestyle, which is highly detrimental to long-term health.",
+    "speaking_example": "I'd say my hometown isn't really conducive to cycling. The roads are narrow and there are no dedicated bike lanes, which is a bit detrimental to public safety."
+  },
+  "common_mistakes": [
+    "Using 'detrimental for' instead of the correct 'detrimental to'.",
+    "Writing 'attributed with' instead of 'attributed to' when explaining a cause."
+  ],
+  "quiz": [
+    {
+      "question": "Which preposition correctly follows the adjective 'conducive'?",
+      "options": {
+        "A": "For",
+        "B": "With",
+        "C": "To",
+        "D": "In"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct pattern is 'conducive to' (e.g., conducive to learning)."
+    },
+    {
+      "question": "Complete the sentence: 'His success can be largely attributed _______ his relentless work ethic.'",
+      "options": {
+        "A": "by",
+        "B": "to",
+        "C": "for",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "explanation": "We say something is 'attributed to' a cause."
+    }
+  ]
+}

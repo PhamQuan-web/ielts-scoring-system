@@ -1,0 +1,61 @@
+{
+  "lesson_id": "grammar_04",
+  "title": "Present Perfect Continuous for Ongoing Actions",
+  "grammar_goal": "Shows high-level grammatical range in Speaking Part 1/2. Demonstrates the ability to distinguish between completed results and ongoing progress.",
+  "core_rule": {
+    "formula": "S + have/has + been + V-ing + O",
+    "usage": "Used to emphasize the duration of an action that started in the past and is still continuing, or an action that has just finished but has a visible present result.",
+    "signals": [
+      "for + [duration]",
+      "since + [point in time]",
+      "recently",
+      "lately",
+      "all day",
+      "all week"
+    ]
+  },
+  "when_to_use": [
+    "Speaking Part 1: Describing how long you've been doing a hobby or living somewhere (e.g., 'I've been studying English for 5 years.').",
+    "Speaking Part 2: Describing a long-term project, hobby, or effort leading up to the present."
+  ],
+  "when_not_to_use": [
+    "Do not use with stative verbs (e.g., know, own, like). Use Present Perfect instead ('I have known him for years', not 'I have been knowing him').",
+    "Do not use when emphasizing the quantity or number of things finished (e.g., 'I have written 3 essays', not 'I have been writing 3 essays')."
+  ],
+  "ielts_examples": {
+    "writing": "Governments have been trying to solve the issue of air pollution for decades, yet little progress has been made.",
+    "speaking": "I've been preparing for the IELTS exam for the last three months, so I've been quite busy lately."
+  },
+  "repair_section": [
+    {
+      "wrong": "I am waiting for you since 2 PM.",
+      "correct": "I have been waiting for you since 2 PM.",
+      "better_band_upgrade": "I have been waiting here patiently since 2 PM."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Using Present Continuous instead of Present Perfect Continuous for actions that started in the past (e.g., 'I am learning English for 3 years').",
+    "Incorrectly using it with state verbs."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "She has been knowing him since childhood.",
+      "correct_sentence": "She has known him since childhood."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A high-quality educational illustration. A person is sitting at a desk surrounded by books, looking tired but focused. A clock shows the passage of time. Text overlay says 'Present Perfect Continuous: Focus on Duration'.",
+  "quiz": [
+    {
+      "question": "Which sentence is correct for describing an ongoing action?",
+      "options": {
+        "A": "I am working on this project since Monday.",
+        "B": "I work on this project since Monday.",
+        "C": "I have been working on this project since Monday.",
+        "D": "I have worked on this project since Monday."
+      },
+      "correct_answer": "C",
+      "explanation": "When an action starts in the past and continues to the present with an emphasis on duration ('since Monday'), Present Perfect Continuous is the most natural choice."
+    }
+  ]
+}

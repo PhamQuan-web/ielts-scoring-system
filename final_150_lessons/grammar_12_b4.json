@@ -1,0 +1,78 @@
+{
+  "lesson_id": "grammar_12",
+  "title": "Punctuation for IELTS Writing",
+  "grammar_goal": "Ensures clarity and Coherence by teaching the strict rules of commas, semicolons, and colons. Poor punctuation can lower a GRA score significantly by causing run-on sentences or fragments.",
+  "core_rule": {
+    "formula": "Independent Clause ; Independent Clause / OR / Independent Clause , Coordinating Conjunction + Independent Clause",
+    "usage": "Use commas (,) after introductory phrases or clauses, and before coordinating conjunctions linking independent clauses. Use semicolons (;) to link closely related independent clauses without a conjunction. Use colons (:) to introduce a list or an explanation.",
+    "signals": [
+      ",",
+      ";",
+      ":",
+      ".",
+      "However,",
+      "Therefore,"
+    ]
+  },
+  "when_to_use": [
+    "Task 2: Using commas correctly after transition words (e.g., 'Furthermore, it is clear...').",
+    "Task 2: Using a semicolon to connect two closely related ideas elegantly (e.g., 'Some people prefer cities; others prefer the countryside.').",
+    "Task 1: Using commas in large numbers (e.g., 1,000,000) and to separate items in a list."
+  ],
+  "when_not_to_use": [
+    "Do not use a comma to connect two full independent clauses without a conjunction (this is a 'comma splice').",
+    "Do not use an exclamation mark (!) in academic IELTS writing.",
+    "Avoid using semicolons if you are unsure of the grammar; two separate sentences with periods are safer."
+  ],
+  "ielts_examples": {
+    "writing": "In conclusion, while there are significant drawbacks to urban living, the economic benefits often outweigh the negatives.",
+    "speaking": "(N/A - Punctuation is written, though pauses act as verbal punctuation.)"
+  },
+  "repair_section": [
+    {
+      "wrong": "The population increased it reached 5 million.",
+      "correct": "The population increased; it reached 5 million.",
+      "better_band_upgrade": "The population experienced a surge, ultimately reaching 5 million."
+    },
+    {
+      "wrong": "However the government should take action.",
+      "correct": "However, the government should take action.",
+      "better_band_upgrade": "Nevertheless, it is imperative that the government intervenes."
+    },
+    {
+      "wrong": "Many students study abroad, this is because they want a better education.",
+      "correct": "Many students study abroad; this is because they want a better education.",
+      "better_band_upgrade": "A significant number of students opt to study abroad, primarily seeking superior educational opportunities."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Comma Splices: Joining two complete sentences with just a comma instead of a period or semicolon.",
+    "Missing Commas after transition words (e.g., writing 'In addition people...' instead of 'In addition, people...').",
+    "Using periods before subordinate clauses, creating sentence fragments (e.g., 'He failed the exam. Because he didn't study.')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I like apples she likes oranges.",
+      "correct_sentence": "I like apples; she likes oranges."
+    },
+    {
+      "wrong_sentence": "First of all we need to consider the cost.",
+      "correct_sentence": "First of all, we need to consider the cost."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A close-up of a typewriter with the comma and semicolon keys highlighted, representing the precise mechanics of written language.",
+  "quiz": [
+    {
+      "question": "Which sentence contains a 'comma splice' error?",
+      "options": {
+        "A": "Although it was cold, we went for a walk.",
+        "B": "It was cold, so we stayed inside.",
+        "C": "It was cold, we stayed inside.",
+        "D": "Because it was cold, we stayed inside."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C is a comma splice because it connects two independent clauses ('It was cold' and 'we stayed inside') with only a comma. It requires a conjunction like 'so', or a semicolon."
+    }
+  ]
+}

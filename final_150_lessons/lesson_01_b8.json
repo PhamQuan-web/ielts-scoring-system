@@ -1,0 +1,32 @@
+{
+  "lesson_id": "reading_01_question_types",
+  "title": "IELTS Reading Question Types Overview",
+  "skill_goal": "Understand the 14 different question types in the IELTS Reading test and know exactly what skills each type tests, focusing on which questions follow the chronological order of the text.",
+  "question_type_strategy": "The IELTS Reading test features 14 specific task types. Broadly, they fall into three categories: 'Order' questions (answers appear chronologically in the text, like Multiple Choice or True/False/Not Given), 'Non-Order' questions (like Matching Headings or Matching Information, where you must scan the whole text), and 'Completion' questions (like Summaries or Flowcharts, which may be localized to one paragraph). Recognizing the type immediately dictates whether you should skim, scan, or read for deep detail.",
+  "how_to_recognise": "Always read the instructions carefully. 'Choose NO MORE THAN TWO WORDS' indicates a completion task with a strict word limit. 'Do the following statements agree with the views of the writer...' indicates a YES/NO/NOT GIVEN task, which focuses on opinions rather than facts.",
+  "step_by_step_method": [
+    "1. Read the main title, subtitle, and any accompanying graphs to grasp the overall topic within 10 seconds.",
+    "2. Immediately skip to the first group of questions. Identify the question type (e.g., Matching Headings).",
+    "3. Determine the 'order' status: Will these answers appear in order? If it is a matching task, the answer is NO.",
+    "4. Decide on your reading strategy: If it's a detail question (e.g., Short Answer), scan for keywords. If it's a global question (e.g., Matching Headings), skim the first sentence of every paragraph.",
+    "5. Group your questions: Try to keep a keyword from a detail question in your mind while skimming for a global question to save time."
+  ],
+  "trap_example": "The 'Order Assumption' Trap: Many students assume all questions follow the text. If you are doing a 'Matching Information to Paragraphs' task and expect the answer to question 1 to be in paragraph A, you will waste immense amounts of time.",
+  "micro_practice_example": "The history of the bicycle is fascinating. Early models, like the penny-farthing, were dangerous due to their disproportionately large front wheel. Later, the 'safety bicycle' revolutionised transport with two equal-sized wheels and a chain drive. (Task: Identify if this is a chronological description or a comparison of safety features. Answer: It is chronological history leading to safety improvements).",
+  "review_method": "When reviewing mistakes, create a tally chart of the question types you get wrong most often. If you consistently fail T/F/NG, you need to study logic and inferences. If you fail Summary Completion, you need to work on scanning and grammar matching.",
+  "image_url": null,
+  "image_prompt_fallback": "A highly detailed, well-organized study desk showing an IELTS reading test paper. The paper has 3 different sections highlighted in neon yellow, pink, and green, demonstrating different question types. Soft natural lighting, 4k, photorealistic.",
+  "quiz": [
+    {
+      "question": "Which of the following question types usually does NOT follow the chronological order of information in the reading passage?",
+      "options": {
+        "A": "True / False / Not Given",
+        "B": "Multiple Choice Questions",
+        "C": "Matching Information to Paragraphs",
+        "D": "Sentence Completion"
+      },
+      "correct_answer": "C",
+      "explanation": "Matching questions (Information, Headings, Features) require you to search the whole text and do not follow the chronological order of the passage. T/F/NG and Multiple Choice almost always follow the text's order."
+    }
+  ]
+}

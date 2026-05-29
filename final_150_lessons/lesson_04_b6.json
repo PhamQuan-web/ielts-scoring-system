@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_04",
+  "title": "How to Plan Before Writing",
+  "writing_skill_goal": "Learn the crucial 5-minute planning strategy to ensure a coherent and well-structured essay.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Effective planning involves three steps: 1. Analysing the prompt. 2. Brainstorming ideas. 3. Structuring the paragraphs. Never start writing immediately.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Starting to write immediately: 'I think that the environment is very important...'",
+      "improved_version": "Spending 5 minutes to outline: P1: Introduction. P2: Problem (Pollution). P3: Solution (Electric cars). P4: Conclusion.",
+      "explanation": "Writing without a plan often leads to off-topic essays and a lack of logical progression, severely limiting the Task Response and Coherence scores."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Step 1: Analyse the Prompt (1-2 mins)",
+      "content": "Identify the exact topic and the specific instruction (e.g., 'Discuss both views' vs. 'Do you agree?'). Underline keywords."
+    },
+    {
+      "step": "Step 2: Brainstorm Ideas (2 mins)",
+      "content": "Jot down 2 or 3 main points for each body paragraph. Choose the easiest ideas to explain in English, not necessarily the most complex concepts."
+    },
+    {
+      "step": "Step 3: Structure the Essay (1 min)",
+      "content": "Decide on your 4-paragraph structure: Introduction, Body Paragraph 1, Body Paragraph 2, Conclusion. Briefly note what each paragraph will cover."
+    }
+  ],
+  "common_mistakes": [
+    "Skipping the planning phase to save time.",
+    "Choosing ideas that are too complicated to express accurately in English.",
+    "Changing your main opinion halfway through the essay because you didn't plan ahead."
+  ],
+  "original_ielts_prompt": "Some people think that university education should be free for everyone. Others think that students should pay for their higher education. Discuss both views and give your opinion.",
+  "model_micro_answer": "Plan: \nIntro: Paraphrase prompt, state opinion (partially agree).\nBP1 (View 1): Free education -> equal opportunity, less debt.\nBP2 (View 2): Paid education -> better facilities, students value it more.\nConclusion: Summarise and reiterate opinion.",
+  "image_url": null,
+  "image_prompt_fallback": "A student's messy but organized notebook page showing an essay outline with arrows and bullet points, titled '5-Minute IELTS Plan'.",
+  "quiz": [
+    {
+      "question": "Why is it important to choose the 'easiest' ideas during brainstorming rather than the most impressive ones?",
+      "options": {
+        "A": "Because examiners prefer simple concepts.",
+        "B": "Because it allows you to write faster and focus on accurate grammar and vocabulary.",
+        "C": "Because impressive ideas require more than 250 words.",
+        "D": "Because you don't need a high score in Lexical Resource."
+      },
+      "correct_answer": "B",
+      "explanation": "IELTS is a language test, not a knowledge test. Complex ideas often lead to complicated sentence structures where grammatical errors are more likely. Simple, clear ideas allow you to demonstrate accurate language."
+    }
+  ]
+}

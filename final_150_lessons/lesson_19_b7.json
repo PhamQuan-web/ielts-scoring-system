@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_19",
+  "title": "Safe Idioms and Natural Expressions",
+  "speaking_skill_goal": "Part 1, 2, or 3",
+  "answer_framework": "To achieve a Band 7 or higher in Lexical Resource, the grading criteria explicitly states you must use 'some less common and idiomatic vocabulary'. However, forcing outdated idioms ('It's raining cats and dogs') into your answers will lower your score because it sounds unnatural.\n\nThe secret is to use 'Safe Idioms'—expressions that native speakers actually use every day in normal conversation.\n\nCategories of Safe Idioms:\n1. Adjective idioms: 'Over the moon' (very happy), 'Down in the dumps' (sad).\n2. Time/Action idioms: 'Once in a blue moon' (rarely), 'To bear in mind' (to remember/consider).\n3. Conversational phrases: 'It's not my cup of tea' (I don't like it), 'To make a long story short' (to summarize).",
+  "useful_phrase_bank": [
+    "It's not really my cup of tea.",
+    "I was absolutely over the moon when...",
+    "It costs an arm and a leg.",
+    "I only go there once in a blue moon.",
+    "It was a piece of cake."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "I don't like horror movies. They are bad.",
+      "better_answer": "To be honest, horror movies aren't really my cup of tea. I find them far too stressful to watch."
+    }
+  ],
+  "fluency_pronunciation_note": "Idioms are fixed phrases. You cannot change the grammar inside them. You cannot say 'It is not my cup of coffees'. Say the idiom quickly and smoothly as one single chunk of meaning.",
+  "sample_ielts_question": "Do you often buy expensive clothes?",
+  "model_short_answer": "Not really. Designer clothes usually cost an arm and a leg, and I just can't justify spending that much money on a t-shirt. I only buy branded items once in a blue moon as a special treat for myself.",
+  "common_mistakes": [
+    "Using archaic idioms like 'Raining cats and dogs' or 'A penny for your thoughts'.",
+    "Forcing an idiom into an answer where the context doesn't fit (e.g., Examiner: 'What is your name?' Candidate: 'My name is John, I am over the moon').",
+    "Mispronouncing or slightly altering the words in the idiom."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A cup of steaming hot tea sitting on a saucer next to an open book, visually representing the idiom 'not my cup of tea'.",
+  "quiz": [
+    {
+      "question": "If you want to say that something happens very rarely, which 'safe idiom' is best?",
+      "options": {
+        "A": "Once in a blue moon.",
+        "B": "It costs an arm and a leg.",
+        "C": "It's a piece of cake.",
+        "D": "Out of the blue."
+      },
+      "correct_answer": "A",
+      "explanation": "'Once in a blue moon' is a very common, natural idiom used by native speakers to describe something that happens very rarely. Option B means expensive, C means easy, and D means unexpectedly."
+    }
+  ]
+}

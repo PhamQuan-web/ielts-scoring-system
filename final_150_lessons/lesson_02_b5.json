@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_02",
+  "title": "How to Diagnose Your Current Band",
+  "strategy_problem": "Students often guess their band score based on how they 'feel' or rely on uncertified feedback. This leads to false confidence or unnecessary panic, because they don't have an objective baseline.",
+  "core_framework": [
+    "Step 1: Record Yourself - Choose a full practice test (Parts 1, 2, and 3) and record your answers on your phone without stopping.",
+    "Step 2: Transcribe and Analyze - Listen back or use a dictation tool to transcribe your answer. Look for hesitation markers, repeated vocabulary, and grammar errors.",
+    "Step 3: Compare to Descriptors - Look at the official band descriptors to see where your performance fits. Are you using complex sentences (Band 6+)? Are you pausing frequently (Band 5)?",
+    "Step 4: Get Expert Feedback - Have a qualified IELTS tutor or a high-quality AI tool assess your recording to confirm your self-diagnosis."
+  ],
+  "ielts_scenario": "A student thinks they are Band 7 because they know a lot of vocabulary. However, when they record themselves doing a full 14-minute mock test, they realize they pause frequently in Part 3 and struggle to maintain past tense accuracy in Part 2. Their actual score is closer to Band 5.5.",
+  "do_dont_table": {
+    "do": [
+      "Record audio of your full practice tests.",
+      "Listen to your own recordings, even if it feels uncomfortable.",
+      "Identify specific, repeated errors (e.g., forgetting 's' on plural nouns)."
+    ],
+    "dont": [
+      "Stop the recording to try again if you make a mistake.",
+      "Guess your score based on how well you understood the questions.",
+      "Only practice Part 1 because it feels easier."
+    ]
+  },
+  "example_application": "Listen to a 2-minute Part 2 recording. Tally every time you say 'um', 'ah', or pause for more than 2 seconds. Also, count how many different linking words you used (like 'however', 'moreover', 'because'). This gives you hard data on your Fluency and Coherence.",
+  "personal_action_step": "Tonight, choose one IELTS Speaking Part 2 topic. Record yourself speaking for exactly 2 minutes. Listen to the recording tomorrow morning and write down three things you want to improve.",
+  "image_url": "https://images.unsplash.com/photo-1588196749597-9ff0463949ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A student wearing headphones, looking intently at a smartphone recording a voice memo. Notebook open on the desk, concentrated expression.",
+  "quiz": [
+    {
+      "question": "What is the most effective first step to diagnosing your IELTS speaking band?",
+      "options": {
+        "A": "Reading a vocabulary book",
+        "B": "Recording yourself taking a full practice test under timed conditions",
+        "C": "Asking a friend who speaks English well to chat with you",
+        "D": "Watching YouTube videos of Band 9 speakers"
+      },
+      "correct_answer": "B",
+      "explanation": "Recording yourself under realistic test conditions provides objective evidence of your fluency, grammar, pronunciation, and vocabulary, which you can then analyze against the band descriptors."
+    }
+  ]
+}

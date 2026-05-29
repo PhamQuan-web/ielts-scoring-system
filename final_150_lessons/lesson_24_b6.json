@@ -1,0 +1,55 @@
+{
+  "lesson_id": "WF_24",
+  "title": "Band 6 to Band 7 Writing Upgrade",
+  "writing_skill_goal": "Synthesize all learned skills and understand the exact differences between a Band 6 and a Band 7 performance.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence",
+    "Lexical",
+    "Grammar"
+  ],
+  "core_writing_framework": "A Band 6 is 'competent' but has mechanical errors and underdeveloped ideas. A Band 7 is 'good', featuring fully developed arguments, flexible cohesion, and frequent error-free sentences.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "(Band 6) I agree because it is cheap. For example, my ticket was cheap. Also, it is fast.",
+      "improved_version": "(Band 7+) I strongly agree with this proposal due to its economic benefits. For instance, subsidising public transport significantly reduces the daily commuting costs for low-income families. Furthermore, it is a highly efficient mode of travel in congested cities.",
+      "explanation": "The Band 6 version has simple sentences, repetitive vocabulary, and a personal example. The Band 7 version demonstrates complex sentences, precise vocabulary, and well-developed, generalised reasoning."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Task Response Upgrade",
+      "content": "Band 6 gives a main idea but fails to explain it fully. Band 7 ensures every main idea is fully extended and supported with a logical explanation and a clear example."
+    },
+    {
+      "step": "Coherence Upgrade",
+      "content": "Band 6 overuses heavy linking words ('Firstly, Secondly, Moreover'). Band 7 uses referencing ('This trend', 'These issues') and varied paragraph transitions."
+    },
+    {
+      "step": "Grammar Upgrade",
+      "content": "Band 6 makes frequent errors that don't block communication. Band 7 produces 'frequent error-free sentences' and comfortably uses a mix of complex structures (conditionals, relative clauses)."
+    }
+  ],
+  "common_mistakes": [
+    "Trying to jump from Band 6 to Band 8 by memorising a list of obscure, archaic vocabulary words. This usually backfires and lowers the score to a 5.5 due to inaccuracy.",
+    "Focusing entirely on grammar while ignoring Task Response (if you don't answer the prompt, perfect grammar won't save you).",
+    "Writing 400 words. A Band 7 is about quality and precision, not quantity."
+  ],
+  "original_ielts_prompt": "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. Discuss both these views and give your own opinion.",
+  "model_micro_answer": "While allowing students the freedom to follow their passions can lead to higher personal motivation, I believe that prioritizing STEM subjects is far more beneficial for a nation's long-term economic stability.",
+  "image_url": null,
+  "image_prompt_fallback": "A staircase showing steps labeled from 5 to 9. A student is stepping from step 6 to step 7, with keywords like 'Developed Ideas', 'Precision', and 'Error-free' lighting up the step.",
+  "quiz": [
+    {
+      "question": "According to the IELTS Band Descriptors, what is a key requirement for a Band 7 in Grammatical Range and Accuracy?",
+      "options": {
+        "A": "Every single sentence must be 100% perfect with no errors.",
+        "B": "The writer must use at least 10 different tenses.",
+        "C": "The writer produces frequent error-free sentences.",
+        "D": "The essay must be over 300 words long."
+      },
+      "correct_answer": "C",
+      "explanation": "A Band 7 does not require perfection. The descriptor explicitly states 'produces frequent error-free sentences'. You can still make a few minor errors at Band 7, as long as the majority of your sentences are accurate and you use a variety of complex structures."
+    }
+  ]
+}

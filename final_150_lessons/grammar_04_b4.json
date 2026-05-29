@@ -1,0 +1,78 @@
+{
+  "lesson_id": "grammar_04",
+  "title": "Comparisons and Superlatives",
+  "grammar_goal": "This lesson boosts GRA and Coherence by teaching how to accurately compare data in Task 1, and weigh different arguments or options in Task 2.",
+  "core_rule": {
+    "formula": "Comparative: Adjective + -er + than OR more + Adjective + than\nSuperlative: the + Adjective + -est OR the most + Adjective",
+    "usage": "Use comparatives to show the difference between two things. Use superlatives to show that one thing has the highest degree of a quality within a group. Advanced comparisons include 'as...as' for equality, and parallel comparisons like 'the + comparative, the + comparative' to show cause and effect.",
+    "signals": [
+      "than",
+      "more",
+      "the most",
+      "as...as",
+      "less",
+      "the least",
+      "the -er, the -er"
+    ]
+  },
+  "when_to_use": [
+    "Task 1: Essential for comparing data points on graphs (e.g., 'A was significantly higher than B').",
+    "Task 2: Comparing two sides of an argument (e.g., 'Living in a city is more advantageous than...').",
+    "Speaking Part 3: Discussing how things have changed over time (e.g., 'People are much busier now than they were in the past.')."
+  ],
+  "when_not_to_use": [
+    "Do not use 'more' with adjectives that already have an '-er' ending (e.g., 'more better', 'more taller').",
+    "Do not forget 'the' before superlative adjectives (e.g., 'He is tallest boy' is wrong)."
+  ],
+  "ielts_examples": {
+    "writing": "The proportion of consumers who preferred online shopping was significantly higher than those who shopped in physical stores.",
+    "speaking": "I think the older generation is generally less concerned with technology than the younger generation."
+  },
+  "repair_section": [
+    {
+      "wrong": "The weather today is more hotter than yesterday.",
+      "correct": "The weather today is hotter than yesterday.",
+      "better_band_upgrade": "The temperature today is considerably higher than it was yesterday."
+    },
+    {
+      "wrong": "She is the most smart student in the class.",
+      "correct": "She is the smartest student in the class.",
+      "better_band_upgrade": "She is undoubtedly the most intellectually gifted student in the cohort."
+    },
+    {
+      "wrong": "More you study, more you learn.",
+      "correct": "The more you study, the more you learn.",
+      "better_band_upgrade": "The more time you dedicate to your studies, the more extensive your knowledge will become."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Double comparisons: Using 'more' + '-er' (e.g., 'more cheaper').",
+    "Forgetting 'than': Saying 'A is bigger B' instead of 'A is bigger than B'.",
+    "Misusing 'as...as': Saying 'as same as' or 'same like' instead of 'the same as' or 'as [adjective] as'."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Living in the city is more noisy than the countryside.",
+      "correct_sentence": "Living in the city is noisier than the countryside."
+    },
+    {
+      "wrong_sentence": "This is the most good movie I have ever seen.",
+      "correct_sentence": "This is the best movie I have ever seen."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1534665482403-a909d0d97c67?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A visual representation of three bar charts of varying heights to illustrate comparative and superlative concepts.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses an advanced comparative structure?",
+      "options": {
+        "A": "The more faster you drive, the more dangerous it is.",
+        "B": "The faster you drive, the more dangerous it is.",
+        "C": "Faster you drive, more dangerous it is.",
+        "D": "The faster you drive, the dangerous it is."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B correctly uses the 'the + comparative, the + comparative' structure to show a parallel increase."
+    }
+  ]
+}

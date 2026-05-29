@@ -1,0 +1,72 @@
+{
+  "lesson_id": "grammar_16",
+  "title": "Grammar for Task 2 Opinions",
+  "grammar_goal": "Boosts Task Response and GRA by teaching how to assert opinions with varying degrees of certainty using hedging, modal verbs, and formal introductory clauses.",
+  "core_rule": {
+    "formula": "Introductory Clause (e.g., It is argued that...) + Subject + Hedging Verb/Modal (e.g., tends to, may) + Base Verb",
+    "usage": "In academic writing, opinions should rarely be stated as absolute facts. Instead of saying 'A causes B' (100% certainty), high-scoring candidates say 'A is highly likely to cause B' or 'It can be argued that A causes B'. This is called 'hedging'.",
+    "signals": [
+      "It is argued that",
+      "Some believe that",
+      "I am of the opinion that",
+      "tends to",
+      "is highly likely to",
+      "often results in"
+    ]
+  },
+  "when_to_use": [
+    "Task 2 Introduction: To state other people's opinions ('It is often argued that...').",
+    "Task 2 Thesis Statement: To state your own clear opinion ('I firmly believe that...').",
+    "Task 2 Body Paragraphs: When making claims that might not be true for 100% of the population ('This trend tends to lead to...')."
+  ],
+  "when_not_to_use": [
+    "Do not use overly personal or informal phrases like 'I reckon', 'To my mind', or 'As far as I'm concerned' in IELTS Writing.",
+    "Do not hedge absolute scientific facts (e.g., don't say 'Water might boil at 100 degrees')."
+  ],
+  "ielts_examples": {
+    "writing": "While it is often argued that technology isolates individuals, I firmly believe that it has the potential to connect people globally.",
+    "speaking": "(Speaking can be less formal): In my view, the government definitely needs to step in."
+  },
+  "repair_section": [
+    {
+      "wrong": "Many people think that violent games make children violent.",
+      "correct": "It is widely believed that violent games can make children violent.",
+      "better_band_upgrade": "A widely held consensus suggests that exposure to violent video games may foster aggressive tendencies in children."
+    },
+    {
+      "wrong": "I think this is a bad idea because it costs too much.",
+      "correct": "I am of the opinion that this is a poor idea because it is too expensive.",
+      "better_band_upgrade": "I firmly believe that this proposition is flawed, primarily due to its prohibitive costs."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Overgeneralization: Stating opinions as absolute facts (e.g., 'Fast food makes people fat' instead of 'Frequent consumption of fast food tends to contribute to obesity').",
+    "Using informal phrases for opinions in Writing (e.g., 'From my point of view', 'I feel like').",
+    "Redundancy: 'In my opinion, I think that...'"
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "In my opinion, I think the internet is good for education.",
+      "correct_sentence": "I firmly believe that the internet is highly beneficial for education."
+    },
+    {
+      "wrong_sentence": "Watching too much TV destroys a child's brain.",
+      "correct_sentence": "Excessive television viewing can negatively impact a child's cognitive development."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A picture of a judge's gavel next to a balanced scale, symbolizing the weighing of opinions and careful judgment required in academic writing.",
+  "quiz": [
+    {
+      "question": "Which sentence demonstrates the best use of academic 'hedging' to express an opinion?",
+      "options": {
+        "A": "Taxes on junk food will stop obesity completely.",
+        "B": "Taxes on junk food must stop obesity.",
+        "C": "Implementing taxes on junk food is likely to help reduce obesity rates.",
+        "D": "It is a fact that taxes on junk food stop obesity."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C uses 'is likely to' and 'help reduce', which perfectly hedges the claim, acknowledging that while it is an effective measure, it is not a 100% guaranteed magical cure."
+    }
+  ]
+}

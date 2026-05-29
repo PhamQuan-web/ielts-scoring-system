@@ -1,0 +1,111 @@
+{
+  "lesson_id": "vocab_colloc_02",
+  "title": "Comparison and Contrast Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "High-level vocabulary and structures to draw comparisons, highlight differences, and show similarities in IELTS Writing Task 1 and Speaking Part 3."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Analogous",
+      "phonetic": "/əˈnæl.ə.ɡəs/",
+      "cefr_level": "C2",
+      "meaning": "Comparable in certain respects, typically in a way which makes clearer the nature of the things compared.",
+      "example": "The development of the internet is analogous to the invention of the printing press.",
+      "image_url": null,
+      "image_prompt_fallback": "A split screen showing an old printing press on one side and a modern global internet network on the other, symbolizing similarity."
+    },
+    {
+      "word": "Disparity",
+      "phonetic": "/dɪˈspær.ə.ti/",
+      "cefr_level": "C1",
+      "meaning": "A great difference, especially one connected with unfair treatment.",
+      "example": "There is a growing disparity between the rich and the poor in urban areas.",
+      "image_url": null,
+      "image_prompt_fallback": "A visual representation of wealth inequality: a luxurious skyscraper directly next to a dilapidated slum."
+    },
+    {
+      "word": "Conversely",
+      "phonetic": "/kənˈvɜːs.li/",
+      "cefr_level": "C1",
+      "meaning": "In an opposite way; on the other hand.",
+      "example": "Northern regions experience harsh winters; conversely, southern regions enjoy mild temperatures year-round.",
+      "image_url": null,
+      "image_prompt_fallback": "A dual-image showing a snowy landscape on the left and a sunny beach on the right."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Draw a comparison",
+      "meaning": "To compare two or more things to highlight their similarities or differences.",
+      "example": "The professor drew a comparison between the current economic crisis and the Great Depression."
+    },
+    {
+      "collocation": "Stark contrast",
+      "meaning": "A very clear and obvious difference.",
+      "example": "The modern architecture of the museum stands in stark contrast to the historic buildings surrounding it."
+    },
+    {
+      "collocation": "Pale in comparison",
+      "meaning": "To seem much less important, serious, or good when compared with someone or something else.",
+      "example": "The minor inconveniences of traveling pale in comparison to the joy of discovering new cultures."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "On the other hand",
+      "better_upgrade": "Conversely / In stark contrast",
+      "example": "City life offers many amenities; conversely, rural living provides tranquility."
+    },
+    {
+      "weak_phrase": "Very different",
+      "better_upgrade": "Distinctly different / Fundamentally distinct",
+      "example": "The two theories are fundamentally distinct in their approach to human behavior."
+    },
+    {
+      "weak_phrase": "The same as",
+      "better_upgrade": "Analogous to / Strikingly similar to",
+      "example": "The process of learning a new language is analogous to learning to play a musical instrument."
+    }
+  ],
+  "sentence_frames": [
+    "In stark contrast to [A], [B] has experienced...",
+    "While [A] and [B] share analogous features in terms of..., they are fundamentally distinct when it comes to...",
+    "There is a striking disparity between..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "In stark contrast to the dramatic fluctuations seen in 2010, the figures for 2015 remained relatively stable.",
+    "speaking_example": "Well, the way my parents' generation consumed media is fundamentally distinct from today. They relied on scheduled TV broadcasts, whereas we demand everything on-demand, which is a massive disparity."
+  },
+  "common_mistakes": [
+    "Using 'compare to' instead of 'compare with' when analyzing differences (Compare *to* is used to assert similarity, compare *with* is used to evaluate differences).",
+    "Writing 'in contrary' instead of the correct phrase 'on the contrary' or 'in contrast'."
+  ],
+  "quiz": [
+    {
+      "question": "Which phrase is the best upgrade for 'a very big difference'?",
+      "options": {
+        "A": "A large opposite",
+        "B": "A stark contrast",
+        "C": "A heavy contrast",
+        "D": "A strong apart"
+      },
+      "correct_answer": "B",
+      "explanation": "'Stark contrast' is a high-level, highly natural academic collocation meaning a very clear and obvious difference."
+    },
+    {
+      "question": "Complete the sentence: 'The challenges we face today _______ in comparison to what our ancestors endured.'",
+      "options": {
+        "A": "fade",
+        "B": "drop",
+        "C": "pale",
+        "D": "weak"
+      },
+      "correct_answer": "C",
+      "explanation": "The idiom is 'pale in comparison', meaning to seem much less significant when compared to something else."
+    }
+  ]
+}

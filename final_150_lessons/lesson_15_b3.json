@@ -1,0 +1,64 @@
+{
+  "lesson_id": "grammar_15",
+  "title": "Articles: A, An, The and Zero Article",
+  "grammar_goal": "Improves precision and 'native-like' flow. Accurate article usage is a hallmark of Band 7.0+ writing.",
+  "core_rule": {
+    "formula": "A/An = Indefinite, singular, countable nouns. The = Definite, specific nouns known to both speaker and listener. Zero Article = Plural or uncountable nouns in general.",
+    "usage": "Use 'a/an' when introducing something for the first time. Use 'the' when referring to something already mentioned or unique. Use no article when speaking generally about plural or uncountable things.",
+    "signals": [
+      "the sun",
+      "an apple",
+      "water (general)",
+      "the water (in this glass)"
+    ]
+  },
+  "when_to_use": [
+    "Writing Task 1: Using 'the' with superlatives (e.g., 'the highest percentage', 'the most popular').",
+    "Writing Task 2: Using Zero Article for general statements (e.g., 'Education is crucial' NOT 'The education is crucial')."
+  ],
+  "when_not_to_use": [
+    "Do not use 'a/an' with uncountable nouns or plural nouns.",
+    "Do not use 'the' when making generalisations about plural nouns (e.g., 'Computers are useful' NOT 'The computers are useful' unless referring to specific ones)."
+  ],
+  "ielts_examples": {
+    "writing": "The advent of the internet has had a profound impact on communication.",
+    "speaking": "I work as an accountant in a large multinational company."
+  },
+  "repair_section": [
+    {
+      "wrong": "The pollution is a major problem in big cities.",
+      "correct": "Pollution is a major problem in big cities.",
+      "better_band_upgrade": "Environmental pollution remains a pressing issue in major metropolitan areas."
+    },
+    {
+      "wrong": "He is best student in class.",
+      "correct": "He is the best student in the class.",
+      "better_band_upgrade": "He consistently demonstrates that he is the most outstanding pupil in the entire cohort."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Omitting articles entirely because Vietnamese does not have direct equivalents to 'a/an/the'.",
+    "Overusing 'the' when making general statements about uncountable concepts like 'nature', 'technology', or 'education'."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "I want to buy a new car. Car must be fast.",
+      "correct_sentence": "I want to buy a new car. The car must be fast."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1512314889357-e157c22f938d?q=80&w=1000&auto=format&fit=crop",
+  "image_prompt_fallback": "A magnifying glass focusing on three small words: A, An, The. Text: 'Articles: Small Words, Big Impact'.",
+  "quiz": [
+    {
+      "question": "Which sentence uses articles correctly for a general statement?",
+      "options": {
+        "A": "The money cannot buy the happiness.",
+        "B": "Money cannot buy the happiness.",
+        "C": "Money cannot buy happiness.",
+        "D": "A money cannot buy a happiness."
+      },
+      "correct_answer": "C",
+      "explanation": "When speaking generally about uncountable abstract nouns like 'money' and 'happiness', the zero article (no article) should be used."
+    }
+  ]
+}

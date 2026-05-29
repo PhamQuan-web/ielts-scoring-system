@@ -1,0 +1,32 @@
+{
+  "lesson_id": "reading_05_matching_headings",
+  "title": "Matching Headings",
+  "skill_goal": "Learn how to identify the main idea of a paragraph to choose the correct heading, avoiding distractors.",
+  "question_type_strategy": "Matching Headings tests your ability to grasp the overall theme of a paragraph. You must distinguish between the main idea and specific supporting details. This task always appears BEFORE the reading passage in the test booklet.",
+  "how_to_recognise": "You will see a box with a list of headings (indicated by Roman numerals like i, ii, iii) and you must choose the correct heading for Paragraphs A, B, C, etc.",
+  "step_by_step_method": [
+    "1. Read the list of headings first and underline key concepts. Note any similarities between headings.",
+    "2. Skim Paragraph A. Focus heavily on the first sentence (topic sentence) and the last sentence (concluding thought).",
+    "3. Formulate your own brief idea of what the paragraph is about before looking back at the headings.",
+    "4. Choose the heading that best matches your idea. If stuck between two, look for a heading that covers the *entire* paragraph, not just one sentence.",
+    "5. Cross out the heading you used so you don't use it again."
+  ],
+  "trap_example": "The 'Specific Detail' Trap. A heading might contain words exactly matching a sentence in the middle of the paragraph. However, if that sentence is just an example and not the main point, the heading is a trap.",
+  "micro_practice_example": "Paragraph: Solar power has seen massive investments recently. In 2022 alone, Europe spent billions on new solar farms. Furthermore, the cost of solar panels has dropped by 40%. Consequently, it is becoming the dominant energy source. \nHeading A: The cost of solar panels (Trap - too specific). \nHeading B: The rise of solar energy (Correct - covers the main theme).",
+  "review_method": "Practice writing your own headings. Read a paragraph from an article and try to summarize its main point in a 4-5 word title.",
+  "image_url": null,
+  "image_prompt_fallback": "A visual metaphor showing an umbrella (representing the main heading) sheltering several smaller objects underneath (representing the supporting details of a paragraph).",
+  "quiz": [
+    {
+      "question": "When completing a Matching Headings task, what part of the paragraph is usually the most important to read?",
+      "options": {
+        "A": "The middle sentences containing statistics.",
+        "B": "The first and last sentences.",
+        "C": "Every single word in detail.",
+        "D": "The longest sentence."
+      },
+      "correct_answer": "B",
+      "explanation": "The first sentence (topic sentence) usually introduces the main idea, and the last sentence often summarizes it, making them the most critical parts for finding the heading."
+    }
+  ]
+}

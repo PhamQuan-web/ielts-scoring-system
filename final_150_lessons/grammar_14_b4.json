@@ -1,0 +1,71 @@
+{
+  "lesson_id": "grammar_14",
+  "title": "Complex Sentence Control",
+  "grammar_goal": "Ensures the highest levels of GRA (Band 7-9) by effectively combining multiple clauses into sophisticated, error-free complex sentences without losing clarity.",
+  "core_rule": {
+    "formula": "Main Clause + Subordinate Clause 1 + (Coordinating Conjunction + Subordinate Clause 2)",
+    "usage": "A complex sentence contains one independent clause and at least one dependent (subordinate) clause. Band 8/9 writers can embed multiple clauses (relative, conditional, reason) smoothly. The key is strict control over subjects and verbs.",
+    "signals": [
+      "which",
+      "because",
+      "although",
+      "if",
+      "when",
+      "that"
+    ]
+  },
+  "when_to_use": [
+    "Task 2: To express detailed, nuanced arguments (e.g., 'Governments, which are responsible for public health, must intervene if the situation worsens.').",
+    "Speaking Part 3: To develop extended answers logically without pausing awkwardly between simple thoughts."
+  ],
+  "when_not_to_use": [
+    "Do not build 'run-on' sentences (sentences that go on for 4-5 lines). Complexity should not sacrifice clarity.",
+    "Avoid losing track of the main subject. Every complex sentence must still have a clear main subject and main verb."
+  ],
+  "ielts_examples": {
+    "writing": "Although renewable energy sources are currently expensive to implement, the long-term benefits they provide, which include reduced carbon emissions and energy independence, make them a necessary investment.",
+    "speaking": "I definitely think that children who spend too much time indoors miss out on physical activities that are crucial for their development."
+  },
+  "repair_section": [
+    {
+      "wrong": "The government which has a lot of money they should build more schools because children need education.",
+      "correct": "The government, which has ample funds, should build more schools because children need education.",
+      "better_band_upgrade": "Given their substantial financial resources, authorities should prioritize the construction of educational facilities to ensure universal access to learning."
+    },
+    {
+      "wrong": "Because people are working longer hours, so they have less time for their families, which causing stress.",
+      "correct": "Because people are working longer hours, they have less time for their families, which causes stress.",
+      "better_band_upgrade": "The modern trend of working extended hours leaves individuals with limited family time, a situation that inevitably generates significant domestic stress."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Losing the Main Verb: Writing a very long subject with a relative clause but forgetting to give the main subject a verb (e.g., 'The people who live in the city and suffer from pollution.').",
+    "The Double Subject: Adding a pronoun after a long noun phrase (e.g., 'My father, who is a doctor, he works hard.').",
+    "Over-subordination: Using 'Because', 'Which', and 'If' all in one confusing sentence."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Students who study abroad they often become more independent.",
+      "correct_sentence": "Students who study abroad often become more independent."
+    },
+    {
+      "wrong_sentence": "The new law, which it was passed yesterday, will reduce crime.",
+      "correct_sentence": "The new law, which was passed yesterday, will reduce crime."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A complex but neatly organized system of interlocking gears, representing how multiple clauses must fit together perfectly to drive a complex sentence forward.",
+  "quiz": [
+    {
+      "question": "Which sentence demonstrates excellent complex sentence control without grammatical errors?",
+      "options": {
+        "A": "The city, which is located near the coast, it experiences heavy rainfall.",
+        "B": "The city which located near the coast experiences heavy rainfall.",
+        "C": "The city, which is located near the coast, experiences heavy rainfall.",
+        "D": "The city is located near the coast, which experiencing heavy rainfall."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C correctly uses a non-defining relative clause enclosed in commas, and the main subject 'The city' correctly connects to the main verb 'experiences' without an illegal double subject ('it')."
+    }
+  ]
+}

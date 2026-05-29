@@ -1,0 +1,104 @@
+{
+  "lesson_id": "vocab_core_08",
+  "title": "Core Vocabulary: Crime & Law",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Vocabulary for discussing the justice system, types of crime, punishment, and rehabilitation."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Deterrent",
+      "phonetic": "/dɪˈterənt/",
+      "cefr_level": "C1",
+      "meaning": "A thing that discourages or is intended to discourage someone from doing something.",
+      "example": "Many argue that the death penalty is not an effective deterrent to violent crime.",
+      "image_url": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A stern judge holding a wooden gavel in a courtroom."
+    },
+    {
+      "word": "Rehabilitation",
+      "phonetic": "/ˌriːhəˌbɪlɪˈteɪʃn/",
+      "cefr_level": "C1",
+      "meaning": "The action of restoring someone to health or normal life through training and therapy after imprisonment.",
+      "example": "Prisons should focus more on the rehabilitation of offenders rather than just punishment.",
+      "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A group therapy session with people sitting in a circle, talking and supporting each other."
+    },
+    {
+      "word": "Juvenile",
+      "phonetic": "/ˈdʒuːvənaɪl/",
+      "cefr_level": "B2",
+      "meaning": "Relating to young people; a young person who commits a crime.",
+      "example": "There has been a worrying increase in juvenile delinquency in urban areas.",
+      "image_url": null,
+      "image_prompt_fallback": "A hooded teenager standing alone in an alleyway at night, looking defiant."
+    },
+    {
+      "word": "Perpetrator",
+      "phonetic": "/ˈpɜːpətreɪtə/",
+      "cefr_level": "C1",
+      "meaning": "A person who carries out a harmful, illegal, or immoral act.",
+      "example": "The perpetrators of this cyber-attack have not yet been identified by the authorities.",
+      "image_url": null,
+      "image_prompt_fallback": "A shadowy figure in a dark room typing intensely on a laptop computer."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Commit a crime",
+      "meaning": "To do something illegal.",
+      "example": "Poverty is often a driving factor that pushes people to commit a crime."
+    },
+    {
+      "collocation": "Serve a sentence",
+      "meaning": "To spend time in prison as a punishment.",
+      "example": "He is currently serving a ten-year sentence for armed robbery."
+    },
+    {
+      "collocation": "Law-abiding citizens",
+      "meaning": "People who obey the law.",
+      "example": "The new security measures are designed to protect law-abiding citizens from terrorism."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Break the law",
+      "better_upgrade": "Violate / Infringe the law",
+      "example": "Companies that violate environmental laws should face severe financial penalties."
+    },
+    {
+      "weak_phrase": "Punish people",
+      "better_upgrade": "Impose penalties / Sanctions",
+      "example": "The judge decided to impose harsh penalties on the organized crime syndicate."
+    }
+  ],
+  "sentence_frames": [
+    "While strict punishments act as a deterrent, they do not address the root causes of [Noun Phrase].",
+    "Rather than focusing solely on retribution, the justice system should prioritize [Noun Phrase].",
+    "It is highly debatable whether [Noun Phrase] is an effective strategy for reducing crime rates."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "Many believe that imposing longer prison sentences is the best way to reduce crime rates. However, I argue that while harsh punishments act as a deterrent, a justice system that prioritizes the rehabilitation of offenders through education and job training is far more effective at preventing reoffending.",
+    "speaking_example": "In my opinion, juvenile delinquency is usually a result of poor upbringing or peer pressure. Instead of sending young offenders straight to prison, I think society should focus on rehabilitating them so they can become law-abiding citizens in the future."
+  },
+  "common_mistakes": [
+    "Using 'make a crime' instead of 'commit a crime'. (e.g., 'If you make a crime' -> 'If you commit a crime').",
+    "Confusing 'rob' (stealing from a person/place) with 'steal' (taking an object). (e.g., 'He robbed my phone' -> 'He stole my phone' OR 'He robbed the bank')."
+  ],
+  "quiz": [
+    {
+      "question": "Which of the following terms refers to restoring an offender to normal life through therapy and training?",
+      "options": {
+        "A": "Deterrent",
+        "B": "Rehabilitation",
+        "C": "Perpetrator",
+        "D": "Juvenile"
+      },
+      "correct_answer": "B",
+      "explanation": "'Rehabilitation' is the process of helping an inmate or offender reintegrate into society. A 'deterrent' is something that stops crime, a 'perpetrator' is the criminal, and 'juvenile' means young."
+    }
+  ]
+}

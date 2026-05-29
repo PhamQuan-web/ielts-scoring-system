@@ -1,0 +1,73 @@
+{
+  "lesson_id": "grammar_11",
+  "title": "Parallel Structure",
+  "grammar_goal": "Enhances Coherence and Grammatical Range by ensuring that items in a list or comparison follow the exact same grammatical pattern, preventing jarring and awkward sentences.",
+  "core_rule": {
+    "formula": "A (Noun) and B (Noun) / A (V-ing) and B (V-ing) / A (To V) and B (To V)",
+    "usage": "When joining two or more ideas with coordinating conjunctions (and, but, or) or correlative conjunctions (not only... but also, either... or), the grammatical form of the connected items must match perfectly.",
+    "signals": [
+      "and",
+      "or",
+      "but",
+      "not only... but also",
+      "either... or",
+      "neither... nor",
+      "both... and",
+      "rather than"
+    ]
+  },
+  "when_to_use": [
+    "Task 2: When listing reasons or examples in a thesis statement (e.g., 'This is caused by poverty, lack of education, and poor infrastructure.').",
+    "Speaking Part 3: When expanding on an answer with multiple coordinated points.",
+    "Task 1: When comparing similar categories of data."
+  ],
+  "when_not_to_use": [
+    "Do not mix different grammatical forms in a single list (e.g., mixing an infinitive with a gerund: 'I like to swim and running')."
+  ],
+  "ielts_examples": {
+    "writing": "To solve this issue, the government must invest in infrastructure, promote public transport, and subsidize green energy.",
+    "speaking": "In my free time, I enjoy reading historical novels, playing the guitar, and hiking in the mountains."
+  },
+  "repair_section": [
+    {
+      "wrong": "The new policy is effective, popular, and costs very little.",
+      "correct": "The new policy is effective, popular, and inexpensive.",
+      "better_band_upgrade": "The newly implemented policy is not only highly effective and widely supported, but also economically viable."
+    },
+    {
+      "wrong": "I would rather stay at home than going out tonight.",
+      "correct": "I would rather stay at home than go out tonight.",
+      "better_band_upgrade": "I would prefer to remain indoors this evening rather than venture out."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Faulty parallelism in lists: Mixing nouns and verb phrases (e.g., 'Air pollution causes health problems, environmental damage, and costs a lot of money.').",
+    "Mixing 'To V' and 'V-ing' (e.g., 'My hobbies are reading and to travel.').",
+    "Failing to maintain parallel structure after 'not only... but also'."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "She likes cooking, jogging, and to read.",
+      "correct_sentence": "She likes cooking, jogging, and reading."
+    },
+    {
+      "wrong_sentence": "The program is designed to educate the public and for raising awareness.",
+      "correct_sentence": "The program is designed to educate the public and to raise awareness."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1506452814418-226759c5d1d6?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A set of perfectly parallel train tracks extending into the distance, symbolizing alignment and balance in sentence structure.",
+  "quiz": [
+    {
+      "question": "Identify the sentence with correct parallel structure.",
+      "options": {
+        "A": "The teacher told the students to study hard, to sleep well, and eating a good breakfast.",
+        "B": "The teacher told the students to study hard, to sleep well, and to eat a good breakfast.",
+        "C": "The teacher told the students studying hard, to sleep well, and to eat a good breakfast.",
+        "D": "The teacher told the students to study hard, sleep well, and eating a good breakfast."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B perfectly maintains the 'to + base verb' structure across all three items in the list."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lesson_id": "WF_03",
+  "title": "How to Analyse a Task 2 Question",
+  "writing_skill_goal": "Learn how to deconstruct an IELTS Writing Task 2 prompt to identify the topic, focus, and exact instruction.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Lexical"
+  ],
+  "core_writing_framework": "Use the T.F.I. method: Topic (the general subject), Focus (the specific angle), and Instruction (what you must do).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Topic: Environment. Focus: Good. Instruction: Write essay.",
+      "improved_version": "Topic: Global warming. Focus: Individual vs Government responsibility. Instruction: Discuss both views and give an opinion.",
+      "explanation": "A precise analysis ensures you address the specific nuance of the prompt rather than writing a generic essay about the broad topic."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify the Topic",
+      "content": "Read the first sentence of the prompt to find the broad theme. For example, 'Many people believe that technology is making us less sociable.' The topic is 'Technology and Social Interaction'."
+    },
+    {
+      "step": "Identify the Focus",
+      "content": "Look closer to find the specific context or restriction. In the example, you cannot just write about technology in general; you must focus specifically on whether it makes humans 'less sociable' or not."
+    },
+    {
+      "step": "Identify the Instruction Words",
+      "content": "Find the action words that tell you the essay type. Examples include 'To what extent do you agree?', 'Discuss both views', or 'What are the causes?'. This dictates your entire essay structure."
+    },
+    {
+      "step": "Underline Keywords and Brainstorm Synonyms",
+      "content": "Identify the most important words in the prompt. Before writing, think of 2-3 synonyms for these words to avoid repeating the prompt's exact vocabulary in your introduction (which demonstrates better Lexical Resource)."
+    }
+  ],
+  "common_mistakes": [
+    "Writing a generic essay about the broad topic instead of answering the specific focus (e.g., writing about all 'education' instead of specifically 'university funding').",
+    "Missing the instruction entirely and writing an opinion essay when asked for a problem/solution essay.",
+    "Failing to brainstorm synonyms, resulting in copying the prompt word-for-word in the introduction.",
+    "Rushing into writing without taking 2-3 minutes to properly analyse the prompt."
+  ],
+  "original_ielts_prompt": "In recent years, the average lifespan of people in many countries has increased significantly. What are the main causes of this phenomenon? Are the effects on society mostly positive or negative?",
+  "model_micro_answer": "Topic: Increased life expectancy. Focus: Causes and societal impacts. Instruction: Two-part question asking for causes and an evaluation of whether it is positive or negative.",
+  "image_url": null,
+  "image_prompt_fallback": "A close-up of a printed IELTS exam paper being highlighted with a bright yellow marker. Specific keywords like 'causes', 'effects', and 'agree' are circled in red ink by a student.",
+  "quiz": [
+    {
+      "question": "What is the primary danger of failing to identify the 'Focus' of a prompt?",
+      "options": {
+        "A": "You might use the wrong grammar tenses.",
+        "B": "You might write a generic essay that is off-topic, severely lowering your Task Response score.",
+        "C": "You will write too many words.",
+        "D": "You might misspell important vocabulary words."
+      },
+      "correct_answer": "B",
+      "explanation": "If you only identify the broad topic and miss the specific focus, your essay will be off-topic. This means you have not answered the actual question asked, which limits your Task Response score to a maximum of Band 5."
+    }
+  ]
+}

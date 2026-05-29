@@ -1,0 +1,104 @@
+{
+  "lesson_id": "vocab_core_09",
+  "title": "Core Vocabulary: Economy & Money",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing",
+      "Speaking"
+    ],
+    "description": "Terminology to discuss personal finance, national economies, globalization, and consumerism."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Consumerism",
+      "phonetic": "/kənˈsjuːmərɪzəm/",
+      "cefr_level": "C1",
+      "meaning": "The preoccupation of society with the acquisition of consumer goods.",
+      "example": "Modern consumerism has led to a massive increase in waste and environmental degradation.",
+      "image_url": "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A crowded shopping mall with people carrying dozens of shopping bags from luxury brands."
+    },
+    {
+      "word": "Inflation",
+      "phonetic": "/ɪnˈfleɪʃn/",
+      "cefr_level": "B2",
+      "meaning": "A general increase in prices and fall in the purchasing value of money.",
+      "example": "High inflation means that the cost of living has skyrocketed over the past year.",
+      "image_url": "https://images.unsplash.com/photo-1580519542036-ed47f3e42f9b?q=80&w=800&auto=format&fit=crop",
+      "image_prompt_fallback": "A close-up of a price tag showing a dramatically high price on a basic loaf of bread."
+    },
+    {
+      "word": "Recession",
+      "phonetic": "/rɪˈseʃn/",
+      "cefr_level": "C1",
+      "meaning": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+      "example": "Many small businesses went bankrupt during the global economic recession of 2008.",
+      "image_url": null,
+      "image_prompt_fallback": "A red downward-trending line graph displayed on a digital stock market board."
+    },
+    {
+      "word": "Disparity",
+      "phonetic": "/dɪˈspærəti/",
+      "cefr_level": "C1",
+      "meaning": "A great difference or inequality.",
+      "example": "The growing economic disparity between the rich and the poor is a major cause for concern.",
+      "image_url": null,
+      "image_prompt_fallback": "A split-screen image showing a luxurious mansion on one side and an impoverished slum on the other."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "Standard of living",
+      "meaning": "The degree of wealth and material comfort available to a person or community.",
+      "example": "The main goal of economic development is to raise the standard of living for all citizens."
+    },
+    {
+      "collocation": "Cost of living",
+      "meaning": "The level of prices relating to a range of everyday items.",
+      "example": "The high cost of living in major cities makes it difficult for young people to save money."
+    },
+    {
+      "collocation": "Disposable income",
+      "meaning": "Income remaining after deduction of taxes and other mandatory charges, available to be spent or saved.",
+      "example": "With rising rents, many families have very little disposable income left at the end of the month."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Poor people",
+      "better_upgrade": "Disadvantaged / Impoverished citizens",
+      "example": "The charity provides essential support to impoverished citizens in rural areas."
+    },
+    {
+      "weak_phrase": "Rich countries",
+      "better_upgrade": "Developed / Affluent nations",
+      "example": "Affluent nations have a moral obligation to assist developing countries in times of crisis."
+    }
+  ],
+  "sentence_frames": [
+    "The primary driver of [Noun Phrase] in today's economy is [Noun Phrase].",
+    "While a free market economy encourages [Noun Phrase], it can also lead to significant [Noun Phrase].",
+    "To ensure economic stability, the government must regulate [Noun Phrase]."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "The rapid spread of consumerism in affluent nations has undoubtedly raised the standard of living for many. However, this insatiable desire for goods has also created a throwaway culture that severely damages the environment and exacerbates the economic disparity between classes.",
+    "speaking_example": "Recently, inflation has been a massive issue here. The cost of living has gone up so much that most people's disposable income has practically vanished. It feels like we are on the brink of an economic recession."
+  },
+  "common_mistakes": [
+    "Confusing 'economic' (relating to the economy) with 'economical' (giving good value, saving money). (e.g., 'Hybrid cars are very economic' -> 'Hybrid cars are very economical').",
+    "Using 'incomes' when referring to a general sum. 'Income' is usually uncountable unless referring to different types of revenue. (e.g., 'My incomes are low' -> 'My income is low')."
+  ],
+  "quiz": [
+    {
+      "question": "Which term specifically describes a period of temporary economic decline?",
+      "options": {
+        "A": "Inflation",
+        "B": "Consumerism",
+        "C": "Recession",
+        "D": "Disparity"
+      },
+      "correct_answer": "C",
+      "explanation": "A 'recession' is an economic decline. 'Inflation' is the rise in prices, 'consumerism' is the focus on buying goods, and 'disparity' means inequality."
+    }
+  ]
+}

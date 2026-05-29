@@ -1,0 +1,33 @@
+{
+  "lesson_id": "reading_08_sentence_completion",
+  "title": "Sentence Completion",
+  "skill_goal": "Master the art of scanning for specific facts while adhering strictly to grammatical rules and word count limits.",
+  "question_type_strategy": "This task tests your ability to find specific details and copy them accurately. The sentences in the question will paraphrase the text, but the word(s) you write in the blank MUST be taken exactly from the text without changing their form.",
+  "how_to_recognise": "Instructions will say: 'Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.'",
+  "step_by_step_method": [
+    "1. Highlight the word limit instruction (e.g., ONE WORD ONLY).",
+    "2. Read the incomplete sentence and predict the *type* of word needed (e.g., noun, verb, date) and guess possible answers.",
+    "3. Identify scan-able keywords in the sentence.",
+    "4. Scan the text to locate the paraphrased sentence.",
+    "5. Find the exact word(s) in the text that fill the blank grammatically.",
+    "6. Check your word count."
+  ],
+  "trap_example": "The 'Word Count Violation' Trap. If the limit is 'ONE WORD ONLY' and the text says 'bright red car', you cannot write 'red car' (2 words). You must choose the most essential word, which is 'car'. Also, hyphenated words like 'state-of-the-art' count as ONE word.",
+  "micro_practice_example": "Limit: NO MORE THAN TWO WORDS. \nText: The ancient Romans constructed complex aqueducts to provide a steady supply of fresh water to their sprawling cities. \nQuestion: The Romans built ______________ to ensure their cities had water. \n(Answer: 'complex aqueducts' OR 'aqueducts'. 'fresh water' is wrong because they built the aqueducts, not the water).",
+  "review_method": "Always double-check the grammar of your completed sentence. Read it aloud in your head. If it sounds grammatically incorrect, you chose the wrong word from the text.",
+  "image_url": null,
+  "image_prompt_fallback": "A visual representation of filling in a blank puzzle piece. The puzzle piece has the word 'aqueduct' on it, and it fits perfectly into a gap in a printed sentence.",
+  "quiz": [
+    {
+      "question": "If the instruction says 'NO MORE THAN TWO WORDS', how many words does the hyphenated term 'long-term' count as?",
+      "options": {
+        "A": "One word",
+        "B": "Two words",
+        "C": "Three words",
+        "D": "It depends on the context."
+      },
+      "correct_answer": "A",
+      "explanation": "In the IELTS test, hyphenated words (words joined by a dash like 'part-time' or 'state-of-the-art') are always counted as a single word."
+    }
+  ]
+}

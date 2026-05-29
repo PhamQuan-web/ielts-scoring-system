@@ -1,0 +1,69 @@
+{
+  "lesson_id": "grammar_10",
+  "title": "Nominalisation",
+  "grammar_goal": "Elevates Grammatical Range and Vocabulary to Band 7+ by transforming verbs/adjectives into nouns, a hallmark of formal academic writing.",
+  "core_rule": {
+    "formula": "Verb/Adjective + suffix (-tion, -ment, -ity, -ness, -al, etc.) -> Noun",
+    "usage": "Nominalisation allows you to discuss concepts and abstract ideas rather than specific people doing specific actions. It shifts the focus from the 'doer' to the 'action/concept' itself, which is essential for an objective academic tone.",
+    "signals": [
+      "The development of...",
+      "The reduction in...",
+      "An improvement in...",
+      "The stability of..."
+    ]
+  },
+  "when_to_use": [
+    "Task 2: Throughout the essay to maintain an objective tone (e.g., 'The consumption of fast food...' instead of 'People consume fast food...').",
+    "Task 1: Describing trends where the noun form is needed for variety (e.g., 'There was a significant fluctuation in...' instead of 'The prices fluctuated significantly.')."
+  ],
+  "when_not_to_use": [
+    "Avoid overusing it in Speaking Part 1 or 2, as it can sound excessively formal and robotic (e.g., 'My enjoyment of the movie was high' instead of 'I really enjoyed the movie').",
+    "Do not nominalise every single verb in a sentence, as it leads to 'noun disease', making the sentence heavy and difficult to read."
+  ],
+  "ielts_examples": {
+    "writing": "The implementation of stricter environmental laws has led to a noticeable reduction in urban air pollution.",
+    "speaking": "I think the accessibility of education in rural areas is a major issue right now."
+  },
+  "repair_section": [
+    {
+      "wrong": "Because they destroyed the forest, many animals lost their homes.",
+      "correct": "The destruction of the forest caused many animals to lose their habitats.",
+      "better_band_upgrade": "The extensive deforestation resulted in a catastrophic loss of animal habitats."
+    },
+    {
+      "wrong": "People rely on technology too much, which is dangerous.",
+      "correct": "The over-reliance on technology is dangerous.",
+      "better_band_upgrade": "Society's excessive dependence on technological devices poses significant risks."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Sticking to S-V-O structures (Subject-Verb-Object) because Vietnamese grammar rarely uses suffixes to change word classes.",
+    "Using the wrong preposition after the nominalised noun (e.g., 'The development for the city' instead of 'The development of the city').",
+    "Inventing incorrect noun forms (e.g., 'The destroyment' instead of 'The destruction')."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "When the economy grows, it helps the country.",
+      "correct_sentence": "The growth of the economy helps the country."
+    },
+    {
+      "wrong_sentence": "The government needs to invest in schools to improve education.",
+      "correct_sentence": "Government investment in schools is necessary for the improvement of education."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1455390582262-044cdead27d8?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A visual metaphor showing a flowing liquid (representing a verb/action) being frozen into a solid block (representing a noun/concept).",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses nominalisation to create a formal academic tone?",
+      "options": {
+        "A": "If we produce more food locally, the environment will be better.",
+        "B": "Producing more food locally makes the environment better.",
+        "C": "An increase in local food production leads to environmental improvement.",
+        "D": "When food is produced locally more, the environment improves."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C transforms the verbs 'produce' and 'improve' into the nouns 'production' and 'improvement', resulting in a highly objective and formal academic sentence."
+    }
+  ]
+}

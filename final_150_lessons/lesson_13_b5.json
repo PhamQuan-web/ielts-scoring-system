@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_13",
+  "title": "How to Use Vocabulary Naturally",
+  "strategy_problem": "A major issue for candidates aiming for Band 7+ is 'forced vocabulary.' They learn lists of complex, obscure words and awkwardly shoehorn them into sentences where they don't belong, resulting in a lower Lexical Resource score due to poor collocation and style.",
+  "core_framework": [
+    "1. Learn Collocations, Not Single Words: Never learn 'impact' alone. Learn 'a profound impact,' 'a significant impact,' 'to mitigate an impact.' Words travel in packs.",
+    "2. The Context Rule: Just because two words are synonyms in a dictionary does not mean they are interchangeable. 'Consequences' is usually negative, whereas 'results' is neutral. Using them incorrectly changes your meaning.",
+    "3. Active vs. Passive Vocabulary: You don't need to actively use every complex word you understand. Aim to upgrade your 'active' vocabulary\u2014words you can deploy instantly while speaking without hesitation.",
+    "4. Phrasal Verbs in Speaking: In Speaking, idiomatic language often means natural phrasal verbs, not Shakespearean vocabulary. Using 'figure out' is often more natural than 'ascertain' in a spoken context."
+  ],
+  "ielts_scenario": "In Speaking Part 1, the examiner asks: 'Do you like your hometown?' The student answers: 'Yes, the ubiquitous nature of the benevolent local populace is highly advantageous.' This sounds ridiculous and will score poorly. A Band 8 answer would be: 'Absolutely, the locals are incredibly welcoming, and there's a real sense of community that I genuinely appreciate.'",
+  "do_dont_table": {
+    "do": [
+      "Use online collocations dictionaries (like OZDIC) to see how words combine naturally.",
+      "Record new vocabulary in full sentences context, not isolated lists.",
+      "Use phrasal verbs and idiomatic expressions in the Speaking test to sound more natural."
+    ],
+    "dont": [
+      "Use a complex word if you are unsure of exactly how it functions in a sentence.",
+      "Try to use overly formal, academic language in Speaking Parts 1 and 2.",
+      "Replace every simple word with a complex synonym; it ruins fluency."
+    ]
+  },
+  "example_application": "Instead of trying to use the word 'ameliorate' (to make better) in a speaking test about your hobby, use a natural collocation like 'It really helps me unwind' or 'It takes my mind off things.'",
+  "personal_action_step": "Take 5 words you recently learned. Look them up in a collocations dictionary and write down two common adjective-noun or verb-noun pairings for each. Then, write a sentence for each pairing.",
+  "image_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A close up of a notebook. A single word is written, crossed out, and replaced by a phrase showing the word used naturally within a complete sentence context.",
+  "quiz": [
+    {
+      "question": "Why is 'forced vocabulary' heavily penalized in the IELTS Speaking test?",
+      "options": {
+        "A": "Examiners prefer candidates to use only very simple, basic English.",
+        "B": "It shows a lack of awareness of collocation, style, and natural usage, reducing clarity.",
+        "C": "Complex words take too long to say, which wastes test time.",
+        "D": "It proves the candidate has memorized their answers."
+      },
+      "correct_answer": "B",
+      "explanation": "Higher bands in Lexical Resource require candidates to show an awareness of style and collocation. Using a 'big word' incorrectly demonstrates that the candidate does not truly understand how the language works."
+    }
+  ]
+}

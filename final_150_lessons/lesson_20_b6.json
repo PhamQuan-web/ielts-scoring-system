@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_20",
+  "title": "How to Write a Strong Overview",
+  "writing_skill_goal": "Master the Overview paragraph, the single most important part of an IELTS Task 1 essay for achieving a Band 7 or higher.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "An overview must start with the word 'Overall'. It should highlight 2 or 3 main trends, differences, or stages, without mentioning any specific data points (numbers, percentages).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Overall, the highest number was 500 in 1990 and the lowest was 20 in 2000. Apples went up to 40%.",
+      "improved_version": "Overall, it is clear that the consumption of apples experienced a significant increase over the period, while the figures for bananas and oranges saw a steady decline. Furthermore, apples consistently remained the most popular fruit.",
+      "explanation": "The weak version lists specific data, which belongs in the detail paragraphs, not the overview. The improved version correctly identifies the broad trends (increase vs. decline) and the highest category overall."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify Trends (for over-time charts)",
+      "content": "Look at the start and end of the lines/bars. Did the category go up, down, or fluctuate? Group similar categories together (e.g., 'A and B increased, while C decreased')."
+    },
+    {
+      "step": "Identify Extremes (for static charts)",
+      "content": "If there is no time period, look for the highest and lowest points, or the biggest differences between categories."
+    },
+    {
+      "step": "Write 2 Clear Sentences",
+      "content": "Start with 'Overall, it is clear that...'. Use the first sentence for your biggest observation, and the second sentence for your next biggest observation using a linker like 'Furthermore,' or 'In addition,'."
+    }
+  ],
+  "common_mistakes": [
+    "Including data points (numbers/percentages). If you include numbers, it is a detail paragraph, not an overview, and your score will drop.",
+    "Putting the overview at the very end of the essay and running out of time to finish it.",
+    "Starting the overview without a clear signpost word like 'Overall'."
+  ],
+  "original_ielts_prompt": "The graph below shows the percentage of households with different technology in the UK from 1995 to 2015.",
+  "model_micro_answer": "Overall, it is evident that the ownership of mobile phones and internet connections grew dramatically over the twenty years. Conversely, the percentage of households with landline telephones experienced a noticeable decline.",
+  "image_url": null,
+  "image_prompt_fallback": "A bird's-eye view illustration of a person standing on a mountain looking down at a forest, representing looking at the 'big picture' overview rather than looking closely at individual trees (data details).",
+  "quiz": [
+    {
+      "question": "Which of the following is a rule for writing an Overview paragraph?",
+      "options": {
+        "A": "It must include the exact numbers from the chart.",
+        "B": "It must be at least 100 words long.",
+        "C": "It must NOT include any specific numbers, percentages, or data points.",
+        "D": "It must give your personal opinion on the chart."
+      },
+      "correct_answer": "C",
+      "explanation": "The overview is meant to be a summary of the 'main features'. Specific data points belong exclusively in the subsequent detail paragraphs where you support the overview."
+    }
+  ]
+}

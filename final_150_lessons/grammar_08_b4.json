@@ -1,0 +1,76 @@
+{
+  "lesson_id": "grammar_08",
+  "title": "Participle Clauses",
+  "grammar_goal": "Demonstrates advanced Grammatical Range (Band 7-9) by concisely giving reasons, results, or conditions without using full standard clauses.",
+  "core_rule": {
+    "formula": "Present Participle (V-ing) / Past Participle (V-ed/3) / Perfect Participle (Having + V3) + main clause",
+    "usage": "Use V-ing for active meanings or things happening at the same time. Use V-ed for passive meanings or conditions. Use Having + V3 for an action completed before the main action. The subject of the participle clause must be the same as the subject of the main clause.",
+    "signals": [
+      "Being",
+      "Having done",
+      "Located in",
+      "Realising that",
+      "Exhausted from"
+    ]
+  },
+  "when_to_use": [
+    "Task 2: To give reasons elegantly (e.g., 'Realising the danger, the government acted...').",
+    "Task 1 (Maps): To describe locations passively (e.g., 'Located in the north, the forest...').",
+    "Task 1 (Processes): To describe sequential steps (e.g., 'Having been cleaned, the bottles are...')."
+  ],
+  "when_not_to_use": [
+    "Do not use if the subjects of the two clauses are different (this creates a 'dangling modifier' e.g., 'Walking down the street, the trees were beautiful' implies the trees were walking).",
+    "Avoid overusing them in Speaking Part 1; they are very formal and better suited for written or highly academic contexts."
+  ],
+  "ielts_examples": {
+    "writing": "Having analyzed the data thoroughly, the researchers concluded that immediate action was necessary.",
+    "speaking": "Growing up in a rural area, I learned to appreciate the quietness of nature."
+  },
+  "repair_section": [
+    {
+      "wrong": "Because he was tired, he went to bed early.",
+      "correct": "Being tired, he went to bed early.",
+      "better_band_upgrade": "Exhausted from the day's labor, he retired for the evening prematurely."
+    },
+    {
+      "wrong": "Looking out the window, the sun was shining.",
+      "correct": "Looking out the window, I saw the sun shining.",
+      "better_band_upgrade": "Gazing through the window, I observed the radiant sunlight."
+    },
+    {
+      "wrong": "After they finished the test, the students left.",
+      "correct": "Having finished the test, the students left.",
+      "better_band_upgrade": "Having completed the examination, the candidates exited the hall."
+    }
+  ],
+  "vietnamese_learner_mistakes": [
+    "Dangling Modifiers: The subject of the main clause doesn't match the implied subject of the participle clause.",
+    "Using V-ing when a passive V-ed meaning is needed (e.g., 'Building in 1990, the house...' instead of 'Built in 1990...').",
+    "Forgetting the comma after an introductory participle clause."
+  ],
+  "mini_sentence_repair_exercise": [
+    {
+      "wrong_sentence": "Driving to work, a dog ran across the road.",
+      "correct_sentence": "Driving to work, I saw a dog run across the road."
+    },
+    {
+      "wrong_sentence": "Because it was built of wood, the house caught fire easily.",
+      "correct_sentence": "Built of wood, the house caught fire easily."
+    }
+  ],
+  "image_url": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?q=80&w=1600&auto=format&fit=crop",
+  "image_prompt_fallback": "A sleek, minimalist arrow combining two elements into one, representing the concise nature of participle clauses.",
+  "quiz": [
+    {
+      "question": "Which sentence correctly uses a perfect participle clause?",
+      "options": {
+        "A": "Having read the book, the movie was a disappointment.",
+        "B": "Having read the book, I found the movie disappointing.",
+        "C": "Have reading the book, I found the movie disappointing.",
+        "D": "Read the book, I found the movie disappointing."
+      },
+      "correct_answer": "B",
+      "explanation": "Option B is correct. 'Having read' shows the action finished before the main clause. The subject 'I' correctly matches who read the book. Option A is a dangling modifier."
+    }
+  ]
+}

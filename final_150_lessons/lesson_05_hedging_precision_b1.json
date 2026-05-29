@@ -1,0 +1,110 @@
+{
+  "lesson_id": "vocab_colloc_05",
+  "title": "Hedging and Precision Language",
+  "topic_snapshot": {
+    "target_skills": [
+      "Writing"
+    ],
+    "description": "Crucial language for making claims more accurate, academic, and less absolute (Band 7+ requirement). Avoiding sweeping generalizations."
+  },
+  "key_vocabulary_bank": [
+    {
+      "word": "Arguably",
+      "phonetic": "/ˈɑːɡ.ju.ə.bli/",
+      "cefr_level": "B2",
+      "meaning": "Used when stating an opinion or belief that you think can be shown to be true.",
+      "example": "She is arguably the greatest athlete of her generation.",
+      "image_url": null,
+      "image_prompt_fallback": "A balanced scale showing a strong argument outweighing a weaker one, representing a defensible opinion."
+    },
+    {
+      "word": "Predominantly",
+      "phonetic": "/prɪˈdɒm.ɪ.nənt.li/",
+      "cefr_level": "C1",
+      "meaning": "Mostly or mainly.",
+      "example": "The audience at the concert was predominantly young teenagers.",
+      "image_url": null,
+      "image_prompt_fallback": "A crowd of people where the vast majority are wearing blue shirts, highlighting the concept of 'mostly'."
+    },
+    {
+      "word": "Plausible",
+      "phonetic": "/ˈplɔː.zə.bəl/",
+      "cefr_level": "C1",
+      "meaning": "Seeming likely to be true, or able to be believed.",
+      "example": "It is entirely plausible that artificial intelligence will replace certain routine administrative jobs.",
+      "image_url": null,
+      "image_prompt_fallback": "A person nodding thoughtfully while reviewing a realistic and logical plan on a document."
+    }
+  ],
+  "collocation_builder": [
+    {
+      "collocation": "A vast majority",
+      "meaning": "Almost everyone or everything in a group (more precise than 'all').",
+      "example": "A vast majority of the respondents indicated that they prefer flexible working hours."
+    },
+    {
+      "collocation": "Highly unlikely",
+      "meaning": "Very improbable (softer and more academic than 'impossible').",
+      "example": "It is highly unlikely that a single solution will resolve the complex issue of climate change."
+    },
+    {
+      "collocation": "Tend to",
+      "meaning": "To be likely to behave in a particular way or have a particular characteristic.",
+      "example": "People tend to be more productive when they work in a well-lit environment."
+    }
+  ],
+  "upgrade_section": [
+    {
+      "weak_phrase": "Everyone thinks that",
+      "better_upgrade": "It is widely believed that / A vast majority argue that",
+      "example": "It is widely believed that physical education is crucial for child development."
+    },
+    {
+      "weak_phrase": "This will cause",
+      "better_upgrade": "This is highly likely to result in / This may potentially trigger",
+      "example": "Ignoring environmental policies is highly likely to result in irreversible ecological damage."
+    },
+    {
+      "weak_phrase": "It is impossible",
+      "better_upgrade": "It is highly improbable / It seems unlikely",
+      "example": "It is highly improbable that global eradication of poverty can be achieved within a single decade."
+    }
+  ],
+  "sentence_frames": [
+    "It is generally accepted that [Subject] tends to...",
+    "While it is plausible that [A], it is highly unlikely that [B].",
+    "A significant proportion of society arguably benefits from..."
+  ],
+  "ielts_usage_examples": {
+    "writing_example": "While strict censorship may arguably prevent the spread of misinformation, it is highly unlikely to be effective in an era dominated by decentralized social media.",
+    "speaking_example": "I'd say people predominantly consume news through their smartphones nowadays, as it tends to be far more convenient than buying a physical newspaper."
+  },
+  "common_mistakes": [
+    "Using absolute terms like 'All people', 'Always', or 'Never' which makes arguments vulnerable and lowers the Task Response score.",
+    "Using 'majority of' without 'the' or 'a' (e.g., writing 'Majority of people' instead of 'The majority of people')."
+  ],
+  "quiz": [
+    {
+      "question": "Which of the following sentences uses appropriate academic hedging?",
+      "options": {
+        "A": "Technology always ruins interpersonal communication.",
+        "B": "Nobody talks face-to-face anymore because of smartphones.",
+        "C": "Heavy reliance on smartphones tends to diminish face-to-face interaction.",
+        "D": "Smartphones will definitely destroy human relationships entirely."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C uses 'tends to' to hedge the claim, avoiding the absolute, generalized statements found in A, B, and D, which are penalized in IELTS."
+    },
+    {
+      "question": "Which word is a C1-level synonym for 'mostly' or 'mainly'?",
+      "options": {
+        "A": "Plausibly",
+        "B": "Arguably",
+        "C": "Predominantly",
+        "D": "Absolutely"
+      },
+      "correct_answer": "C",
+      "explanation": "'Predominantly' is an excellent academic adverb to express that something consists mostly or primarily of a particular element."
+    }
+  ]
+}

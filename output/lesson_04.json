@@ -1,0 +1,40 @@
+{
+  "lesson_id": "strat_04",
+  "title": "How to Move from Band 6.5 to 7.0",
+  "strategy_problem": "Students at Band 6.5 usually have a solid grasp of English but fall short of 7.0 due to a lack of 'flexibility' and 'idiomatic language' in Lexical Resource, or they make frequent small errors that prevent them from achieving 'frequent error-free sentences' in Grammatical Range and Accuracy.",
+  "core_framework": [
+    "Idiomatic Language (LR): Band 7 requires 'some awareness of style and collocation, including idiomatic vocabulary.' This doesn't just mean idioms like 'raining cats and dogs'. It means natural collocations (e.g., 'a profound impact' instead of 'a big impact') and phrasal verbs.",
+    "Error-Free Sentences (GRA): To hit Band 7, the majority of your sentences must be error-free. You need to focus on accuracy with complex structures, not just attempting them.",
+    "Topic Development (FC): Your answers in Part 3 need deeper development. Move beyond simple 'Reason + Example' to exploring alternatives, discussing hypotheticals, or analyzing causes and effects."
+  ],
+  "ielts_scenario": "A student answers a Part 3 question about the future of transportation by saying, 'I think cars will fly. It is good for people.' This is too simple for Band 7. A Band 7 answer would be, 'It's highly likely that we'll see a shift towards autonomous flying vehicles, which could drastically reduce congestion on the ground.'",
+  "do_dont_table": {
+    "do": [
+      "Learn vocabulary in 'chunks' or collocations, not just isolated words.",
+      "Practice self-correction. If you make a mistake while speaking, naturally correct it (e.g., 'He go... sorry, he goes...'). This is acceptable at Band 7.",
+      "Use a wider range of cohesive devices naturally (e.g., 'Having said that...', 'On the flip side...')."
+    ],
+    "dont": [
+      "Force unnatural idioms into your answers just to tick a box.",
+      "Try to use overly complex grammar if you are unsure of how it works; it leads to too many errors.",
+      "Give brief, superficial answers in Part 3."
+    ]
+  },
+  "example_application": "Instead of using the basic idiom 'a piece of cake', use more natural phrasing like 'It was relatively straightforward' or 'I found it quite effortless.'",
+  "personal_action_step": "Review a recent practice essay or speaking recording. Identify 3 basic verbs or adjectives you used (like 'good', 'bad', 'do', 'make') and find strong, natural collocations to replace them.",
+  "image_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A close-up of a student writing in a notebook, with a focus on advanced vocabulary words crossed out and replaced with natural collocations.",
+  "quiz": [
+    {
+      "question": "According to the IELTS Band Descriptors, what is a specific requirement for Band 7 Lexical Resource that is NOT required for Band 6?",
+      "options": {
+        "A": "Using only simple vocabulary",
+        "B": "Using some less common and idiomatic vocabulary",
+        "C": "Having a perfect, native-like accent",
+        "D": "Never making any vocabulary mistakes"
+      },
+      "correct_answer": "B",
+      "explanation": "Band 7 requires candidates to use some less common and idiomatic vocabulary and show some awareness of style and collocation, whereas Band 6 only requires an adequate range of vocabulary for the task."
+    }
+  ]
+}

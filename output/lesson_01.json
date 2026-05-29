@@ -1,0 +1,41 @@
+{
+  "lesson_id": "strat_01",
+  "title": "IELTS Band Descriptors Explained Simply",
+  "strategy_problem": "Many students try to memorize 'Band 9 vocabulary' but ignore the actual rules examiners use to score them. They don't realize that speaking is graded on four equal criteria: Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy, and Pronunciation.",
+  "core_framework": [
+    "Fluency and Coherence (FC): Speak continuously without long pauses, and link your ideas smoothly using connectives.",
+    "Lexical Resource (LR): Use a variety of words accurately. It's better to use common words perfectly than rare words incorrectly.",
+    "Grammatical Range and Accuracy (GRA): Use a mix of simple and complex sentences. Don't worry about minor mistakes if your meaning is clear.",
+    "Pronunciation (PR): Speak clearly and naturally. You don't need a British or American accent; your examiner just needs to understand you easily."
+  ],
+  "ielts_scenario": "In Part 3, the examiner asks a complex question. A student tries to use the word 'ubiquitous' but hesitates for 5 seconds and mispronounces it. The examiner will lower their Fluency and Pronunciation scores, even if the vocabulary word is advanced.",
+  "do_dont_table": {
+    "do": [
+      "Read the official IELTS public band descriptors.",
+      "Balance your practice across all four scoring criteria.",
+      "Focus on clear communication over complex memorization."
+    ],
+    "dont": [
+      "Memorize long lists of rare words without knowing how to use them.",
+      "Worry about your natural accent, as long as it is clear.",
+      "Sacrifice fluency just to think of a difficult grammar structure."
+    ]
+  },
+  "example_application": "Instead of saying, 'The ubiquitous nature of vehicular congestion is deleterious' (which sounds unnatural and forced), say, 'Traffic jams are very common nowadays and they cause a lot of problems.' This is fluent, clear, and perfectly grammatical.",
+  "personal_action_step": "Download the official IELTS Speaking Public Band Descriptors. Highlight the differences between Band 6 and Band 7 for all four criteria.",
+  "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "image_prompt_fallback": "A well-organized study desk with a printed document titled 'IELTS Band Descriptors' highlighted in yellow. A cup of coffee and a notebook are nearby, bright natural lighting.",
+  "quiz": [
+    {
+      "question": "Which of the following is NOT one of the four IELTS Speaking assessment criteria?",
+      "options": {
+        "A": "Fluency and Coherence",
+        "B": "Grammatical Range and Accuracy",
+        "C": "Idea Originality and Logic",
+        "D": "Pronunciation"
+      },
+      "correct_answer": "C",
+      "explanation": "IELTS tests your language skills, not your general knowledge or the originality of your ideas. The four criteria are Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy, and Pronunciation."
+    }
+  ]
+}

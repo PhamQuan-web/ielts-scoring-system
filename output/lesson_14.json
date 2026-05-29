@@ -1,0 +1,41 @@
+{
+  "lesson_id": "foundations_14",
+  "title": "Handling Abstract Questions",
+  "speaking_skill_goal": "Part 3",
+  "answer_framework": "Sometimes in Part 3, the examiner will ask a question that is incredibly abstract, philosophical, or something you have never thought about before. Panicking or staying silent will destroy your fluency score. Use the 'Acknowledge & Pivot' strategy.\n\n1. Buy Time (Acknowledge): 'That's a really intriguing question. I haven't given it much thought before, but...'\n2. Pivot to a related topic: Try to connect the abstract idea to something you *can* talk about.\n3. Think out loud: It's okay to formulate your opinion as you speak.",
+  "useful_phrase_bank": [
+    "That's a really intriguing question.",
+    "I've never really thought about it before, but off the top of my head...",
+    "It's hard to say for sure, but I suppose...",
+    "To be completely honest, I'm not an expert on this, but..."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "(Silence for 10 seconds)... I don't know.",
+      "better_answer": "That's a really intriguing question. I've never really thought about the psychology behind why people collect art before. But off the top of my head, I suppose it might be related to a desire for status or an appreciation for human creativity."
+    }
+  ],
+  "fluency_pronunciation_note": "When using 'buying time' phrases, say them slowly and smoothly. Do not rush through them. Stretching out 'That's a reeeally intriiiiguing question...' gives your brain valuable seconds to actually think of the answer.",
+  "sample_ielts_question": "What is the relationship between architecture and a nation's cultural identity?",
+  "model_short_answer": "Wow, that's a fairly complex issue. To be completely honest, I'm not an expert on architecture, but it seems to me that buildings reflect the history and values of a country. For instance, traditional temples in Asia reflect spiritual heritage, whereas modern glass skyscrapers might represent a nation's push towards global capitalism.",
+  "common_mistakes": [
+    "Sitting in dead silence while trying to translate a perfect answer in your head.",
+    "Saying 'I don't know' and stopping completely.",
+    "Rushing into an answer without thinking, getting confused, and stopping halfway."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1494059980473-813e73ee784b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A person looking slightly upwards, deep in thought, rubbing their chin while trying to solve a complex puzzle.",
+  "quiz": [
+    {
+      "question": "What is the primary purpose of saying 'That's a really intriguing question'?",
+      "options": {
+        "A": "To flatter the examiner.",
+        "B": "To show off your vocabulary.",
+        "C": "To buy yourself a few seconds to think without pausing silently.",
+        "D": "To avoid answering the question."
+      },
+      "correct_answer": "C",
+      "explanation": "These 'filler' or 'buying time' phrases keep your speech flowing (maintaining your Fluency score) while giving your brain the necessary seconds to formulate an idea."
+    }
+  ]
+}

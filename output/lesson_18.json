@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_18",
+  "title": "Natural Speaking Vocabulary",
+  "speaking_skill_goal": "Part 1, 2, or 3",
+  "answer_framework": "A massive mistake candidates make is trying to use highly formal, academic writing vocabulary (like 'furthermore', 'hence', or 'elucidate') in the Speaking test. The Speaking test is an interview, not an essay. To score well in Lexical Resource, you need to use *natural, spoken* English.\n\nKey areas to focus on:\n1. Phrasal Verbs: Native speakers use these constantly. (e.g., say 'chill out' instead of 'relax', 'catch up on' instead of 'complete missing work').\n2. Collocations: Words that naturally go together. (e.g., 'heavy rain' instead of 'strong rain', 'make a decision' instead of 'do a decision').\n3. Conversational Fillers: (e.g., 'Well...', 'You know...', 'Actually...'). These make you sound like a human, not a textbook.",
+  "useful_phrase_bank": [
+    "To catch up with (friends/work)",
+    "To look forward to (something)",
+    "To put off (delay something)",
+    "To be honest with you...",
+    "At the end of the day..."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "Furthermore, I relaxed at my house because I was exhausted.",
+      "better_answer": "Actually, I just stayed home and chilled out on the sofa, as I was absolutely exhausted from the week."
+    }
+  ],
+  "fluency_pronunciation_note": "Phrasal verbs are often pronounced as one connected word. For example, 'catch up on' sounds like 'ca-chup-on'. Linking these words smoothly is key to native-like fluency.",
+  "sample_ielts_question": "What do you usually do on weekends?",
+  "model_short_answer": "Well, normally I just use the weekend to catch up on some much-needed sleep. But if the weather's nice, I really look forward to hanging out with my friends at a local cafe and just shooting the breeze.",
+  "common_mistakes": [
+    "Using formal writing transition words ('Moreover', 'Thus', 'Therefore') in speaking.",
+    "Memorising a list of obscure 'Band 9' words from the dictionary but using them in the wrong context.",
+    "Translating idioms directly from your native language into English."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A group of friends laughing and chatting casually in a cozy coffee shop, representing natural, conversational spoken English.",
+  "quiz": [
+    {
+      "question": "Which of the following is the most natural way to express a contrasting idea in IELTS Speaking?",
+      "options": {
+        "A": "Nevertheless, I do not enjoy it.",
+        "B": "Notwithstanding this fact, I dislike it.",
+        "C": "But to be honest, I'm not really a big fan of it.",
+        "D": "Henceforth, I shall avoid it."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C uses natural spoken English ('to be honest', 'not a big fan'). Options A, B, and D use highly formal academic vocabulary that sounds bizarre and robotic in a spoken interview."
+    }
+  ]
+}

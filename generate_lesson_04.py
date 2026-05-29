@@ -1,0 +1,46 @@
+import json
+
+lesson_data = {
+  "lesson_id": "foundations_04",
+  "title": "Paraphrasing the Question",
+  "speaking_skill_goal": "Part 1",
+  "answer_framework": "A quick way to lose points in Lexical Resource is to repeat the exact words the examiner uses in their question (also known as 'parroting'). Paraphrasing—expressing the same idea using different words—shows you have a flexible vocabulary.\n\nHere are 3 core strategies for paraphrasing in IELTS Speaking:\n\n1. Use Synonyms: Swap words for ones with similar meanings. (e.g., 'like' -> 'enjoy', 'fond of', 'keen on'; 'important' -> 'crucial', 'vital').\n\n2. Change the Word Form: Change a noun to a verb, or an adjective to a noun. (e.g., Q: 'Is your hometown a safe place?' -> A: 'Yes, I'd say there is a lot of safety in my area.').\n\n3. Change the Sentence Structure: Rearrange the grammar, for example, by using a dummy subject like 'It is...' or switching from active to passive voice. (e.g., Q: 'Do people in your country celebrate birthdays?' -> A: 'Yes, it is very common for birthdays to be celebrated here.')\n\nYou do not need to change every single word, just enough to show lexical flexibility.",
+  "useful_phrase_bank": [
+    "I'm quite fond of ... (Synonym for like)",
+    "I'm not particularly keen on ... (Synonym for dislike)",
+    "It's absolutely crucial that ... (Synonym for important)",
+    "It is generally considered to be ... (Structure change)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "(Q: Do you like listening to music?) Yes, I like listening to music. Music is good.",
+      "better_answer": "(Q: Do you like listening to music?) Absolutely. I'm a massive fan of tuning into various genres, especially indie rock, as it really helps me relax."
+    }
+  ],
+  "fluency_pronunciation_note": "Don't pause for 5 seconds trying to think of the perfect synonym. If you can't think of a paraphrase quickly, it is better for your Fluency score to just repeat the word and keep speaking smoothly, rather than stuttering.",
+  "sample_ielts_question": "Do you think it is important to learn a foreign language?",
+  "model_short_answer": "Yes, I believe it's absolutely vital. Being bilingual opens up so many doors, not just for career prospects, but also for understanding different cultures and ways of thinking.",
+  "common_mistakes": [
+    "Parroting the examiner's question word-for-word in every response.",
+    "Using completely inappropriate synonyms because they sound 'fancy' (e.g., saying 'I abhor apples' instead of 'I dislike apples').",
+    "Sacrificing fluency by hesitating too long to find a paraphrase."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A student looking at a notebook with various words and arrows pointing to their synonyms, symbolizing language flexibility.",
+  "quiz": [
+     {
+      "question": "If the examiner asks: 'Do you enjoy reading books?', which is the best paraphrased opening?",
+      "options": {
+        "A": "Yes, I enjoy reading books.",
+        "B": "Yes, reading books is something I enjoy.",
+        "C": "Absolutely, I'm quite an avid reader and love diving into novels.",
+        "D": "Yes, I like to look at text printed on paper."
+      },
+      "correct_answer": "C",
+      "explanation": "Option C successfully uses synonyms ('avid reader', 'novels') to naturally paraphrase the concept without sounding robotic. Option D is unnatural, and A/B parrot the question too much."
+    }
+  ]
+}
+
+with open("output/lesson_04.json", "w", encoding="utf-8") as f:
+    json.dump(lesson_data, f, indent=2, ensure_ascii=False)

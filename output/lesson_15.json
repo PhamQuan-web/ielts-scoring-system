@@ -1,0 +1,41 @@
+{
+  "lesson_id": "foundations_15",
+  "title": "Fluency: How to Avoid Long Pauses",
+  "speaking_skill_goal": "Part 1, 2, or 3",
+  "answer_framework": "Fluency is not about speaking at 100 miles per hour. It is about flow and continuity. Long, unnatural pauses (silence) or frequent filler sounds ('Ummm', 'Ahhh') will severely drop your score. The solution is 'Active Chunking' and 'Signposting'.\n\n1. Chunking: Group words into meaningful phrases and pause slightly *between* the chunks, not in the middle of a thought. (e.g., 'I went to the store / to buy some milk / but it was closed.')\n2. Signposting: Use transition words to signal where your answer is going. If you forget a word, paraphrase immediately instead of stopping to search for it in your brain.",
+  "useful_phrase_bank": [
+    "What I mean is... (Used to fix a mistake without stopping)",
+    "In other words... (Used to rephrase when stuck)",
+    "Basically... (Used to summarize when you are rambling)",
+    "Let me put it this way... (Used to explain an idea more simply)"
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "I like to go... umm... to the... ahh... place where they sell... umm... fresh vegetables.",
+      "better_answer": "I really enjoy visiting the local markets. What I mean is, I prefer buying fresh produce directly from farmers rather than from big supermarkets."
+    }
+  ],
+  "fluency_pronunciation_note": "A 1-second pause to take a breath at the end of a sentence is natural and necessary. A 3-second pause in the middle of a sentence while looking at the ceiling is unnatural hesitation.",
+  "sample_ielts_question": "Do you prefer studying alone or with others?",
+  "model_short_answer": "I generally prefer studying alone. Let me put it this way: when I'm by myself, I can completely control my environment and focus without any distractions. However, if I'm working on a complex group project, then obviously collaborating with others becomes essential.",
+  "common_mistakes": [
+    "Overusing 'Ummm' and 'Uhhh' instead of just taking a silent breath.",
+    "Speaking too fast, running out of breath, and then having to stop awkwardly.",
+    "Stopping mid-sentence to correct a small grammar mistake (self-correction lowers fluency)."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1516222338250-863216ce01ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A smooth, flowing river winding through a valley, representing the natural flow and continuity of fluent speech.",
+  "quiz": [
+    {
+      "question": "If you realize you just made a small grammar mistake while speaking, what is the best thing to do for your Fluency score?",
+      "options": {
+        "A": "Stop immediately, apologize to the examiner, and say the sentence again perfectly.",
+        "B": "Ignore it completely and keep speaking smoothly.",
+        "C": "Say 'Ummm', think about the rule, and correct the verb.",
+        "D": "Ask the examiner if they noticed the mistake."
+      },
+      "correct_answer": "B",
+      "explanation": "Frequent self-correction is explicitly penalized in the Fluency marking criteria. It is much better to ignore minor errors and maintain a smooth, confident flow."
+    }
+  ]
+}

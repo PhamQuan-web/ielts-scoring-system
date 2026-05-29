@@ -1,0 +1,42 @@
+{
+  "lesson_id": "foundations_11",
+  "title": "Giving Examples",
+  "speaking_skill_goal": "Part 3",
+  "answer_framework": "Abstract ideas in Part 3 can be difficult to explain clearly. The best way to make your point understood and to extend your answer naturally is to provide a concrete example. Use the 'General to Specific' framework.\n\n1. State the General Truth: 'Many young people struggle with financial literacy.'\n2. Introduce the Example: Use a strong phrase like 'A prime example of this is...' or 'To illustrate this point...'\n3. Give a Specific Real-World Scenario: '...how many university graduates take out massive credit card debt because they were never taught budgeting in high school.'",
+  "useful_phrase_bank": [
+    "A prime example of this is ...",
+    "To illustrate this point, ...",
+    "Take ... as an example.",
+    "By way of illustration, ...",
+    "For instance, we only need to look at ..."
+  ],
+  "weak_vs_better": [
+    {
+      "weak_answer": "Pollution is bad. Like in my city, it's dirty.",
+      "better_answer": "Air pollution has severe consequences for public health. A prime example of this is the rising rate of respiratory issues, such as asthma, in heavily industrialized cities."
+    }
+  ],
+  "fluency_pronunciation_note": "Pause very briefly before and after your example marker (e.g., [Pause] 'To illustrate this point,' [Pause] 'many graduates...'). This chunking helps the listener process the transition from theory to reality.",
+  "sample_ielts_question": "How has technology changed the way we communicate?",
+  "model_short_answer": "Technology has made communication instantaneous but perhaps less personal. To illustrate this point, we only need to look at how people behave in restaurants nowadays. Families will sit together at a table, but instead of talking to each other, everyone is glued to their smartphone screens.",
+  "common_mistakes": [
+    "Using 'For example' in every single sentence.",
+    "Giving highly personal examples in Part 3 (e.g., 'For example, my uncle John...') instead of societal examples.",
+    "Giving an example that doesn't actually match the reason previously stated."
+  ],
+  "image_url": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+  "image_prompt_fallback": "A teacher pointing to a specific chart on a projector screen, illustrating a real-world data point to a class.",
+  "quiz": [
+    {
+      "question": "Which of the following is the most appropriate type of example for Part 3?",
+      "options": {
+        "A": "My sister bought a new car yesterday.",
+        "B": "For example, I really like eating pizza on Fridays.",
+        "C": "A prime example of this is how major corporations use targeted social media advertising.",
+        "D": "I think it is very good for everyone."
+      },
+      "correct_answer": "C",
+      "explanation": "Part 3 is an academic, societal discussion. Option C provides a broad, societal/business example ('major corporations'), whereas A and B are too personal and better suited for Part 1 or 2."
+    }
+  ]
+}

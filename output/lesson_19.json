@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_19",
+  "title": "Understanding Academic Task 1",
+  "writing_skill_goal": "Learn the core requirements of Academic Task 1, including the word count, time limit, and overall structure.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Task 1 requires you to summarise visual information in at least 150 words within 20 minutes. Structure: 1. Introduction. 2. Overview. 3. Detail Paragraph 1. 4. Detail Paragraph 2.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "This graph is about cars. I think it is interesting because my father has a car. In 2010, the line went up.",
+      "improved_version": "The provided line graph illustrates the number of vehicles purchased in Europe between 2010 and 2020. Overall, there was a steady upward trend in car sales throughout the period.",
+      "explanation": "The weak version includes personal opinion ('I think it is interesting') which is strictly forbidden in Task 1. The improved version objectively paraphrases the title and provides a clear overview."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Introduction (1 sentence)",
+      "content": "Simply paraphrase the title of the chart or graph. Change words like 'shows' to 'illustrates' or 'compares', but do not change the core meaning."
+    },
+    {
+      "step": "Overview (2 sentences)",
+      "content": "Identify the 2 or 3 most significant main features (e.g., the highest point, the lowest point, or the general trend). Do not include any specific numbers or data in this paragraph."
+    },
+    {
+      "step": "Detail Paragraphs (4-6 sentences total)",
+      "content": "Group the specific data logically into two paragraphs. This is where you must cite specific numbers, dates, and percentages to support the main features you mentioned in the overview."
+    }
+  ],
+  "common_mistakes": [
+    "Giving your personal opinion or trying to explain *why* the data changed (e.g., 'Sales went up because the economy was good'). You must only report what you see.",
+    "Listing every single number on the chart, making the essay read like a robot.",
+    "Forgetting to write an Overview paragraph, which limits your Task Achievement score to a Band 5."
+  ],
+  "original_ielts_prompt": "The chart below shows the number of men and women studying engineering at Australian universities between 1992 and 2012. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "model_micro_answer": "Introduction: The bar chart compares the gender distribution of engineering students in Australia over a 20-year period from 1992 to 2012.",
+  "image_url": null,
+  "image_prompt_fallback": "A magnifying glass looking closely at a line graph, with a red circle with a slash through it over a thought bubble showing personal opinion, indicating 'no opinions allowed'.",
+  "quiz": [
+    {
+      "question": "What happens if you include a personal opinion or explanation in your Task 1 essay?",
+      "options": {
+        "A": "You show the examiner you are smart and get a Band 9.",
+        "B": "You lose marks in Task Achievement because you are not following the instruction to simply 'summarise the information'.",
+        "C": "It increases your word count, which is always good.",
+        "D": "You get a higher score for Lexical Resource."
+      },
+      "correct_answer": "B",
+      "explanation": "Task 1 is strictly a factual reporting task. If you interpret the data or give reasons for the trends that are not explicitly shown in the chart, you are not answering the prompt correctly."
+    }
+  ]
+}

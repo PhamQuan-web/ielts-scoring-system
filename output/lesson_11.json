@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_11",
+  "title": "How to Write a Conclusion",
+  "writing_skill_goal": "Learn how to write a concise, effective conclusion that summarises your essay without introducing new information.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "A conclusion requires only two elements: 1. A clear concluding transition. 2. A summary of your main points and a restatement of your opinion (if asked for). Never introduce new ideas.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "To conclude, pollution is bad. Also, we should plant more trees to help the environment.",
+      "improved_version": "In conclusion, while industrial growth provides economic benefits, the resulting environmental degradation cannot be ignored. Therefore, I believe strict regulations are necessary to protect our planet.",
+      "explanation": "The weak version is too brief and introduces a new idea ('plant more trees') not discussed in the essay. The improved version summarises the main argument and clearly states a final position."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Use a Clear Transition",
+      "content": "Start with 'In conclusion,' or 'To conclude,'. Avoid informal phrases like 'To sum up,' or weird idioms like 'In a nutshell'."
+    },
+    {
+      "step": "Summarise Main Points",
+      "content": "Look back at your body paragraphs and paraphrase their main ideas into one single sentence."
+    },
+    {
+      "step": "Restate Your Opinion",
+      "content": "If the prompt asked for your opinion (e.g., 'Do you agree?'), you must explicitly state it again in the conclusion to secure a high Task Response score."
+    }
+  ],
+  "common_mistakes": [
+    "Introducing a completely new argument or example in the conclusion.",
+    "Forgetting to write a conclusion entirely because time ran out (this heavily penalises Task Response and Coherence).",
+    "Copying the exact words from the introduction."
+  ],
+  "original_ielts_prompt": "In the future, it is expected that there will be a higher proportion of older people than younger people in many countries. Is this a positive or negative development?",
+  "model_micro_answer": "In conclusion, the demographic shift towards an aging population presents significant challenges, primarily regarding healthcare costs and a shrinking workforce. Therefore, I view this as a largely negative development that requires urgent government planning.",
+  "image_url": null,
+  "image_prompt_fallback": "A magnifying glass focusing on the bottom paragraph of an essay, with the words 'In conclusion' highlighted and an arrow pointing back to the introduction to show a connection.",
+  "quiz": [
+    {
+      "question": "What happens if you introduce a brand new idea in your conclusion?",
+      "options": {
+        "A": "You get extra points for Lexical Resource.",
+        "B": "The examiner will ignore it, so it doesn't matter.",
+        "C": "It breaks the logical flow of the essay, which lowers your Coherence and Cohesion score.",
+        "D": "It makes your essay longer, which is always good."
+      },
+      "correct_answer": "C",
+      "explanation": "A conclusion must only summarise what has already been discussed. Introducing new ideas confuses the reader and damages the structural coherence of the essay."
+    }
+  ]
+}

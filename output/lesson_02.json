@@ -1,0 +1,61 @@
+{
+  "lesson_id": "WF_02",
+  "title": "Task 2 Question Types",
+  "writing_skill_goal": "Identify the five main types of IELTS Writing Task 2 essays and understand the specific requirements for each.",
+  "band_descriptor_link": [
+    "Task Response"
+  ],
+  "core_writing_framework": "Recognise the five core essay types: Opinion (Agree/Disagree), Discussion (Discuss both views), Advantages & Disadvantages, Problem & Solution, and Two-Part Questions.",
+  "weak_vs_improved": [
+    {
+      "weak_version": "In this essay, I will talk about why public transport is good and then why it is bad.",
+      "improved_version": "This essay will explore the primary benefits of investing in public transport, followed by an analysis of its potential drawbacks.",
+      "explanation": "The improved version clearly states the essay's purpose in an academic tone, showing exactly what type of essay (Advantages/Disadvantages) it is."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Opinion Essays (Agree / Disagree)",
+      "content": "You are asked to give your clear opinion on a statement. You must decide whether you agree, disagree, or partially agree, and defend this stance throughout the essay."
+    },
+    {
+      "step": "Discussion Essays (Discuss both views)",
+      "content": "You must objectively discuss two opposing viewpoints provided in the prompt. Even if you agree with one side, you must give equal attention to explaining both sides before stating your opinion."
+    },
+    {
+      "step": "Advantages and Disadvantages",
+      "content": "The prompt asks you to evaluate the pros and cons of a specific situation or trend. Sometimes, it also asks if the advantages outweigh the disadvantages, requiring a clear overall judgment."
+    },
+    {
+      "step": "Problem and Solution (or Causes and Effects)",
+      "content": "You need to identify the reasons behind a specific problem and propose viable solutions. Structure your essay to address causes in one paragraph and solutions in the next."
+    },
+    {
+      "step": "Two-Part Questions (Direct Questions)",
+      "content": "The prompt contains two distinct questions (e.g., 'Why is this happening? Is it a positive or negative development?'). You must answer both questions fully, usually dedicating one body paragraph to each."
+    }
+  ],
+  "common_mistakes": [
+    "Giving only one side in a 'Discuss both views' essay.",
+    "Forgetting to include your own opinion when the prompt specifically asks for it.",
+    "Answering only one part of a 'Two-Part Question' prompt.",
+    "Listing too many ideas without developing any of them fully."
+  ],
+  "original_ielts_prompt": "Due to the increasing shift towards remote work, many city centres are becoming empty. Why is this happening? Do you think this is a positive or a negative development?",
+  "model_micro_answer": "This phenomenon is primarily caused by technological advancements that allow professionals to work from anywhere. In my view, this is a positive development because it reduces traffic congestion and lowers living costs for workers.",
+  "image_url": null,
+  "image_prompt_fallback": "An infographic style illustration showing five different pathways or signposts, each representing a different essay type like Opinion, Discussion, and Problem/Solution, in an academic setting.",
+  "quiz": [
+    {
+      "question": "If a prompt asks 'Discuss both these views and give your own opinion', what MUST you include in your essay?",
+      "options": {
+        "A": "Arguments for one side only, along with your opinion.",
+        "B": "An analysis of both viewpoints and a clear statement of your own opinion.",
+        "C": "Only a list of advantages and disadvantages.",
+        "D": "The causes of the situation and how to solve it."
+      },
+      "correct_answer": "B",
+      "explanation": "In a 'Discuss both views and give your opinion' essay, the Task Response criteria mandates that you explore both sides of the argument and also explicitly state your own position."
+    }
+  ]
+}

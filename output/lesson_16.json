@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_16",
+  "title": "Problem and Solution Essays",
+  "writing_skill_goal": "Learn how to systematically identify the causes of a problem and propose realistic, logically linked solutions.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Structure: 1. Introduction (Paraphrase issue + outline). 2. Body Paragraph 1 (Causes/Problems). 3. Body Paragraph 2 (Solutions). 4. Conclusion (Summarise causes and solutions).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Traffic is bad. A reason is cars. Another reason is roads. A solution is flying cars. Also, we should walk.",
+      "improved_version": "The primary cause of traffic congestion is the over-reliance on private vehicles combined with inadequate public infrastructure. To mitigate this issue, governments must invest heavily in expanding and subsidising public transport networks.",
+      "explanation": "The weak version lists unrelated, unrealistic ideas. The improved version directly links a realistic cause (over-reliance on cars) to a realistic, practical solution (subsidising public transport)."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify the Exact Problem",
+      "content": "Ensure you are answering the specific problem in the prompt, not a general topic. If the prompt is about 'childhood obesity', do not write about 'general health'."
+    },
+    {
+      "step": "Link Causes to Solutions",
+      "content": "Your Body Paragraph 2 (Solutions) MUST directly fix the problems you mentioned in Body Paragraph 1 (Causes). Do not propose a solution to a problem you haven't discussed."
+    },
+    {
+      "step": "Use Solution Vocabulary",
+      "content": "Use language that suggests action and remedy: 'To tackle this issue...', 'A viable solution would be to...', 'Governments ought to implement...'."
+    }
+  ],
+  "common_mistakes": [
+    "Suggesting unrealistic or 'magic' solutions (e.g., 'The government should just ban all cars').",
+    "Writing a solution that has nothing to do with the cause mentioned earlier.",
+    "Failing to explain *how* the solution will actually fix the problem."
+  ],
+  "original_ielts_prompt": "In many cities, the cost of housing is highly expensive. What are the causes of this? What solutions can you suggest?",
+  "model_micro_answer": "A significant factor driving up housing costs is the rapid influx of rural populations into urban centres, creating a demand that vastly outpaces supply. To resolve this, governments should focus on decentralisation, investing in infrastructure and job creation in rural areas to reduce urban migration.",
+  "image_url": null,
+  "image_prompt_fallback": "A split image: the left side shows a tangled, messy knot (the problem), and the right side shows a pair of hands neatly untangling it (the solution).",
+  "quiz": [
+    {
+      "question": "What is the most important relationship between your 'Causes' paragraph and your 'Solutions' paragraph?",
+      "options": {
+        "A": "They should have exactly the same number of words.",
+        "B": "The solutions you propose must directly address and attempt to fix the specific causes you just wrote about.",
+        "C": "The solutions should be completely unrelated to the causes to show you have many ideas.",
+        "D": "You should write about the solutions first, then the causes."
+      },
+      "correct_answer": "B",
+      "explanation": "For a high Coherence and Task Response score, your essay must be logically linked. Proposing a solution (like 'build more schools') for a cause you never mentioned (like 'lack of education') confuses the reader."
+    }
+  ]
+}

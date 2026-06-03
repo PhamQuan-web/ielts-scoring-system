@@ -1,0 +1,53 @@
+{
+  "lesson_id": "WF_15",
+  "title": "Advantages and Disadvantages Essays",
+  "writing_skill_goal": "Learn how to evaluate the positive and negative aspects of a trend, and how to conclude if the benefits outweigh the drawbacks.",
+  "band_descriptor_link": [
+    "Task Response",
+    "Coherence"
+  ],
+  "core_writing_framework": "Structure: 1. Introduction (Paraphrase topic + Thesis). 2. Body Paragraph 1 (Advantages). 3. Body Paragraph 2 (Disadvantages). 4. Conclusion (Summarise and final judgement).",
+  "weak_vs_improved": [
+    {
+      "weak_version": "Computers are good. They are fast. But they are also bad. They hurt your eyes.",
+      "improved_version": "Although the reliance on computers can lead to sedentary lifestyles and vision problems, the advantages of unparalleled processing speed and global connectivity far outweigh these health concerns.",
+      "explanation": "The improved version clearly weighs the two sides against each other and explicitly states which side is stronger ('far outweigh'), fully addressing the prompt."
+    }
+  ],
+  "step_by_step_build": [
+    {
+      "step": "Identify the Type",
+      "content": "Check if the prompt just asks 'What are the advantages and disadvantages?' OR if it asks 'Do the advantages outweigh the disadvantages?'. The second type requires you to give a clear opinion/judgement."
+    },
+    {
+      "step": "Structure the Body",
+      "content": "Dedicate Body Paragraph 1 entirely to the advantages. Dedicate Body Paragraph 2 entirely to the disadvantages. Do not mix them in the same paragraph."
+    },
+    {
+      "step": "The 'Outweigh' Judgement",
+      "content": "If asked whether one outweighs the other, make sure your thesis statement in the introduction and your conclusion clearly state your decision (e.g., 'I believe the drawbacks significantly outweigh the benefits')."
+    }
+  ],
+  "common_mistakes": [
+    "Failing to explicitly state which side outweighs the other when the prompt asks for it.",
+    "Listing 5 advantages but not explaining any of them (it is better to have 2 well-explained advantages).",
+    "Writing a generic conclusion without a final judgement."
+  ],
+  "original_ielts_prompt": "In many countries, more and more people are choosing to buy goods online rather than in physical stores. Do the advantages of this development outweigh the disadvantages?",
+  "model_micro_answer": "The primary disadvantage of e-commerce is the decline of local businesses and traditional high streets. However, this is heavily outweighed by the convenience and cost-effectiveness that online shopping provides to the average consumer.",
+  "image_url": null,
+  "image_prompt_fallback": "A balancing scale with a heavy weight labeled 'Advantages' pulling down one side, lifting a smaller weight labeled 'Disadvantages' high in the air.",
+  "quiz": [
+    {
+      "question": "If the prompt asks 'Do the advantages outweigh the disadvantages?', what MUST you include in your introduction?",
+      "options": {
+        "A": "A list of every advantage and disadvantage.",
+        "B": "A clear statement indicating whether you think the advantages are stronger, or the disadvantages are stronger.",
+        "C": "A definition of the word 'advantage'.",
+        "D": "A question asking the examiner what they think."
+      },
+      "correct_answer": "B",
+      "explanation": "This specific prompt type is asking for your judgement. If you do not explicitly state which side is stronger in your introduction (and conclusion), you have not fully answered the question."
+    }
+  ]
+}
